@@ -1,0 +1,23 @@
+---
+title: Lo accenda!
+description: Scopri quali sono le funzioni di switch e i moduli di switch e quando utilizzare una funzione di switch rispetto a un modulo di switch in [!DNL Adobe Workfront Fusion].
+activity: use
+doc-type: feature video
+team: Technical Marketing
+kt: Jira ticket
+exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
+source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 0%
+
+---
+
+# Lo accenda!
+
+In questo video imparerai:
+
+* Quali sono le funzioni e i moduli degli switch e come si differenziano
+* Quando utilizzare una funzione switch o un modulo switch
+
+>[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12)
