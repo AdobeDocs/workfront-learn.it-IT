@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2206'
+source-wordcount: '2212'
 ht-degree: 2%
 
 ---
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [Parte 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Parte 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Parte 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + Analisi avanzata {#enhanced-analytics}
+   + Funzionalità di analisi avanzate {#enhanced-analytics}
       + [Introduzione a [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Aggiungi [!UICONTROL analytics] ai modelli di layout](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprendere la navigazione di base](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -573,6 +573,7 @@ ht-degree: 2%
       + [Aggiunta e gestione di membri del team per una bacheca](boards/add-and-manage-team-members-for-a-board.md)
       + [Aggiunta di schede a una bacheca](boards/add-cards-to-a-board.md)
       + [Trova e crea una bacheca di base](boards/find-and-create-a-basic-board.md)
+      + [Ricerca in una bacheca](boards/find-and-search-in-a-board.md)
       + [Gestire le colonne della bacheca](boards/manage-board-columns.md)
       + [Gestione delle schede su una bacheca](boards/manage-cards-on-a-board.md)
 
