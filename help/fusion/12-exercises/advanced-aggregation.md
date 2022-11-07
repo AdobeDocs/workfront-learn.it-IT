@@ -1,14 +1,14 @@
 ---
 title: Aggregazione avanzata
-description: Scopri come utilizzare i raggruppamenti durante l’aggregazione. (Deve essere compreso tra 60 e 160 caratteri, ma è di 49 caratteri)
+description: Invoca un servizio Web per restituire i dettagli relativi a più paesi e identificare la popolazione, raggruppata per sottoregione.
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Invoca un servizio Web per restituire i dettagli relativi a più paesi e identif
 
 1. Crea un nuovo scenario e denominalo &quot;Aggregazione avanzata&quot;.
 1. Imposta il modulo trigger su un HTTP - Esegui un modulo di richiesta.
-1. Utilizza questo URL, https://restcountries.eu/rest/v2/ lang/es, che ti fornisce un elenco di tutti i paesi in cui si parla spagnolo.
+1. Utilizza questo URL, https://restcountries.com/v2/lang/es , che ti fornisce un elenco di tutti i paesi in cui si parla spagnolo.
 1. Lasciare il metodo come Get.
 1. Fai clic sulla casella di controllo Analizza risposta .
 1. Rinomina questo modulo &quot;Ottieni Paesi&quot;.
@@ -44,12 +44,12 @@ Invoca un servizio Web per restituire i dettagli relativi a più paesi e identif
 
    **È necessario raccogliere informazioni sulle subaree per ciascuno dei paesi, in modo da effettuare una richiesta HTTP aggiuntiva.**
 
-1. Aggiungi un’altra richiesta per ottenere informazioni sulla subarea. Restituirà solo il primo paese, ma per ora va bene. Aggiungi un altro modulo di richiesta HTTP e utilizza l’URL https://restcountries.eu/rest/v2/name/.
+1. Aggiungi un’altra richiesta per ottenere informazioni sulla subarea. Restituirà solo il primo paese, ma per ora va bene. Aggiungi un altro modulo di richiesta HTTP e utilizza l’URL https://restcountries.com/v2/name/.
 1. Per ottenere il nome del primo paese, vai al pannello di mappatura e fai clic su Dati, quindi su Nome nella matrice. La [1] nel campo dati indica che restituirà il primo elemento della matrice.
 
    + Fare clic sul numero e modificare l&#39;indice se necessario, ma in questo caso si desidera solo il primo elemento.
 
-   ![Immagine di aggregazione avanzata 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![Immagine di aggregazione avanzata 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Selezionate Analizza risposta nel pannello di mappatura, quindi fate clic su OK.
 1. Rinomina questo messaggio &quot;Ottieni dettagli paese&quot;.
