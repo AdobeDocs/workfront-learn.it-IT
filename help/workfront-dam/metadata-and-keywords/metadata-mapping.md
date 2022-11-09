@@ -7,7 +7,7 @@ role: Admin
 level: Intermediate
 kt: 10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 2e0555a45d753a56628cf748537a6007ed548206
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Con questa connessione stabilita, ora è possibile iniziare la mappatura dei met
 1. Nel campo Workfront, digita l’origine del campo [!DNL Workfront] campo da mappare.
 1. Quindi seleziona il target o il corrispondente **[!UICONTROL Workfront DAM]** campo metadati.
 1. Fai clic sul pulsante **[!UICONTROL Aggiungi mappatura]** pulsante .
-1. Vedrai il [!UICONTROL Origine campo Workfront] e [!UICONTROL Campo di destinazione Workfront DAM] nel grafico nella parte inferiore della finestra.
+1. Vedrete il [!UICONTROL Origine campo Workfront] e [!UICONTROL Campo di destinazione Workfront DAM] nel grafico nella parte inferiore della finestra.
 1. Ripeti l’operazione per tutti i campi di metadati desiderati.
 
 ![Uno screenshot del [!UICONTROL Mappatura metadati] schermo in [!DNL Workfront]](assets/01-metadata-mapping.png)
