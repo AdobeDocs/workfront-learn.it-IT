@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] fornisce una varietà di campi comuni in più aree di business e utilizzati regolarmente per la gestione del lavoro. Campi quali data di completamento pianificato, budget del progetto, nome dell’assegnatario dell’attività, ecc.
+Workfront fornisce una varietà di campi comuni in più aree di business e utilizzati regolarmente per la gestione del lavoro. Campi quali data di completamento pianificato, budget del progetto, nome dell’assegnatario dell’attività, ecc.
 
 Tuttavia, ogni organizzazione dispone di dati specifici per il proprio settore e azienda che devono essere raccolti per capire se gli obiettivi aziendali vengono raggiunti. Ad esempio, la tua organizzazione desidera tenere traccia di:
 
@@ -33,10 +33,6 @@ Anche se tali campi non sono incorporati in [!DNL Workfront], è possibile crear
 Questo percorso di apprendimento si concentra sul campo calcolato. Scoprirai cos’è un campo calcolato, i diversi tipi di informazioni che puoi inserire nel campo calcolato tramite espressioni di dati e come creare tali campi calcolati per migliorare la raccolta dati e il reporting.
 
 ![Gestione risorse imposta un pager](assets/GS01.png)
-
-**Promemoria modulo personalizzata**
-
-I campi sono specifici dell’oggetto. Ad esempio, se si crea un campo calcolato in un modulo personalizzato per attività, è possibile utilizzarlo in qualsiasi report per le attività.
 
 ## Cos’è un campo calcolato?
 
@@ -55,7 +51,7 @@ Utilizzando le espressioni in un campo calcolato, puoi prendere ogni informazion
 
 ![Bilanciamento del carico di lavoro con rapporto di utilizzo](assets/GS03.png)
 
-A seconda dei dati specifici necessari, i campi calcolati possono essere semplici utilizzando una o due espressioni o più complessi utilizzando diverse espressioni incorporate. Tieni presente che [!DNL Workfront] possono utilizzare solo i dati già memorizzati o estratti nel sistema per i campi calcolati.
+A seconda dei dati specifici necessari, i campi calcolati possono essere semplici utilizzando una o due espressioni o più complessi utilizzando diverse espressioni incorporate. Tieni presente che Workfront può utilizzare solo i dati già memorizzati o estratti nel sistema per i campi calcolati.
 
 ## Espressioni di testo
 
@@ -69,8 +65,9 @@ Ad esempio, le espressioni di testo possono essere utilizzate per:
 
 * Crea un rapporto in cui vengono elencati tutti i progetti non assegnati a un portfolio e/o a un programma, in modo da poterli utilizzare nelle riunioni del tuo manager.
 
-Le espressioni di testo possono essere utilizzate in un campo personalizzato per eseguire questi tipi di ricerche e combinazioni in [!DNL Workfront].
-TE Quando si esaminano le possibili espressioni di testo, sono disponibili diverse opzioni.
+Le espressioni di testo possono essere utilizzate in un campo personalizzato per eseguire questi tipi di ricerche e combinazioni in Workfront.
+
+Quando si esaminano le possibili espressioni di testo, sono disponibili diverse opzioni.
 
 ![Gestione risorse imposta un pager](assets/TE01.png)
 
