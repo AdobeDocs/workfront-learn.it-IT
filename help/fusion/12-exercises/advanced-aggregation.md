@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # Aggregazione avanzata
 
@@ -32,7 +32,7 @@ Invoca un servizio Web per restituire i dettagli relativi a più paesi e identif
 
 1. Crea un nuovo scenario e denominalo &quot;Aggregazione avanzata&quot;.
 1. Imposta il modulo trigger su un HTTP - Esegui un modulo di richiesta.
-1. Utilizza questo URL, https://restcountries.com/v2/lang/es , che ti fornisce un elenco di tutti i paesi in cui si parla spagnolo.
+1. Utilizza questo URL, `https://restcountries.com/v2/lang/es`, che fornisce un elenco di tutti i paesi in cui si parla lo spagnolo.
 1. Lasciare il metodo come Get.
 1. Fai clic sulla casella di controllo Analizza risposta .
 1. Rinomina questo modulo &quot;Ottieni Paesi&quot;.
@@ -44,7 +44,7 @@ Invoca un servizio Web per restituire i dettagli relativi a più paesi e identif
 
    **È necessario raccogliere informazioni sulle subaree per ciascuno dei paesi, in modo da effettuare una richiesta HTTP aggiuntiva.**
 
-1. Aggiungi un’altra richiesta per ottenere informazioni sulla subarea. Restituirà solo il primo paese, ma per ora va bene. Aggiungi un altro modulo di richiesta HTTP e utilizza l’URL https://restcountries.com/v2/name/.
+1. Aggiungi un’altra richiesta per ottenere informazioni sulla subarea. Restituirà solo il primo paese, ma per ora va bene. Aggiungi un altro modulo di richiesta HTTP e utilizza l’URL `https://restcountries.com/v2/name/{country name}`.
 1. Per ottenere il nome del primo paese, vai al pannello di mappatura e fai clic su Dati, quindi su Nome nella matrice. La [1] nel campo dati indica che restituirà il primo elemento della matrice.
 
    + Fare clic sul numero e modificare l&#39;indice se necessario, ma in questo caso si desidera solo il primo elemento.
