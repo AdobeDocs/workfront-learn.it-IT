@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Verranno visualizzate tutte le attività a cui l&#39;utente connesso ha assegnato almeno uno degli assegnatari correnti. Se gli assegnatari sono stati assegnati da più persone, nella pagina di destinazione dell’attività verrà visualizzato solo il nome della prima persona che ha assegnato un utente come &quot;Richiesto da&quot;.
 
-## Attività: Domande sulla modalità testo
+### Attività - Visualizza tutte le attività completate - In attesa di approvazione
 
-1. Come si scrive il cammello per il campo &quot;Inserito per ID&quot;?
-1. In un rapporto del problema, crea un filtro per mostrare i problemi che sono stati contrassegnati come chiusi ma che sono in attesa di approvazione.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Risposte
 
-1. Il cammello del campo &quot;Inserito da ID&quot; deve essere scritto in questo modo—enterByID
-1. La modalità di testo dovrebbe essere simile alla seguente nel filtro per report dei problemi:
+### Problema: visualizza tutti i problemi completati - In attesa di approvazione
 
-   ![Immagine della schermata per creare un nuovo filtro in modalità testo](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Progetto - Visualizza tutti i progetti completati - In attesa di approvazione
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Nota: visualizza tutti i commenti con tag
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Rapporto campo personalizzato/parametro : visualizza campi personalizzati non associati a un modulo personalizzato (molto utile nelle operazioni di pulizia)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```

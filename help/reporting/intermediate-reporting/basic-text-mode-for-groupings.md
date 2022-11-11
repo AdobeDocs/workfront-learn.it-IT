@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
-
 
 # Comprendere la modalità testo di base per i raggruppamenti
 
@@ -36,7 +36,7 @@ In questo video imparerai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 gruppi di genitori
+## Attività - Raggruppamento di 4 genitori
 
 La seguente modalità di testo consente di raggruppare le attività in base a un massimo di quattro livelli di elementi principali e di lasciare gli elementi principali che non esistono vuoti.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![Immagine a schermo che mostra le attività del progetto raggruppate per 4 elementi principali](assets/4-parents-grouping.png)
 
 
-## Raggruppamento percentuale completo
+## Attività - Percentuale di raggruppamento completo
 
 La seguente modalità di testo raggrupperà le attività in base alla loro percentuale di completamento. Le attività rientrano in una delle seguenti categorie quando sono raggruppate:
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![Immagine della schermata con le attività del progetto raggruppate per percentuale di completamento](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, quindi status
+## Task - statusEquatesWith, quindi stato
 
 La seguente modalità di testo raggruppa le attività per statusEquatesWith, quindi per stato.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![Un&#39;immagine a schermo che mostra le attività del progetto raggruppate per statusEquatesWith](assets/status-equates-with.png)
 
+
+## Approvazione bozza - Raggruppa per nome del progetto
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![Immagine della schermata che mostra le approvazioni delle prove raggruppate per nome del progetto](assets/proof-approvals-grouped-by-project-name.png)
 
