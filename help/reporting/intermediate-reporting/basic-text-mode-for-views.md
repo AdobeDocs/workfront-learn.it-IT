@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* Comprendere gli elementi di reporting
 >* Comprendere i componenti di reporting
 >* Creare una visualizzazione di base
+
+
+>[!TIP]
+>
+>* Per una comprensione più approfondita della modalità di testo, si consiglia di guardare l&#39;evento del webinar registrato [Chiedi all&#39;esperto - Introduzione al reporting in modalità testo](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), che dura un&#39;ora.
+>* Per ulteriori informazioni sulla modalità testo, si consiglia di guardare la [Rapporti avanzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) i tutorial, che insieme sono lunghi cinque ore e mezza.
 
 
 In questo video imparerai:
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![Immagine a schermo che mostra il progetto e l’attività di un’approvazione della bozza](assets/proof-approval-project-and-task.png)
-
