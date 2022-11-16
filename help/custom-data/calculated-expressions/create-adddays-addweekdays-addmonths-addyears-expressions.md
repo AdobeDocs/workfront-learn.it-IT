@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335175.png
 kt: 8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 9cc845d6efe2ee27e66ad7de4e1800cb9077aebd
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ In questo video imparerai:
 
 ## Esempi aggiuntivi
 
-Di seguito sono riportati alcuni Adobi aggiuntivi di espressioni ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR [!DNL Workfront] i clienti hanno creato.
+Di seguito sono riportate alcune espressioni aggiuntive ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR create dai clienti Adobe Workfront.
 
 **Dovrebbe essere stato fatto da**
 
 Il cliente desiderava sapere quando l&#39;attività doveva essere stata completata in base alla data di inizio effettiva e alla durata prevista. La data di completamento prevista non funziona in questo caso perché può essere spostata se l&#39;attività è in ritardo e la data di completamento pianificata non aiuta in caso di ritardi nelle attività precedenti.
 
-L&#39;espressione creata è ADDDAYS(Actual Start Date,(Duration/480))
+L&#39;espressione creata è ADDDAYS({effectiveStartDate},{durationMinutes}/480)
 
 Il tempo nel campo Durata viene memorizzato in minuti. Pertanto, in questa espressione, il campo Duration non può restare da solo se l’ora deve essere riflessa in giorni. Affinché ciò accada, la durata deve essere divisa per 480 minuti (480 minuti = 8 ore = 1 giorno)
 
@@ -43,8 +43,10 @@ Questo è il motivo per cui lo slot del secondo valore contiene (Duration/480).
 
 **Data completamento fattura**
 
-Questo esempio include un altro campo calcolato, già creato e salvato nel sistema, all&#39;interno dell&#39;espressione.
+Questo esempio include non solo l’espressione ADDDAYS, ma anche un campo personalizzato creato e salvato precedentemente nel modulo personalizzato.
 
-Il cliente acquisiva la data di invio della fattura tramite un campo di data personalizzato denominato &quot;Data di invio fattura&quot; nel modulo personalizzato. Una volta inoltrata, hanno 30 giorni per completare e archiviare la fattura. Per produrre automaticamente la data di completamento e di deposito, è stato creato un campo calcolato utilizzando ADDDAYS e il campo Data di invio fattura. L&#39;espressione si presenta così:
+Il cliente sta acquisendo la data di invio di una fattura tramite un campo di data personalizzato denominato &quot;Data di invio della fattura&quot;.
 
-ADDDAYS(Data di invio fattura,30)
+Una volta inoltrata, la fattura deve essere compilata e depositata entro 30 giorni. Per produrre automaticamente la data di completamento e di deposito, viene utilizzato un campo calcolato ADDDAYS insieme al campo personalizzato &quot;Data invio fattura&quot;. L&#39;espressione si presenta così:
+
+ADDDAYS({DE:Data di invio fattura},30)
