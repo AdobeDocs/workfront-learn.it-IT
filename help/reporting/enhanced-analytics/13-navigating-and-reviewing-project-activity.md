@@ -1,6 +1,6 @@
 ---
-title: Comprendere la navigazione e la revisione dell’attività del progetto
-description: Questo video illustra come confrontare i progetti in base agli utenti connessi, alle modifiche allo stato delle attività e alle attività completate in [!DNL  Workfront].
+title: Comprendere la navigazione e la revisione dell’attività del progetto in [!UICONTROL Analisi avanzata]
+description: Scopri come confrontare progetti in base agli utenti connessi, modifiche dello stato delle attività e attività completate in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Comprendere la navigazione e la revisione dell’attività del progetto
+# Comprendere la navigazione e la revisione dell’attività del progetto in [!UICONTROL Analisi avanzata]
 
 In questo video imparerai:
 

@@ -1,6 +1,8 @@
 ---
-title: Comprendere la capacità del team
-description: Il grafico della capacità del team mostra quando un team principale è stato allocato o sottoallocato.
+title: Comprendere la capacità del team in [!UICONTROL Analisi avanzata]
+description: Scopri in che modo il grafico della capacità del team mostra quando un team principale è stato allocato o sottoallocato.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-# Comprendere la capacità del team
+# Comprendere la capacità del team in [!UICONTROL Analisi avanzata]
 
 Il grafico della capacità del team mostra quando un team principale è stato allocato o sottoallocato. Il grafico visualizza il volume di lavoro assegnato al team di casa in un dato giorno e assegna un colore blu più scuro quando si avvicinano al burnout o non vengono contestati. Un colore più leggero e trasparente indica che il carico di lavoro è più bilanciato.
 

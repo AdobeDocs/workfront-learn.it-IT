@@ -1,6 +1,6 @@
 ---
 title: Creare filtri con caratteri jolly basati su data
-description: Scopri come e quando utilizzare i caratteri jolly basati su data e creare un filtro con un carattere jolly basato su data in [!DNL  Workfront].
+description: Scopri come e quando utilizzare i caratteri jolly basati su data e come creare un filtro in base alla data corrente.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336812.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---

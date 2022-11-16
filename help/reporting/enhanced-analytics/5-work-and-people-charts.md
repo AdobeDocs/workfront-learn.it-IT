@@ -1,6 +1,8 @@
 ---
 title: Comprendere il lavoro e i grafici delle persone
-description: I grafici di lavoro mostrano l’attività dal punto di vista del progetto e delle attività, mentre i grafici Persone mostrano l’attività dal punto di vista di un team domestico.
+description: In [!UICONTROL Analisi avanzata], i grafici di lavoro mostrano l’attività dal punto di vista del progetto e dell’attività, mentre i grafici Persone mostrano l’attività dal punto di vista di un team domestico.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-work-and-people-charts.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '193'
 ht-degree: 4%
 
 ---
 
-# Comprendere il lavoro e i grafici delle persone
+# Comprendere il lavoro e i grafici delle persone in [!UICONTROL Analisi avanzata]
 
 I grafici di lavoro mostrano l’attività dal punto di vista del progetto e delle attività, mentre i grafici Persone mostrano l’attività dal punto di vista di un team domestico.
 

@@ -1,6 +1,6 @@
 ---
-title: Comprendere un caso d’uso di confronti di KPI
-description: Scopri come confrontare i KPI dall’intervallo di date corrente a un intervallo di date precedente e come confrontare i KPI con due filtri diversi in [!DNL  Workfront].
+title: Comprendere un caso di utilizzo di confronti di KPI in [!UICONTROL Analisi avanzata]
+description: Scopri come confrontare i KPI dall’intervallo di date corrente a un intervallo di date precedente e come confrontare i KPI con due filtri diversi.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Comprendere un caso d’uso di confronti di KPI
+# Comprendere un caso di utilizzo di confronti di KPI in [!UICONTROL Analisi avanzata]
 
 In questo video imparerai:
 

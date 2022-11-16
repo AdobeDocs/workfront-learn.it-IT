@@ -1,6 +1,6 @@
 ---
-title: Comprendere l’accesso e la revisione del menu a discesa
-description: Scopri come accedere al grafico a discesa e comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità del progetto in [!DNL  Workfront].
+title: Comprendere l’accesso e la revisione del grafico a discesa in [!UICONTROL Analisi avanzata]
+description: Scopri come accedere al grafico a discesa e comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità del progetto in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Comprendere l’accesso e la revisione del menu a discesa
+# Comprendere l’accesso e la revisione del menu a discesa in [!UICONTROL Analisi avanzata]
 
 In questo video imparerai:
 

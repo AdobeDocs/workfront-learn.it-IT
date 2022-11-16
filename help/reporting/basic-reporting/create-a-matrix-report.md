@@ -1,6 +1,6 @@
 ---
 title: Creare un rapporto sulla matrice
-description: In questo video, scoprirai quando un rapporto sulla matrice può essere utile e come creare un rapporto sulla matrice in [!DNL  Workfront].
+description: Scopri quando un rapporto sulla matrice può essere utile e come creare un rapporto sulla matrice in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335156.png
 kt: 8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: Introduzione a [!UICONTROL Analisi avanzata]
-description: Scopri i campi più importanti da aggiornare per ottenere il massimo da Enhanced Analytics.
+description: Scopri i campi più importanti da aggiornare in Workfront per consentire a Analisi avanzata di mostrare l’avanzamento dei team e dei progetti in Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 5%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
-# Introduzione a [!UICONTROL Analisi avanzata]
+# Introduzione ad Adobe Workfront [!UICONTROL Analisi avanzata]
+
+Le analisi avanzate possono mostrare lo stato di avanzamento dei team e dei progetti in Workfront e gli eventi dei progetti precedenti da cui potresti essere in grado di imparare per pianificare i progetti futuri.
 
 ## Prerequisiti per Analytics
 

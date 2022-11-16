@@ -1,6 +1,6 @@
 ---
-title: Rivedere le attività in volo
-description: Scopri come accedere alle attività nel diagramma di volo e come vedere rapidamente quali attività non sono state completate in un progetto, il tutto in [!DNL  Workfront].
+title: Rivedi le attività in volo in [!UICONTROL Analisi avanzata]
+description: Scopri come accedere alle attività nel diagramma di volo e come vedere rapidamente quali attività non sono state completate in un progetto, tutte in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Rivedere le attività in volo
+# Rivedi le attività in volo in [!UICONTROL Analisi avanzata]
 
 In questo video imparerai:
 

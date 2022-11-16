@@ -1,6 +1,8 @@
 ---
 title: Comprendere intervalli di date e intervalli di tempo
-description: Gli intervalli di date vengono specificati utilizzando il widget calendario. I fotogrammi temporali vengono creati all’interno di un grafico.
+description: In [!UICONTROL Analisi avanzata], gli intervalli di date vengono specificati utilizzando il widget calendario. I fotogrammi temporali vengono creati all’interno di un grafico.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
-# Comprendere intervalli di date e intervalli di tempo
+# Comprendere gli intervalli di date e gli intervalli di tempo in [!UICONTROL Analisi avanzata]
 
 Quando visualizzi la [!DNL Enhanced analytics] grafici, gli intervalli di date sono specificati utilizzando il widget calendario. I fotogrammi temporali vengono creati all’interno di un grafico quando fai clic e trascina per definire un’area specifica, in modo da poter ingrandire e visualizzare le informazioni in modo più dettagliato in tale intervallo temporale.
 
