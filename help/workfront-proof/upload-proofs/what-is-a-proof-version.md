@@ -1,6 +1,8 @@
 ---
-title: Cos'è una versione di una bozza?
+title: Che cos'è una versione di prova?
 description: Scopri come le versioni possono aiutarti a gestire il processo di revisione e approvazione in più iterazioni di un file utilizzando le funzioni di correzione di .
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: what-is-a-proof-version.png
 kt: 10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Qual è la versione di una prova?
+# Che cos&#39;è una versione di prova?
 
 [!DNL Workfront’s] le funzioni di correzione consentono all’organizzazione di gestire il processo di revisione e approvazione per più iterazioni di un file che utilizzano versioni.
 

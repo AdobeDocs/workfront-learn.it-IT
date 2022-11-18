@@ -1,15 +1,17 @@
 ---
 title: Panoramica dei portafogli
-description: Scopri in cosa consistono i portfolio [!DNL Workfront] e come possono aiutarti a dare priorità ai progetti e a confrontarli tra loro.
+description: Scopri in cosa sono i portfolio [!DNL Workfront] e come possono aiutarti a dare priorità ai progetti e a confrontarli tra loro.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: Imposta tipi di spesa
-description: Workfront dispone di tipi di spesa predefiniti che possono essere utilizzati quando si inseriscono le spese e possono essere aggiunti nuovi tipi.
+description: Scopri come utilizzare i tipi di spesa predefiniti quando si inseriscono le spese e come creare nuovi tipi di spesa.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-expense-types.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

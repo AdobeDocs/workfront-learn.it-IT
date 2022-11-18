@@ -1,6 +1,8 @@
 ---
 title: Modificare lo stato del progetto
-description: Scopri come modificare lo stato di un progetto in [!UICONTROL  ] per indicare che il lavoro è completato.
+description: Scopri come modificare lo stato di un progetto per indicare il completamento del lavoro.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: change-the-project-status.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

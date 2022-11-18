@@ -1,5 +1,5 @@
 ---
-title: Come visualizzare e confrontare le versioni a prova di
+title: Visualizzare e confrontare le versioni delle prove
 description: Scopri come aprire, identificare, markup, commentare e confrontare versioni di bozza in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335142.png
 kt: 8845
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
-source-git-commit: baaf95f88239faaa05771409d7f2376193b9c518
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

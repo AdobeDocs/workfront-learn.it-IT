@@ -1,14 +1,17 @@
 ---
-title: Pannello di mappatura ed Editor di formule
-description: In questo video imparerai a usare il pannello di mappatura, l’editor di formule e gli esempi di formule comuni in [!DNL Adobe Workfront Fusion].
+title: Pannello di mappatura ed editor di formule
+description: Ulteriori informazioni sull'utilizzo del pannello di mappatura, dell'editor di formule e degli esempi di formule comuni in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9002
 exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---

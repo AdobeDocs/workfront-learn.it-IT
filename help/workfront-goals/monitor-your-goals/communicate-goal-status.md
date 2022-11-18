@@ -1,15 +1,17 @@
 ---
 title: Comunicare lo stato dell'obiettivo
 description: Scopri come comunicare con gli altri sull’avanzamento e lo stato dei tuoi obiettivi in [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,7 +36,7 @@ Puoi condividere un obiettivo creato o un obiettivo creato da un altro utente a 
 
    ![Cassa](assets/17-workfront-goals-share-a-goal.png)
 
-1. Effettua una delle seguenti operazioni:
+1. Esegui una delle operazioni seguenti:
 
    * Seleziona la [!UICONTROL Gestione a livello di sistema] per assegnare le autorizzazioni di gestione a tutti gli utenti del sistema che dispongono dell&#39;accesso Modifica a [!DNL Goals] attraverso [!DNL Workfront] livello di accesso. Questa opzione è deselezionata per impostazione predefinita per tutti i nuovi obiettivi.
    * Inizia a digitare il nome di un utente che desideri assegnare [!UICONTROL Gestisci] autorizzazioni per in [!UICONTROL Assegna a Gestisci l&#39;accesso a] scatola. Selezionare il nome quando viene visualizzato nell&#39;elenco.

@@ -1,16 +1,18 @@
 ---
 title: Assegnare priorità e gestire il lavoro con i portfolio
 description: Scopri come assegnare una priorità e gestire il lavoro con i portfolio in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: prioritize-and-manage-work-with-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '889'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

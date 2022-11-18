@@ -1,5 +1,5 @@
 ---
-title: '''Migliorare il flusso di lavoro con l''integrazione di G Suite'''
+title: Migliorare il flusso di lavoro con l'integrazione di G Suite
 description: Scopri come convertire un’e-mail in un [!DNL Workfront] attività o problema, visualizzazione e aggiornamento [!DNL Workfront] lavoro di Gmail e approvazione [!DNL Workfront] lavoro di Gmail.
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

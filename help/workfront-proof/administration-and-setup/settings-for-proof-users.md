@@ -1,5 +1,5 @@
 ---
-title: Come impostare gli utenti per la correzione
+title: Impostazioni per la correzione degli utenti
 description: Scopri come determinare quale [!DNL  Workfront] gli utenti ottengono una licenza di correzione, quindi regolano le impostazioni utente in entrambi [!DNL Workfront] e le impostazioni back-end.
 activity: use
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335126.png
 kt: 8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---

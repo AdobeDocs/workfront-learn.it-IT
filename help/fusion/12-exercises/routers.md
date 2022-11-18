@@ -1,18 +1,21 @@
 ---
 title: Router
 description: Comprendere l'importanza dei router e come possono essere utilizzati per elaborare i diversi moduli in modo condizionato.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
-
 
 # Router
 
@@ -55,8 +58,8 @@ Utilizzare un router per passare i bundle Pokemon vs. supereroi nel percorso cor
    >
    >Se hai problemi ad accedere al tuo token supereroe, puoi usare questo token condiviso: 10110256647253588. Presta attenzione a quante volte chiami l’API del supereroe in modo che questo token condiviso continui a funzionare per tutti.
 
-1. Apri le impostazioni per l’aspetto Ottieni supereroe e modifica l’URL in https://www.superheroapi.com/api/[access-token]/332/aspetto. Accertati di includere il token di accesso nell’URL. Fate clic su OK.
-1. Apri le impostazioni per le funzionalità Get superhero e modifica l&#39;URL in https://www.superheroapi.com/api/[access-token]/332/powerstats. Accertati di includere il token di accesso nell’URL. Fate clic su OK.
+1. Apri le impostazioni per l’aspetto Ottieni supereroe e modifica l’URL in `https://www.superheroapi.com/api/[access- token]/332/appearance`. Accertati di includere il token di accesso nell’URL. Fate clic su OK.
+1. Apri le impostazioni per le funzionalità Get superhero e modifica l&#39;URL in `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Accertati di includere il token di accesso nell’URL. Fate clic su OK.
 1. Fai clic con il pulsante destro del mouse su ciascun modulo supereroe e seleziona Esegui solo questo modulo. In questo modo verrà generata la struttura dati da visualizzare per la mappatura.
 1. Dopo aver eseguito entrambi, cambia il numero &quot;332&quot; in ciascun campo URL in Colonna 4 mappata dal modulo Analizza CSV.
 

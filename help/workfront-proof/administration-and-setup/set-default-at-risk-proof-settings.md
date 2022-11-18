@@ -1,6 +1,8 @@
 ---
 title: Imposta impostazioni predefinite a prova di rischio
 description: Scopri come impostare le impostazioni predefinite per le notifiche a prova di rischio come parte delle impostazioni di correzione .
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
 kt: 10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

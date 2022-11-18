@@ -1,6 +1,8 @@
 ---
-title: Imposta impostazioni predefinite account di prova
+title: Imposta le impostazioni predefinite dell'account della bozza
 description: Scopri come impostare le impostazioni account predefinite che si applicano globalmente a tutte le bozze e agli utenti di bozze .
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: set-up-proof-actual-default-settings.png
 kt: 10236
 exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%

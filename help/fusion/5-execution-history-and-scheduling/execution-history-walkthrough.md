@@ -2,18 +2,21 @@
 title: Procedura dettagliata sulla cronologia di esecuzione
 description: Scopri come rivedere la cronologia di esecuzione di uno scenario per comprendere cosa è successo in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Procedura dettagliata sulla cronologia di esecuzione delle revisioni
+# Procedura dettagliata sulla cronologia di esecuzione
 
 ## Panoramica
 

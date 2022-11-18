@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Grafici] Sezione in [!DNL Workfront Goals] Spiegato'
+title: Comprendere il [!UICONTROL Grafici] sezione
 description: Scopri come leggere e interpretare il grafico Salute obiettivo e il grafico Avanzamento obiettivo in Obiettivi.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

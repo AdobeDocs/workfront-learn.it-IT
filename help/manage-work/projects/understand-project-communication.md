@@ -1,6 +1,8 @@
 ---
 title: Comprendere la comunicazione del progetto
 description: Scopri come comunicare il lavoro del progetto utilizzando gli aggiornamenti su progetti, attività, problemi o documenti. Quindi controlla gli aggiornamenti esistenti in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-project-communication.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

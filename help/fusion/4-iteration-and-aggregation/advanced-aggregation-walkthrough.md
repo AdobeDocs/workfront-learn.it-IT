@@ -2,13 +2,16 @@
 title: Procedura dettagliata sull’aggregazione avanzata
 description: Scopri come chiamare un servizio Web per restituire i dettagli su più paesi e identificare la popolazione, raggruppata per sottoregione, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Per evitare questo problema, aggiungi un aggregatore dopo un modulo che potrebbe
 Vedrai un’ombra intorno a qualsiasi segmento nello scenario da un **iteratore iniziale** al **aggregatore finale**. Questo consente di individuare facilmente questi segmenti nello scenario Workfront Fusion.
 
 ## Il tuo turno
+
+>[!NOTE]
+>
+>Gli esercizi di pratica sono facoltativi e non sono necessari per completare l&#39;addestramento Fusion.
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 

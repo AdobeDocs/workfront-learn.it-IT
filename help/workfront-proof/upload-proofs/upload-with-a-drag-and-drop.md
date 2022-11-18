@@ -1,6 +1,8 @@
 ---
-title: Caricamento tramite trascinamento
+title: Caricamento con trascinamento
 description: Scopri i vantaggi e i limiti del caricamento dei file in [!DNL  Workfront] mediante trascinamento.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: upload-drag-and-drop.png
 kt: 10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

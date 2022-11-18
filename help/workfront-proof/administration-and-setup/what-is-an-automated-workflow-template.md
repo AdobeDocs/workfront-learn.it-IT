@@ -1,5 +1,5 @@
 ---
-title: Modello di flusso di lavoro automatizzato
+title: Cos’è un modello di flusso di lavoro automatizzato?
 description: Scopri cos’è un modello di flusso di lavoro di correzione automatica e come gli utenti a prova di esperienza possono trarre vantaggio dai modelli. Inizia a pianificare i modelli da creare.
 activity: use
 feature: Workfront Proof
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 335129.png
 kt: 8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

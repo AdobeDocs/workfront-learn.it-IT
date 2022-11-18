@@ -1,12 +1,15 @@
 ---
-title: Procedura dettagliata sull'aggregazione
+title: Procedura dettagliata sull’aggregazione
 description: Scopri come aggregare le ore pianificate per ogni attività di lavoro di un progetto e inviare un’e-mail a te stessa con tali informazioni, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

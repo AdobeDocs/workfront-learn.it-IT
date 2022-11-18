@@ -2,13 +2,16 @@
 title: Procedura dettagliata sui webhook
 description: Scopri come utilizzare un webhook per creare un’app per determinare se un cliente è abbastanza grande o meno per acquistare alcol, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Per seguire insieme all&#39;esercizio dettagliata, è necessario scaricare l&#39
 ![Immagine che utilizza il modulo switch](assets/beyond-basic-modules-6.png)
 
 ## Il tuo turno
+
+>[!NOTE]
+>
+>Gli esercizi di pratica sono facoltativi e non sono necessari per completare l&#39;addestramento Fusion.
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 

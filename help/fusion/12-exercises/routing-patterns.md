@@ -1,18 +1,21 @@
 ---
 title: Pattern di routing
 description: Potenzia il concetto di route di routing e fallback senza dover trattare con altre API.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11044
 thumbnail: KT11044.png
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # Pattern di routing
 

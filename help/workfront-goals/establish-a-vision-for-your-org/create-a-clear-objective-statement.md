@@ -1,5 +1,5 @@
 ---
-title: Definire ed esprimere l’obiettivo o l’obiettivo finale
+title: Definire ed esprimere l'obiettivo o l'obiettivo finale
 description: Scopri come creare una dichiarazione oggettiva chiara, o Intent del Comandante, e scrivere obiettivi aziendali o organizzativi forti.
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,14 +1,17 @@
 ---
-title: Procedura dettagliata per i router
+title: Procedura dettagliata dei router
 description: Scopri come utilizzare un router per passare i bundle Pokemon vs supereroi nel percorso corretto in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di
 
 ## URL di esercizio
 
-* Sito web API supereroe: https://www.superheroapi.com/
-* Primo URL per l’esercizio: https://www.superheroapi.com/api/{access-token}/{character-id}/aspect
-* Secondo URL per l’esercizio: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Sito web API supereroe: `https://www.superheroapi.com/`
+* Primo URL per l’esercizio: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Secondo URL per l’esercizio: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Se hai problemi ad accedere al tuo token supereroe, puoi usare questo token condiviso: 10110256647253588. Presta attenzione a quante volte chiami l’API del supereroe in modo che questo token condiviso continui a funzionare per tutti.
 
@@ -86,6 +89,10 @@ Scopri di più sui connettori universali di Workfront Fusion e come configurarli
 Puoi controllare l’intero elenco dei connettori app predefiniti nell’Experience League. Se desideri suggerire un nuovo connettore app al team di prodotto Workfront Fusion, invia la tua idea a Innovation Lab. Se non hai ancora inoltrato la tua richiesta, scopri di più sul Innovation Lab e su come votare le idee e partecipare alla definizione delle priorità della classifica due volte all’anno. Se hai già accesso a Innovation lab, accedi e invia le tue idee.
 
 ## Il tuo turno
+
+>[!NOTE]
+>
+>Gli esercizi di pratica sono facoltativi e non sono necessari per completare l&#39;addestramento Fusion.
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 

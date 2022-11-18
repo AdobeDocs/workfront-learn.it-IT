@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2218'
+source-wordcount: '2219'
 ht-degree: 2%
 
 ---
@@ -342,7 +342,7 @@ ht-degree: 2%
       + [Effettuare approvazioni tramite [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Ricerca Workfront tramite [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Comprendere Workfront per [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Visualizza lavoro recente [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [Visualizza il lavoro recente [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -460,7 +460,7 @@ ht-degree: 2%
    + Amministrazione e configurazione {#administration-and-setup-for-proof}
       + [Personalizzare le azioni del commento a bozza](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Personalizzare le opzioni di decisione della bozza](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [Notifica di avviso e-mail e di bozza](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [Comprendere gli avvisi e-mail e le notifiche di bozza](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [Ruoli di prova e avvisi e-mail](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Rapporto sulle bozze](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Imposta impostazioni predefinite a prova di rischio](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
@@ -585,7 +585,7 @@ ht-degree: 2%
    + [Esplora API](best-practices/api-explorer-bp.md)
    + [Business case e portfolio optimizer](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Comunicazione](best-practices/communication-bp.md)
-   + [Moduli personalizzati nel mio gruppo](best-practices/custom-forms-bp.md)
+   + [Moduli personalizzati](best-practices/custom-forms-bp.md)
    + [Report personalizzati](best-practices/custom-reports-bp.md)
    + [Dashboard](best-practices/dashboards-bp.md)
    + [Documenti](best-practices/documents-bp.md)

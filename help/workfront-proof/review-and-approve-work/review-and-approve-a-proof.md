@@ -1,5 +1,5 @@
 ---
-title: Come rivedere e approvare una bozza
+title: Rivedi e approva una bozza
 description: Scopri come accedere e commentare una bozza, utilizzare il markup per indicare le modifiche necessarie, rispondere ai commenti della bozza e prendere una decisione su una bozza in [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-# Rivedi e approva una bozza digitale
+# Rivedi e approva una bozza
 
 Prima di iniziare a rivedere una bozza, accertati di sapere cosa ti aspetti. Qual è il tuo ruolo nel flusso di lavoro di correzione? Rivedere la bozza, approvarla o entrambe?
 

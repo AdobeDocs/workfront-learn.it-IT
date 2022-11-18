@@ -1,5 +1,5 @@
 ---
-title: '''Crea visibilità con [!DNL Jira] Integrazione"'
+title: Crea visibilità con [!DNL Jira] Integrazione
 description: Scopri come la [!DNL Jira] L'integrazione può creare visibilità sulle attività del team.
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: Come modificare un flusso di lavoro di prova
+title: Modificare un flusso di lavoro di bozza
 description: Scopri come aggiornare una scadenza della bozza, aggiungere utenti a un flusso di lavoro esistente e passare un flusso di lavoro esistente a un flusso di lavoro automatizzato in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335138.png
 kt: 8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

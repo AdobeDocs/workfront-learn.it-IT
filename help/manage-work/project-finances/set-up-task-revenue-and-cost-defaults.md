@@ -1,6 +1,8 @@
 ---
 title: Impostazione dei valori predefiniti relativi a ricavi e costi dell'attività
-description: Il tipo di ricavi e il tipo di costo vengono utilizzati per calcolare le informazioni finanziarie pianificate ed effettive per un'attività.
+description: Scopri come il tipo di ricavi e il tipo di costo vengono utilizzati per calcolare le informazioni finanziarie pianificate ed effettive per un'attività.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 9%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 

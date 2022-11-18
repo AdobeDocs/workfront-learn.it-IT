@@ -1,5 +1,5 @@
 ---
-title: Ricerca di risorse in [!UICONTROL Workfront DAM]
+title: Cercare risorse in [!UICONTROL Workfront DAM]
 description: Scopri come cercare le risorse utilizzando metadati e parole chiave, pianificare la manutenzione dei metadati e delle parole chiave e stabilire [!UICONTROL Workfront DAM] best practice.
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
