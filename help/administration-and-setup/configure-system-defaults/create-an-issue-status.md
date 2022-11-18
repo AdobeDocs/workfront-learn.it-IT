@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 1. Seleziona **[!UICONTROL Stati]**.
 1. Seleziona la **[!UICONTROL Problemi]** scheda .
 1. Assicurati che il campo in alto a destra sia impostato su [!UICONTROL Stati del sistema]. In questo modo, il nuovo stato sarà disponibile a livello globale nell’intera sezione [!DNL Workfront] istanza.
-1. Seleziona **[!UICONTROL Elenco principale ]**per visualizzare tutti gli stati dei problemi. In questo punto puoi creare o modificare uno stato.
+1. Seleziona **[!UICONTROL Elenco principale]** per visualizzare tutti gli stati dei problemi. In questo punto puoi creare o modificare uno stato.
 1. Fai clic su **[!UICONTROL Aggiungi un nuovo stato]**.
 1. Compila i campi necessari per la tua organizzazione: nome, descrizione, colore, equazioni con, chiave, ecc.
 1. Seleziona le caselle per il tipo di problema con cui questo stato può essere utilizzato.
