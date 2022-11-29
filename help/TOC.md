@@ -3,7 +3,7 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
 workflow-type: tm+mt
 source-wordcount: '2219'
 ht-degree: 2%
@@ -68,7 +68,7 @@ ht-degree: 2%
 
 
 
-+ Dati Customizzati {#custom-data}
++ Dati personalizzati {#custom-data}
    + Moduli personalizzati {#custom-forms}
       + [Allegare un modulo personalizzato a un oggetto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Creazione e condivisione di un modulo personalizzato](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
@@ -428,7 +428,7 @@ ht-degree: 2%
       + [Router](fusion/12-exercises/routers.md)
       + [Pattern di routing](fusion/12-exercises/routing-patterns.md)
       + [Imposta/Ottieni variabili](fusion/12-exercises/set-get-variables.md)
-      + [Introduzione agli iteratori](fusion/12-exercises/introduction-to-iterators.md)
+      + [Introduzione agli iteratori](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Aggregazione](fusion/12-exercises/aggregation.md)
       + [Aggregazione avanzata](fusion/12-exercises/advanced-aggregation.md)
       + [Cronologia esecuzione](fusion/12-exercises/execution-history.md)
