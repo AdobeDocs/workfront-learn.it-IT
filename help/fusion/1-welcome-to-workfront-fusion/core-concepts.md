@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ In questo video imparerai:
 
 Molti utenti di Workfront Fusion raggiungono un punto in cui pensano a tutti i sistemi che utilizzano e alla fine chiedono: &quot;Workfront Fusion ha connettori per il software ____?&quot; (Compila il campo vuoto per i sistemi utilizzati.)
 
-Il modo più semplice per determinare se Workfront Fusion dispone di un connettore predefinito è quello di utilizzare la funzione Aggiungi app e cercare un&#39;app per nome. Puoi anche controllare la **App e loro moduli** articolo sull&#39;Experience League per un elenco di applicazioni con cui Workfront Fusion può connettersi.
+Il modo più semplice per determinare se Workfront Fusion dispone di un connettore predefinito è quello di utilizzare la funzione Aggiungi app e cercare un&#39;app per nome. Puoi anche controllare la [App e loro moduli](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) articolo sull&#39;Experience League per un elenco di applicazioni con cui Workfront Fusion può connettersi.
 
 I connettori non sono limitati solo alle app di questo articolo. Se l’app con cui desideri lavorare non dispone di un connettore predefinito, puoi utilizzare questi moduli per connettersi direttamente al servizio Web:
 

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 Ogni sezione di Workfront Fusion contiene diverse esercitazioni, con ogni esercitazione che illustra i concetti da comprendere prima di passare all&#39;esercitazione successiva. Un esercizio dettagliata consente di padroneggiare la maggior parte dei concetti.
 
-I video mostrano, passo dopo passo, come completare ogni esercizio, il che si traduce nella creazione di un nuovo scenario Workfront Fusion. Quindi è possibile completare l&#39;esercizio nel proprio ambiente Workfront Fusion, aggiungendo alla propria raccolta di scenari. La **Guida all&#39;attività di Adobe Workfront Fusion** contiene istruzioni dettagliate per il completamento delle procedure guidate.
+I video mostrano come completare ogni esercizio di procedura dettagliata, che di solito si traduce nella creazione di un nuovo scenario Workfront Fusion. Quindi è possibile completare l&#39;esercizio nel proprio ambiente Workfront Fusion, aggiungendo alla propria raccolta di scenari.
 
-In alcune esercitazioni, creerai un nuovo scenario da zero. In altre sezioni si inizia effettuando una copia di uno scenario creato in precedenza.
+In alcune esercitazioni, creerai un nuovo scenario da zero. In altre esercitazioni, puoi iniziare facendo una copia di uno scenario creato in precedenza.
 
 >[!IMPORTANT]
 >
@@ -38,7 +38,7 @@ Richiedere un ambiente di esercitazione compilando [questo modulo](https://forms
 
 ### Accedere a Workfront Fusion per le esercitazioni
 
-Workfront non offre unità di prova Workfront Fusion. Per eseguire l&#39;esercitazione durante il completamento dei percorsi di apprendimento, richiedere l&#39;accesso a Workfront Fusion dall&#39;amministratore Workfront Fusion della tua organizzazione.
+Workfront non offre unità di prova Workfront Fusion. Per esercitarti durante il completamento delle esercitazioni, richiedi l’accesso a Workfront Fusion dall’amministratore Workfront Fusion della tua organizzazione.
 
 ### Istruzioni dettagliate per il completamento degli esercizi dettagliati
 
