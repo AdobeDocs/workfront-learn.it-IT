@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Vedrai un’ombra intorno a qualsiasi segmento nello scenario da un **iteratore 
 
 >[!NOTE]
 >
->Gli esercizi di pratica sono facoltativi e non sono necessari per completare l&#39;addestramento Fusion.
+>Esercizi e sfide sono facoltativi e non sono necessari per completare la formazione sulla fusione.
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 

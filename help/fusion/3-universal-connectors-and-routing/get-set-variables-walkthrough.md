@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di
 
 >[!NOTE]
 >
->Gli esercizi di pratica sono facoltativi e non sono necessari per completare l&#39;addestramento Fusion.
+>Esercizi e sfide sono facoltativi e non sono necessari per completare la formazione sulla fusione.
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 

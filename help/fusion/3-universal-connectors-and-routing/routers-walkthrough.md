@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -92,7 +92,7 @@ Puoi controllare l’intero elenco dei connettori app predefiniti nell’Experie
 
 >[!NOTE]
 >
->Gli esercizi di pratica sono facoltativi e non sono necessari per completare l&#39;addestramento Fusion.
+>Esercizi e sfide sono facoltativi e non sono necessari per completare la formazione sulla fusione.
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 

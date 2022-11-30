@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront non offre unità di prova Workfront Fusion. Per esercitarti durante il
 
 Sono disponibili istruzioni dettagliate sul completamento degli esercizi di procedura dettagliata. Puoi accedere a questi elementi dalla barra di navigazione a sinistra in Fusion > Exercises oppure utilizzare il collegamento fornito in fondo a un tutorial dettagliata.
 
+### Esercizi di pratica opzionali
+
+Esercitazioni pratiche e sfide sono fornite dopo alcuni esercizi di procedura dettagliata.
+
+Ci sono una serie di modi diversi per risolvere gli esercizi di pratiche. L&#39;intento è quello di sfidarti a cercare di raggiungere un obiettivo di scenario senza dover seguire i passaggi necessari o la &quot;risposta giusta&quot;, perché questo è ciò che dovrai fare quando crei uno scenario all&#39;interno della tua azienda.
+
+L’esercizio di esercitazione è correlato all’attività dettagliata .
+
+Le sfide sono per coloro che vogliono provare qualcosa che coinvolga altri concetti che hanno imparato.
+
+### Come ottenere aiuto
+
+Le istruzioni dettagliate sono fornite per facilitare l&#39;esecuzione degli esercizi di procedura dettagliata.
+
+C&#39;è anche un [Community Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) dove puoi porre domande.
