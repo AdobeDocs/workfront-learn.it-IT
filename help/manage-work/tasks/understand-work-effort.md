@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0c7a19edf43baae69ab78edf7b344641de97912b
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ In questo modo, se prevedi di utilizzare uno di [!DNL Workfront’s] gli strumen
 need hyperlink below
 --->
 
-Per ulteriori informazioni su [!UICONTROL Sforzo di lavoro], consulta l’articolo Panoramica sullo sforzo di lavoro .
+Per ulteriori informazioni su [!UICONTROL Sforzo di lavoro], vedi [Panoramica sullo sforzo di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) articolo.
