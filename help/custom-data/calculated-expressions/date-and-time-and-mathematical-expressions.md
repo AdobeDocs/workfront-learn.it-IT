@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Le espressioni data e ora consentono di richiamare date importanti in primo pian
 
 Osservando le espressioni data e ora disponibili, sono disponibili diverse opzioni.
 
-![Gestione risorse imposta un pager](assets/DTM01.png)
+![Espressioni data e ora di esempio](assets/datetimeexpressions01.png)
 
 Esistono due set di espressioni data e ora utilizzati più spesso da [!DNL Workfront] clienti:
 
@@ -37,9 +37,11 @@ Le espressioni matematiche consentono [!DNL Workfront] eseguire automaticamente 
 
 Osservando le espressioni di data e ora disponibili, è possibile individuare diverse opzioni disponibili.
 
-![Gestione risorse imposta un pager](assets/math01.png)
+![Espressioni matematiche di esempio](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] i clienti utilizzano comunemente questi due set di espressioni matematiche:
+I clienti Workfront utilizzano comunemente questi due set di espressioni matematiche:
 
 * SUB, SUM, DIV, PROD
 * ROUND
+
+<b>NOTA</b>: Per un elenco completo delle espressioni e ulteriori informazioni su ciascuna, consulta la pagina di documentazione &quot;Espressioni dati calcolate&quot;.

@@ -9,58 +9,69 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
 # Informazioni sulle espressioni campo calcolate
 
-Di seguito è riportato un elenco di concetti utili per l’utilizzo dei campi calcolati personalizzati in [!DNL Workfront].
+Elenco di concetti che è utile conoscere quando si utilizzano campi calcolati personalizzati in Workfront.
 
-## Il casing non ha importanza nei nomi delle espressioni
+## Casi nei nomi delle espressioni
 
-Quando si tratta dei nomi delle espressioni, il casing non ha importanza. È possibile utilizzare maiuscolo, minuscolo o un mix di entrambi. Con l&#39;espressione ISBLANK(Description), il messaggio &quot;ISBLANK&quot; può essere scritto come segue:
+Quando si tratta di nomi di espressione, il casing conta. Quando si scrive inizialmente un nome di espressione, è possibile utilizzare lettere maiuscole, minuscole o combinate entrambe.
 
-* ISBLANK
-* Isblank
-* IsBlank
-* isBLANK
+![Messaggio di errore senza maiuscole nel nome dell&#39;espressione](assets/ttk-casingmatters01.png)
 
-Tutte loro lavoreranno.
+Tuttavia, l’espressione deve essere scritta come tutte le lettere maiuscole affinché il sistema riconosca l’espressione e salvi il campo.
+
+
 
 ## Le ore vengono memorizzate in minuti
 
-Ore in [!DNL Workfront’s] il database viene memorizzato in minuti. Se fai riferimento a campi come Orari pianificati o Ore effettive, suddividi per 60 per mostrare l’ora in ore e non in minuti.
+Le ore nel database di Workfront sono memorizzate in minuti. Se fai riferimento a campi come Orari pianificati o Ore effettive, suddividi per 60 per mostrare l’ora in ore e non in minuti.
 
 ## La spaziatura non influisce sulle espressioni
 
 Il modo consigliato per scrivere espressioni è con una spaziatura minima tra le espressioni e nulla.
 
-* IF(ISBLANK(Description),&quot;No Description&quot;,&quot;Has Description&quot;)
+* IF(ISBLANK({description}),&quot;Nessuna descrizione&quot;,&quot;Presenta descrizione&quot;)
+
+![Espressioni senza spaziatura tra i campi](assets/spacing01.png)
 
 Tuttavia, se la spaziatura consente di vedere cosa sta succedendo, è possibile aggiungere una certa spaziatura alle espressioni. Gli spazi aggiuntivi non devono impedire all’espressione di raccogliere o calcolare un valore in [!DNL Workfront].
 
-* IF (ISBLANK (Descrizione),&quot;No Description&quot; ,&quot;Has Description&quot; )
+* IF (ISBLANK ({description}), &quot;Nessuna descrizione&quot;, &quot;Presenta descrizione&quot; )
+
+![Espressioni con spaziatura tra i campi](assets/spacing02.png)
+
+Le uniche cose che non possono avere spazi tra loro sono i campi e le parentesi graffe. In caso contrario, riceverai un messaggio di errore e non potrai salvare il campo o il modulo personalizzato.
+
+![Errore di spaziatura tra il nome del campo e la parentesi graffa](assets/spacing03.png)
 
 ## Le virgolette devono essere rette
 
 Quando utilizzi le virgolette in un’espressione, accertati che le virgolette siano rette (&quot;). Se le virgolette sono curve (&quot;), la [!DNL Workfront] Il sistema continuerà a visualizzare un messaggio &quot;Espressione personalizzata non valida&quot;.
 
+![Errore con virgolette curve](assets/curvedquotes01.png)
+
 ## Aggiornamento dei calcoli al salvataggio del modulo e alla modifica dell’oggetto
 
 Questo è un aspetto importante dei campi calcolati da comprendere.
 
-Le informazioni visualizzate in un campo calcolato rimarranno invariate e diventeranno obsolete a meno che il modulo personalizzato non venga ricalcolato. È possibile aggiornare le espressioni utilizzando l’opzione Ricalcola espressioni nel menu Altro di un oggetto.
+Le informazioni visualizzate in un campo calcolato rimarranno invariate e diventeranno obsolete a meno che il modulo personalizzato non venga ricalcolato.
+
+È possibile aggiornare le espressioni utilizzando l’opzione Ricalcola espressioni nel menu Altro di un oggetto.
 
 Desideri visualizzare il numero di giorni in cui un problema è stato aperto. Crea un campo calcolato denominato &quot;Giorni aperti&quot; con l’espressione DATEDIFF.
 
 * Nome campo = Giorni aperti
-* Espressione = DATEDIFF(Data di ingresso,$$OGGI)
+* Espressione = DATEDIFF({entryDate},$$TODAY)
 
-Una volta salvato, il numero di giorni tra la prima creazione o l’immissione del problema [!DNL Workfront]e la data odierna può essere visualizzata nella pagina dei dettagli di un oggetto o in una visualizzazione di un rapporto.
+Una volta salvato, il numero di giorni tra la prima creazione o l’immissione del problema in Workfront e la data odierna può essere visualizzato nella pagina dei dettagli di un oggetto o in una visualizzazione di un rapporto.
 
 Quando visualizzi la pagina dei dettagli o la visualizzazione del rapporto il giorno successivo, il numero verrà incrementato di uno. Se oggi il numero è 5, domani dovrebbe essere 6. Il giorno successivo dovrebbe essere 7, poi 8, ecc.
 
@@ -72,6 +83,8 @@ Per aggiornare un campo utilizzando l’opzione Ricalcola espressioni :
 * Fare clic sul menu Altro.
 * Seleziona Ricalcola espressioni dall’elenco.
 
+![Opzione Ricalcola espressione nell&#39;oggetto](assets/recalculate01.png)
+
 È inoltre possibile ricalcolare più espressioni contemporaneamente utilizzando la funzione di &quot;modifica collettiva&quot; in un elenco o in un rapporto. Supponiamo che sia stato creato un rapporto che mostra un elenco di problemi con il calcolo Giorni aperti visualizzato in una colonna. Se desideri ricalcolare tutti i problemi contemporaneamente:
 
 * Seleziona tutti i problemi nel rapporto.
@@ -79,6 +92,8 @@ Per aggiornare un campo utilizzando l’opzione Ricalcola espressioni :
 * Fai clic sull’etichetta Forms personalizzata a sinistra per scorrere verso il basso fino alla sezione dei moduli personalizzati.
 * Seleziona la casella Ricalcola espressioni personalizzate nella parte inferiore della sezione Forms personalizzata .
 * Fai clic su Salva modifiche.
+
+![Opzione Ricalcola espressione per più oggetti](assets/recalculate02.png)
 
 La schermata si aggiorna per mostrare le informazioni aggiornate nel campo calcolato.
 
@@ -94,7 +109,7 @@ Quando un campo personalizzato calcolato viene selezionato dalla libreria campi 
 
 Ad esempio, hai creato un campo calcolato &quot;Giorni da completare&quot; per determinare quanto tempo è necessario per completare un’attività in un progetto.
 
-* WEEKDAYDIFF(Data inizio effettiva, Data completamento effettivo)
+* WEEKDAYDIFF({currentStartDate},{effectiveCompletionDate})
 
 Vuoi fare la stessa cosa per un&#39;iterazione. È possibile utilizzare la stessa espressione; tuttavia, i campi disponibili per un oggetto attività non sono sempre disponibili per un oggetto iterazione. Quindi [!DNL Workfront] consente di creare il calcolo con i campi oggetto corretti.
 
