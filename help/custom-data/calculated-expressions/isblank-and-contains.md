@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Per cercare un valore specifico nella descrizione, ad esempio &quot;evento di be
 
 L&#39;espressione di testo ISBLANK include il nome dell&#39;espressione e un punto dati.
 
-**ISBLANK(punto dati)**
+**ISBLANK({data point})**
 
 ![Bilanciamento del carico di lavoro con rapporto di utilizzo](assets/isblank03.png)
 
 Nell’esempio precedente, dove desideri sapere se il progetto dispone di una descrizione, l’espressione è:
 
-ISBLANK(Descrizione)
+ISBLANK({description})
 
 ## CONTAINS
 
 L&#39;espressione di testo CONTAINS include il nome dell&#39;espressione, la parola o la frase che si sta cercando e il campo da cercare.
 
-**CONTAINS(&quot;frase&quot;,campo)**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
 Assicurati di inserire delle virgolette sulla parola o sulla frase che stai cercando, altrimenti l’espressione non sarà valida.
 
 Nell’esempio precedente (cercando &quot;evento di beneficenza&quot; nella descrizione del progetto), l’espressione è:
 
-**CONTAINS(&quot;evento di beneficenza&quot;, descrizione)**
+**CONTAINS(&quot;evento di beneficenza&quot;,{description})**
 
 ![Bilanciamento del carico di lavoro con rapporto di utilizzo](assets/isblank04.png)
 
 **Nota**: L&#39;espressione CONTAINS distingue tra maiuscole e minuscole. Ad esempio, se nel campo di descrizione &quot;Evento di carità&quot; viene utilizzato il maiuscolo, inserire la frase nell’espressione.
 
-**CONTAINS(&quot;Evento di beneficenza&quot;,Descrizione)**
+**CONTAINS(&quot;Evento di beneficenza&quot;,{description})**
 
 È utile utilizzare sia le espressioni ISBLANK che CONTAINS per verificare se è presente un valore. Tuttavia, può essere più utile sapere qual è il valore, vederlo effettivamente o avere qualche tipo di descrittore per fornire una visione migliore.
 
