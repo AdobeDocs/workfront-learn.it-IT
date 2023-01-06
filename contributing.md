@@ -1,32 +1,31 @@
 ---
-source-git-commit: 898dba1bb96707ecb3401f6fdb261f3cd74f3e4a
+source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 21%
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # Contributo
 
-Grazie per aver scelto di contribuire!
+Grazie per aver scelto di contribuire.
 
 Di seguito sono riportate alcune linee guida da seguire per contribuire a questo progetto.
 
 ## Codice di condotta
 
-Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con la tua partecipazione, accetti di rispettare questo codice. Segnalare comportamenti inaccettabili a
-[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+Il progetto aderisce al [Codice di condotta](code-of-conduct.md) di Adobe. Con la tua partecipazione, accetti di rispettare questo codice. Segnala eventuali comportamenti non corretti all’indirizzo [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Documentazione della Guida collaboratore
+## Documentazione relativa alla Guida per i collaboratori
 
-Consulta la sezione [Guida collaboratore](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulta la sezione [Guida per i collaboratori](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
-## Avete Una Domanda?
+## Hai una domanda?
 
-Inizia segnalando un problema. Gli attuali committer di questo progetto si adoperano per raggiungere un consenso sulla direzione del progetto e per elaborare soluzioni all’interno dei thread di discussione (se opportuno).
+Inizia segnalando un problema. I committer di questo progetto collaborano per raggiungere il consenso sulla direzione del progetto e sulla risoluzione dei problemi all’interno dei relativi thread (quando opportuno).
 
-## Contratto di licenza da collaboratore
+## Contratto di licenza per collaboratori
 
-Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un contratto di licenza per i contributori firmato. In tal modo è concesso ad Adobe il permesso di ridistribuire i contributi come parte del progetto. [Firma il Contratto di licenza da collaboratore](http://opensource.adobe.com/cla.html). È sufficiente inviare un CLA di Adobe una sola volta, quindi se ne hai già inviato uno in precedenza, puoi iniziare!
+Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un contratto di licenza per collaboratori firmato. In tal modo è concesso ad Adobe il permesso di ridistribuire i contributi come parte del progetto. [Firma il CLA](http://opensource.adobe.com/cla.html). È sufficiente inviare un CLA di Adobe una sola volta, quindi se ne hai già inviato uno in precedenza, sei a posto.
 
 ## Revisioni del codice
 
@@ -37,10 +36,10 @@ Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## Da Collaboratore A Comitato
+## Da collaboratore a committer
 
-Amiamo i contributi della nostra comunità! Se desideri andare oltre il contributore e diventare un committer con accesso in scrittura completo e una voce in capitolo nel progetto, devi essere invitato al progetto. Gli attuali committer si avvalgono di un processo di nomina interna che deve raggiungere un consenso pigro (il silenzio è l&#39;approvazione) prima che gli inviti siano rilasciati. Se pensi di essere qualificato e vuoi essere coinvolto più a fondo, puoi rivolgerti agli attuali committer per discutere di questo aspetto.
+I contributi della nostra community sono fondamentali. Se vuoi andare oltre il semplice ruolo di collaboratore e diventare un committer con un ruolo attivo all’interno del progetto e completo accesso in scrittura, devi essere invitato al progetto. Prima di rilasciare un invito, i committer esistenti partecipano a un processo di nomina interno che deve raggiungere un consenso pigro (il silenzio significa approvazione). Se ritieni di essere qualificato per il ruolo e vuoi diventare parte attiva del progetto, contatta i committer attuali.
 
 ## Problemi di sicurezza
 
-I problemi di sicurezza non devono essere segnalati su questo tracker di problemi. Invece, [segnala un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/security/alertus.html)
+I problemi relativi alla sicurezza non devono essere inseriti all’interno di questo tracker, ma [segnalati ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)
