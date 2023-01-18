@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
+source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2379'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,9 @@ ht-degree: 2%
    + Processi di approvazione e percorsi cardine {#approval-processes-and-milestone-paths}
       + [Comprendere i processi di approvazione specifici del gruppo](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [Creare pietre miliari](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+   + Prestazioni e manutenzione del sistema {#system-perfomance-and-maintenance}
+      + [Prendi il controllo di un&#39;istanza Adobe Workfront esistente](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
