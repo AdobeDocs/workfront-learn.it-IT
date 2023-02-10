@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2385'
+source-wordcount: '2378'
 ht-degree: 2%
 
 ---
@@ -253,7 +253,7 @@ ht-degree: 2%
       + [Impostazioni di gestione delle risorse per i progetti](manage-resources/resource-management/settings-for-projects.md)
       + [Impostazioni di gestione delle risorse per gli utenti](manage-resources/resource-management/settings-for-users.md)
       + [Impostazioni di gestione delle risorse, load balancer e report di utilizzo](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
-   + Bilanciatore dei carichi di lavoro {#workload-balancer}
+   + Bilanciamento del carico di lavoro {#workload-balancer}
       + [Trova il bilanciamento del carico di lavoro](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Filtrare il bilanciamento del carico di lavoro](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Visualizzare le allocazioni degli utenti nel load balancer](manage-resources/workload-balancer/view-user-allocations.md)
@@ -330,8 +330,7 @@ ht-degree: 2%
 
 + Integrazioni {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Utilizzare Workfront per Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [Caricare bozze con Workfront per Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [Utilizzare le estensioni Adobe Workfront per Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configurazione in corso](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappatura dei metadati](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
@@ -631,7 +630,7 @@ ht-degree: 2%
    + [Tempi e tempi di accesso](best-practices/timesheets-logging-time-bp.md)
    + [Utilizzo](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
-   + [Bilanciatore dei carichi di lavoro](best-practices/workload-balancer-bp.md)
+   + [Bilanciamento del carico di lavoro](best-practices/workload-balancer-bp.md)
 
 
 
