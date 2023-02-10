@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Utilizzare le estensioni Adobe Workfront per Creative Cloud
 
-Trova e aggiorna il lavoro assegnato in Adobe Workfront senza uscire dalle seguenti applicazioni Adobe Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro e After Effects.
+Trova e aggiorna il lavoro assegnato in Adobe Workfront senza uscire dalle seguenti applicazioni Adobe Creative Cloud:
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 È necessario installare il plug-in corretto per l’applicazione Adobe Creative Cloud in uso:
 
@@ -27,7 +34,7 @@ Trova e aggiorna il lavoro assegnato in Adobe Workfront senza uscire dalle segue
 
 >[!NOTE]
 >
->Si prega di notare che per **Premiere Pro** e **After Effects** al momento, il caricamento e la revisione dei video e l’approvazione in Workfront non sono disponibili tramite il plug-in.
+>**Premiere Pro** e **After Effects** al momento il caricamento di video, nonché la revisione e l’approvazione in Workfront non sono disponibili tramite il plug-in.
 
 
 Questo video illustra come effettuare le seguenti operazioni dall’interno dell’app Creative Cloud:
