@@ -1,5 +1,5 @@
 ---
-title: Utilizzare le estensioni Adobe Workfront per Creative Cloud
+title: Utilizzare i plug-in Adobe Workfront per Creative Cloud
 description: 'Trova e aggiorna il lavoro assegnato in Adobe Workfront senza uscire dalle seguenti applicazioni Adobe Creative Cloud: Photoshop, XD, InDesign, Illustrator, Premiere Pro e After Effects'
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Utilizzare le estensioni Adobe Workfront per Creative Cloud
+# Utilizzare i plug-in Adobe Workfront per Creative Cloud
 
 Trova e aggiorna il lavoro assegnato in Adobe Workfront senza uscire dalle seguenti applicazioni Adobe Creative Cloud:
 
@@ -30,7 +30,7 @@ Trova e aggiorna il lavoro assegnato in Adobe Workfront senza uscire dalle segue
 
 * Per Photoshop, vedi [Installare e aprire Adobe Workfront per Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
 * Per XD, vedi [Installa e apri Adobe Workfront per XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* Per InDesign, Illustrator, Premiere Pro e After Effects consulta [Installare e aprire Adobe Workfront per progettazione e video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* Per InDesign, Illustrator, Premiere Pro e After Effects, consulta [Installare e aprire Adobe Workfront per progettazione e video](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
@@ -41,8 +41,10 @@ Questo video illustra come effettuare le seguenti operazioni dall’interno dell
 
 * Trova le assegnazioni Workfront
 * Caricare file in Workfront
+* Aggiungere commenti e assegnare tag ai membri del team
 * Richiedere l&#39;approvazione del documento
 * Caricare bozze e assegnare un flusso di lavoro di correzione
+* Tempo di log
 * Segna il lavoro completato
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
