@@ -1,6 +1,6 @@
 ---
-title: Trova il bilanciamento del carico di lavoro
-description: Scopri come trovare il bilanciamento del carico di lavoro in Workfront e conoscere alcune delle aree disponibili.
+title: Trovare il Bilanciatore dei carichi di lavoro
+description: Scopri come trovare il bilanciatore dei carichi di lavoro in Workfront e conoscere alcune delle aree disponibili.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,41 +10,39 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
 # Trova il [!DNL Workload Balancer]
 
-Sapere quali risorse sono disponibili e come distribuirle può essere un compito impegnativo per chiunque. Ecco perché Workfront ha creato il [!DNL Workload Balancer].
+Sapere quali risorse sono disponibili e come distribuirle può essere un compito difficile per chiunque. Ecco perché Workfront ha creato [!DNL Workload Balancer].
 
-Il suo scopo è quello di fornire maggiori informazioni e gestione dei carichi di lavoro giornalieri e settimanali delle persone che gestisci. Questo consente di eseguire assegnazioni migliori, in base a ruoli e disponibilità, in più progetti.
+Il suo scopo è quello di fornire maggiori informazioni e gestione dei carichi di lavoro giornalieri e settimanali delle persone che gestisci. Questo consente di effettuare assegnazioni migliori, in base al ruolo e alla disponibilità, in più progetti.
 
-![opzione menu principale di risorse](assets/Find_01.png)
+![risorse nel menu principale](assets/Find_01.png)
 
-* Fai clic su [!UICONTROL Risorsa] in [!UICONTROL Menu principale].
+* Clic [!UICONTROL Risorse] nel [!UICONTROL Menu principale].
 * Vai a [!UICONTROL Pianificazione] nell&#39;area Gestione risorse.
-* Fai clic sul pulsante [!UICONTROL &quot;Passa a load balancer&quot;] link.
+* Fai clic su [!UICONTROL &quot;Bilanciatore dei carichi di lavoro&quot;] che viene visualizzata.
 
-![passa al bilanciamento del carico di lavoro](assets/Find_02.png)
+![sezione del bilanciatore dei carichi di lavoro](assets/Find_02.png)
 
-La [!DNL Workload Balancer] è l’opzione predefinita quando si passa all’area Gestione risorse dello strumento Workfront.
+## Aree all’interno del Bilanciatore dei carichi di lavoro
 
-## Aree all’interno del servizio di bilanciamento del carico di lavoro
-
-Due sezioni vengono visualizzate nel [!DNL Workload Balancer]: Lavoro assegnato e Lavoro non assegnato.
+Nella finestra di dialogo [!DNL Workload Balancer]: Lavoro assegnato e Lavoro non assegnato.
 
 ![area non assegnata](assets/Find_03.png)
 
-L’area Lavoro assegnato mostra un elenco di utenti e del lavoro a cui sono già stati assegnati in Workfront. Per impostazione predefinita, questa area viene filtrata agli utenti che fanno parte dei team Workfront a cui appartieni. In questo modo puoi vedere su quali membri del team sono stati assegnati per lavorare.
+L’area Lavoro assegnato mostra un elenco di utenti e il lavoro a cui sono già stati assegnati in Workfront. Per impostazione predefinita, quest’area viene filtrata in base agli utenti che fanno parte dei team Workfront a cui appartieni. In questo modo è possibile vedere su quali membri del gruppo è stato assegnato il lavoro.
 
-![utenti dell&#39;area assegnati](assets/Find_03b.png)
+![utenti area assegnati](assets/Find_03b.png)
 
-L&#39;area Lavoro non assegnato mostra il lavoro che deve ancora essere assegnato, sia a una persona, un ruolo o un team. Tuttavia, inizialmente questa area non mostrerà nulla.
+L’area Lavoro non assegnato mostra il lavoro ancora da assegnare, che si tratti di una persona, una mansione o un team. Tuttavia, inizialmente quest’area non mostrerà nulla.
 
 ![area di lavoro non assegnata](assets/Find_03c.png)
 
-Iniziando con l&#39;area Lavoro non assegnato vuota, è possibile concentrarsi sui carichi di lavoro correnti degli utenti, nell&#39;area Lavoro assegnato, prima di eseguire le assegnazioni.
+Se si inizia con l&#39;area Lavoro non assegnato vuota, è possibile concentrarsi sui carichi di lavoro correnti degli utenti, nell&#39;area Lavoro assegnato, prima di effettuare le assegnazioni.
