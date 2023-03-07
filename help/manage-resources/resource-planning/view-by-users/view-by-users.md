@@ -1,5 +1,5 @@
 ---
-title: Visualizzazione per utenti nel planner risorse
+title: Visualizza per utenti nella Programmazione delle risorse
 description: Scopri come utilizzare l’opzione Visualizza per utente e come vengono visualizzate le informazioni sulle risorse in questa visualizzazione.
 feature: Resource Management
 type: Tutorial
@@ -10,18 +10,19 @@ team: Technical Marketing
 thumbnail: 335168.jpeg
 kt: 8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
-source-git-commit: 9e97819d4f07933d903f4bc26841adb9e52a785a
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Visualizza per utenti nel [!DNL Resource Planner]
+# Visualizza per utenti in [!DNL Resource Planner]
 
 In questo video:
 
-* Vedi [!UICONTROL Visualizza per utente ]visualizzare
+* Consulta [!UICONTROL Visualizza per utente ]visualizza
 * Scopri come vengono visualizzate le informazioni sulle risorse in questa visualizzazione
 
 

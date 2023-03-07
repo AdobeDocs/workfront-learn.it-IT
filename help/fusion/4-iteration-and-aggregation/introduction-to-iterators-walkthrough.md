@@ -1,5 +1,5 @@
 ---
-title: Introduzione alla procedura dettagliata degli iteratori
+title: Procedura dettagliata sull'introduzione agli iteratori
 description: Scopri come contare il numero di attività di lavoro in un progetto, quindi calcolare un valore per ciascuno dei bundle di attività, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -9,32 +9,33 @@ role: User
 level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Introduzione alla procedura dettagliata degli iteratori
+# Procedura dettagliata sull&#39;introduzione agli iteratori
 
 ## Panoramica
 
-Osserva un progetto specifico in Workfront, quindi osserva tutte le attività all’interno del progetto. Quindi si utilizzerà il modulo strumento di incremento per contare il numero di attività all&#39;interno del progetto. Infine, si utilizzerà il modulo variabile Set per sottrarre il numero di elementi figlio dal numero di problemi aperti per produrre un valore numerico per ciascuno dei bundle di attività.
+Osserva un progetto specifico in Workfront, quindi osserva tutte le attività all’interno di quel progetto. Quindi utilizzerai il modulo dello strumento Incrementa per contare il numero di attività all’interno del progetto. Infine, utilizzerai il modulo Imposta variabile per sottrarre il Numero di elementi figlio dal Numero di problemi aperti per produrre un valore numerico per ciascuno dei bundle di attività.
 
-![Immagine dello scenario di fusione](assets/iteration-and-aggregation-1.png)
+![Immagine dello scenario Fusion](assets/iteration-and-aggregation-1.png)
 
-## Introduzione alla procedura dettagliata degli iteratori
+## Procedura dettagliata sull&#39;introduzione agli iteratori
 
-Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di cercare di ricreare l&#39;esercizio nel proprio ambiente.
+Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12)
 
 >[!TIP]
 >
->Per istruzioni dettagliate su come completare la procedura dettagliata, consulta [Introduzione alla procedura dettagliata degli iteratori](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata sull&#39;introduzione agli iteratori](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=en) esercizio fisico.
 
 
-## Vuoi saperne di più? Si consiglia quanto segue:
+## Vuoi saperne di più? Consigliamo quanto segue:
 
 [Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

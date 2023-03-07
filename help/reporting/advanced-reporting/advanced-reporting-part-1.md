@@ -1,6 +1,6 @@
 ---
-title: Parte 1
-description: Comprendere una revisione della creazione di rapporti, un’introduzione a [!UICONTROL API explorer] e la modalità testo e uno studio approfondito dei filtri in modalità testo.
+title: Reporting avanzato - Parte 1
+description: Comprendere una revisione della creazione di rapporti, un’introduzione alla [!UICONTROL API Explorer] e modalità testo e uno studio approfondito dei filtri in modalità testo.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -9,25 +9,27 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11196
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Parte 1
+# Reporting avanzato - Parte 1
 
-In questo video imparerai:
+Questo video illustra:
 
-* Revisione della creazione di report
-* Come utilizzare API explorer e la modalità testo
+* Revisione della creazione del rapporto
+* Come utilizzare API Explorer e modalità testo
 * Studio approfondito dei filtri in modalità testo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12)
 
-## Collegamenti handy
+## Collegamenti utili
 
-[[!UICONTROL Esplora API]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manuale di reporting avanzato](/help/assets/advanced-reporting-manual.pdf)
+[Manuale di reportistica avanzata](/help/assets/advanced-reporting-manual.pdf)

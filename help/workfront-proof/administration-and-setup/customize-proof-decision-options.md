@@ -1,6 +1,6 @@
 ---
 title: Personalizzare le opzioni di decisione della bozza
-description: Scopri qual è la decisione a prova di errore. Quindi rinomina le opzioni di decisione della bozza e nasconde le opzioni non necessarie nelle impostazioni del sistema di correzione.
+description: Scopri cos’è una decisione relativa alla bozza. Quindi rinomina le opzioni di decisione della bozza e nascondi le opzioni non necessarie nelle impostazioni del sistema di bozza.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335127.png
 kt: 8827
 exl-id: 947a67cd-e9bd-472a-af40-33ec93cd65a9
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -19,19 +20,19 @@ ht-degree: 0%
 
 # Personalizzare le opzioni di decisione della bozza
 
-In questo video imparerai:
+Questo video illustra:
 
-* Che decisione a prova di
-* Come rinominare le opzioni di decisione della bozza
-* Come nascondere le opzioni di decisione di bozza non necessarie
+* Che decisione è una bozza
+* Rinominare le opzioni di decisione per la bozza
+* Come nascondere le opzioni di decisione della bozza non necessarie
 
 >[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12)
 
-## Il tuo turno
+## Tocca a te
 
-1. Determina quali opzioni decisionali sono necessarie per i flussi di lavoro di prova della tua organizzazione. Tieni presente che queste impostazioni sono globali, in modo che ogni team che utilizza la correzione visualizzi le stesse opzioni.
-1. Ora accedi a Workfront e passa alle impostazioni di correzione. Nella scheda Decisioni , rinomina le decisioni in base alle esigenze della tua organizzazione. Nascondi le opzioni che non saranno necessarie.
-1. Una volta completate le impostazioni decisionali, sottoponilo a un test rapido caricando una bozza e assegnandoti come Revisore e Approvatore.
+1. Determina le opzioni di decisione necessarie per i flussi di lavoro di bozza della tua organizzazione. Tieni presente che queste impostazioni sono globali, pertanto ogni team che utilizza la verifica visualizzerà le stesse opzioni.
+1. Accedi a Workfront e vai alle impostazioni di verifica. Nella scheda Decisioni, rinomina le decisioni in base alle esigenze della tua organizzazione. Nascondi le opzioni che non saranno necessarie.
+1. Una volta completate le impostazioni di decisione, sottoponili a un test rapido caricando una bozza e assegnandoti come revisore e approvatore.
 
 
 <!--

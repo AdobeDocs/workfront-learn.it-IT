@@ -1,6 +1,6 @@
 ---
-title: Delega di attività, problemi e approvazioni
-description: Scopri come delegare le approvazioni di progetti, attività, problemi e timestamp a un altro utente Workfront. Scopri anche come delegare le assegnazioni di attività ed emissioni.
+title: Delega attività, problemi e approvazioni
+description: Scopri come delegare le approvazioni per progetti, attività, problemi e schede orario a un altro utente di Workfront. Scopri anche come delegare le assegnazioni di attività e problemi.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,25 +10,26 @@ team: Technical Marketing
 thumbnail: 336094.png
 kt: 8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
-source-git-commit: 187df9e953fc51bf0d1825a57719376b61140798
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-# Delega di attività, problemi e approvazioni
+# Delega attività, problemi e approvazioni
 
-Scopri come delegare le approvazioni di progetti, attività, problemi e timestamp a un altro utente Workfront. Scopri anche come delegare le assegnazioni di attività ed emissioni.
+Scopri come delegare le approvazioni per progetti, attività, problemi e schede orario a un altro utente di Workfront. Scopri anche come delegare le assegnazioni di attività e problemi.
 
 ## Delega approvazioni
 
-Scopri come delegare le approvazioni di progetti, attività, problemi e timestamp a un altro utente.
+Scopri come delegare le approvazioni per progetti, attività, problemi e schede orario a un altro utente.
 
 Questo video illustra come:
 
 * Assegnare le approvazioni a un altro utente
-* Termina il periodo di delega
+* Terminare il periodo di delega
 * Trova approvazioni delegate
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12)
@@ -38,32 +39,32 @@ learn more URLS
 Delegate approval request
 --->
 
-## Delega delle assegnazioni di attività ed emissioni
+## Delegare le assegnazioni di attività e problemi
 
-Puoi delegare le attività e i problemi assegnati ad altri utenti quando intendi uscire dall&#39;ufficio.
+Puoi delegare le attività e i problemi che ti vengono assegnati ad altri utenti quando prevedi di uscire dall&#39;ufficio.
 
-### Come abilitare l&#39;attività e rilasciare la delega dell&#39;assegnazione
+### Abilitare la delega di assegnazioni di attività e problemi
 
-Prima di poter essere utilizzato, la delega delle attività e dei problemi deve essere abilitata da un amministratore di gruppo o di sistema. Questa operazione viene eseguita in [!UICONTROL Configurazione > Preferenze progetto > Attività e problemi > Delega]. L’abilitazione di questa opzione consente a tutti gli utenti con una licenza di revisione o superiore di delegare le attività e i problemi assegnati.
+Prima di poter essere utilizzata, la delega di attività e problemi deve essere abilitata da un amministratore di gruppo o di sistema. Questa operazione viene eseguita in [!UICONTROL Configurazione > Preferenze progetto > Attività e problemi > Delega]. Abilitando questa opzione, tutti gli utenti con una licenza Revisione o superiore potranno delegare le attività e i problemi loro assegnati.
 
-![Schermata mostrata [!UICONTROL Configurazione] preferenze per la delega](assets/delegation-1.png)
+![Schermata che mostra [!UICONTROL Configurazione] preferenze per la delega](assets/delegation-1.png)
 
-### Come delegare le assegnazioni di attività ed emissioni
+### Come delegare le assegnazioni di attività e problemi
 
-Passa a [!UICONTROL Pagina principale] e fai clic su [!UICONTROL Delega], quindi specifica l’utente a cui stai delegando tutte le attività assegnate e l’intervallo di date. È possibile designare qualsiasi utente con una licenza di revisione o superiore.
+Accedi a [!UICONTROL Home] e fai clic su [!UICONTROL Delega], quindi specifica l’utente a cui stai delegando tutte le attività assegnate e l’intervallo di date. È possibile designare qualsiasi utente con una licenza Revisione o superiore.
 
-![Schermata che mostra la scheda della delega in [!UICONTROL Pagina principale]](assets/delegation-2.png)
+![Schermata che mostra la scheda Delega in [!UICONTROL Home]](assets/delegation-2.png)
 
 ### Come stabilire se un&#39;attività o un problema è stato delegato
 
-Puoi vedere quando sono stati delegati attività o problemi in [!UICONTROL Pagina principale] o nella visualizzazione attività o problema.
+Puoi vedere quando attività o problemi sono stati delegati in [!UICONTROL Home] o nella vista attività o problema.
 
-![Schermata che mostra l’assegnazione di un’attività delegata in [!UICONTROL Pagina principale]](assets/delegation-4.png)
-![Schermata che mostra l’assegnazione di un’attività delegata nella visualizzazione attività](assets/delegation-3.png)
+![Schermata che mostra l’assegnazione dell’attività delegata in [!UICONTROL Home]](assets/delegation-4.png)
+![Schermata che mostra l’assegnazione dell’attività delegata nella vista attività](assets/delegation-3.png)
 
-### Notifiche e-mail relative al lavoro delegato
+### Notifiche e-mail applicabili al lavoro delegato
 
-Il gruppo o l’amministratore di sistema può abilitare le notifiche e-mail che ti informeranno quando hai delegato le tue attività e i tuoi problemi e quando ti sono stati delegati i compiti e i problemi di un utente.
+L&#39;amministratore di sistema o di gruppo può abilitare le notifiche e-mail che ti avviseranno quando hai delegato le tue attività e i tuoi problemi e quando le attività e i problemi di qualcuno sono stati delegati a te.
 
-![Schermata mostrata [!UICONTROL Configurazione] opzioni di notifica e-mail per la delega](assets/delegation-5.png)
-![Schermata che mostra un’e-mail di delega di lavoro](assets/delegation-6.png)
+![Schermata che mostra [!UICONTROL Configurazione] opzioni di notifica e-mail per la delega](assets/delegation-5.png)
+![Schermata che mostra un’e-mail di delega del lavoro](assets/delegation-6.png)

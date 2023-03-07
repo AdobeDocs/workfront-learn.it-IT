@@ -1,5 +1,5 @@
 ---
-title: Comprendere altri modi per creare progetti
+title: Altre modalità di creazione dei progetti
 description: Scopri come creare un progetto da un modello, creare un progetto da zero, copiare un progetto esistente o importare un [!DNL Microsoft Project] file.
 activity: use
 feature: Work Management
@@ -10,33 +10,34 @@ level: Intermediate
 team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Comprendere altri modi per creare progetti
+# Altre modalità di creazione dei progetti
 
 Questo video illustra come:
 
 * Creare un progetto da un modello
-* Crea un progetto da zero
-* Copiare un progetto esistente
-* Importare un [!DNL Microsoft Project] file
+* Creare un progetto da zero
+* Copia un progetto esistente
+* Importa un [!DNL Microsoft Project] file
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12)
 
-## Suggerimenti per i professionisti
+## Suggerimenti pro
 
-* La [!UICONTROL Nuovo progetto da modello] window semplifica la selezione del modello corretto per il progetto. Scorri il pannello a sinistra per trovare un modello, quindi selezionalo per ottenere un’anteprima del suo contenuto. Questa anteprima mostra il numero di attività presenti nel modello, i ruoli di lavoro richiesti e altro ancora.
+* Il [!UICONTROL Nuovo progetto da modello] consente di selezionare facilmente il modello appropriato per il progetto. Scorri il pannello a sinistra per trovare un modello, quindi selezionalo per visualizzarne un’anteprima del contenuto. Questa anteprima mostra quante attività sono presenti nel modello, i ruoli richiesti e altro ancora.
 
 ![[!UICONTROL Nuovo progetto da modello] finestra](assets/planner-fund-new-project-from-template-window.png)
 
-* Se esiste un modello che utilizzi frequentemente, fallo preferito! Vedrai il modello elencato nella [!UICONTROL Nuovo progetto] oltre a essere visualizzato sotto [!UICONTROL Preferiti e recenti] nella barra di navigazione. Fai clic sull’icona a forma di stella preferita ovunque la trovi, nella pagina del modello, mentre scegli un modello con cui creare il progetto, ecc.
+* Se utilizzi spesso un modello, impostalo come preferito. Il modello riportato nell’elenco [!UICONTROL Nuovo progetto] , oltre a essere visualizzato sotto il [!UICONTROL Preferiti e recenti] nella barra di navigazione. Fai clic sull’icona a forma di stella preferita ovunque sia visibile (nella pagina del modello, scegliendo un modello con cui creare il progetto, ecc.).
 
-![[!UICONTROL Modelli preferiti] elenco sotto [!UICONTROL Nuovo progetto] pulsante](assets/planner-fund-template-favorites.png)
+![[!UICONTROL Modelli preferiti] elenco in [!UICONTROL Nuovo progetto] pulsante](assets/planner-fund-template-favorites.png)
 
 <!---
 learn more:

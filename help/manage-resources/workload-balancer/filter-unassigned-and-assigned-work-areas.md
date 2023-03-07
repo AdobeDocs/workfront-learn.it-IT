@@ -1,6 +1,6 @@
 ---
-title: Filtrare le aree di lavoro non assegnate e assegnate
-description: Scopri come regolare i tempi di esecuzione per entrambe le aree, filtrare l’elenco utenti nell’area di lavoro assegnata e filtrare l’area di lavoro non assegnata.
+title: Filtrare le aree Lavoro non assegnato e Lavoro assegnato
+description: Scopri come regolare gli intervalli di tempo per entrambe le aree, filtrare l’elenco di utenti nell’area di lavoro assegnata e filtrare l’area di lavoro non assegnata.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,19 +10,20 @@ team: Technical Marketing
 thumbnail: 335163.png
 kt: 8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187
-source-git-commit: c6c0e4405cd3151b5ad9a490dbeab237855dde29
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Filtrare le aree di lavoro non assegnate e assegnate
+# Filtrare le aree Lavoro non assegnato e Lavoro assegnato
 
 Questo video illustra come:
 
-* Regolare i fotogrammi temporali per le aree di lavoro assegnate e non assegnate
+* Regolare gli intervalli di tempo per le aree Lavoro assegnato e Lavoro non assegnato
 * Filtrare l’elenco di utenti nell’area Lavoro assegnato
-* Filtrare l’area di lavoro non assegnata
+* Filtrare l’area Lavoro non assegnato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12)

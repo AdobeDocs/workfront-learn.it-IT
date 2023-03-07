@@ -1,6 +1,6 @@
 ---
-title: Creare team
-description: Scopri come vengono utilizzati i team, come utilizzare i team interfunzionali e come creare i team per organizzare gli utenti e concedere le autorizzazioni.
+title: Creare i team
+description: Scopri come vengono utilizzati i team, come utilizzare i team cross-functional e come creare i team per organizzare gli utenti e concedere le autorizzazioni.
 feature: System Setup and Administration
 role: Admin
 level: Intermediate, Experienced
@@ -10,55 +10,56 @@ team: Technical Marketing
 thumbnail: 335071.png
 kt: 8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-# Creare team
+# Creare i team
 
-In questo video imparerai:
+Questo video illustra:
 
 * Utilizzo dei team
-* Come utilizzare i team interfunzionali
-* Creazione e associazione di team
+* Come utilizzare i team cross-functional
+* Come creare e associare i team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12)
 
-## Creazione di team
+## Creazione team
 
-È inoltre possibile creare team e stabilire le impostazioni tramite [!UICONTROL Team] area [!DNL Workfront].
+È inoltre possibile creare team e definire le impostazioni tramite il [!UICONTROL Team] area di [!DNL Workfront].
 
 1. Seleziona **[!UICONTROL Team]** dal **[!UICONTROL Menu principale]**.
 1. Seleziona **[!UICONTROL Crea team]**.
 1. Dai un nome alla squadra.
-1. Indicare se il team è un team Agile attivando l’interruttore .
-1. Associa il team a un [!DNL Workfront] se lo desideri.
-1. Aggiungi i membri del team.
+1. Indica se il team è un team Agile attivando l’interruttore.
+1. Associa il team a un [!DNL Workfront] gruppo, se desiderato.
+1. Aggiungi i membri del gruppo.
 1. Fai clic su **[!UICONTROL Crea]**.
 
-![Menu del team su [!UICONTROL Team] page](assets/admin-fund-create-team.png)
+![Menu Team su [!UICONTROL Team] pagina](assets/admin-fund-create-team.png)
 
-Una volta creato il team, modifica le impostazioni selezionando il team dall’elenco e facendo clic su [!UICONTROL Impostazioni team] sul lato destro della finestra.
+Una volta creato il team, modificane le impostazioni selezionando il team dall’elenco e facendo clic su [!UICONTROL Impostazioni team] sul lato destro della finestra.
 
-Regolare le impostazioni, ad esempio assegnare un modello di layout o aggiungere altri membri del team. Inoltre, puoi personalizzare la [!UICONTROL Lavorare] pulsante e pulsante Fine che il team vedrà sulla propria attività e rilascerà le assegnazioni di lavoro.
+Modificare le impostazioni, ad esempio assegnare un modello di layout, oppure aggiungere altri membri del team. Inoltre, è possibile personalizzare [!UICONTROL Lavoraci] e il pulsante Fine che questo team visualizzerà sulle assegnazioni di lavoro per attività e problemi.
 
 ![[!UICONTROL Modifica team] finestra](assets/admin-fund-team-settings.png)
 
-Per impostazione predefinita, la [!UICONTROL Lavorare] pulsante semplicemente dice [!DNL Workfront] sarà possibile lavorare sull&#39;attività senza modificare lo stato dell&#39;attività in corso (o uno stato equivalente). Per avere [!DNL Workfront] cambia automaticamente lo stato, cambia il [!UICONTROL Lavorare] a un pulsante [!UICONTROL Inizio] pulsante . Seleziona la casella nelle impostazioni del team.
+Per impostazione predefinita, il [!UICONTROL Lavoraci] pulsante comunica semplicemente [!DNL Workfront] lavorerai all’attività senza modificare lo stato dell’attività in In corso (o uno stato equivalente). Da avere [!DNL Workfront] cambia automaticamente lo stato, cambia il [!UICONTROL Lavoraci] pulsante a un [!UICONTROL Inizio] pulsante. È sufficiente selezionare la casella nelle impostazioni del team.
 
-Quando il [!UICONTROL Inizio] Fai clic su , lo stato dell’attività o del problema cambia da Nuovo quello selezionato nelle impostazioni del team. [!DNL Workfront] registra anche una data di inizio effettiva per l&#39;attività.
+Quando [!UICONTROL Inizio] Se si fa clic sul pulsante, lo stato dell’attività o del problema cambia da Nuovo a quello selezionato nelle impostazioni del team. [!DNL Workfront] registra anche una data di inizio effettiva per l&#39;attività.
 
-![[!UICONTROL Lavorare] sezione [!UICONTROL Modifica team] finestra](assets/admin-fund-start-button-team.png)
+![[!UICONTROL Lavoraci] sezione di [!UICONTROL Modifica team] finestra](assets/admin-fund-start-button-team.png)
 
-Assicurati di salvare eventuali modifiche al termine.
+Al termine, assicurati di salvare tutte le modifiche.
 
 
 >[!NOTE]
 >
->Puoi anche modificare le impostazioni di un team dalla [!UICONTROL Team] della sezione [!UICONTROL Configurazione] pagina.
+>Puoi anche modificare le impostazioni di un team dalla sezione [!UICONTROL Team] sezione del [!UICONTROL Configurazione] pagina.
 
 <!---
 learn more URLs

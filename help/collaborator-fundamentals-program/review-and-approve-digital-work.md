@@ -5,21 +5,22 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8808
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Rivedi e approva il lavoro digitale
+# Rivedere e approvare il lavoro digitale
 
 Questo video illustra come:
 
 * Trova approvazioni
 * Approvare progetti, attività e problemi
-* Approvare i documenti
-* Approvare le bozze
+* Approva i documenti
+* Approva le bozze
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
 

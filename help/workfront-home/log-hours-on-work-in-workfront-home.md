@@ -1,6 +1,6 @@
 ---
-title: Come registrare le ore sul lavoro in [!UICONTROL Pagina principale]
-description: Scopri come registrare il tempo delle assegnazioni di lavoro in [!DNL  Workfront]. Scopri perché potrebbe essere necessario un tempo di registrazione nell’organizzazione.
+title: Come registrare le ore sul lavoro in [!UICONTROL Home]
+description: Scopri come registrare il tempo sulle assegnazioni di lavoro in [!DNL  Workfront]. Scopri perché potrebbe essere necessario il tempo di registrazione nella tua organizzazione.
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,28 +10,29 @@ team: Technical Marketing
 thumbnail: 335103.png
 kt: 8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Orari di accesso al lavoro in [!DNL Workfront] [!UICONTROL Pagina principale]
+# Registra ore di lavoro in [!DNL Workfront] [!UICONTROL Home]
 
-In questo video imparerai:
+Questo video illustra:
 
 * Valore del tempo di registrazione
-* Come registrare l&#39;ora delle assegnazioni di lavoro
+* Come registrare il tempo sulle assegnazioni di lavoro
 
 >[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12)
 
-## Suggerimenti per l&#39;accesso alle ore di lavoro in [!DNL Home]
+## Suggerimenti per registrare le ore lavorative in [!DNL Home]
 
 Alcune opzioni relative al tempo di registrazione dipendono dalla configurazione di Workfront da parte dell’amministratore di sistema.
 
-* È possibile che l&#39;utente sia o meno in grado di registrare il tempo nei giorni successivi.
-* Potrebbe essere necessario selezionare un tipo di ora dal menu a discesa in modo da poter essere più specifici su come hai trascorso il tuo tempo. Questo tipo di ora può anche indicare se l&#39;ora è fatturabile o non fatturabile. Assicurati di selezionare il tipo di ora prima di inserire il tuo tempo cliccando sul [!UICONTROL Tempo di log] pulsante .
+* È possibile registrare o meno ore in giorni futuri.
+* Potrebbe essere necessario selezionare un tipo di ora dal menu a discesa in modo da essere più specifico su come hai trascorso il tuo tempo. Questo tipo di ora può anche indicare se il tempo era fatturabile o non fatturabile. Accertati di selezionare il tipo di ora prima di inserire l’ora facendo clic sul pulsante [!UICONTROL Tempo di connessione] pulsante.
 
 <!---
 learn more URLs

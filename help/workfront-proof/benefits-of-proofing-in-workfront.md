@@ -1,6 +1,6 @@
 ---
-title: Scopri i vantaggi della correzione
-description: Scopri cos’è la correzione e i vantaggi dell’utilizzo della correzione digitale in [!DNL  Workfront].
+title: Scopri i vantaggi delle prove
+description: Scopri cos’è la verifica e i vantaggi dell’utilizzo della verifica digitale in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,30 +10,31 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Scopri i vantaggi della correzione [!DNL Workfront]
+# Scopri i vantaggi delle prove [!DNL Workfront]
 
-In questo video imparerai:
+Questo video illustra:
 
-* Che cosa è la correzione?
-* Vantaggi della correzione digitale [!DNL Workfront]
+* Cosa sono le prove?
+* Vantaggi dell’utilizzo della verifica digitale in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12)
 
-## Terminologia di correzione
+## Terminologia di verifica
 
-Prima di immergerti nelle configurazioni di prova in [!DNL  Workfront], acquisisci familiarità con la terminologia specifica della bozza utilizzata. Questi termini vengono utilizzati frequentemente durante questa esercitazione.
+Prima di immergerti nelle impostazioni della bozza in [!DNL  Workfront], familiarizza con la terminologia specifica per la bozza utilizzata. In questa esercitazione vedrai questi termini utilizzati di frequente.
 
-* **Prova —** Versione digitale di un file che può essere rivisto, contrassegnato e approvato tramite [!DNL Workfront’s] visualizzatore di prove.
-* **Flusso di lavoro di prova —** Processo di creazione, routing e gestione di una bozza all&#39;interno di [!DNL Workfront]. I passaggi da seguire per completare queste azioni.
-* **Modello di prova o modello di flusso di lavoro automatizzato —** Passaggi del flusso di lavoro preformattati che possono essere applicati rapidamente a una bozza. Include revisori, approvatori, ruoli di bozza, avvisi e-mail e scadenze.
-* **Ruolo di prova —** Definisce le operazioni che un utente può eseguire con una bozza (ad esempio, commento, markup, approvazione, ecc.)
-* **Avviso e-mail —** Notifica in caso di attività sulla bozza.
-* **Utente di prova —** Qualcuno con un [!DNL Workfront] Pianificare o Licenza di lavoro che può caricare, rivedere, approvare, gestire, ecc., bozze digitali.
+* **Bozza —** Versione digitale di un file che può essere rivista, contrassegnata e approvata tramite [!DNL Workfront’s] visualizzatore bozze.
+* **Flusso di lavoro bozza —** Processo di creazione, indirizzamento e gestione di una bozza in [!DNL Workfront]. I passaggi seguiti per completare queste azioni.
+* **Modello di bozza o modello di flusso di lavoro automatizzato** Passaggi del flusso di lavoro preformattati che possono essere applicati rapidamente a una bozza. Includi revisori, approvatori, ruoli delle bozze, avvisi e-mail e scadenze.
+* **Ruolo bozza —** Definisce le operazioni che un utente può eseguire con una bozza (ad esempio, commento, markup, approvazione, ecc.)
+* **Avviso e-mail —** Notifica quando c’è attività sulla bozza.
+* **Utente bozza —** Qualcuno con un [!DNL Workfront] Licenza Pianifica o Lavoro per caricare, rivedere, approvare, gestire ecc. bozze digitali.
 

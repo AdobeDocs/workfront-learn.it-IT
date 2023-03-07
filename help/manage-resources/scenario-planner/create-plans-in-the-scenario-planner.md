@@ -1,6 +1,6 @@
 ---
 title: Come creare un piano in [!DNL Scenario Planner]
-description: Scopri come creare un piano nel [!DNL Scenario Planner].
+description: Scopri come creare un piano in [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -10,25 +10,26 @@ team: Technical Marketing
 thumbnail: 335318.jpeg
 kt: 9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
-source-git-commit: 89b5e66ad2b37c4e5d0bffcac7d5ad79facd8aa5
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# Crea piani in [!DNL Scenario Planner]
+# Creare piani in [!DNL Scenario Planner]
 
-In questo video imparerai a creare un piano nel [!DNL Scenario Planner].
+Questo video illustra come creare un piano in [!DNL Scenario Planner].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12)
 
-## Stimare le informazioni sul ruolo del lavoro per un piano
+## Stimare le informazioni sui ruoli per un piano
 
-Quando crei un piano, puoi stabilire se lo sforzo del ruolo di lavoro deve essere stimato in ETP o ore. L&#39;impostazione predefinita del sistema è FTE, ma può essere modificata quando si crea un piano.
+Durante la creazione di un piano, puoi stabilire se l’impegno per il ruolo deve essere stimato in FTE o ore. Il valore predefinito del sistema è FTE, ma può essere modificato durante la creazione di un piano.
 
-![Seleziona [!UICONTROL FTE] o [!UICONTROL Ore] in [!UICONTROL Nuovo piano] finestra](assets/scenario-planner-1.png)
+![Seleziona [!UICONTROL FTE] o [!UICONTROL Ore] nel [!UICONTROL Nuovo piano] finestra](assets/scenario-planner-1.png)
 
-Dopo la creazione del piano, tutti i numeri aggiunti per i ruoli di lavoro nel piano, gli scenari del piano ed eventuali iniziative vengono inseriti e visualizzati nel formato selezionato. Tale formato viene visualizzato nella parte superiore delle colonne che richiedono informazioni sul ruolo del lavoro.
+Dopo la creazione del piano, tutti i numeri aggiunti per le mansioni nel piano, gli scenari del piano ed eventuali iniziative vengono inseriti e visualizzati nel formato selezionato. Tale formato viene visualizzato nella parte superiore delle colonne che richiedono informazioni sul ruolo.
 
-![Visualizza informazioni in [!UICONTROL FTE] o [!UICONTROL Ore] in [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![Visualizza informazioni in [!UICONTROL FTE] o [!UICONTROL Ore] nel [!DNL Scenario Planner]](assets/scenario-planner-2.png)

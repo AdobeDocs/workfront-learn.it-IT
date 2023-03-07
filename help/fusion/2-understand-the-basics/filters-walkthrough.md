@@ -1,6 +1,6 @@
 ---
 title: Procedura dettagliata sui filtri
-description: Scopri come aggiungere un filtro tra i due moduli nei moduli [!DNL Adobe Workfront Fusion].
+description: Scopri come aggiungere un filtro tra i due moduli in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,47 +9,48 @@ role: User
 level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Procedura dettagliata sull’utilizzo del filtro potente
+# Utilizzo del filtro potente
 
 ## Panoramica
 
-Utilizzando l’esercizio di procedura dettagliata &quot;Oltre la mappatura di base&quot; creato in precedenza, aggiungi un filtro tra i due moduli nei moduli per creare solo progetti con un colore di progetto &quot;Rosso&quot; nell’elenco dei progetti.
+Utilizzando l’esercizio di procedura dettagliata &quot;Oltre la mappatura di base&quot; creato in precedenza, aggiungi un filtro tra i due moduli nei moduli per creare solo progetti con un colore di progetto &quot;Rosso&quot; nell’Elenco progetti.
 
-![Immagine dello scenario di fusione](assets/understand-the-basics-2.png)
+![Immagine dello scenario Fusion](assets/understand-the-basics-2.png)
 
 ## Procedura dettagliata sui filtri
 
-Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di cercare di ricreare l&#39;esercizio nel proprio ambiente.
+Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
 
 Questo video illustra come:
 
-* Aggiungere un filtro tra i due moduli nei moduli
+* Aggiungi un filtro tra i due moduli nei moduli
 
 >[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12)
 
 >[!TIP]
 >
->Per istruzioni dettagliate su come completare la procedura dettagliata, consulta [Procedura dettagliata sui filtri](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata sui filtri](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) esercizio fisico.
 
-## Il tuo turno
+## Tocca a te
 
 >[!NOTE]
 >
->Esercizi e sfide sono facoltativi e non sono necessari per completare la formazione sulla fusione.
+>Gli esercizi pratici e le sfide sono facoltativi e non sono necessari per completare la formazione su Fusion.
 
-Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
+Questo esercizio di esercitazione si basa su quanto appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 
-Modifica il filtro creato durante la procedura dettagliata dei filtri in modo da consentire solo i progetti &quot;Giallo&quot; e il punteggio di affidabilità è inferiore a 100 o con la parola &quot;fase&quot; nel nome del progetto e la data di inizio pianificata è nel 2021. Denomina il filtro &quot;Esercizio&quot;.
+Modifica il filtro creato durante la procedura dettagliata dei filtri per consentire solo i progetti &quot;gialli&quot; con un livello di affidabilità inferiore a 100 o il cui nome contiene la parola &quot;fase&quot; e la data di inizio pianificata è il 2021. Denomina il filtro &quot;Esercitazione filtro&quot;.
 
-**Sfida:** Prova a creare un filtro che consenta il passaggio solo ai progetti con un tasso di affidabilità uniforme. Hai bisogno di un suggerimento? Osserva le formule matematiche.
+**Sfida:** Prova a creare un filtro che consenta solo la trasmissione di progetti con un livello di affidabilità pari. Hai bisogno di un suggerimento? Osserva le formule matematiche.
 
-## Vuoi saperne di più? Si consiglia quanto segue:
+## Vuoi saperne di più? Consigliamo quanto segue:
 
 [Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

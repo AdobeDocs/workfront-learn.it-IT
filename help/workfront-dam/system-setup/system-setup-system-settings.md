@@ -1,6 +1,6 @@
 ---
-title: Comprendere le impostazioni di sistema in [!UICONTROL Workfront DAM]
-description: Scopri come stabilire le impostazioni globali, impostare le opzioni delle risorse, stabilire le impostazioni delle cartelle, eseguire le regole di download e visualizzare i rapporti e i registri di controllo in [!UICONTROL Workfront DAM].
+title: Informazioni sulle impostazioni di sistema in [!UICONTROL DAM WORKFRONT]
+description: Scopri come stabilire le impostazioni globali, impostare le opzioni delle risorse, stabilire le impostazioni delle cartelle, definire le regole di download e visualizzare i rapporti e i registri di controllo in [!UICONTROL DAM WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,7 +9,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,10 +21,10 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Stabilire impostazioni globali
-* Impostare le opzioni che interessano le risorse
+* Stabilire le impostazioni globali
+* Impostare le opzioni che influiscono sulle risorse
 * Stabilire le impostazioni che interessano le cartelle
-* Regole relative ai download
-* Visualizzare rapporti e registri di controllo
+* Creare regole relative ai download
+* Visualizzare rapporti e registri di audit
 
 >[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12)

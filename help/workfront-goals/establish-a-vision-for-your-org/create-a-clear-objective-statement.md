@@ -1,6 +1,6 @@
 ---
-title: Definire ed esprimere l'obiettivo o l'obiettivo finale
-description: Scopri come creare una dichiarazione oggettiva chiara, o Intent del Comandante, e scrivere obiettivi aziendali o organizzativi forti.
+title: Definire ed esprimere l’obiettivo o l’obiettivo finale
+description: Scopri come creare una chiara dichiarazione di obiettivi, o Intento del comandante, e scrivere obiettivi aziendali o organizzativi solidi.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,19 +9,20 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
-# Definire ed esprimere l&#39;obiettivo
+# Definire ed esprimere l’obiettivo
 
 Questo video illustra come:
 
-* Creare una dichiarazione oggettiva chiara o l&#39;intento del comandante
-* Scrivere obiettivi aziendali o organizzativi forti
+* Creare una dichiarazione di finalità chiara o Intento del comandante
+* Scrivi obiettivi aziendali o organizzativi forti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12)
 
@@ -29,22 +30,22 @@ Questo video illustra come:
 Your turn graphic
 -->
 
-## Formulare l&#39;intenzione del tuo comandante
+## Formulare l&#39;intento del comandante
 
-Lo scopo di questo passaggio è quello di indicare l&#39;obiettivo o l&#39;obiettivo finale desiderato. Creando una dichiarazione chiara che definisca i pilastri strategici della tua visione, stabilirai gli obiettivi a cui i tuoi team possono allinearsi. Come leader, scrivi una dichiarazione che esprima l&#39;obiettivo finale e il risultato desiderato.
+Lo scopo di questo passaggio è quello di indicare l&#39;obiettivo o l&#39;obiettivo finale desiderato. Creando una dichiarazione chiara che definisca i pilastri strategici della tua visione, potrai stabilire gli obiettivi a cui i tuoi team possono allinearsi. In qualità di leader, scrivi una dichiarazione che esprime l’obiettivo finale e il risultato desiderato.
 
-Questa affermazione è un risultato non tecnico, il che significa che viene eseguita come best practice comportamentali al di fuori del contesto del software. Serve come espressione della vostra visione, come leader, al vostro popolo e alle vostre squadre. Questa dichiarazione dovrebbe delineare gli obiettivi di primo livello che si adattano alla visione.
+Questa dichiarazione è un risultato finale non tecnico, ovvero viene eseguita come best practice comportamentale al di fuori del contesto del software. Serve come espressione della tua visione, come leader, per il tuo popolo e i tuoi team. Questa dichiarazione deve delineare gli obiettivi principali in base alla visione.
 
-Questa affermazione si articola in quattro parti. Affrontare ogni parte in modo indipendente aiuta a rendere chiaro e diretto l&#39;intento del comandante.
+Questa istruzione è composta da quattro parti. Rivolgersi a ciascuna parte in modo indipendente aiuta a rendere chiaro e diretto l&#39;intento del comandante.
 
-**Parte 1: Un chiaro risultato del raggiungimento del nostro scopo sembra..**
-Il completamento di questa frase fornisce il massimo livello di guida alle persone e ai team. Questa dichiarazione sarà più focalizzata della vostra missione e delle vostre dichiarazioni visive, ma probabilmente condivide alcuni toni comuni. Descrivi l&#39;aspetto del successo per il tuo team.
+**Parte 1: Un chiaro risultato nel raggiungere il nostro scopo sembra...**
+Il completamento di questa frase fornisce il massimo livello di guida ai tuoi team e alle tue persone. Questa dichiarazione sarà più mirata rispetto alle tue affermazioni sulla missione e sulla visione, ma probabilmente ha alcuni toni comuni. Descrivi l’aspetto del successo del tuo team.
 
 **Parte 2: La cosa più importante che questa squadra può fare è...**
-Completare questa frase è la base della definizione delle priorità. Ci si aspetta chiaramente che, quando tutto si riduce a questo, ci sia una cosa più importante da realizzare. Questo risultato finale è più che probabile il culmine del raggiungimento di molti obiettivi (come lancio di un nuovo prodotto, rebranding della tua azienda, ingresso in un nuovo mercato, ecc.).
+Il completamento di questa frase è alla base della definizione delle priorità. Stabilisce chiare aspettative che, quando si tratta di tutto, c&#39;è un&#39;unica cosa più importante da realizzare. Questo risultato finale rappresenta più che probabilmente il culmine del raggiungimento di molti obiettivi (ad esempio il lancio di un nuovo prodotto, il rebranding dell’azienda, l’ingresso in un nuovo mercato, ecc.).
 
-**Parte 3: La squadra raggiungerà il loro obiettivo entro...**
-Quando si completa questa frase, si comincia davvero a impostare i propri pilastri strategici. È probabile che questi siano gli obiettivi principali da raggiungere per ottenere il risultato finale.
+**Parte 3: Il team raggiungerà il loro obiettivo entro...**
+Quando si completa questa frase, si inizia veramente a impostare i propri pilastri strategici. Questi saranno probabilmente gli obiettivi principali da raggiungere per ottenere il risultato finale.
 
 **Parte 4: I nostri vincoli operativi includono...**
-Il completamento di questa istruzione indica gli indicatori chiave del successo, come misurerai il tuo progresso e quali risultati devono essere raggiunti per considerare il successo. Definisci quali sfide e rischi il tuo team deve prendere in considerazione. Identificare questi vincoli ti aiuterà a decidere se l&#39;obiettivo è un go o no.
+Il completamento di questa dichiarazione indica gli indicatori chiave del successo, il modo in cui misurerai i tuoi progressi e quali risultati devono essere raggiunti per considerare i successi ottenuti. Definisci le sfide e i rischi da considerare per il tuo team. L’identificazione di questi vincoli ti aiuterà a decidere se l’obiettivo è andare o no.

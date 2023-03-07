@@ -1,6 +1,6 @@
 ---
-title: Contrassegna lavoro assegnato come completato in [!UICONTROL Pagina principale]
-description: Scopri come modificare lo stato di un’attività o un problema assegnato per indicare che è completo tramite [!UICONTROL Elenco lavori]. Quindi filtra l’elenco per visualizzare solo il lavoro completato.
+title: Contrassegna lavoro assegnato come completato in [!UICONTROL Home]
+description: Scopri come modificare lo stato di un’attività o di un problema assegnato per indicarne il completamento tramite [!UICONTROL Elenco lavori]. Quindi filtra l’elenco per visualizzare solo il lavoro completato.
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,28 +10,29 @@ team: Technical Marketing
 thumbnail: 335104.png
 kt: 8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Usa stato per indicare il completamento del lavoro in [!DNL Workfront] [!UICONTROL Pagina principale]
+# Utilizzare lo stato per indicare il completamento del lavoro in [!DNL Workfront] [!UICONTROL Home]
 
-In questo video imparerai:
+Questo video illustra:
 
-* Come comunicare l&#39;avanzamento del lavoro con lo stato
+* Come comunicare lo stato di avanzamento del lavoro
 * Perché lo stato è importante in [!DNL  Workfront]
-* Come filtrare il [!UICONTROL Elenco lavori] per vedere il lavoro completato
+* Come filtrare il [!UICONTROL Elenco lavori] per visualizzare il lavoro completato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12)
 
 
 ## Altri due modi per indicare il completamento del lavoro
 
-* Modificare la [!UICONTROL Stato] menu a discesa Completa.
-* Aggiorna [!UICONTROL percentuale di completamento] al 100%. In questo modo lo stato viene modificato automaticamente in Completa.
+* Modificare il [!UICONTROL Stato] menu a discesa per completare.
+* Aggiornare il [!UICONTROL percentuale di completamento] al 100%. Lo stato viene modificato automaticamente in Completo.
 
 <!---
 learn more URLs

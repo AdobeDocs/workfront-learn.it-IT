@@ -10,7 +10,8 @@ role: Admin
 thumbnail: 335080.jpeg
 kt: 8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
@@ -21,8 +22,8 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Passare alle assegnazioni
+* Passa ad assegnazioni
 * Assegnare modelli di layout a utenti, gruppi o team
-* Controllare chi può gestire l&#39;accesso ai modelli di layout
+* Controlla chi può gestire l’accesso ai modelli di layout
 
 >[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12)

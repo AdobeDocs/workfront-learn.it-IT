@@ -10,7 +10,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -19,10 +20,10 @@ ht-degree: 0%
 
 # Creare un filtro di base
 
-In questo video imparerai:
+Questo video illustra:
 
-* Filtro in Workfront
-* Come creare e modificare un filtro
-* Come condividere un filtro con altri utenti Workfront
+* Che cos’è un filtro in Workfront
+* Creare e modificare un filtro
+* Come condividere un filtro con altri utenti di Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12)

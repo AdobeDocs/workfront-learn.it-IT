@@ -1,6 +1,6 @@
 ---
-title: Comprendere la visione dietro [!UICONTROL Obiettivi di Workfront]
-description: Scopri [!DNL Workfront Goals] in [!DNL  Workfront] dal team di prodotto.
+title: Comprendere la visione che sta dietro [!UICONTROL Obiettivi Workfront]
+description: Informazioni su [!DNL Workfront Goals] in [!DNL  Workfront] dal team di prodotto.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,14 +9,15 @@ level: Beginner
 team: Technical Marketing
 kt: 8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '27'
 ht-degree: 3%
 
 ---
 
-# Comprendere la visione dietro gli obiettivi di Workfront
+# Comprendere la visione alla base degli obiettivi di Workfront
 
 Questo video illustra:
 

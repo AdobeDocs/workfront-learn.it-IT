@@ -1,6 +1,6 @@
 ---
-title: Rivedi lavoro digitale e approva
-description: Scopri come trovare ed eseguire approvazioni per progetti, attività, problemi, documenti e bozze in [!DNL  Workfront].
+title: Rivedi il lavoro digitale e approva il lavoro
+description: Scopri come trovare e approvare progetti, attività, problemi, documenti e bozze in [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -10,21 +10,22 @@ level: Intermediate
 team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Rivedi lavoro digitale e approva
+# Rivedi il lavoro digitale e approva il lavoro
 
 Questo video illustra come:
 
-* Trova approvazioni in [!DNL  Workfront]
+* Trovare le approvazioni in [!DNL  Workfront]
 * Approvare progetti, attività e problemi
-* Approvare i documenti
-* Approvare le bozze
+* Approva i documenti
+* Approva le bozze
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
 

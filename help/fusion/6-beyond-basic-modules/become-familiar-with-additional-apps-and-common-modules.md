@@ -1,6 +1,6 @@
 ---
-title: Acquisisci familiarità con altre app e moduli comuni
-description: Scopri cosa sono gli attivatori, le azioni e le ricerche e come funzionano i tipi di moduli trovati nei diversi connettori app in [!DNL Adobe Workfront Fusion].
+title: Acquisisci familiarità con le app aggiuntive e i moduli comuni
+description: Scopri cosa sono i trigger, le azioni e le ricerche e come funzionano i tipi di moduli presenti nei diversi connettori dell’app in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,38 +9,39 @@ role: User
 level: Beginner
 kt: 9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Acquisisci familiarità con altre app e moduli comuni
+# Acquisisci familiarità con le app aggiuntive e i moduli comuni
 
 ## Promemoria sui tipi di modulo
 
-### Moduli trigger
+### Moduli di attivazione
 
 Può essere utilizzato solo come primo modulo e può restituire zero, uno o più bundle che verranno elaborati singolarmente nei moduli successivi, a meno che non siano aggregati.
 
-* **Trigger istantaneo** (fulmine a impulso) - Attivazione immediata in base al webhook.
-* **Trigger pianificato** (Orologio al trigger) - Funzionalità speciali per tenere traccia dell&#39;ultimo record elaborato.
+* **Trigger istantaneo** (Fulmine sul trigger) - Attivato immediatamente in base al webhook.
+* **Trigger pianificato** (Clock on Trigger) - Funzionalità speciali per tenere traccia dell&#39;ultimo record elaborato.
 
 ![Immagine dei moduli di attivazione](assets/beyond-basic-modules-1.png)
 
 ### Azioni e moduli di ricerca
 
-* **Azione** — Utilizzato per eseguire operazioni CRUD (creazione, lettura, aggiornamento ed eliminazione).
-* **Ricerche** — Utilizzato per cercare zero, uno o più record e restituisce questi come bundle che verranno elaborati singolarmente nei moduli successivi, a meno che non aggregati.
+* **Azione** — Utilizzato per eseguire operazioni CRUD (Create, Read, Update, Delete, Crea, Leggi, Aggiorna ed Elimina).
+* **Ricerche** — Utilizzato per cercare zero, uno o più record e restituisce questi come bundle che verranno elaborati singolarmente nei moduli successivi, a meno che non siano aggregati.
 
 ![Immagine dei moduli di azione e di ricerca](assets/beyond-basic-modules-2.png)
 
-### Acquisisci familiarità con altre app e moduli comuni
+### Acquisisci familiarità con le app aggiuntive e i moduli comuni
 
-In questo video imparerai:
+Questo video illustra:
 
-* Quali attivatori, azioni e ricerche sono e come differiscono
-* Tipi di moduli trovati in diversi connettori app e loro funzionamento
+* Che cosa sono i trigger, le azioni e le ricerche e come differiscono
+* Tipi di moduli presenti nei diversi connettori dell’app e modo in cui funzionano
 
 >[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12)

@@ -1,6 +1,6 @@
 ---
 title: Creare un’attività filtro di base
-description: In questa attività verrà creato un filtro di progetto denominato "Progetti che ho chiuso questo mese".
+description: In questa attività creerai un filtro per progetti denominato "Progetti di cui sono Proprietario che chiudono questo mese".
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg
@@ -10,7 +10,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Creare un’attività filtro di base
 
-In questo video, creerai un filtro di progetto denominato &quot;Progetti che ho chiuso questo mese&quot;. Se tieni d’occhio molti progetti, questo filtro può aiutarti a ingrandire quelli che sono pianificati per chiudersi presto.
+Questo video illustra come creare un filtro per i progetti denominato &quot;Progetti di cui sono Proprietario - Chiusura di questo mese&quot;. Se stai tenendo d’occhio molti progetti, questo filtro può aiutarti a ingrandire quelli che si prevede di chiudere a breve.
 
 Le istruzioni dettagliate sono incluse di seguito.
 
@@ -27,21 +28,21 @@ Le istruzioni dettagliate sono incluse di seguito.
 
 ## Risposta
 
-![Immagine della schermata per creare un nuovo filtro](assets/basic-filter-activity-updated-6-15-21.png)
+![Immagine dello schermo per creare un nuovo filtro](assets/basic-filter-activity-updated-6-15-21.png)
 
-1. Passa a [!UICONTROL Progetti] dalla [!UICONTROL Menu principale]. Viene visualizzato un elenco di progetti.
-1. Fai clic sul pulsante **[!UICONTROL Filtro]** menu e seleziona **[!UICONTROL Nuovo filtro]**.
-1. Denomina il filtro &quot;Progetti che possiedo Chiusura questo mese&quot;.
-1. Fai clic su **[!UICONTROL Aggiungi regola filtro]**.
-1. In [!UICONTROL Inizia a digitare il nome del campo] campo, digitare &quot;proprietario&quot;. Quindi seleziona [!UICONTROL ID proprietario] in [!UICONTROL Progetto] origine del campo.
-1. Lascia la [!UICONTROL Uguale] l&#39;operatore così com&#39;è.
-1. Digitare &quot;$$&quot; nel campo Nome digitato iniziale.
-1. Seleziona [!UICONTROL $$USER.ID]. Questo è il carattere jolly per l&#39;utente connesso.
-1. Fai clic su [!UICONTROL Aggiungi regola filtro] di nuovo.
-1. In [!UICONTROL Inizia a digitare il nome del campo] inizia a digitare &quot;È completo&quot;. Quindi seleziona [!UICONTROL Completa] nell’origine del campo Progetto.
-1. Lascia la [!UICONTROL Uguale] l&#39;operatore così com&#39;è.
+1. Accedi a [!UICONTROL Progetti] area da [!UICONTROL Menu principale]. Qui viene visualizzato un elenco di progetti.
+1. Fai clic su **[!UICONTROL Filtro]** menu e seleziona **[!UICONTROL Nuovo filtro]**.
+1. Denomina il filtro &quot;Progetti di cui sono Proprietario - Chiusura di questo mese&quot;.
+1. Clic **[!UICONTROL Aggiungi regola filtro]**.
+1. In [!UICONTROL Inizia a digitare il nome del campo] , digitare &quot;owner&quot;. Quindi seleziona [!UICONTROL ID proprietario] sotto [!UICONTROL Progetto] origine del campo.
+1. Lascia [!UICONTROL Uguale] dell&#39;operatore.
+1. Digita &quot;$$&quot; nel campo Inizia a digitare il nome.
+1. Seleziona [!UICONTROL $$USER.ID]. Carattere jolly per l&#39;utente connesso.
+1. Clic [!UICONTROL Aggiungi regola filtro] di nuovo.
+1. In [!UICONTROL Inizia a digitare il nome del campo] , inizia a digitare &quot;È completo&quot;. Quindi seleziona [!UICONTROL E&#39; Completo] nel campo Origine progetto.
+1. Lascia [!UICONTROL Uguale] dell&#39;operatore.
 1. Selezionare &quot;False&quot;.
-1. Fai clic su [!UICONTROL Aggiungi regola filtro] di nuovo.
-1. In [!UICONTROL Inizia a digitare il nome del campo] tipo di campo &quot;pianificato&quot;, quindi selezionare [!UICONTROL Data completamento pianificata] in [!UICONTROL Progetto] origine del campo.
-1. Modificare la [!UICONTROL Uguale] operatore a [!UICONTROL Questo mese].
-1. Fai clic su **[!UICONTROL Salva filtro]**
+1. Clic [!UICONTROL Aggiungi regola filtro] di nuovo.
+1. In [!UICONTROL Inizia a digitare il nome del campo] tipo di campo &quot;scheduled&quot; (pianificato), quindi seleziona [!UICONTROL Data di completamento Pianificata] sotto [!UICONTROL Progetto] origine del campo.
+1. Modificare il [!UICONTROL Uguale] operatore a [!UICONTROL Questo mese].
+1. Clic **[!UICONTROL Salva filtro]**

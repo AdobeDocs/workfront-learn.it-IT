@@ -1,6 +1,6 @@
 ---
 title: Creare gruppi e sottogruppi
-description: Scopri come utilizzare gruppi e sottogruppi per l’organizzazione degli utenti e le autorizzazioni per il funzionamento. Scopri come creare un gruppo e sottogruppi.
+description: Scopri come utilizzare gruppi e sottogruppi per l’organizzazione degli utenti e le autorizzazioni per lavorare. Scopri come creare un gruppo e dei sottogruppi.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,7 +10,8 @@ level: Intermediate, Experienced
 thumbnail: 335070.png
 kt: 8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%
@@ -23,33 +24,33 @@ Questo video illustra come:
 
 * Usa gruppi
 * Aggiungi un gruppo
-* Associare un gruppo
+* Associa un gruppo
 * Creare e associare sottogruppi
 
 >[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12)
 
-## Amministratori di gruppo
+## Amministratori di gruppi
 
-Se sei l’amministratore di sistema di una grande azienda o di una società con molti utenti Workfront, mantenere le impostazioni Workfront per ogni gruppo e sottogruppo può richiedere molto tempo.
+Se sei l’amministratore di sistema per una società di grandi dimensioni o per una società che dispone di molti utenti di Workfront, la gestione delle impostazioni di Workfront per ciascun gruppo e sottogruppo può richiedere tempo.
 
-L’assegnazione di amministratori di gruppo che possono eseguire alcune funzioni amministrative per i propri gruppi in Workfront consente di bilanciare il carico quando si tratta di aggiornare e mantenere il sistema.
+La nomina di amministratori di gruppi che possono eseguire alcune funzioni amministrative per i propri gruppi in Workfront consente di bilanciare il carico di lavoro durante l&#39;aggiornamento e la manutenzione del sistema.
 
-Gli amministratori dei gruppi tendono a essere più in linea con le sfide quotidiane del loro gruppo, in modo da poter gestire le esigenze del gruppo. In questo modo, in qualità di amministratore di sistema, puoi concentrarti sulle configurazioni Workfront che avvantaggiano la tua organizzazione nel suo complesso.
+Gli amministratori di gruppi tendono a essere più in sintonia con le sfide quotidiane del loro gruppo, in modo da poter gestire le esigenze del gruppo. Questo consente all’amministratore di sistema di concentrarsi sulle configurazioni di Workfront a vantaggio dell’organizzazione nel suo complesso.
 
-Alcune delle operazioni che gli amministratori dei gruppi possono eseguire in Workfront includono:
+Alcune delle operazioni che gli amministratori dei gruppi possono eseguire in Workfront sono le seguenti:
 
 * Creare sottogruppi e aggiungere utenti ai sottogruppi.
-* Creare modelli di layout per il gruppo.
+* Crea modelli di layout per il gruppo.
 * Crea processi di approvazione per il gruppo.
-* Crea stati del flusso di lavoro a livello di gruppo.
-* Accedi a progetti, programmi e portfolio associati al gruppo dalla pagina del gruppo.
-* Gestione delle preferenze relative a progetti, attività ed problemi a livello di gruppo.
-* Consente di gestire le preferenze della scheda attività a livello di gruppo.
-* Gestione delle notifiche degli eventi a livello di gruppo.
-* Accedi come altri membri del gruppo.
-* Assegna un business leader al gruppo.
-* Gestisci un&#39;azienda.
+* Creare stati del flusso di lavoro a livello di gruppo.
+* Dalla pagina del gruppo è possibile accedere a progetti, programmi e portfolio associati al gruppo.
+* Gestisci le preferenze per progetti, attività e problemi a livello di gruppo.
+* Gestisci le preferenze delle schede orario a livello di gruppo.
+* Gestisci le notifiche degli eventi a livello di gruppo.
+* Accedere come altri membri del gruppo.
+* Assegna un Business Leader al gruppo.
+* Gestire un’azienda.
 
-In qualità di amministratore di sistema o di gruppo, è possibile creare sottogruppi all’interno dei gruppi e sottogruppi gestiti. A tali sottogruppi possono essere assegnati gli amministratori di gruppo.
+In qualità di amministratore di sistema o di gruppo, puoi creare sottogruppi all’interno dei gruppi e dei sottogruppi amministrati. A tali sottogruppi possono essere assegnati i propri amministratori di gruppo.
 
-**Nota**: Esiste un limite di 14 livelli di sottogruppi in un gruppo.
+**Nota**: esiste un limite di 14 livelli di sottogruppi sotto un gruppo.

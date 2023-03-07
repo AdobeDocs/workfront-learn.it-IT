@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335134.png
 kt: 8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -23,27 +24,27 @@ Questo video illustra come:
 
 * Genera una bozza di un documento già in [!DNL Workfront]
 * Aggiungi un flusso di lavoro durante la generazione della bozza
-* Aggiungi o modifica un flusso di lavoro dopo la creazione della bozza
+* Aggiungere o modificare un flusso di lavoro dopo la creazione della bozza
 
 >[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12)
 
 
 ## Chi può caricare i documenti?
 
-L&#39;amministratore di sistema determina in quale formato, documento o bozza, è possibile caricare i file [!DNL Workfront]. Alcuni utenti possono caricare solo documenti, alcuni solo bozze di caricamento o altri caricare entrambi. Le tue autorizzazioni si basano sul tuo ruolo nel flusso di lavoro di correzione.
+L&#39;amministratore di sistema determina il formato (documento o bozza) in cui è possibile caricare i file [!DNL Workfront]. Alcuni utenti potrebbero caricare solo documenti, altri solo bozze o altri ancora entrambi. Le autorizzazioni dipendono dal ruolo svolto nel flusso di lavoro di verifica.
 
-Per modificare queste impostazioni, rivolgiti all’amministratore di sistema.
+Se ritieni che queste impostazioni debbano essere regolate, contatta l’amministratore di sistema.
 
-## Il tuo turno
+## Tocca a te
 
 >[!IMPORTANT]
 >
->Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una prova nell’ambito del tuo training Workfront.
+>Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte del tuo corso di formazione su Workfront.
 
-1. Apri un progetto, un&#39;attività o un problema e vai alla sezione Documenti. Carica due o tre documenti.
-1. Ora converti uno dei documenti in una bozza ma non aggiungi ancora un flusso di lavoro di correzione.
-1. Converti il secondo documento in una bozza, aggiungendo un flusso di lavoro di base con una scadenza fissata alle 16.00.
-1. Torna alla bozza creata al passaggio 2 di questo esercizio e aggiungi un modello di flusso di lavoro della bozza. Se la tua organizzazione non ne dispone ancora, configura un flusso di lavoro a prova di 2 fasi da zero.
+1. Apri un progetto, un’attività o un problema e passa alla sezione Documenti. Carica due o tre documenti.
+1. Ora converti uno dei documenti in una bozza, ma non aggiungi ancora un flusso di lavoro di bozza.
+1. Converti il secondo documento in una bozza, aggiungendo un flusso di lavoro di base con scadenza oggi alle 16.
+1. Torna alla bozza creata nel passaggio 2 di questo esercizio e aggiungi un modello di flusso di lavoro per la bozza. Se la tua organizzazione non ne ha ancora una, imposta un flusso di lavoro di bozza in due fasi da zero.
 
 
 <!--

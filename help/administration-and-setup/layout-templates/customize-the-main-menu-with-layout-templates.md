@@ -1,6 +1,6 @@
 ---
 title: Personalizzare [!UICONTROL Menu principale] con modelli di layout
-description: Scopri come utilizzare un modello di layout per personalizzare il [!UICONTROL Menu principale].
+description: Scopri come utilizzare un modello di layout per personalizzare [!UICONTROL Menu principale].
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -10,7 +10,8 @@ type: Tutorial
 thumbnail: 335073.jpeg
 kt: 8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -21,8 +22,8 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Imposta la [!UICONTROL Menu principale]
-* Rimuovi elementi dal [!UICONTROL Menu principale]
+* Configurare [!UICONTROL Menu principale]
+* Rimuovi elementi da [!UICONTROL Menu principale]
 * Aggiungi elementi al [!UICONTROL Menu principale]
 
 

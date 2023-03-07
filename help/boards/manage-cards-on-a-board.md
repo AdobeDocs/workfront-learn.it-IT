@@ -1,6 +1,6 @@
 ---
-title: Gestione delle schede su una bacheca
-description: Scopri come riorganizzare, copiare, archiviare, eliminare e scollegare le schede su una bacheca.
+title: Gestire le schede su una bacheca
+description: Scopri come riorganizzare, copiare, archiviare, eliminare e disconnettere le schede su una bacheca.
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -8,15 +8,17 @@ team: Technical Marketing
 kt: 10812
 role: User, Leader
 level: Beginner
-source-git-commit: 9d114af1c4b0f60392dbb03f6a90e654f6ba3c32
+doc-type: video
+exl-id: 26f37808-f9b4-47b6-8dbb-869eb3a8d9c9
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Gestione delle schede su una bacheca
+# Gestire le schede su una bacheca
 
-Scopri come riorganizzare, copiare, archiviare, eliminare e scollegare le schede su una bacheca.
+Scopri come riorganizzare, copiare, archiviare, eliminare e disconnettere le schede su una bacheca.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346810)
