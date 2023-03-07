@@ -1,8 +1,8 @@
 ---
 title: Tutorials Workfront
-description: Una libreria di video di formazione e articoli progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Included è una raccolta di best practice, esercitazioni curate e altre risorse che aiuteranno sia voi che la vostra organizzazione ad avere successo con Workfront.
+description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Inclusa è una raccolta di best practice, esercizi curati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Tutorials Workfront {#overview}
 
-Una libreria di video di formazione e articoli progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Included è una raccolta di best practice, esercitazioni curate e altre risorse che aiuteranno sia voi che la vostra organizzazione ad avere successo con Workfront.
+Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Inclusa è una raccolta di best practice, esercizi curati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12)
 
@@ -22,16 +22,28 @@ See other user landing pages to get ideas.
 
 -->
 
-## Novità
+<div id="whats-new-section">
 
-Scopri gli ultimi aggiornamenti apportati alle esercitazioni per ogni versione del prodotto Workfront. Ecco cosa è stato aggiornato con l’ultima versione:
+## Quali sono le novità?
 
-* L’icona dei preferiti e dei recenti era separata nella navigazione superiore in Workfront. Una breve sintesi di ciascuno è disponibile nella sezione <a href="/help/manage-work/projects/find-projects.md">Trova progetti</a> esercitazione.
+Scopri gli ultimi aggiornamenti apportati ai tutorial per ogni versione di Workfront. Ecco cosa è stato aggiornato con l’ultima versione:
 
-* Configurare un modulo personalizzato per l’utilizzo con più tipi di oggetto. Scopri come in <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">creare e condividere un modulo personalizzato</a> esercitazione.
+* L&#39;icona dei preferiti e quella dei recenti erano separate nella navigazione superiore in Workfront. Un breve riepilogo di ciascuna è disponibile nella sezione <a href="/help/manage-work/projects/find-projects.md">Trova Progetti</a> esercitazione.
 
+* Configurare un modulo personalizzato per l&#39;utilizzo con più tipi di oggetto. Scopri come nella <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">creare e condividere un modulo personalizzato</a> esercitazione.
 
-## Scelte dello staff
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+
+## Scelte del personale
 
 <table>
   <tr>
@@ -76,3 +88,5 @@ Scopri gli ultimi aggiornamenti apportati alle esercitazioni per ogni versione d
     </td>
   </tr>
 </table>
+
+</div>
