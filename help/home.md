@@ -2,7 +2,7 @@
 title: Tutorials Workfront
 description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Inclusa è una raccolta di best practice, esercizi curati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Scopri gli ultimi aggiornamenti apportati ai tutorial per ogni versione di Workf
 
 ## Scelte del personale
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ Scopri gli ultimi aggiornamenti apportati ai tutorial per ogni versione di Workf
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Trovare e creare modelli di layout</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Scopri come creare un modello di layout di base.
+         <em>Scopri come creare un modello di layout di base.</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ Scopri gli ultimi aggiornamenti apportati ai tutorial per ogni versione di Workf
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Fai una richiesta</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Scopri come effettuare, visualizzare e modificare le richieste.
+         <em>Scopri come effettuare, visualizzare e modificare le richieste.</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ Scopri gli ultimi aggiornamenti apportati ai tutorial per ogni versione di Workf
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Creare un rapporto semplice</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Scopri come creare un semplice rapporto personalizzato.
+         <em>Scopri come creare un semplice rapporto personalizzato.</em>
       </p>
     </td>
   </tr>
