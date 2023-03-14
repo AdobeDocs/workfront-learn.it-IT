@@ -70,7 +70,7 @@ L’opzione finale consiste nel disattivare completamente le notifiche e-mail.
 
 ![Notifica selezionata disattivata in [!UICONTROL Modifica persona] finestra](assets/admin-fund-user-notifications-09.png)
 
-Se decidi di eseguire questa operazione, tieni presente che anche se non ricevi e-mail, il lavoro viene ancora assegnato, commentato e aggiornato in [!DNL Workfront]. Disattivando tutte le notifiche, potresti perdere informazioni importanti di cui hai bisogno per essere a conoscenza.
+Se decidi di eseguire questa operazione, tieni presente che anche se non ricevi e-mail, il lavoro viene ancora assegnato, commentato e aggiornato in [!DNL Workfront]. Disattivando tutte le notifiche, potresti perdere informazioni importanti di cui hai bisogno.
 
 Ci sono alcune istanze quando [!DNL Workfront] ha visto gli utenti disattivare le notifiche e-mail. Ad esempio, se esegui la maggior parte del lavoro attraverso [!DNL Workfront] app mobile, puoi disattivare le notifiche e-mail e ricevere le notifiche solo tramite l’app.
 
