@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2380'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [Creare gruppi e sottogruppi](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Comprendere la necessità di un&#39;amministrazione di gruppo](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [Creare aziende](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Impostare gli utenti con licenze, livelli di accesso e ruoli di lavoro](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Configurazione di utenti con licenze e livelli di accesso](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Creare e gestire ruoli di lavoro](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Accedi come altro utente](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Gestire gli elementi eliminati {#manage-deleted-items}
       + [Ripristinare gli oggetti dal cestino](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
@@ -467,7 +468,7 @@ ht-degree: 2%
 
 
 
-+ Bozza Workfront {#workfront-proof}
++ Workfront Proof {#workfront-proof}
    + [Scopri i vantaggi della correzione](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Comprendere la differenza tra un documento e una bozza](workfront-proof/document-vs-proof.md)
    + [Informazioni sui visualizzatori di correzione](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -617,7 +618,7 @@ ht-degree: 2%
    + [Anteprima sandbox](best-practices/preview-sandbox-bp.md)
    + [Preferenze relative a progetti, attività ed problemi](best-practices/project-task-issue-preferences-bp.md)
    + [Modelli di progetto](best-practices/project-templates-bp.md)
-   + [Bozza Workfront](best-practices/proofing-bp.md)
+   + [Workfront Proof](best-practices/proofing-bp.md)
    + [Coda di richiesta](best-practices/request-queues-bp.md)
    + [Pianificazione risorse](best-practices/resource-planner-bp.md)
    + [Gruppi di risorse](best-practices/resource-pools-bp.md)
