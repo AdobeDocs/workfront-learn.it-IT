@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Di seguito sono riportati alcuni aspetti da considerare prima di copiare gli obi
 
    ![Un&#39;immagine del [!UICONTROL Dettagli obiettivo] pannello in [!DNL Workfront Goals] con [!UICONTROL Copia] opzione](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Fai clic su **[!UICONTROL Attiva]**, che aggiorna lo stato dell’obiettivo su Attivo. L’obiettivo deve avere un’attività associata o un risultato per poter &quot;attivare&quot;.
+1. Fai clic sull’icona a 3 punti, quindi seleziona  **[!UICONTROL Attiva]**, che aggiorna lo stato dell’obiettivo su Attivo. L’obiettivo deve avere un’attività associata o un risultato per poter &quot;attivare&quot;.
 
 Se hai copiato un obiettivo che non è stato completato in un periodo di tempo precedente e desideri continuare a utilizzarlo nel periodo di tempo seguente, procedi come segue:
 
