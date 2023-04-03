@@ -9,24 +9,26 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
 # Attiva allineando un obiettivo a un altro in [!DNL Workfront Goals]
 
-1. Trova l&#39;obiettivo da allineare e fai clic sul suo nome per aprire [!UICONTROL Dettagli obiettivo] pannello.
-1. Fai clic su [!UICONTROL Allinea a un altro obiettivo] nell’angolo superiore destro del pannello.
+Quando si allineano due obiettivi, uno diventerà l&#39;obiettivo principale e l&#39;altro un obiettivo figlio. Un obiettivo padre può avere più obiettivi figlio, ma un obiettivo figlio può essere allineato a un solo obiettivo padre.
 
-   ![Uno screenshot del [!UICONTROL Dettagli obiettivo] pannello a [!UICONTROL Allinea a un altro obiettivo]](assets/06-workfront-goals-align-goals.png)
+1. Apri l’obiettivo figlio facendo clic sul suo nome nel [!UICONTROL Elenco obiettivi]. Per impostazione predefinita, ti troverai nel [!UICONTROL Dettagli obiettivo] scheda .
+1. Fai clic sul pulsante [!UICONTROL +Aggiungi] nel [!UICONTROL Informazioni sull&#39;obiettivo padre] pannello.
 
-1. Inizia a digitare il nome di un obiettivo esistente o il nome del proprietario di un obiettivo nel [!UICONTROL Allinea a un altro obiettivo] , quindi selezionalo quando viene visualizzato nell’elenco. Nell’elenco vengono visualizzati solo gli obiettivi dello stesso periodo o di un periodo futuro.
+   ![Uno screenshot del [!UICONTROL Dettagli obiettivo] scheda](assets/06-workfront-goals-align-goals.png)
 
-   ![Uno screenshot del [!UICONTROL Dettagli obiettivo] pannello che mostra [!UICONTROL Allineato a] sezione](assets/07-workfront-goals-align-to.png)
+1. Inizia a digitare il nome dell’obiettivo principale desiderato nel [!UICONTROL Obiettivo principale] , quindi selezionalo quando viene visualizzato nell’elenco. Nell’elenco vengono visualizzati solo gli obiettivi dello stesso periodo o di un periodo futuro.
 
-1. Fai clic su [!UICONTROL Salva].
+   ![Uno screenshot del [!UICONTROL Dettagli obiettivo] pannello che mostra [!UICONTROL Informazioni sull&#39;obiettivo padre] pannello](assets/07-workfront-goals-align-to.png)
+
+1. Fai clic su [!UICONTROL Salva modifiche].
 
 L’allineamento di un obiettivo a un altro crea un obiettivo figlio. Considera gli obiettivi figlio come obiettivi individuali che contribuiscono al progresso degli obiettivi padre dell&#39;organizzazione o del team. Gli obiettivi figlio possono attivare e influenzare il progresso dell&#39;obiettivo padre.
