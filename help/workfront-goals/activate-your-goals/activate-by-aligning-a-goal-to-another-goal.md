@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ Quando si allineano due obiettivi, uno diventerà l&#39;obiettivo principale e l
 1. Fai clic su [!UICONTROL Salva modifiche].
 
 L’allineamento di un obiettivo a un altro crea un obiettivo figlio. Considera gli obiettivi figlio come obiettivi individuali che contribuiscono al progresso degli obiettivi padre dell&#39;organizzazione o del team. Gli obiettivi figlio possono attivare e influenzare il progresso dell&#39;obiettivo padre.
+
+## Ora attiva l&#39;obiettivo principale
+
+Ora che hai creato un obiettivo figlio, diventa un indicatore di avanzamento sull&#39;obiettivo padre. L’opzione Attiva viene visualizzata quando fai clic sul menu a tre punti accanto al nome dell’obiettivo principale.
+
+![Schermata che mostra come attivare l’obiettivo principale.](assets/activate-the-parent-goal.png)
+
