@@ -11,7 +11,7 @@ thumbnail: 335176.png
 kt: 8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Creare espressioni DATEDIFF e WEEKDAYDIFF
 
-Questo video illustra:
+In questo video imparerai:
 
 * Calcolo delle espressioni DATEDIFF e WEEKDAYDIFF
-* Come creare un’espressione di dati WEEKDAYDIFF in un campo calcolato
+* Come creare un&#39;espressione di dati WEEKDAYDIFF in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
 
-**Nota**: l’espressione dati WEEKDAYDIFF NON tiene conto delle festività specificate dall’organizzazione.
+**Nota**: L&#39;espressione di dati WEEKDAYDIFF NON tiene conto delle festività specificate dall&#39;organizzazione.

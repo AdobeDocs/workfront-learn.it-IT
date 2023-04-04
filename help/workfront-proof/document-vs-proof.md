@@ -1,5 +1,5 @@
 ---
-title: Differenza tra un documento e una bozza
+title: Comprendere la differenza tra un documento e una bozza
 description: Scopri la differenza tra un documento e una bozza in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -11,17 +11,17 @@ thumbnail: 335123.png
 kt: 8823
 exl-id: 661e4b97-4d4e-4859-9688-3ba509629159
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Differenza tra un documento e una bozza
+# Comprendere la differenza tra un documento e una bozza
 
-Questo video illustra:
+In questo video imparerai:
 
-* Differenza tra un documento e una bozza in [!DNL Workfront]
+* La differenza tra un documento e una prova in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on)

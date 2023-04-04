@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Comprendere le linee guida per la consulenza in [!UICONTROL Analisi avanzata]
 
-Questo video illustra:
+In questo video imparerai:
 
 * Come formulare raccomandazioni per aiutare la tua organizzazione a operare in modo più efficiente
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on)

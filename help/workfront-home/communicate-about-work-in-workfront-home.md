@@ -1,6 +1,6 @@
 ---
-title: Come effettuare un aggiornamento in [!UICONTROL Home]
-description: Scopri come apportare aggiornamenti alle assegnazioni di lavoro e rispondere agli aggiornamenti esistenti. Tag [!DNL Workfront] utenti in aggiornamenti in modo che ricevano notifiche sulla comunicazione.
+title: Come fare un aggiornamento in [!UICONTROL Pagina principale]
+description: Scopri come eseguire aggiornamenti sulle assegnazioni di lavoro e rispondere agli aggiornamenti esistenti. Tag [!DNL Workfront] utenti in aggiornamenti in modo che vengano informati della comunicazione.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,36 +11,36 @@ thumbnail: 335102.png
 kt: 8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-# Comunicazione sull’utilizzo degli aggiornamenti in [!DNL Workfront] [!UICONTROL Home]
+# Comunicare il lavoro con gli aggiornamenti in [!DNL Workfront] [!UICONTROL Pagina principale]
 
 Questo video illustra come:
 
-* Comunicazione tramite aggiornamenti sulle assegnazioni di lavoro
-* Assegna tag agli utenti il [!DNL Workfront] aggiornamenti
-* Rispondi agli aggiornamenti esistenti
+* Comunicazione attraverso gli aggiornamenti sulle assegnazioni di lavoro
+* Assegnare tag agli utenti su [!DNL Workfront] aggiornamenti
+* Risposta agli aggiornamenti esistenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
 
-## Suggerimenti per aggiornare il lavoro in [!UICONTROL Home]
+## Suggerimenti per l’aggiornamento del lavoro in [!UICONTROL Pagina principale]
 
-* Gli aggiornamenti consentono di porre domande, fornire informazioni aggiuntive o condividere un aggiornamento generale sul lavoro svolto.
-* &quot;Tag&quot; altro [!UICONTROL Workfront] gli utenti con il @name di ricevere notifiche sull’aggiornamento. Questo è il modo migliore per fare in modo che persone specifiche vedano le informazioni più recenti. Puoi assegnare tag a singoli utenti o a un team in un aggiornamento.
-* Ricorda che l’equivalente dell’e-mail tristemente nota &quot;rispondi a tutti&quot; si verifica quando si assegna un tag a un team o a un gruppo e si continua a rispondere all’interno del thread. Presta attenzione a questo per evitare di causare fastidio. Puoi indirizzare i tag al di sopra o al di sotto ma sempre all’interno del contesto dell’oggetto.
+* Utilizza gli aggiornamenti per porre domande, fornire informazioni aggiuntive o condividere un aggiornamento generale sul lavoro svolto.
+* &quot;Tag&quot; altro [!UICONTROL Workfront] utenti con il nome @per essere sicuri di ricevere notifiche sull&#39;aggiornamento. Questo è il modo migliore per garantire che le persone specifiche visualizzino le informazioni più recenti. In un aggiornamento puoi assegnare tag a singoli utenti o a un team.
+* Ricorda, l&#39;equivalente della famigerata e-mail &quot;rispondi a tutti&quot; è quando taggi un team o un gruppo e continui a rispondere all&#39;interno del thread. Fai attenzione a questo per evitare di causare fastidio. Puoi assegnare i tag sopra o sotto, ma comunque all’interno del contesto dell’oggetto.
 
 <!---
 paragraph below needs a hyperlink to an article
 --->
 
-* Se non ti è stata assegnata un’attività ma desideri ricevere delle notifiche, abbonati all’attività. Per ulteriori informazioni, consulta l’articolo Iscrizione agli elementi in [!UICONTROL Workfront] nel nuovo [!UICONTROL Workfront] esperienza.
-* Pubblica gli aggiornamenti in un giorno specifico della settimana in modo che tutti sappiano quando cercare le informazioni più recenti.
-* Utilizza gli strumenti Rich Text per formattare gli aggiornamenti. Rendi le informazioni ben visibili in grassetto o crea un riepilogo di facile lettura con punti elenco.
+* Se non sei assegnato a un’attività ma desideri ricevere notifiche, abbonati all’attività. Ulteriori informazioni nell’articolo Iscriviti agli elementi in [!UICONTROL Workfront] nella nuova [!UICONTROL Workfront] esperienza.
+* Pubblica gli aggiornamenti su un giorno specifico della settimana in modo che tutti sappiano quando cercare le informazioni più recenti.
+* Usa gli strumenti rich text per formattare gli aggiornamenti. Rendere le informazioni più chiare o creare un riepilogo di facile lettura con punti elenco.
 
 <!---
 learn more URLs

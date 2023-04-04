@@ -1,6 +1,6 @@
 ---
 title: Comprendere i filtri attività incorporati
-description: Scopri come rivedere i filtri attività incorporati per vedere come vengono generati e creare un filtro attività personalizzato in Workfront.
+description: Scopri come rivedere i filtri attività incorporati per vedere come sono stati costruiti e creare un filtro attività personalizzato in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -22,26 +22,26 @@ ht-degree: 0%
 
 In questo video:
 
-* Controlla i filtri attività incorporati per vedere come vengono generati
+* Esamina i filtri attività incorporati per vedere come sono stati costruiti
 * Scopri alcuni utili elementi di reporting delle attività
 * Scopri come creare un filtro attività personalizzato
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
-## Attività: creare un rapporto attività
+## Attività: Creare un rapporto attività
 
-Desideri accertarti di essere a conoscenza delle attività assegnate a uno dei tuoi team che nessuno ha ancora accettato di lavorare su di esso. Crea un report di attività denominato &quot;Attività non assegnate a uno qualsiasi dei miei team&quot;.
+Vuoi essere sicuro di conoscere le attività assegnate a uno dei tuoi team che nessuno ha ancora accettato di lavorare su di esso. Crea un rapporto di attività denominato &quot;Attività non assegnate su uno dei miei team&quot;.
 
 ## Risposta
 
-Ecco come dovrebbe apparire il filtro:
+Il filtro dovrebbe essere simile a questo:
 
-![Immagine della schermata per la creazione di un filtro attività](assets/opening-built-in-task-filters-1.png)
+![Immagine della schermata per creare un filtro attività](assets/opening-built-in-task-filters-1.png)
 
-Configura la vista a colonne per includere i campi che ti interessano o di cui vorresti poter eseguire la modifica in linea. Ad esempio, è possibile includere una colonna Assegnazioni in modo da assegnare un membro del team a un&#39;attività direttamente dal report.
+Imposta la vista a colonne in modo da includere i campi che ti interessano o che desideri modificare in linea. Ad esempio, è possibile includere una colonna Assegnazioni per assegnare un membro del team a un&#39;attività direttamente dal rapporto.
 
-È possibile raggruppare l&#39;elenco in base al nome del team assegnato a ogni attività.
+È possibile raggruppare l’elenco in base al nome del team assegnato a ciascuna attività.
 
-Ecco come dovrebbe apparire il rapporto:
+Ecco come dovrebbe essere il rapporto:
 
 ![Immagine di un report attività](assets/opening-built-in-task-filters-2.png)

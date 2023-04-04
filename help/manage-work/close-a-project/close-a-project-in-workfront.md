@@ -1,6 +1,6 @@
 ---
 title: Chiudere un progetto
-description: Scopri quali informazioni rivedere e perché è importante disporre di dati aggiornati in un progetto prima di chiuderlo in [!DNL  Workfront].
+description: Scopri quali informazioni esaminare e perché è importante disporre di dati aggiornati in un progetto prima di chiuderli in [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8783
 exl-id: 7dad82df-ef20-4ed3-a52d-27f52d05f678
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Informazioni da esaminare in [!DNL Workfront] prima di chiudere un progetto
+* Informazioni da esaminare [!DNL Workfront] prima di chiudere un progetto
 * Perché è importante disporre di dati aggiornati
-* Domande utili per migliorare i progetti futuri
+* Domande che si possono chiedere per aiutarvi a migliorare i progetti futuri
 
->[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
 
 <!---
 learn more urls:

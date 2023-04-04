@@ -1,6 +1,6 @@
 ---
-title: Che cos’è la gestione degli errori?
-description: Scopri alcuni tipi di errore comuni e come il sistema li gestisce per impostazione predefinita, quindi come applicare la gestione degli errori personalizzata in [!DNL Adobe Workfront Fusion].
+title: Che cosa è la gestione degli errori?
+description: Scopri alcuni tipi di errore comuni e come il sistema li gestisce per impostazione predefinita, quindi scopri come applicare la gestione degli errori personalizzata in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,18 +10,18 @@ level: Beginner
 kt: 9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Che cos’è la gestione degli errori?
+# Che cosa è la gestione degli errori?
 
-Questo video illustra:
+In questo video imparerai:
 
-* Quali sono alcuni tipi di errore comuni e come vengono gestiti dal sistema per impostazione predefinita
+* Quali sono alcuni tipi di errore comuni e come il sistema li gestisce per impostazione predefinita
 * Come applicare la gestione personalizzata degli errori utilizzando un modulo di gestione degli errori
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)

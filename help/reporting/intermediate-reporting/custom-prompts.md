@@ -1,6 +1,6 @@
 ---
 title: Creare prompt personalizzati
-description: Scopri che cos’è un prompt personalizzato, come crearne uno personalizzato utilizzando la modalità testo e alcuni esempi che è possibile utilizzare nel reporting in Workfront.
+description: Scopri cos’è un prompt personalizzato, come creare un prompt personalizzato utilizzando la modalità testo e alcuni esempi che puoi utilizzare nel reporting in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336822.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 2%
@@ -20,39 +20,39 @@ ht-degree: 2%
 
 # Creare prompt personalizzati
 
-Questo video illustra:
+In questo video imparerai:
 
-* Che cos’è un prompt personalizzato
+* Richiesta personalizzata
 * Come creare un prompt personalizzato utilizzando la modalità testo
-* Alcuni esempi che è possibile utilizzare nei rapporti
+* Alcuni esempi utilizzabili nei rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Attività: creare prompt personalizzati
+## Attività: Creare prompt personalizzati
 
-1. Crea un prompt personalizzato che mostri i seguenti stati di progetto nel menu a discesa del prompt:
+1. Crea un prompt personalizzato che mostra i seguenti stati del progetto nel menu a discesa dei prompt:
    * In Pianificazione
    * Attuali
    * Completato
    * Morto
-1. Modifica il prompt per visualizzare i progetti correnti in scadenza questo mese.
+1. Modifica il prompt per visualizzare i progetti correnti che sono previsti questo mese.
 
 ## Risposte
 
-1. I prompt personalizzati devono avere un aspetto simile a questo e la seguente modalità testo:
+1. I prompt personalizzati devono avere un aspetto simile a questo e avere la seguente modalità testo:
 
-   ![Immagine dello schermo per creare un nuovo filtro in modalità testo](assets/cp-01.png)
+   ![Immagine della schermata per creare un nuovo filtro in modalità testo](assets/cp-01.png)
 
-   Dopo aver salvato il prompt personalizzato, il menu a discesa del prompt dovrebbe essere simile al seguente:
+   Una volta salvato il prompt personalizzato, il menu a discesa del prompt dovrebbe avere l&#39;aspetto seguente:
 
-1. La modalità testo nel prompt personalizzato deve essere simile alla seguente:
+1. La modalità testo nel prompt personalizzato dovrebbe essere simile alla seguente:
 
-![Immagine dello schermo per creare un nuovo filtro in modalità testo](assets/cp-02.png)
+![Immagine della schermata per creare un nuovo filtro in modalità testo](assets/cp-02.png)
 
 ```
    status=CUR&plannedCompletionDate=$$TODAYbm&plannedCompletionDate_Mod=between&plannedCompletionDate_Range=$$TODAYem 
 ```
 
-L’etichetta a discesa dei prompt attivi deve essere aggiornata per riflettere la modifica nel codice come segue:
+E l’etichetta a discesa per i prompt attivi deve essere aggiornata per riflettere la modifica nel codice come riportato di seguito:
 
-![Immagine dello schermo per creare un nuovo filtro in modalità testo](assets/cp-02a.png)
+![Immagine della schermata per creare un nuovo filtro in modalità testo](assets/cp-02a.png)

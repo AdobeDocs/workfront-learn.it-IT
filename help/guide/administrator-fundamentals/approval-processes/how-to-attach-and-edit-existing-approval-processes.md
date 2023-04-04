@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: User
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 8%
@@ -21,4 +21,4 @@ Questo video illustra come:
 * Usa un processo di approvazione esistente
 * Modificare un processo di approvazione esistente per un progetto, un&#39;attività o un problema specifico
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on)

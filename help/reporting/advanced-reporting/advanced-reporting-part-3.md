@@ -1,6 +1,6 @@
 ---
-title: Reporting avanzato - Parte 3
-description: Comprendi uno studio approfondito dei raggruppamenti in modalità testo, degli aggregati calcolati e dei raggruppamenti calcolati.
+title: Parte 3
+description: Comprendere uno studio approfondito dei raggruppamenti in modalità testo, degli aggregati calcolati e dei raggruppamenti calcolati.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -11,25 +11,25 @@ team: Technical Marketing
 kt: 11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Reporting avanzato - Parte 3
+# Parte 3
 
-Questo video illustra:
+In questo video imparerai:
 
 * Studio approfondito dei raggruppamenti in modalità testo
 * Aggregati calcolati
 * Raggruppamenti calcolati
 
->[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12&learn=on)
 
-## Collegamenti utili
+## Collegamenti handy
 
-[[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL Esplora API]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manuale di reportistica avanzata](/help/assets/advanced-reporting-manual.pdf)
+[Manuale di reporting avanzato](/help/assets/advanced-reporting-manual.pdf)

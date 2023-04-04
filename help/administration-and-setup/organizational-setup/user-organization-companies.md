@@ -1,6 +1,6 @@
 ---
-title: Creare società
-description: Scopri come utilizzare le aziende come parte della struttura delle autorizzazioni per gli articoli e l’organizzazione degli utenti. Quindi crea delle aziende per la tua organizzazione.
+title: Creare aziende
+description: Scopri come utilizzare le aziende come parte della struttura delle autorizzazioni degli articoli e dell’organizzazione degli utenti. Quindi crea le aziende per la tua organizzazione.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -11,18 +11,18 @@ thumbnail: 335069.png
 kt: 8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Creare società
+# Creare aziende
 
-Questo video illustra:
+In questo video imparerai:
 
-* Definizione di società di Workfront
+* Definizione Workfront delle aziende
 * Come creare aziende e associazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on)

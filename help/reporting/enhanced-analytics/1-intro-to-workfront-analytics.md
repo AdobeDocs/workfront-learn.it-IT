@@ -1,6 +1,6 @@
 ---
-title: In Workfront Analytics
-description: Scopri la nascita di Analytics e le funzionalità straordinarie che rende possibili con Joel Pettigrew, product manager per [!DNL Enhanced analytics].
+title: In a Workflow Analytics
+description: Scopri come è nata l'analisi e le emozionanti funzionalità che rende possibile con Joel Pettigrew, Product Manager per [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,15 +9,15 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# In Workfront Analytics
+# In a Workflow Analytics
 
-Guarda questo video con Joel Pettigrew, Product Manager di Workfront per [!DNL Enhanced analytics], per scoprire la nascita di analytics e le sue straordinarie funzionalità.
+Guarda questo video con Joel Pettigrew, responsabile prodotto di Workfront per [!DNL Enhanced analytics], per scoprire come è nata l’analisi e le sue entusiasmanti funzionalità.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)

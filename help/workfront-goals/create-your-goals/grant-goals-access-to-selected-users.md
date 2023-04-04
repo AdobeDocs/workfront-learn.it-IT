@@ -1,6 +1,6 @@
 ---
 title: Modifica [!UICONTROL Livelli di accesso] per [!DNL Workfront Goals]
-description: Scopri come modificare i livelli di accesso in base al tipo di licenza per gli utenti in [!DNL Workfront Goals].
+description: Scopri come modificare i livelli di accesso in base al tipo di licenza per i tuoi utenti in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,25 +10,25 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Modifica i livelli di accesso per [!DNL Workfront Goals]
+# Modifica dei livelli di accesso per [!DNL Workfront Goals]
 
 Questo video illustra come:
 
 * Modifica i livelli di accesso in base al tipo di licenza
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
-Gli amministratori di sistema possono tenere traccia di quanti [!DNL Workfront Goals] sono state utilizzate tramite il **[!UICONTROL Configurazione]** di Workfront.
+Gli amministratori di sistema possono tenere traccia di quanti [!DNL Workfront Goals] le licenze sono state utilizzate tramite **[!UICONTROL Configurazione]** area di Workfront.
 
-1. Espandi **[!UICONTROL Sistema]** nel menu del pannello sinistro.
-1. Clic **[!UICONTROL Licenze]**.
-1. Puoi visualizzare il numero totale di [!DNL Workfront Goals] e quante sono state assegnate tramite i livelli di accesso.
+1. Espandi la **[!UICONTROL Sistema]** nel menu del pannello a sinistra.
+1. Fai clic su **[!UICONTROL Licenze]**.
+1. È possibile visualizzare il numero totale di [!DNL Workfront Goals] licenze e quante sono state assegnate tramite livelli di accesso.
 
-![Schermata del numero di [!DNL Workfront Goals] licenze nell’area Impostazioni di [!DNL Workfront]](assets/02-workfront-goals-licenses.png)
+![Schermata del numero di [!DNL Workfront Goals] licenze nell&#39;area Impostazioni di [!DNL Workfront]](assets/02-workfront-goals-licenses.png)

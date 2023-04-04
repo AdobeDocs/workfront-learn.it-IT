@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 kt: 8908
 hidefromtoc: true
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questo video illustra l’aspetto di un modulo personalizzato e il modo in cui può essere utilizzato per acquisire informazioni specifiche per l’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on)

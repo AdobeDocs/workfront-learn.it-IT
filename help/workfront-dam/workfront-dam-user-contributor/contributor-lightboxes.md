@@ -1,6 +1,6 @@
 ---
-title: Comprendere le lightbox in [!UICONTROL DAM WORKFRONT]
-description: Scopri come creare e utilizzare lightbox in [!UICONTROL DAM WORKFRONT].
+title: Comprendere le lightbox in [!UICONTROL Workfront DAM]
+description: Scopri come creare e utilizzare lightbox in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -21,16 +21,16 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Utilizzare lightbox nel lavoro quotidiano
-* Creare un lightbox
+* Utilizza le lightbox nel tuo lavoro quotidiano
+* Creare una Lightbox
 * Aggiungere risorse a una Lightbox
 * Collaborazione con un lightbox
-* Condividere il contenuto di un lightbox
+* Condividere il contenuto di una Lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on)
 
 ## Cartelle e lightbox
 
-Le cartelle vengono utilizzate per memorizzare e organizzare le risorse. L’accesso alle risorse viene concesso per cartella. È possibile che ci siano più cartelle in [!UICONTROL DAM WORKFRONT] che vedete.
+Le cartelle vengono utilizzate per memorizzare e organizzare le risorse. L’accesso alle risorse viene concesso dalla cartella . È possibile che ci siano più cartelle in [!UICONTROL Workfront DAM] di quello che vedi.
 
-Le Lightbox sono uno strumento in [!UICONTROL DAM WORKFRONT] puoi utilizzare per raccogliere e organizzare le risorse di cui hai bisogno. È possibile creare un singolo lightbox per se stessi o un lightbox per ogni assegnazione su cui si lavora. Puoi visualizzare solo le lightbox create, a meno che un altro utente non condivida con te una lightbox o non ti chieda di collaborare a una lightbox.
+Le Lightbox sono uno strumento in [!UICONTROL Workfront DAM] puoi utilizzare per raccogliere e organizzare le risorse necessarie. È possibile creare una singola Lightbox per te o creare una lightbox per ogni assegnazione su cui lavori. Potete vedere solo le lightbox che avete creato, a meno che un altro utente non condivida con voi una lightbox o vi chieda di collaborare a una Lightbox.

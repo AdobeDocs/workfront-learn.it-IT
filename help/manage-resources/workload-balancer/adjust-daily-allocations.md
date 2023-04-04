@@ -1,6 +1,6 @@
 ---
-title: Regolare le allocazioni giornaliere nel Bilanciatore dei carichi di lavoro
-description: Scopri come ridistribuire le ore o le percentuali allocate e riassegnare il lavoro da un utente all’altro.
+title: Regolare le allocazioni giornaliere nel bilanciamento del carico di lavoro
+description: Scopri come ridistribuire le ore o le percentuali assegnate e riassegnare il lavoro da un utente a un altro.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,19 +11,19 @@ thumbnail: 335165.png
 kt: 8877
 exl-id: 27b9da27-d70c-45e7-a99d-d26cccc5277d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Adeguare le allocazioni giornaliere in [!DNL Workload Balancer]
+# Regola le allocazioni giornaliere nel [!DNL Workload Balancer]
 
 Questo video illustra come:
 
 * Ridistribuisci ore o percentuali allocate
-* Riassegnazione del lavoro da un utente a un altro
+* Riassegnare il lavoro da un utente a un altro
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

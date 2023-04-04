@@ -1,6 +1,6 @@
 ---
-title: Creare espressioni LEFT/RIGHT
-description: Scopri come utilizzare le espressioni LEFT/RIGHT in un campo calcolato di Adobe [!DNL Workfront].
+title: Crea espressioni LEFT/RIGHT
+description: Scopri come utilizzare le espressioni LEFT/RIGHT in un campo calcolato in Adobe [!DNL Workfront].
 feature: System Setup and Administration
 type: Tutorial
 role: Admin, Leader, User
@@ -11,18 +11,18 @@ thumbnail: 335179.png
 kt: 8885
 exl-id: 6d0ad842-e354-465c-8b9c-88eb75d47fbc
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Creare espressioni LEFT/RIGHT
+# Crea espressioni LEFT/RIGHT
 
-Questo video illustra:
+In questo video imparerai:
 
 * Funzionamento dell&#39;espressione LEFT/RIGHT
 * Come utilizzare un&#39;espressione di testo LEFT/RIGHT in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on)

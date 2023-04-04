@@ -1,6 +1,6 @@
 ---
-title: Collaborare al lavoro con I miei aggiornamenti
-description: Accedere agli elementi di lavoro assegnati mediante la pagina My Updates (I miei aggiornamenti).
+title: Collaborazione sul lavoro con gli aggiornamenti personali
+description: Accedere agli elementi di lavoro assegnati mediante la pagina Aggiornamenti personali.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,20 +11,20 @@ thumbnail: 340342.png
 kt: 9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Collaborare al lavoro con I miei aggiornamenti
+# Collaborazione sul lavoro con gli aggiornamenti personali
 
 Questo video illustra come:
 
-* Accedi agli elementi di lavoro che ti sono stati chiesti di rivedere utilizzando la pagina I miei aggiornamenti
-* Completa la revisione delle richieste di approvazione
+* Accedi agli elementi di lavoro che ti è stato chiesto di esaminare utilizzando la pagina Aggiornamenti personali
+* Completare una revisione delle richieste di approvazione
 * Utilizza la sezione Riferimenti per visualizzare gli aggiornamenti inclusi in
-* Rispondi agli aggiornamenti
+* Risposta agli aggiornamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)

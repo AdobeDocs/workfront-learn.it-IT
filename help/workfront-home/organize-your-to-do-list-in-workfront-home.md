@@ -1,6 +1,6 @@
 ---
-title: Organizzare l’elenco attività in [!DNL Workfront] [!UICONTROL Home]
-description: Scopri come filtrare e ordinare il lavoro assegnato, identificare il lavoro pronto per iniziare e accettare le assegnazioni di lavoro in [!DNL  Workfront].
+title: Organizza il tuo elenco cose da fare in [!DNL Workfront] [!UICONTROL Pagina principale]
+description: Scopri come filtrare e ordinare il lavoro assegnato, identificare il lavoro pronto per essere avviato e accettare le assegnazioni di lavoro in [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,30 +11,30 @@ thumbnail: 335099.png
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Organizzare l’elenco attività in [!DNL Workfront] [!UICONTROL Home]
+# Organizza il tuo elenco cose da fare in [!DNL Workfront] [!UICONTROL Pagina principale]
 
 >[!NOTE]
 >
->Il [!UICONTROL [!DNL Sort by]] opzione in [!UICONTROL Elenco lavori] è stato rinominato in [!UICONTROL Raggruppa per], e le attività e i problemi possono anche essere raggruppati per le rispettive [!UICONTROL Data Inizio Pianificata].
+>La [!UICONTROL [!DNL Sort by]] in [!UICONTROL Elenco lavori] è stato rinominato in [!UICONTROL Raggruppa per], nonché le attività e i problemi possono essere raggruppati in base ai rispettivi [!UICONTROL Data di inizio prevista].
 
 Questo video illustra come:
 
 * Ordinare le assegnazioni di lavoro
-* Filtra assegnazioni di lavoro per tipo
+* Filtra le assegnazioni di lavoro per tipo
 * Identificare il lavoro pronto per iniziare
 * Accetta assegnazioni di lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Per impostazione predefinita, le prime voci scadute vengono visualizzate nella parte superiore della sezione [!UICONTROL Elenco lavori]. Se si desidera che gli elementi di lavoro vengano visualizzati in ordine decrescente, fare clic sulle frecce a destra dell&#39;area Raggruppa per.
+>Per impostazione predefinita, i primi elementi scaduti vengono visualizzati nella parte superiore della [!UICONTROL Elenco lavori]. Se si desidera visualizzare gli elementi di lavoro in ordine decrescente, fare clic sulle frecce a destra dell&#39;area Raggruppa per.
 
 ![Immagine di una schermata che mostra l’elenco di lavoro raggruppato per data di scadenza.](assets/work-list-arrows.png)

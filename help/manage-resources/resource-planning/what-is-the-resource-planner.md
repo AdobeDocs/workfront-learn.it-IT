@@ -1,6 +1,6 @@
 ---
-title: Cos'è la Programmazione delle risorse?
-description: Scopri cos’è la pianificazione delle risorse.
+title: Cos'è il Resource Planner?
+description: Scopri cos’è il planner delle risorse.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,18 +11,18 @@ thumbnail: 335167.jpeg
 kt: 8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Cos&#39;è [!DNL Resource Planner]?
+# Che cos&#39;è la [!DNL Resource Planner]?
 
-Per dare veramente potere alle persone, i manager devono pianificare e pianificare gli sforzi delle loro persone. Tuttavia, trovare persone con le competenze giuste che siano disponibili al momento giusto mentre tentano di acquisire questi dati e gestirli mensilmente, trimestralmente o anche annualmente, è un&#39;impresa importante.
+Per dare veramente potere alle persone, i dirigenti devono pianificare e pianificare gli sforzi del loro popolo. Tuttavia, trovare le persone con le competenze giuste che sono disponibili al momento giusto cercando di acquisire questi dati e gestirli mensilmente, trimestralmente o anche annualmente, è un&#39;impresa importante.
 
-Tuttavia, questa attività può essere un po’ più semplice con Pianificazione risorse di Workfront per le risorse.
+Tuttavia, tale attività può essere un po’ più semplice con il Resource Planner di Workfront per le risorse.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on)

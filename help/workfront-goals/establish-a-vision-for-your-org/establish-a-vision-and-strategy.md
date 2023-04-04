@@ -1,6 +1,6 @@
 ---
-title: Definire una visione e una strategia
-description: Scopri come articolare il "cosa" e il "perché" durante la fase di pianificazione, gli obiettivi di esempio e l’ambito di influenza.
+title: Creare una visione e una strategia
+description: Scopri come articolare il "cosa" e il "perché" durante la fase di pianificazione, gli obiettivi di esempio e la portata dell’influenza.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '572'
 ht-degree: 0%
 
 ---
 
-# Definire una visione e una strategia
+# Creare una visione e una strategia
 
 Questo video illustra:
 
@@ -25,35 +25,35 @@ Questo video illustra:
 * Obiettivi di esempio
 * Ambito di influenza
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on)
 
-## Pianifica una cadenza per controlli e manutenzione regolari
+## Pianificare una cadenza per il controllo regolare e la manutenzione
 
-La tua cadenza per pianificare cerimonie, attività e monitoraggio è importante quanto i dettagli del piano stesso. La pianificazione moderna è continua e fluttuante. È necessario prevedere il monitoraggio, la revisione e la regolazione durante il processo. In questo modo puoi correggere l’allineamento per tornare al risultato desiderato.
+La tua cadenza per la pianificazione di cerimonie, attività e monitoraggio è importante quanto i dettagli del piano stesso. La pianificazione moderna è continua e fluttuante. È necessario prevedere il monitoraggio, la revisione e l&#39;adeguamento lungo il percorso. In questo modo è possibile correggere l&#39;allineamento al risultato desiderato.
 
-L&#39;allineamento dipende dalla creazione di una cultura in grado di liberarsi degli sforzi di lavoro senza impatto. Spesso, i nostri progetti e il loro completamento diventano il nostro unico obiettivo. Anche se possiamo guidare il completamento del lavoro, questo può portare al fallimento finale di raggiungere l&#39;obiettivo finale perché il lavoro ha cessato di essere rilevante per il risultato originale.
+L&#39;allineamento dipende dalla creazione di una cultura che può lasciare andare sforzi di lavoro non di impatto. Spesso, i nostri progetti e il loro completamento diventano il nostro unico obiettivo. Anche se possiamo guidare il completamento del lavoro, questo può portare al fallimento finale di raggiungere l&#39;obiettivo finale perché il lavoro ha smesso di essere rilevante per il risultato originale.
 
-Una cadenza tradizionale per un ciclo di pianificazione a lungo termine/a breve termine può essere di 12 mesi/3 mesi. Oppure potrebbe essere 6 mesi/1 mese o qualcos&#39;altro.
+Una cadenza tradizionale per un ciclo di pianificazione a lungo termine/a breve termine può essere di 12 mesi/3 mesi. O potrebbe essere 6 mesi/1 mese o qualcos&#39;altro.
 
-Considera questi concetti durante la determinazione della cadenza appropriata per la tua organizzazione.
+Considera questi concetti quando determini la cadenza appropriata per la tua organizzazione.
 
-* Nell’attuale contesto imprenditoriale, i fattori interni ed esterni sono più volatili e cambiano spesso. Per affrontare questi fattori in modo strategico, gli adeguamenti e le revisioni degli obiettivi a breve termine dovrebbero essere effettuati almeno ogni tre mesi.
+* Nel contesto imprenditoriale odierno, i fattori interni ed esterni sono più volatili e cambiano spesso. Per affrontare questi fattori in modo strategico, le revisioni e gli adeguamenti degli obiettivi a breve termine dovrebbero essere almeno ogni tre mesi.
 
-* Ogni revisione deve includere il tempo necessario per riflettere sui risultati e sulle attività passati e valutare la traiettoria aziendale per il futuro. Chiedi a te stesso e ai tuoi team...siamo ancora sulla buona strada?
+* Ogni revisione dovrebbe includere il tempo necessario per riflettere sul successo e lo sforzo passati e valutare la traiettoria aziendale per il futuro. Chiedi a te stesso e alle tue squadre..siamo ancora sulla strada giusta?
 
-La figura seguente illustra la relazione e la natura ciclica di questa cadenza, tra obiettivi non solo a più lungo e a breve termine, ma sforzi di lavoro a più lungo e a più breve termine.
+La figura seguente illustra la relazione e la natura ciclica di questa cadenza, tra non solo obiettivi a lungo e a breve termine, ma anche sforzi di lavoro a più lungo e più breve termine.
 
-![Grafico di un ciclo di esecuzione strategico](assets/02-workfront-goals-strategic-execution-cycle.png)
+![Un grafico di un ciclo di esecuzione strategico](assets/02-workfront-goals-strategic-execution-cycle.png)
 
-1. **Obiettivi a lungo termine** sono in genere obiettivi aziendali o organizzativi più ampi che richiederanno 12 o più mesi per essere raggiunti. È improbabile che vengano realizzate con un unico sforzo lavorativo. La maggior parte delle aziende e delle organizzazioni ha un paio di livelli di questi obiettivi a lungo termine al vertice della gerarchia che uniscono gli obiettivi a breve termine sotto un unico obiettivo finale.
-1. **Iniziative a lungo termine** rappresenta la stima ad alto livello dell&#39;impegno di lavoro mappato per guidare le operazioni. Queste iniziative verranno infine perfezionate in attività più fruibili (ad esempio progetti, attività, ecc.). Anche se in genere si tratta di attività lavorative più lunghe, ad esempio 12 o più mesi, in alcuni casi queste possono essere un raggruppamento di diverse iniziative della durata di 6 o più mesi che corrispondono allo stesso risultato.
-1. **Obiettivi a breve termine** sono gli obiettivi fissati dalle persone e dai team che si allineano a risultati di tipo più milestone. Tutti questi risultati segmentati contribuiscono al raggiungimento complessivo degli obiettivi a lungo termine aziendali o organizzativi.
-1. **Progetti a breve termine** fare riferimento all’ambito di lavoro più ristretto necessario per conseguire gli obiettivi a breve termine. Possono trattarsi di progetti una tantum o di progetti che fanno parte di un’iniziativa più ampia.
+1. **Obiettivi a lungo termine** sono tipicamente obiettivi aziendali o organizzativi più ampi che richiederanno 12 o più mesi per raggiungere tale obiettivo. Non è probabile che si realizzino con un unico lavoro. La maggior parte delle aziende e delle organizzazioni ha un paio di livelli di questi obiettivi a lungo termine al vertice della gerarchia che uniscono gli obiettivi a breve termine sotto un unico obiettivo di ampio respiro.
+1. **Iniziative a lungo termine** rappresentano la stima ad alto livello dello sforzo di lavoro mappato per le operazioni di guida. Tali iniziative si tradurranno, in ultima analisi, in sforzi di lavoro più utili (progetti, compiti, ecc.). Anche se si tratta in genere di un lavoro più lungo, ad esempio 12 o più mesi, in alcuni casi può trattarsi di un raggruppamento di più di 6 o più iniziative di un mese che corrispondono allo stesso risultato.
+1. **Obiettivi a breve termine** sono gli obiettivi fissati dalle persone e dai team che si allineano a risultati di tipo cardine. Tutte queste conquiste segmentate contribuiscono al raggiungimento complessivo degli obiettivi aziendali o organizzativi a lungo termine.
+1. **Progetti a breve termine** fare riferimento all&#39;ambito di lavoro più ristretto necessario per conseguire gli obiettivi a breve termine. Possono trattarsi di progetti una tantum o di progetti che fanno parte di un&#39;iniziativa più ampia.
 
 <!--
 Your turn graphic
 -->
 
-Dedichiamo un minuto all&#39;esercitazione e applichiamo quanto appreso finora. Per iniziare, crea un set iniziale di obiettivi per il tuo team. Potresti aver sentito questo termine come obiettivi a cascata o gerarchia di obiettivi. Osserva come tutti si collegano all’obiettivo a lungo termine e a cascata da lì. Non preoccuparti di essere troppo definitivo in questa fase. Questa è la tua occasione per mettere sul tavolo tutti i tuoi obiettivi. Continueremo a perfezionarli ulteriormente.
+Dedichiamo un minuto alla pratica e applichiamo quello che hai imparato finora. Inizia con la mappatura di un set iniziale di obiettivi per il tuo team. Si potrebbe aver sentito questo chiamato obiettivi a cascata o una gerarchia di obiettivi. Notate come tutti si collegano all&#39;obiettivo a lungo termine e alla cascata da lì. Non preoccuparti di essere troppo definitivo in questa fase. Questa è la tua occasione per raggiungere tutti i tuoi obiettivi sul tavolo. Le perfezioneremo ulteriormente man mano che procederemo.
 
-![Grafico di mappatura degli obiettivi a breve e lungo termine](assets/03-workfront-goals-goal-mapping.png)
+![Un grafico di mappatura degli obiettivi a breve e lungo termine](assets/03-workfront-goals-goal-mapping.png)

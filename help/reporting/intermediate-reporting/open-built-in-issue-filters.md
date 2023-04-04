@@ -1,6 +1,6 @@
 ---
-title: Comprendere i filtri dei problemi incorporati
-description: Scopri come rivedere i filtri dei problemi incorporati per vedere come vengono generati e creare un filtro dei problemi personalizzato in Workfront.
+title: Informazioni sui filtri dei problemi incorporati
+description: Scopri come rivedere i filtri per i problemi incorporati per vedere come sono stati costruiti e creare un filtro per i problemi in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -11,39 +11,39 @@ team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
-# Comprendere i filtri dei problemi incorporati
+# Informazioni sui filtri dei problemi incorporati
 
 In questo video:
 
-* Controlla i filtri dei problemi incorporati per vedere come vengono generati
-* Scopri alcuni utili elementi di reporting sui problemi
-* Scopri come creare un filtro di problema personalizzato
+* Esamina i filtri dei problemi incorporati per vedere come sono costruiti
+* Scopri alcuni utili elementi di reporting dei problemi
+* Scopri come creare un filtro per i problemi
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
-## Attività: creare un rapporto sui problemi
+## Attività: Creare un rapporto sui problemi
 
-Desideri visualizzare tutti i problemi che devono ancora essere risolti su tutti i progetti attivi di cui sei proprietario, inclusi i problemi con un oggetto di risoluzione. Crea un report sui problemi e denominalo &quot;Problemi non risolti nei miei progetti&quot;.
+Vuoi vedere tutti i problemi che devono ancora essere risolti su tutti i progetti attivi che possiedi, compresi i problemi con un oggetto di risoluzione. Crea un report di problema e denominalo &quot;Problemi irrisolti sui progetti che possiedo&quot;.
 
 ## Risposta
 
-Ecco come dovrebbe apparire il filtro:
+Il filtro dovrebbe essere simile a questo:
 
-![Immagine della schermata per la creazione di un filtro di problema](assets/opening-built-in-issue-filters-1.png)
+![Immagine della schermata per creare un filtro per i problemi](assets/opening-built-in-issue-filters-1.png)
 
-Nel filtro integrato &quot;I miei problemi aperti&quot;, una delle regole di filtro escludeva eventuali problemi in cui era presente un oggetto di risoluzione. Il motivo è che non devi preoccuparti di questi problemi. Qualcuno ha già creato un progetto, un’attività o un problema che li risolverà, quindi cosa c’è da preoccuparsi? Ma non sono ancora stati risolti e nel nostro esempio li stiamo includendo per renderli facili da identificare e controllare come stanno.
+Nel filtro incorporato &quot;Problemi aperti personali&quot;, una delle regole del filtro ha escluso qualsiasi problema relativo a un oggetto di risoluzione. Il motivo è che non devi preoccuparti di questi problemi. Qualcuno ha già creato un progetto, un compito o un problema che li risolverà, quindi cosa c&#39;è da preoccuparsi? Ma non sono ancora stati risolti e nel nostro esempio li includiamo per facilitarne l’identificazione e il controllo delle operazioni.
 
-A questo scopo, devi aggiungere una colonna nella scheda della vista per &quot;Problema >> Oggetto risolutivo&quot;. Questo mostra il nome dell’oggetto di risoluzione, se presente, che si tratti di un progetto, di un’attività o di un problema. Facendo clic sul nome si accede all&#39;oggetto di risoluzione.
+A questo scopo, è necessario aggiungere una colonna nella scheda della vista per &quot;Problema >> Risoluzione dell’oggetto&quot;. Viene visualizzato il nome dell&#39;oggetto di risoluzione, se presente, che si tratti di un progetto, un&#39;attività o un problema. Fare clic sul nome per passare all&#39;oggetto di risoluzione.
 
 È possibile raggruppare l’elenco in base al nome del progetto.
 
-Ecco come dovrebbe apparire il rapporto:
+Ecco come dovrebbe essere il rapporto:
 
-![Immagine di un report sui problemi](assets/opening-built-in-issue-filters-2.png)
+![Immagine di un report del problema](assets/opening-built-in-issue-filters-2.png)

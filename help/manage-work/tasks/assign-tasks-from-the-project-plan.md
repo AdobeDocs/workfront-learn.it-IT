@@ -1,5 +1,5 @@
 ---
-title: Assegna attività dal piano di progetto
+title: Assegnare le attività dal piano di progetto
 description: Scopri come assegnare un utente a un’attività utilizzando la modifica in linea in un [!DNL  Workfront] progetto.
 activity: use
 feature: Work Management
@@ -11,20 +11,20 @@ team: Technical Marketing
 kt: 8779
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Assegna attività dal piano di progetto
+# Assegnare le attività dal piano di progetto
 
 Questo video illustra come:
 
-* Assegnare un utente a un’attività tramite la modifica in linea
+* Assegnare un utente a un’attività utilizzando la modifica in linea
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
 <!---
 learn more urls:

@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -24,16 +24,16 @@ Questo video illustra come:
 
 * Creare un modello da zero
 * Creare un modello da un progetto esistente
-* Creare un modello con blueprint
+* Creare un modello con Blueprint
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Creare un modello con blueprint
+## Creare un modello con Blueprint
 
-Gli amministratori di sistema possono utilizzare i blueprint per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
+gli amministratori di sistema possono utilizzare Blueprint per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli offrono agli utenti un vantaggio nella creazione di progetti ripetibili e contribuiscono a mantenere la coerenza tra progetti di dimensioni simili.
 
-Sebbene sia possibile utilizzare i modelli di progetto creati con i blueprint durante la creazione di progetti, non è possibile applicare una blueprint direttamente durante la creazione di un nuovo progetto, ad esempio per convertire un’attività o una richiesta in un progetto. Una distinzione chiave tra blueprint e modello di progetto è che un blueprint viene utilizzato per creare un modello, mentre un modello di progetto viene utilizzato per creare un progetto.
+Sebbene sia possibile utilizzare modelli di progetto creati con blueprint durante la creazione di progetti, non è possibile applicare direttamente una blueprint durante la creazione di un nuovo progetto (ad esempio la conversione di un’attività o di una richiesta in un progetto). Una distinzione fondamentale tra una blueprint e un modello di progetto è che una blueprint viene utilizzata per creare un modello, mentre un modello di progetto viene utilizzato per creare un progetto.
 
 ![Blueprint nel menu principale](assets/pt-blueprints-01.png)
 
-Per installare una blueprint negli ambienti di produzione o sandbox, seleziona Blueprint nel menu principale. Sfoglia il catalogo o utilizza l’opzione Filtra per tipo presente nel menu di filtraggio a destra per individuare e installare la blueprint più adatta al tuo progetto. Se necessario, configura i dettagli del modello di progetto, ad esempio la mappatura dei ruoli del blueprint ai ruoli dell’organizzazione, prima di installare il blueprint. Dopo aver installato la blueprint, puoi apportare modifiche al nuovo modello in base alle esigenze della tua organizzazione.
+Per installare una blueprint negli ambienti di produzione o sandbox, seleziona Blueprint nel menu principale. Sfoglia il catalogo o utilizza l’opzione Filtra per tipo disponibile nel menu di filtraggio a destra per individuare e installare il modello adatto alle tue esigenze. Configura i dettagli del modello di progetto, ad esempio la mappatura dei ruoli di lavoro della blueprint ai ruoli di lavoro dell’organizzazione, prima di installare la blueprint, se necessario. Dopo aver installato la blueprint, puoi apportare modifiche al nuovo modello in base alle esigenze della tua organizzazione.

@@ -1,6 +1,6 @@
 ---
-title: Navigare nel visualizzatore bozze
-description: Scopri come spostare una bozza, ingrandire o ridurre il contenuto, utilizzare la colonna delle miniature, filtrare i commenti della bozza e altro ancora nella [!DNL  Workfront] visualizzatore di bozze.
+title: Navigare nel visualizzatore di prove
+description: Scopri come spostare una bozza, ingrandire/ridurre il contenuto, utilizzare la colonna delle miniature, filtrare i commenti a prova e altro ancora nel [!DNL  Workfront] visualizzatore di correzione.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,23 +11,23 @@ thumbnail: 335140.png
 kt: 8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Navigare nel visualizzatore bozze
+# Navigare nel visualizzatore di prove
 
 Questo video illustra come:
 
 * Spostare una bozza e ingrandire/ridurre il contenuto
-* Utilizza la colonna delle miniature per visualizzare in anteprima e navigare tra le pagine di una bozza
+* Utilizza la colonna miniatura per visualizzare l’anteprima e navigare nelle pagine di una bozza
 * Filtrare la colonna dei commenti
 * Chiudi la bozza
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)
 
 <!-- 
 ## Learn more

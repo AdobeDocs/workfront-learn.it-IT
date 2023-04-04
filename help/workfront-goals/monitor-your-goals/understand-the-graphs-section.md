@@ -1,6 +1,6 @@
 ---
-title: Comprendere la [!UICONTROL Grafici] sezione
-description: Scopri come leggere e interpretare il grafico Integrità obiettivo e il grafico Avanzamento obiettivo in [!DNL Goals].
+title: Comprendere il [!UICONTROL Grafici] sezione
+description: Scopri come leggere e interpretare il grafico Salute obiettivo e il grafico Avanzamento obiettivo in Obiettivi.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,22 +10,22 @@ team: Technical Marketing
 kt: 8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# Comprendere la [!UICONTROL Grafici] sezione
+# Comprendere il [!UICONTROL Grafici] sezione
 
-## Grafici e stato obiettivo
+## Grafici e salute degli obiettivi
 
-Il [!UICONTROL Grafici] consente di visualizzare lo stato e l’avanzamento generali degli obiettivi. Osserva le tendenze nel tempo e osserva un’istantanea completa dello stato di avanzamento dei tuoi obiettivi in un periodo di tempo specifico. I due grafici predefiniti sono il grafico Integrità obiettivo e il grafico Avanzamento obiettivo. Queste informazioni sono fondamentali per mantenere gli obiettivi aziendali allineati in tutte le iniziative strategiche.
+La [!UICONTROL Grafici] La sezione ti consente di visualizzare lo stato generale e lo stato di avanzamento dei tuoi obiettivi. Osserva le tendenze nel tempo e osserva una panoramica completa dei progressi compiuti dai tuoi obiettivi in un periodo di tempo specifico. I due grafici predefiniti sono il grafico Salute obiettivo e il grafico Avanzamento obiettivo. Queste informazioni sono fondamentali per mantenere gli obiettivi aziendali allineati tra le varie iniziative strategiche.
 
 Questo video illustra come:
 
-* Lettura e interpretazione del grafico Stato obiettivo
-* Leggi e interpreta il grafico Avanzamento obiettivo
+* Leggi e interpreta il grafico di Salute obiettivo
+* Leggere e interpretare il grafico Stato obiettivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on)

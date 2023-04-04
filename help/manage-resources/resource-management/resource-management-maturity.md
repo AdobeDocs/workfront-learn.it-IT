@@ -1,6 +1,6 @@
 ---
-title: Maturità gestione risorse
-description: Informazioni sull'installazione del componente aggiuntivo di Microsoft Outlook
+title: Scadenza gestione risorse
+description: Scopri come installare il componente aggiuntivo Microsoft Outlook
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,44 +11,44 @@ thumbnail: 335160.png
 kt: 8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# Maturità gestione risorse
+# Scadenza gestione risorse
 
-Sapere quali risorse sono disponibili e quando all’interno di un’organizzazione può essere complicato e dispendioso in termini di tempo. Ci sono molte parti mobili, atteggiamenti e opinioni che possono infangare le acque.
+Sapere quali risorse sono disponibili e quando all&#39;interno di un&#39;organizzazione può essere complicato e richiede molto tempo. Ci sono molte parti in movimento, atteggiamenti e opinioni che possono infangare le acque.
 
-Molte organizzazioni decidono di acquistare un software di gestione delle risorse con tutte le campane e fischietti che pensano che risolverà tutti i loro problemi di risorse. Questo spesso porta a un numero maggiore di parti mobili, dettagli più approfonditi che i processi correnti non comportano e fa sì che meno persone utilizzino il sistema acquistato per risolvere il problema.
+Molte organizzazioni decidono di acquistare un software di gestione delle risorse con tutte le campane e fischi pensando che risolverà tutti i loro problemi di risorse. Questo porta spesso a parti più mobili, dettagli più profondi che i processi correnti non comportano e porta a meno persone che utilizzano il sistema acquistato per risolvere il problema.
 
-Quindi, come è possibile risolvere le esigenze della risorsa per ottenere chiarezza sulla capacità della risorsa?
+Quindi, come si possono sfalsare le esigenze delle risorse per ottenere chiarezza sulla capacità delle risorse?
 
-La prima cosa che si rende conto è che i problemi relativi alle risorse non verranno risolti in un giorno o in un mese. Imparare a comprendere e quindi gestire le risorse è un’abilità che richiede tempo e fatica per essere padroneggiata.
+La prima constatazione è che i problemi relativi alle risorse non verranno risolti durante la notte o in un mese. Imparare a comprendere e poi gestire le risorse è una capacità che richiede tempo e fatica per padroneggiare.
 
-Tuttavia, alcuni di voi potrebbero essere più in là nel percorso di padronanza della gestione delle risorse di quanto pensate. Osserva ogni fase del modello di maturità delle risorse e verifica se riconosci l’organizzazione in una di esse.
+Tuttavia, alcuni di voi potrebbero essere più avanti lungo il percorso verso la padronanza della gestione delle risorse di quanto si pensi. Osserva ogni fase del modello di scadenza delle risorse e controlla se riconosci la tua organizzazione in uno di essi.
 
-## Quattro fasi di maturità nella gestione delle risorse
+## Quattro fasi della maturità della gestione delle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on)
 
 
 ## Dove andare da qui
 
-Hai visto la tua organizzazione in una di queste fasi? Se lo hai fatto, fantastico. Da qui puoi iniziare a pianificare il resto del percorso di gestione delle risorse.
+Hai visto la tua organizzazione in una di queste fasi? Se l&#39;hai fatto, ottimo. Da qui puoi iniziare a pianificare il resto del percorso di gestione delle risorse.
 
 &lt;!Along with this learning path, you’ll find a guide, Resource maturity growth, that presents ideas on how to progress from one resource management stage to another.&gt;
 
-Se non l&#39;hai fatto, non preoccuparti. Anche con queste definizioni può essere difficile determinare esattamente dove ti trovi.
+Se non lo hai fatto, non preoccuparti. Anche con queste definizioni può essere difficile determinare esattamente dove ti trovi.
 
-Dai un’occhiata onesta e discuti la posizione attuale in cui si trovano i processi di gestione delle risorse. Rispondi a domande come:
+Esamina e discuti in modo onesto la tua posizione attuale nei processi di gestione delle risorse. Indirizza e può rispondere a domande come:
 
-* Come tracciare la capacità?
+* Come tracciamo la capacità?
 * Chi tiene traccia della capacità?
-* Le risorse umane sono organizzate e, in caso affermativo, in che modo?
-* C&#39;è una o più persone che dividono le risorse per un lavoro prioritario?
-* In che modo viene data priorità a tale lavoro?, ecc.
+* Le nostre risorse umane sono organizzate e, in caso affermativo, in che modo?
+* C&#39;è una o più persone che dividono le risorse per dare priorità al lavoro?
+* Come si dà la priorità a quel lavoro?
 
-Risposte e fase di maturazione delle risorse in cui si trova attualmente l&#39;organizzazione. In questo modo è possibile iniziare a utilizzare la gestione delle risorse per l&#39;organizzazione.
+Prendi queste risposte e identifica lo stadio di maturità delle risorse in cui si trova attualmente la tua organizzazione. Questo ti darà la possibilità di iniziare a pensare a come la gestione delle risorse dovrebbe funzionare per la tua organizzazione.

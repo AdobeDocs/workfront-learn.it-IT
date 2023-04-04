@@ -1,6 +1,6 @@
 ---
 title: Introduzione alle aggregazioni
-description: Scopri cosa sono gli aggregatori, come utilizzarli e i diversi tipi di aggregatori in [!DNL Adobe Workfront Fusion].
+description: Scopri cosa sono gli aggregatori, come utilizzare gli aggregatori e i diversi tipi di aggregatori in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9019
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # Introduzione alle aggregazioni
 
-Questo video illustra:
+In questo video imparerai:
 
-* Cosa sono gli aggregatori
+* Quali aggregati sono
 * Come utilizzare gli aggregatori
 * Diversi tipi di aggregatori
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on)

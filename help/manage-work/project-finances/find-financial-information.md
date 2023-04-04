@@ -1,6 +1,6 @@
 ---
 title: Trova informazioni finanziarie
-description: Scopri come trovare informazioni finanziarie su un progetto e da dove proviene.
+description: Scopri come trovare informazioni finanziarie su un progetto e capire da dove proviene.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Trova informazioni finanziarie su un progetto e scopri da dove proviene.
+* Trova informazioni finanziarie su un progetto e capisci da dove proviene.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on)

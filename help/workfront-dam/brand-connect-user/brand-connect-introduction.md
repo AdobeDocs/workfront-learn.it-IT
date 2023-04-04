@@ -1,6 +1,6 @@
 ---
-title: Informazioni su [!UICONTROL DAM WORKFRONT] e Brand Connect
-description: Scopri cosa [!UICONTROL DAM WORKFRONT] e Brand Connect sono e come vengono utilizzati.
+title: Scopri [!UICONTROL Workfront DAM] e Brand Connect
+description: Scopri cosa [!UICONTROL Workfront DAM] e Brand Connect sono e come vengono utilizzati.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Brand Connect: introduzione
 
-[!UICONTROL Brand Connect] fa parte di [!UICONTROL DAM WORKFRONT]: una soluzione DAM (Digital Asset Management) creata per gestire, controllare e pubblicare risorse marketing, creative, professionali e di altro tipo. Utilizzare [!DNL Workfront] per creare richieste di risorse e quindi gestire la produzione e la revisione delle risorse. Cura, archivia e distribuisci le risorse completate e approvate tramite [!UICONTROL DAM WORKFRONT]. Pubblicare risorse in [!UICONTROL Brand Connect] per essere certi che il messaggio giusto sia disponibile per il pubblico giusto, dove e come lo necessita.
+[!UICONTROL Brand Connect] fa parte di [!UICONTROL Workfront DAM], una soluzione di gestione delle risorse digitali (DAM) creata per gestire, controllare e pubblicare contenuti di marketing, creativi, servizi professionali e altre risorse. Utilizzo [!DNL Workfront] per creare richieste di risorse e quindi gestire la produzione e la revisione delle risorse. Cura, archiviazione e distribuzione delle risorse completate e approvate tramite [!UICONTROL Workfront DAM]. Pubblicare le risorse su [!UICONTROL Brand Connect] per essere certi che il messaggio giusto sia disponibile al pubblico giusto, dove e come ne ha bisogno.
 
-Questo video illustra:
+In questo video imparerai:
 
-* Cos’è [!UICONTROL DAM WORKFRONT] e Brand Connect
+* Che cosa è [!UICONTROL Workfront DAM] e Brand Connect
 * Come [!UICONTROL Brand Connect] viene utilizzato
 
->[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on)

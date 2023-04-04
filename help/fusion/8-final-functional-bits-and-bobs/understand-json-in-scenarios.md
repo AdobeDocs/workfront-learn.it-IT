@@ -1,6 +1,6 @@
 ---
-title: Comprendere JSON in scenari
-description: Scopri cos’è JSON, come è strutturato e come verrà tradotto in dati da utilizzare all’interno dei tuoi scenari in [!DNL Adobe Workfront Fusion].
+title: Comprendere JSON negli scenari
+description: Scopri cos’è JSON, come è strutturato e come verrà tradotto in dati da utilizzare nei tuoi scenari in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,21 +10,21 @@ level: Beginner
 kt: 9059
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Comprendere JSON in scenari
+# Comprendere JSON negli scenari
 
-JSON (JavaScript Object Notation) è una sintassi comune per l’archiviazione e lo scambio di dati e può essere utilizzata in Workfront Fusion.
+JSON (JavaScript Object Notation) è una sintassi comune per l&#39;archiviazione e lo scambio di dati e può essere utilizzata in Workfront Fusion.
 
-Questo video illustra:
+In questo video imparerai:
 
 * Cos’è JSON e come è strutturato
-* Come leggere il codice JSON e come verrà convertito in dati da utilizzare all’interno dei tuoi scenari
-* Come utilizzare i moduli JSON durante la creazione, la modifica e l’utilizzo di JSON
+* Come leggere JSON e come verrà tradotto in dati da utilizzare nei tuoi scenari
+* Come utilizzare i moduli JSON durante la creazione, la modifica e l’utilizzo con JSON
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on)

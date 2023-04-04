@@ -1,6 +1,6 @@
 ---
-title: Informazioni su [!UICONTROL DAM WORKFRONT] Corso
-description: Scopri cosa verrà trattato in [!UICONTROL DAM WORKFRONT] Amministratore, Parte 1 Corso di configurazione del sistema.
+title: Informazioni su [!UICONTROL Workfront DAM] Corso
+description: Scopri cosa sarà coperto nel [!UICONTROL Workfront DAM] Amministratore, corso Configurazione sistema parte 1.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,7 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8964
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 In questo video:
 
-* Introduzione a [!UICONTROL DAM WORKFRONT] corso
+* Introduzione al [!UICONTROL Workfront DAM] corso
 
->[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on)
 
 <!-- Learn more graphic & links to documentation articles
 * Accessing help for Workfront DAM

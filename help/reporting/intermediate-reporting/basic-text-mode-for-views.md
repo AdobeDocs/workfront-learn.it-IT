@@ -1,6 +1,6 @@
 ---
 title: Comprendere la modalità testo di base per le visualizzazioni
-description: Scopri che cosa sono la modalità testo, la notazione a cammello e alcune modalità testo "plug and play" di base che puoi utilizzare nelle visualizzazioni di Workfront.
+description: Scopri la modalità testo, il cammello e alcune modalità testo "plug and play" di base che puoi utilizzare nelle visualizzazioni in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -32,23 +32,23 @@ ht-degree: 0%
 
 >[!TIP]
 >
->* Per comprendere meglio la modalità testo, consigliamo di guardare l’evento del webinar registrato [Ask the Expert - Introduzione al reporting in modalità testo](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), della durata di un&#39;ora.
->* Per ulteriori informazioni sulla modalità testo, si consiglia di guardare [Reporting avanzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) esercitazioni, che insieme durano cinque ore e mezza.
+>* Per una comprensione più approfondita della modalità di testo, si consiglia di guardare l&#39;evento del webinar registrato [Chiedi all&#39;esperto - Introduzione al reporting in modalità testo](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), che dura un&#39;ora.
+>* Per ulteriori informazioni sulla modalità testo, si consiglia di guardare la [Rapporti avanzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) i tutorial, che insieme sono lunghi cinque ore e mezza.
 
 
-Questo video illustra:
+In questo video imparerai:
 
-* Che cos’è la modalità testo
-* Che cos’è Camel Case
-* Alcune modalità di testo &quot;plug and play&quot; di base che è possibile utilizzare nelle visualizzazioni
+* Modalità testo
+* Che caso di cammello è
+* Alcune modalità di testo &quot;plug and play&quot; di base possono essere utilizzate nelle visualizzazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## Attività - Vista a 4 elementi principali
+## Attività - Visualizzazione 4 elementi principali
 
-Creare innanzitutto una colonna per Nome attività e Nome padre, quindi utilizzare la modalità di testo seguente per creare le altre tre colonne.
+Crea prima una colonna per Nome attività e Nome padre, quindi utilizza la seguente modalità di testo per creare le altre tre colonne.
 
-### Attività: padre del nome padre
+### Attività - Elemento padre del nome padre
 
 ```
 displayname=Parent of Parent Name
@@ -62,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### Attività: elemento padre del nome padre
+### Attività - Elemento padre del nome padre
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -76,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### Attività: elemento padre dell&#39;elemento padre del nome padre
+### Attività - Elemento padre del nome padre
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -90,11 +90,11 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![Un&#39;immagine della schermata che mostra la vista dei 4 elementi principali](assets/4-parents-view.png)
+![Immagine dello schermo che mostra la visualizzazione dei 4 elementi principali](assets/4-parents-view.png)
 
-## Utente: iterazioni che mostrano elenchi nelle visualizzazioni utente
+## Utente - Iterazioni che mostrano gli elenchi nelle visualizzazioni utente
 
-### Utente: tutti i ruoli
+### Utente - Tutti i ruoli di lavoro
 
 ```
 displayname=All job roles
@@ -106,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### Utente: tutti i ruoli principali visualizzati
+### Utente: tutti i ruoli di lavoro che mostrano il ruolo primario
 
 ```
 displayname=All Job Roles showing primary
@@ -132,7 +132,7 @@ valueformat=HTML
 
 >[!NOTE]
 >
->È disponibile un campo Team accessibile tramite l’interfaccia utente di che mostra tutti i team, separati da virgole, ma utilizzando la modalità di testo precedente ogni team verrà visualizzato su una riga separata.
+>È disponibile un campo Team accessibile tramite l’interfaccia utente che mostra tutti i team, separati da virgole, ma utilizzando la modalità di testo di cui sopra ogni team verrà visualizzato su una riga separata.
 
 
 ### Utente - Tutti i gruppi
@@ -147,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### Utente: tutti i gruppi che mostrano il gruppo predefinito
+### Utente: tutti i gruppi che mostrano il gruppo home
 
 ```
 displayname=All groups showing home group
@@ -160,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### Utente - Referenti diretti
+### Utente - Rapporti diretti
 
 ```
 displayname=Direct reports
@@ -186,9 +186,9 @@ valueformat=HTML
 width=150
 ```
 
-![Un&#39;immagine della schermata che mostra la vista Elenco utenti](assets/user-lists-view-large.png)
+![Immagine di una schermata che mostra la visualizzazione degli elenchi utente](assets/user-lists-view-large.png)
 
-## Attività: come visualizzare le assegnazioni delle attività e lavorare sullo stato
+## Attività: modalità di visualizzazione delle assegnazioni delle attività e utilizzo dello stato
 
 ```
 displayname=Assignments and Status
@@ -202,12 +202,12 @@ valueformat=HTML
 width=150
 ```
 
-![Immagine che mostra la vista Assegnazioni e Stato](assets/assignments-and-status-view.png)
+![Immagine della schermata con le visualizzazioni Assegnazioni e Stato](assets/assignments-and-status-view.png)
 
 
-## Attività: come visualizzare ruolo e allocazione su più assegnazioni di attività
+## Attività: modalità di visualizzazione del ruolo e dell&#39;allocazione in più assegnazioni di attività
 
-### Attività - Ruolo + Ore
+### Attività - Ruolo + ore
 
 ```
 displayname=Role+hours
@@ -219,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### Attività - Assegnazione + allocazione percentuale
+### Attività - Assegnazione + percentuale di allocazione
 
 ```
 displayname=Assignment+percent
@@ -231,13 +231,13 @@ textmode=true
 type=iterate
 ```
 
-![Immagine della schermata che mostra la vista Assegnazioni e ruoli](assets/assignments-roles-and-percent-view.png)
+![Immagine della schermata che mostra la vista Assegnazioni e Ruoli](assets/assignments-roles-and-percent-view.png)
 
-## Attività: predecessori e successori di progetti incrociati
+## Attività: predecessori e successori di progetti diversi
 
 ### Filtro attività (facoltativo)
 
-**Mostra tutte le attività con almeno un predecessore di progetto incrociato**
+**Visualizza tutte le attività con almeno un predecessore di progetto incrociato**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -259,7 +259,7 @@ valueformat=HTML
 width=150
 ```
 
-### Attività: mostra nomi successore e successore progetto in
+### Attività: mostra i nomi dei successori e il successore del progetto è in
 
 ```
 displayname=Successor names
@@ -273,7 +273,7 @@ valueformat=HTML
 width=150
 ```
 
-### Attività: mostra la data di completamento prevista dei predecessori
+### Task - Visualizza la data di completamento prevista dei predecessori
 
 ```
 displayname=Predecessor projected completion dates
@@ -288,7 +288,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### Attività: mostra lo stato di avanzamento dei predecessori
+### Task - Visualizza lo stato di avanzamento dei predecessori
 
 ```
 displayname=Predecessor progress status
@@ -303,7 +303,7 @@ valueformat=HTML
 width=90
 ```
 
-### Attività: mostra la percentuale di completamento del progetto del predecessore di un progetto incrociato
+### Attività: mostra la percentuale di completamento del progetto del predecessore di più progetti
 
 ```
 displayname=Predecessor project percent complete
@@ -317,10 +317,10 @@ valueformat=HTML
 width=150
 ```
 
-![Immagine della schermata che mostra la vista Precedenti e successori di progetti incrociati](assets/cross-project-predecessors-and-successors.png)
+![Immagine della schermata che mostra la vista predecessori e successori di progetti incrociati](assets/cross-project-predecessors-and-successors.png)
 
 
-## Attività: iterazione che mostra tutte le persone assegnate e chi le ha assegnate
+## Attività : iterazione che mostra tutte le persone assegnate e che le hanno assegnate
 
 ```
 displayname=All assignees and requesters
@@ -332,9 +332,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![Immagine della schermata che mostra tutte le persone assegnate e chi le ha assegnate](assets/all-assignees-and-requesters.png)
+![Immagine dello schermo che mostra tutte le persone assegnate e che le hanno assegnate](assets/all-assignees-and-requesters.png)
 
-## Attività/Progetto - Iterazione che mostra tutti i moduli personalizzati su un progetto o un’attività
+## Attività/Progetto : iterazione per visualizzare tutti i moduli personalizzati su un progetto o un&#39;attività
 
 ```
 displayname=All Forms Assigned
@@ -346,10 +346,10 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![Immagine schermata che mostra tutti i moduli personalizzati di un progetto](assets/all-custom-forms-on-a-project.png)
+![Un’immagine a schermo che mostra tutti i moduli personalizzati in un progetto](assets/all-custom-forms-on-a-project.png)
 
 
-## Progetto: iterazione che mostra tutti i contatti principali per i risolvibili nella vista Progetto
+## Progetto - Iterazione che mostra tutti i contatti principali per i resolvables nella visualizzazione del progetto
 
 ```
 displayname=Requestor
@@ -363,9 +363,9 @@ valueformat=HTML
 width=150
 ```
 
-![Immagine della schermata che mostra i contatti principali per i risolvibili](assets/primary-contacts-for-resolvables.png)
+![Un&#39;immagine a schermo che mostra i contatti primari per i resolubili](assets/primary-contacts-for-resolvables.png)
 
-## Progetto: iterazione che mostra tutti i membri del team di progetto
+## Progetto: iterazione che mostra tutti i membri del team del progetto
 
 ```
 displayname=Project Team Members
@@ -378,9 +378,9 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![Un&#39;immagine della schermata che mostra tutti i membri del team di progetto](assets/all-project-team-members.png)
+![Un’immagine a schermo che mostra tutti i membri del team di progetto](assets/all-project-team-members.png)
 
-## Progetto: iterazione che mostra la data di entrata di tutte le Issues risolvibili di un progetto
+## Progetto: iterazione che mostra l&#39;entryDate di tutti i problemi risolvibili per un progetto
 
 ```
 displayname=Resolvables entry date
@@ -396,9 +396,9 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![Immagine schermata che mostra la data di entrata di tutti i problemi risolvibili per un progetto](assets/resolvables-entry-date.png)
+![Immagine della schermata che mostra l&#39;entryDate di tutti i problemi risolvibili per un progetto](assets/resolvables-entry-date.png)
 
-## Progetto: mostra il gruppo predefinito del richiedente del progetto originale
+## Progetto: mostra il gruppo home del richiedente del progetto originale
 
 ```
 displayname=Requestor home group
@@ -410,9 +410,9 @@ valuefield=convertedOpTaskOriginator:homeGroup:name
 valueformat=HTML
 ```
 
-![Immagine della schermata che mostra il gruppo predefinito del richiedente del progetto](assets/requestor-home-group.png)
+![Immagine della schermata che mostra il richiedente del progetto o il gruppo home](assets/requestor-home-group.png)
 
-## Progetto: mostra se il progetto è una coda di richieste
+## Progetto: mostra se il progetto è una coda di richiesta
 
 ```
 querysort=queueDef:isPublic
@@ -428,9 +428,9 @@ enumclass=com.attask.common.constants.ProjectStatusEnum
 displayname=Public Selection
 ```
 
-![Immagine che mostra se il progetto è una coda di richieste](assets/project-is-a-request-queue.png)
+![Immagine della schermata che mostra se il progetto è una coda di richiesta](assets/project-is-a-request-queue.png)
 
-## Problema: iterazione che mostra tutti i membri del team del progetto di risoluzione
+## Problema: iterazione che mostra tutti i membri del team di progetto di risoluzione
 
 ```
 displayname=Resolve Project: Team Members
@@ -444,7 +444,7 @@ valueformat=HTML
 width=150
 ```
 
-![Un&#39;immagine della schermata che mostra tutti i membri del team di progetto di risoluzione](assets/all-resolve-project-team-members.png)
+![Immagine della schermata che mostra tutti i membri del team di progetto risolti](assets/all-resolve-project-team-members.png)
 
 ## Problema: iterazione che mostra tutti i team del contatto principale del problema
 
@@ -460,7 +460,7 @@ valueformat=HTML
 width=150
 ```
 
-![Un&#39;immagine della schermata che mostra tutti i team di contatto principali](assets/all-primary-contact-teams.png)
+![Un’immagine a schermo che mostra tutti i team di contatto principali](assets/all-primary-contact-teams.png)
 
 ## Documento - Iterazione che mostra la cartella in un rapporto di documento
 
@@ -474,9 +474,9 @@ valuefield=name
 valueformat=HTML
 ```
 
-![Immagine schermata che mostra la cartella in un report documento](assets/folder-in-a-document-report.png)
+![Immagine di una schermata che mostra la cartella in un rapporto di documento](assets/folder-in-a-document-report.png)
 
-## Documento: iterazione che mostra la cartella principale in un rapporto di documento
+## Documento - Iterazione che mostra la cartella padre in un report di documento
 
 ```
 displayname=Parent Folder
@@ -488,9 +488,9 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![Immagine schermata che mostra la cartella principale in un report di documenti](assets/parent-folder-in-a-document-report.png)
+![Immagine di una schermata che mostra la cartella principale in un report di documento](assets/parent-folder-in-a-document-report.png)
 
-## Documento - Date approvazione documento
+## Documento - Date di approvazione documento
 
 ```
 displayname=Document Approval Dates
@@ -510,7 +510,7 @@ section=0
 
 ## Approvazioni bozze
 
-### Approvazione bozza - Mostra nome progetto
+### Approvazione bozza - Visualizza nome progetto
 
 ```
 displayname=Project Name
@@ -519,7 +519,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### Approvazione bozza - Mostra nome attività
+### Approvazione bozza - Visualizza nome attività
 
 ```
 displayname=Task Name
@@ -528,4 +528,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![Immagine schermata che mostra il progetto e l’attività dell’approvazione di una bozza](assets/proof-approval-project-and-task.png)
+![Immagine a schermo che mostra il progetto e l’attività di un’approvazione della bozza](assets/proof-approval-project-and-task.png)

@@ -1,6 +1,6 @@
 ---
 title: Comprendere le durate delle attività
-description: Scopri in che modo le durate influiscono sulle date di inizio e di completamento delle attività, in che modo le durate vengono incluse nelle sequenze temporali dei progetti e alcune best practice per l’utilizzo delle durate delle attività.
+description: Scopri in che modo le durate influiscono sulle date di inizio e di completamento delle attività, come le durate vengono applicate alle timeline del progetto e alcune best practice per l’utilizzo delle durate delle attività.
 activity: use
 feature: Work Management
 thumbnail: 335089.jpeg
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8776
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Comprendere le durate delle attività
 
-Questo video illustra:
+In questo video imparerai:
 
-* Contenuto della durata di un&#39;attività [!DNL Workfront]
+* Durata di un&#39;attività [!DNL Workfront]
 * Effetti delle durate sulle date di inizio e di completamento delle attività
-* Fattore durata nelle sequenze temporali del progetto
+* Fattore di durata nelle timeline del progetto
 * Raccomandazioni sulle best practice per l’utilizzo delle durate delle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

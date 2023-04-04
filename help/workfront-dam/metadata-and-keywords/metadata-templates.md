@@ -1,6 +1,6 @@
 ---
-title: Configurare modelli di metadati in [!UICONTROL DAM WORKFRONT]
-description: Scopri come risparmiare tempo con i modelli di metadati, configurare un modello di metadati e applicare un modello a una cartella in [!UICONTROL DAM WORKFRONT].
+title: Configurare i modelli di metadati in [!UICONTROL Workfront DAM]
+description: Scopri come risparmiare tempo con i modelli di metadati, impostare un modello di metadati e applicare un modello a una cartella in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Questo video illustra come:
 * Configurare un modello di metadati
 * Applicare un modello a una cartella
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on)

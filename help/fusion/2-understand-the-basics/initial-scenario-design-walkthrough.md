@@ -1,6 +1,6 @@
 ---
 title: Procedura dettagliata sulla progettazione dello scenario iniziale
-description: Scopri come creare cartelle e nuovi scenari, utilizzare Progettazione scenari e creare uno scenario di base in [!DNL Adobe Workfront Fusion].
+description: Scopri come creare cartelle e nuovi scenari, utilizzare la finestra di progettazione degli scenari e creare uno scenario di base in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,24 +23,24 @@ ht-degree: 0%
 
 Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei progetti.
 
-![Immagine dello scenario Fusion](assets/understand-the-basics-1.png)
+![Immagine dello scenario di fusione](assets/understand-the-basics-1.png)
 
-Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
+Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di cercare di ricreare l&#39;esercizio nel proprio ambiente.
 
 Questo video illustra come:
 
 * Creare cartelle e nuovi scenari
-* Utilizzare la finestra di progettazione scenario
+* Utilizzare il designer dello scenario
 * Creare uno scenario di base
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata per la progettazione dello scenario iniziale](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate su come completare la procedura dettagliata, consulta [Procedura dettagliata sulla progettazione dello scenario iniziale](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) esercizio fisico.
 
 
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Vuoi saperne di più? Si consiglia quanto segue:
 
 [Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

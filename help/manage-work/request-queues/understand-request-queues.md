@@ -1,6 +1,6 @@
 ---
-title: Comprendere le code di richieste
-description: Scopri come sono strutturate le code di richieste in [!DNL  Workfront] e come inviare una richiesta.
+title: Comprendere le code di richiesta
+description: Scopri come sono strutturate le code di richiesta in [!DNL  Workfront] e come inviare una richiesta.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -11,50 +11,50 @@ thumbnail: 335220.jpeg
 kt: 8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# Comprendere le code di richieste
+# Comprendere le code di richiesta
 
-Questo video illustra:
+In questo video imparerai:
 
-* Come inviare una richiesta tramite un [!DNL  Workfront] coda richieste
-* Struttura delle code di richieste
+* Come inviare una richiesta tramite un [!DNL  Workfront] coda di richiesta
+* Struttura delle code di richiesta
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
-## Richiedi salvataggio automatico delle bozze
+## Le bozze di richiesta vengono salvate automaticamente
 
-Quando inizi a compilare un modulo di richiesta, [!DNL Workfront] salva automaticamente una bozza dopo aver compilato il [!UICONTROL Oggetto] campo. Ciò significa che non perderai dati se devi allontanarti dal [!UICONTROL Richieste] per eseguire un’altra operazione o se devi sospendere nel mezzo della richiesta per raccogliere ulteriori informazioni.
+Quando inizi a compilare un modulo di richiesta, [!DNL Workfront] salva automaticamente una bozza dopo aver compilato [!UICONTROL Oggetto] campo . Ciò significa che non perderai dati se devi allontanarti dalla [!UICONTROL Richieste] area per eseguire un&#39;altra operazione o se è necessario fermarsi a metà della richiesta per raccogliere ulteriori informazioni.
 
-Nella parte superiore della finestra viene visualizzata un’indicazione del salvataggio della bozza. [!DNL Workfront] salva una bozza della richiesta, anche se i campi obbligatori non sono ancora stati compilati.
+Vedrai un’indicazione che la bozza è stata salvata nella parte superiore della finestra. [!DNL Workfront] salverà una bozza della richiesta, anche se i campi obbligatori non sono ancora stati compilati.
 
-![immagine di una bozza di richiesta in fase di creazione](assets/queue-mgt-make-a-request-draft-1.png)
+![immagine di una creazione di una bozza di richiesta](assets/queue-mgt-make-a-request-draft-1.png)
 
-Quando sei pronto a inviare la richiesta, trovala nella sezione [!UICONTROL Bozze] scheda. Fare clic sul nome per aprirlo e completare la compilazione del modulo. Quindi fai clic su [!UICONTROL Invia richiesta] quando hai finito.
+Quando sei pronto a inviare la richiesta, trovala nella [!UICONTROL Bozze] scheda . Fare clic sul nome per aprirlo e completare la compilazione del modulo. Quindi fai clic su [!UICONTROL Invia richiesta] quando hai finito.
 
 ![immagine del richiamo di una bozza di richiesta](assets/queue-mgt-make-a-request-draft-2.png)
 
-## Tocca a te
+## Il tuo turno
 
-Dedichiamo un minuto alla verifica delle informazioni appena presentate.
+Dedichiamo un minuto alla revisione delle informazioni appena presentate.
 
-**Domanda:** Come si effettua una richiesta in Workfront? Elencare i passaggi in ordine.
+**Domanda:** Come si effettua una richiesta in Workfront? Elenca i passaggi in ordine.
 
-* Scegli il tipo di richiesta da effettuare
+* Scegli il tipo di richiesta da eseguire
 * Fai clic su Invia richiesta
-* Compila le informazioni nel modulo
+* Compila le informazioni sul modulo
 * Fai clic su &quot;Nuova richiesta&quot;
 * Passa all’area della richiesta
 
 
-**Risposta:** Passa all’area della richiesta > Fai clic su Nuova richiesta > Scegli il tipo di richiesta da creare > Compila le informazioni nel modulo > Fai clic su Sottometti richiesta
+**Risposta:** Passa all’area della richiesta > Fai clic su Nuova richiesta > Scegli il tipo di richiesta da effettuare > Compila le informazioni sul modulo > Fai clic su Invia richiesta
 
-**Domanda:** Una richiesta è davvero un ...
+**Domanda:** Una richiesta è davvero...
 
 **Risposta:** Problema
 

@@ -9,7 +9,7 @@ kt: Jira ticket
 role: Admin
 level: Beginner
 thumbnail: 335081.jpeg
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -24,4 +24,4 @@ Questo video illustra come:
 * Assegnare modelli di layout a utenti, gruppi o team
 * Controllare chi può gestire l’accesso
 
->[!VIDEO](https://video.tv.adobe.com/v/MPC#/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/MPC#/?quality=12&learn=on)

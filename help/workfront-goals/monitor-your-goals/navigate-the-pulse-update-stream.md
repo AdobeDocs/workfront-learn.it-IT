@@ -1,6 +1,6 @@
 ---
-title: Navigare nel [!UICONTROL Pulse] flusso di aggiornamento in [!DNL Goals]
-description: Scopri come navigare nel [!UICONTROL Pulse] flusso di aggiornamento in [!DNL Goals].
+title: Passa alla [!UICONTROL Impulso] aggiorna flusso in [!DNL Goals]
+description: Scopri come navigare nel [!UICONTROL Impulso] aggiorna il flusso in Obiettivi.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Navigare nel [!UICONTROL Pulse] flusso di aggiornamento
+# Passa alla [!UICONTROL Impulso] flusso di aggiornamento
 
-Utilizza il [!UICONTROL Pulse] sezione per rivedere e richiedere aggiornamenti per gli obiettivi che potrebbero influenzare l’avanzamento dei tuoi obiettivi, inclusi gli obiettivi allineati e i relativi risultati o attività. Possono essere obiettivi che appartengono a te, al tuo team, al gruppo o all’organizzazione.
+Utilizza la [!UICONTROL Impulso] per rivedere e richiedere aggiornamenti agli obiettivi che potrebbero influenzare il progresso dei tuoi obiettivi, inclusi gli obiettivi allineati e i loro risultati o attività. Possono essere obiettivi che appartengono a te, al tuo team, al gruppo o all&#39;organizzazione.
 
 Questo video illustra come:
 
-* Navigare nel [!UICONTROL Pulse] flusso di aggiornamento
+* Passa alla [!UICONTROL Impulso] flusso di aggiornamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)

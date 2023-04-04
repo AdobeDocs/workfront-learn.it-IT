@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Questo video illustra come:
 
 * Passa alla [!UICONTROL Elenco obiettivi] per aggiungere un nuovo obiettivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## Copiare un obiettivo esistente
 
@@ -93,5 +93,5 @@ Questo video illustra come:
 
 * Aggiungi un’attività e convertila in un obiettivo allineato
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 
