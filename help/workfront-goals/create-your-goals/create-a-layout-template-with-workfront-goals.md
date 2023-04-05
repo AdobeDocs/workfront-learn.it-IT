@@ -1,5 +1,5 @@
 ---
-title: Aggiungi [!DNL Workfront Goals] a un modello di layout
+title: Creare un modello di layout per [!DNL Workfront Goals] utenti
 description: Scopri come creare un modello di layout con [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminologia adatta alla tua organizzazione.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Creare un modello di layout con [!DNL Workfront Goals]
+# Creare un modello di layout per [!DNL Workfront Goals] utenti
 
 In **[!UICONTROL Configurazione]** area, è inoltre possibile creare e assegnare un modello di layout che include [!DNL Workfront Goals] così tu e i tuoi utenti potrete accedervi più facilmente.
 
