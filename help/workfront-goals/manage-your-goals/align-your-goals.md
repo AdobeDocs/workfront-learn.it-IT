@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Ora che hai creato e attivato i tuoi obiettivi in [!DNL Workfront Goals], assicu
 
 <!--Insert link to LP 1, above -->
 
-Utilizza l’allineamento dell’obiettivo per:
+Utilizzare la sezione Allineamento obiettivo per:
 
 * Visualizza gli obiettivi che appartengono a te o alla tua organizzazione.
 * Visualizza la gerarchia degli obiettivi e visualizza gli obiettivi figlio allineati.
-* Accedi al pannello Dettagli obiettivo e aggiorna l’obiettivo, i risultati o le attività.
+* Aprire l&#39;obiettivo per vedere i relativi indicatori di avanzamento.
 
-Garantire che gli obiettivi siano allineati significa che tutti dall&#39;alto verso il basso eseguiranno un lavoro che porta avanti le stesse iniziative. La visualizzazione è una parte importante del modo in cui ogni obiettivo aziendale principale si allinea direttamente al livello dipartimentale, team e individuale. I silos vengono ridotti allineando i team in modo interfunzionale. L’allineamento crea chiarezza sullo scopo di tutti e collega l’organizzazione a ciò che conta veramente.
+Garantire che gli obiettivi siano allineati significa che tutti dall&#39;alto verso il basso eseguiranno un lavoro che porta avanti le stesse iniziative. La visualizzazione è una parte importante del modo in cui ogni obiettivo aziendale principale si allinea direttamente al livello dipartimentale, team e individuale. I silos vengono ridotti allineando i team in modo interfunzionale. L&#39;allineamento crea chiarezza sullo scopo di tutti e collega l&#39;organizzazione a ciò che realmente conta.
 
 Quando allineate gli obiettivi aziendali, ricordate che sono intesi a creare chiarezza e concentrarsi attraverso la semplicità. Se hai problemi con l&#39;allineamento, probabilmente è perché stai cercando di forzare insieme obiettivi che sono intrinsecamente disconnessi. Quando ti senti bloccato, rivedi semplicemente i migliori obiettivi aziendali, poi gli obiettivi del gruppo e del team, e decidere quali sono i più importanti da mantenere. Elimina tutto ciò che sembra ridondante o che non è in linea con la visione della tua organizzazione.
 
@@ -49,6 +49,7 @@ Ecco alcune cose da considerare prima di allineare gli obiettivi in [!DNL Workfr
 
 Questo video illustra come:
 
-* Passa alla [!UICONTROL Allineamento obiettivo] page
+* Allineare gli obiettivi utilizzando un approccio discendente e uno discendente
+* Passa alla [!UICONTROL Allineamento obiettivo] sezione
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
