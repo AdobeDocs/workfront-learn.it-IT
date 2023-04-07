@@ -9,7 +9,7 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -18,17 +18,16 @@ ht-degree: 0%
 
 # Comunicare lo stato dell&#39;obiettivo
 
-Ora che hai aggiornato i tuoi obiettivi utilizzando [!UICONTROL Check-in], fai un passo indietro e scopri gli obiettivi su cui stai lavorando e come si relazionano con la squadra, il gruppo e gli obiettivi aziendali. Comunicare con gli altri sull&#39;avanzamento e lo stato dei tuoi obiettivi è una parte importante del rimanere allineati.
+Ora che hai aggiornato i tuoi obiettivi utilizzando, prendi un momento per fare un passo indietro e ottenere una visione d&#39;insieme degli obiettivi su cui stai lavorando e come si relazionano con la squadra, il gruppo e gli obiettivi aziendali. Comunicare con gli altri sull&#39;avanzamento e lo stato dei tuoi obiettivi è una parte importante del rimanere allineati.
 
 Ci sono vari modi per mantenere le persone giuste aggiornate sui vostri obiettivi. Puoi iniziare da:
 
 * Condivisione e reporting sugli obiettivi
-* Impostazione della visualizzazione [!UICONTROL Impulso] per creare e visualizzare gli aggiornamenti dei singoli obiettivi
 * Sfruttamento delle [!UICONTROL Grafici] per ottenere un&#39;istantanea completa dei progressi dei tuoi obiettivi
 
 ## Condividere un obiettivo
 
-Puoi condividere un obiettivo creato o un obiettivo creato da un altro utente a cui si dispone delle autorizzazioni di gestione. Non puoi condividere obiettivi con gruppi, team o aziende. Se disponi di autorizzazioni di gestione per un obiettivo, puoi modificare le autorizzazioni dell’obiettivo per il creatore dell’obiettivo. Per impostazione predefinita, la persona che crea l&#39;obiettivo dispone di autorizzazioni di gestione, ma puoi modificarle in Visualizza.
+Puoi condividere un obiettivo creato o un obiettivo creato da un altro utente a cui si dispone delle autorizzazioni di gestione. Non puoi condividere obiettivi con gruppi, team o aziende. Se disponi di autorizzazioni di gestione per un obiettivo, puoi modificare le autorizzazioni dell&#39;obiettivo per il creatore di obiettivo. Per impostazione predefinita, la persona che crea l&#39;obiettivo dispone di autorizzazioni di gestione, ma puoi modificarle in Visualizza.
 
 1. Fai clic sul nome dell’obiettivo da condividere da qualsiasi sezione nel [!DNL Goals] area per aprire [!UICONTROL Dettagli obiettivo] pannello.
 
