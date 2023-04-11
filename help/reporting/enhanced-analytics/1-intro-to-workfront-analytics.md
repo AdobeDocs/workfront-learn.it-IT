@@ -1,5 +1,5 @@
 ---
-title: In a Workflow Analytics
+title: Un momento con il prodotto - Introduzione ad Analytics per i flussi di lavoro
 description: Scopri come è nata l'analisi e le emozionanti funzionalità che rende possibile con Joel Pettigrew, Product Manager per [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---

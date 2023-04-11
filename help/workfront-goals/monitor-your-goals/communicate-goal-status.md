@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '469'
+ht-degree: 1%
 
 ---
 
 # Comunicare lo stato dell&#39;obiettivo
 
-Ora che hai aggiornato i tuoi obiettivi utilizzando, prendi un momento per fare un passo indietro e ottenere una visione d&#39;insieme degli obiettivi su cui stai lavorando e come si relazionano con la squadra, il gruppo e gli obiettivi aziendali. Comunicare con gli altri sull&#39;avanzamento e lo stato dei tuoi obiettivi è una parte importante del rimanere allineati.
+Ora che hai aggiornato i tuoi obiettivi, prendi un momento per fare un passo indietro e ottenere una visione d&#39;insieme degli obiettivi su cui stai lavorando e come si relazionano con la squadra, il gruppo e gli obiettivi aziendali. Comunicare con gli altri sull&#39;avanzamento e lo stato dei tuoi obiettivi è una parte importante del rimanere allineati.
 
 Ci sono vari modi per mantenere le persone giuste aggiornate sui vostri obiettivi. Puoi iniziare da:
 
@@ -33,7 +33,7 @@ Puoi condividere un obiettivo creato o un obiettivo creato da un altro utente a 
 
 1. Fai clic sull’icona a 3 punti accanto al nome dell’obiettivo, quindi fai clic su [!UICONTROL **Condividi**]. La [!UICONTROL Accesso agli obiettivi] viene visualizzata la casella .
 
-   ![Cassa](assets/17-workfront-goals-share-a-goal.png)
+   ![Schermata per condividere un obiettivo](assets/17-workfront-goals-share-a-goal.png)
 
 1. Esegui una delle operazioni seguenti:
 

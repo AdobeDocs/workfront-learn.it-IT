@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2353'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [Parte 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Parte 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Funzionalità di analisi avanzate {#enhanced-analytics}
+      + [Un momento con prodotto su [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Introduzione a [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Aggiungi [!UICONTROL analytics] ai modelli di layout](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprendere la navigazione di base](reporting/enhanced-analytics/4-basic-navigation.md)
