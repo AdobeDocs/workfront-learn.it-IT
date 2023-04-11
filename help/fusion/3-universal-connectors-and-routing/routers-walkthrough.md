@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # Procedura dettagliata dei router
-
-## Panoramica
 
 Utilizzare un router per passare i bundle Pokemon vs. supereroi nel percorso corretto, quindi creare un&#39;attività per ogni carattere.
 
@@ -46,7 +44,7 @@ Se hai problemi ad accedere al tuo token supereroe, puoi usare questo token cond
 
 ## Cercare elementi nel pannello di mappatura
 
-Il campo Cerca elementi nella parte superiore dei pannelli di mappatura consente di trovare rapidamente i campi nel pannello, anche se nidificati in array. La ricerca non distingue tra maiuscole e minuscole.
+Il campo Ricerca elementi nella parte superiore dei pannelli di mappatura consente di trovare rapidamente i campi nel pannello, anche se nidificati in array. La ricerca non distingue tra maiuscole e minuscole.
 
 ![Immagine del primo pannello di ricerca](assets/universal-connectors-and-routing-3.png)
 
@@ -60,7 +58,7 @@ Finora hai lavorato con un’API molto semplice (Application Programming Interfa
 
 Workfront e molti sistemi software vengono creati utilizzando un’API REST (Rappresentational State Transfer), il tipo di API più semplice e standard attualmente disponibile. Tuttavia, ce ne sono alcuni altri, come:
 
-* SOAP (Simple Object Access Protocol) (l’API di prova di Workfront è basata su SOAP)
+* SOAP (Simple Object Access Protocol) (l’API di Workfront Proof è basata su SOAP)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Per ulteriori informazioni, effettua una ricerca web per tipi di API e parole chiave di interesse.
@@ -73,7 +71,7 @@ Workfront e molti sistemi software vengono creati utilizzando un’API REST (Rap
 
 L&#39;autenticazione API è una forma di identificazione utilizzata per controllare l&#39;accesso a un servizio, ad esempio quando si tenta di connettersi tramite Workfront Fusion. Ti aiuta a dimostrare a un altro sistema che sei autorizzato ad accedere al sistema. OAuth 2 è il tipo di autenticazione più comune utilizzato oggi. Ulteriori informazioni con una ricerca su Internet sull’autenticazione API.
 
-L’autenticazione può essere l’aspetto più difficile dell’utilizzo di un’API. Una delle caratteristiche più importanti dei connettori universali di Workfront Fusion è che Workfront Fusion è in grado di gestire l’autenticazione quando si utilizzano metodi di autenticazione comuni come l’autenticazione di base, come OAuth 2, la chiave API e altri. Una volta creata una connessione utilizzando il modulo Workfront Fusion appropriato per il metodo di autenticazione (ad esempio, OAuth 2), Workfront Fusion genererà continuamente chiavi API e/o token ogni volta che si desidera eseguire lo scenario.
+L’autenticazione può essere l’aspetto più difficile dell’utilizzo di un’API. Una delle caratteristiche più importanti dei connettori universali di Workfront Fusion è che Workfront Fusion può gestire l&#39;autenticazione per l&#39;utente quando si utilizzano metodi di autenticazione comuni come l&#39;autenticazione di base, come OAuth 2, API Key e altri. Una volta creata una connessione utilizzando il modulo Workfront Fusion appropriato per il metodo di autenticazione (ad esempio, OAuth 2), Workfront Fusion genererà continuamente chiavi API e/o token ogni volta che si desidera eseguire lo scenario.
 
 Scopri i diversi tipi di autenticazione forniti da Workfront nell’articolo Panoramica sull’autenticazione avanzata di Experience League.
 
@@ -81,13 +79,13 @@ Scopri i diversi tipi di autenticazione forniti da Workfront nell’articolo Pan
 
 Quando un’API interagisce con un altro sistema, i punti di contatto di questa comunicazione sono considerati endpoint. Un endpoint è il luogo in cui le API inviano le richieste e in cui risiede la risorsa.
 
-Quando interagisci con un’API utilizzando un connettore universale, è necessario comprendere gli endpoint supportati dall’API e i dati richiesti per ogni richiesta. La documentazione API descrive gli endpoint di un’API e come eseguire operazioni comuni come creare, leggere, aggiornare o eliminare elementi. L’esecuzione di queste chiamate richiede una certa pratica, soprattutto se hai poca esperienza nell’effettuare chiamate API o lavorare con una nuova API.
+Quando interagisci con un’API utilizzando un connettore universale, è necessario comprendere gli endpoint supportati dall’API e i dati richiesti per ogni richiesta. La documentazione API descrive gli endpoint di un’API e come eseguire operazioni comuni come creare, leggere, aggiornare o eliminare elementi. L’esecuzione di queste chiamate richiede una certa pratica, soprattutto se sei nuovo a effettuare chiamate API o a lavorare con una nuova API.
 
 Scopri di più sui connettori universali di Workfront Fusion e come configurarli per connettersi alle API necessarie in Experience League.
 
 ## Nota finale
 
-Puoi controllare l’intero elenco dei connettori app predefiniti nell’Experience League. Se desideri suggerire un nuovo connettore app al team di prodotto Workfront Fusion, invia la tua idea a Innovation Lab. Se non hai ancora inoltrato la tua richiesta, scopri di più sul Innovation Lab e su come votare le idee e partecipare alla definizione delle priorità della classifica due volte all’anno. Se hai già accesso a Innovation lab, accedi e invia le tue idee.
+Puoi controllare l’intero elenco dei connettori app predefiniti nell’Experience League. Se desideri suggerire un nuovo connettore app al team di prodotto Workfront Fusion, invia la tua idea a Innovation Lab. Se non avete mai inviato una richiesta, saprete di più sul Innovation Lab, e su come potete votare le idee e partecipare alla definizione delle priorità della classifica due volte all&#39;anno. Se hai già accesso a Innovation lab, accedi e invia le tue idee.
 
 ## Il tuo turno
 
@@ -103,7 +101,7 @@ Nel modulo Imposta variabili multiple per i caratteri Pokemon, crea una variabil
 
 ![Immagine delle statistiche](assets/universal-connectors-and-routing-5.png)
 
-**Sfida:** Verificare se è possibile utilizzare le formule di array per ottenere la possibilità di visualizzare la stessa modalità di cui sopra come righe diverse anziché come una stringa di valori separati da una virgola. C&#39;è un suggerimento nella schermata seguente.
+**Sfida:** Verificare se è possibile utilizzare le formule di array per ottenere la possibilità di visualizzare la stessa modalità di cui sopra come righe diverse anziché come una stringa di valori separati da una virgola. C&#39;è un suggerimento nella schermata qui sotto.
 
 ![Immagine di un nome di matrice](assets/universal-connectors-and-routing-6.png)
 

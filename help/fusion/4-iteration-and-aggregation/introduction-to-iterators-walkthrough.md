@@ -10,16 +10,14 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Introduzione alla procedura dettagliata degli iteratori
-
-## Panoramica
 
 Osserva un progetto specifico in Workfront, quindi osserva tutte le attività all’interno del progetto. Quindi si utilizzerà il modulo strumento di incremento per contare il numero di attività all&#39;interno del progetto. Infine, si utilizzerà il modulo variabile Set per sottrarre il numero di elementi figlio dal numero di problemi aperti per produrre un valore numerico per ciascuno dei bundle di attività.
 

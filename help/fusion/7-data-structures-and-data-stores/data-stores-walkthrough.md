@@ -10,16 +10,14 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # Procedura dettagliata degli archivi dati
-
-## Panoramica
 
 In questo esercizio utilizziamo un archivio dati per sincronizzare i nomi aziendali tra un elenco di aziende e Workfront.
 
@@ -40,13 +38,13 @@ Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di
 
 ## Nota finale
 
-Ora che hai finito di imparare le strutture di dati e gli archivi di dati, potresti chiederti: &quot;Quando dovrei usarle?&quot;
+Ora che avete finito di imparare le strutture di dati e i data store, vi potreste chiedere: &quot;Quando dovrei usarle?&quot;
 
-Le strutture di dati sono comunemente utilizzate per serializzare o analizzare formati di dati come JSON, XML, CSV e altri. Le strutture dati consentono di controllare la struttura dei dati e persino di convalidarli. Il motivo più comune per cui utilizzi una struttura dati è la creazione di dati validi da inviare a un’API che richiede JSON o XML. In questi casi, utilizza l’app JSON o XML insieme alla struttura dei dati per verificare che i dati siano nel formato corretto.
+Le strutture di dati sono comunemente utilizzate per serializzare o analizzare formati di dati come JSON, XML, CSV e altri. Le strutture dati consentono di controllare la struttura dei dati e persino di convalidarli. Il motivo più comune per cui utilizzi una struttura dati è la creazione di dati validi da inviare a un’API che richiede JSON o XML. In questi casi, utilizza l’app JSON o XML insieme alla struttura dei dati per assicurarti che i dati siano nel formato corretto.
 
 Gli archivi dati devono essere utilizzati solo per memorizzare dati persistenti a cui è necessario accedere da più di un’esecuzione di scenario. Ad esempio, puoi memorizzare i metadati sull’ultimo record elaborato per casi d’uso avanzati che richiedono un controllo preciso dell’elaborazione.
 
-Gli archivi dati non sono progettati per essere utilizzati come data warehouse o registrazione. Gli archivi dati non sono accessibili al di fuori di Workfront Fusion e la maggior parte delle interazioni con gli archivi di dati avviene attraverso uno scenario Workfront Fusion. Di conseguenza, non è possibile collegare un archivio dati a uno strumento di analisi o di reporting previsto per i casi di utilizzo di data warehouse e logging. Il ruolo di Workfront Fusion in casi d&#39;uso come questi sarebbe quello di compilare un sistema appropriato per l&#39;organizzazione e la memorizzazione dei dati (ad esempio SQL, MariaDB).
+Gli archivi dati non sono progettati per essere utilizzati come data warehouse o registrazione. Gli archivi dati non sono accessibili al di fuori di Workfront Fusion e la maggior parte delle interazioni con gli archivi di dati avviene attraverso uno scenario Workfront Fusion. Di conseguenza, non è possibile collegare un archivio dati a uno strumento di analisi o reporting previsto per i casi di utilizzo di data warehouse e logging. Il ruolo di Workfront Fusion in casi d&#39;uso come questi sarebbe quello di popolare un sistema appropriato per l&#39;organizzazione e la memorizzazione dei dati (ad esempio SQL, MariaDB).
 
 ## Vuoi saperne di più? Si consiglia quanto segue:
 

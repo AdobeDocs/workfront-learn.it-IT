@@ -10,16 +10,14 @@ level: Beginner
 kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 # Procedura dettagliata delle strutture dei dati
-
-## Panoramica
 
 Apri un file CSV contenente un elenco di voci di ora. Queste voci temporali sono per minuti registrati in alcuni giorni da più utenti. L’obiettivo è quello di prendere queste informazioni e produrre un nuovo CSV che mostra ogni giorno il tempo totale, in ore, registrato da ogni utente.
 

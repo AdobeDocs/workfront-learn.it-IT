@@ -10,16 +10,14 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Procedura dettagliata sulla mappatura di base
-
-## Panoramica
 
 Modifica il nome del progetto, la data di inizio pianificata e la priorità dalla &quot;Progettazione dello scenario iniziale&quot; creata nella prima procedura dettagliata utilizzando le formule del pannello di mappatura.
 
@@ -43,7 +41,7 @@ Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di
 
 Questo esercizio si basa su ciò che hai appreso nella procedura dettagliata, ma la soluzione non viene fornita.
 
-Crea un clone della procedura dettagliata &quot;Oltre la mappatura di base&quot; appena completata. Continuerai a utilizzare questo scenario nella procedura dettagliata successiva, quindi non desideri modificarlo con questo esercizio.
+Crea un clone della procedura dettagliata &quot;Oltre la mappatura di base&quot; appena completata. Continuerai a utilizzare lo scenario nella procedura dettagliata successiva, quindi non desideri modificarlo con questo esercizio.
 
 Crea un&#39;attività in ogni progetto creato come parte della procedura dettagliata precedente.
 

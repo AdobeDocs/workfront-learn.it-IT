@@ -10,16 +10,14 @@ level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Procedura dettagliata sulla cronologia di esecuzione
-
-## Panoramica
 
 Rivedi la cronologia di esecuzione per lo scenario &quot;Utilizzo del filtro potente&quot; per comprendere cosa è successo quando si sono verificate le esecuzioni e come sono state strutturate quando sono state eseguite.
 
