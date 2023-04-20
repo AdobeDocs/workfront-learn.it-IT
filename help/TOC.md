@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2360'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
       + [Trova modelli di layout](administration-and-setup/layout-templates/find-layout-templates.md)
       + [Personalizzare la terminologia con i modelli di layout](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [Personalizzare [!UICONTROL Menu principale] con modelli di layout](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Aggiungi e gestisci i pin tramite un modello di layout](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [Personalizzare la pagina principale con i modelli di layout](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Assegnare e gestire l’accesso ai modelli di layout](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Personalizzare le aree oggetto con un modello di layout](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 2%
       + [Creare pietre miliari](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + Prestazioni e manutenzione del sistema {#system-perfomance-and-maintenance}
       + [Prendi il controllo di un&#39;istanza Adobe Workfront esistente](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
