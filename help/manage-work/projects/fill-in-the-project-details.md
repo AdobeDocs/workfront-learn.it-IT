@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1219'
 ht-degree: 1%
 
 ---
@@ -24,6 +24,7 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 1. **Nome**
 
    Un nome descrittivo del progetto aiuta tutti a identificare lo scopo del progetto. Accertati di seguire la convenzione per la denominazione dei progetti della tua organizzazione, che potrebbe richiedere l’inclusione di determinate informazioni nel nome del progetto (ad esempio un numero di riferimento, un nome di reparto o un indicatore di categoria).
+
 
 1. **Descrizione**
 
@@ -37,21 +38,21 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 
    Lo stato viene utilizzato in Workfront per indicare la posizione o la fase del flusso di lavoro in cui si trova un progetto. Lo stato viene utilizzato in molti rapporti di Workfront per monitorare l’avanzamento del lavoro.
 
-   Workfront consiglia di impostare lo stato su Planning durante la compilazione e la finalizzazione del piano di progetto. Lo stato Planning indica che le notifiche di Workfront non vengono inviate agli assegnatari delle attività relative al progetto mentre si trova in questo stato.
+   Workfront consiglia di impostare lo stato su Planning durante la compilazione e la finalizzazione del piano di progetto. La cosa chiave dello stato di pianificazione è che le notifiche Workfront non vengono inviate agli assegnatari delle attività relative al progetto mentre si trova in questo stato.
 
-   Quindi, quando il progetto è pronto per essere live, cambia lo stato in Corrente. Questo accade quando Workfront invia notifiche alle persone appropriate sulle attività a cui sono state assegnate.
+   Quindi, quando il progetto è pronto per essere live, cambia lo stato in Corrente. In questo modo Workfront può inviare notifiche alle persone relative alle nuove attività a cui è stato assegnato, ma non invia notifiche agli utenti per le attività assegnate mentre il progetto era in stato di pianificazione.
 
    >[!TIP]
    >
    >  Quando si apportano modifiche al progetto, ad esempio se si modificano le date di scadenza, è possibile riportare lo stato su Planning oppure disattivare la funzione di salvataggio automatico per impedire che le notifiche vengano inviate fino al completamento delle modifiche.
 
-   L&#39;amministratore di sistema può impostare lo stato Planning come predefinito globale di Workfront.
+   L&#39;amministratore di sistema può impostare lo stato Planning come predefinito globale di Workfront per i nuovi progetti.
 
 1. **Modalità Schedule**
 
    I progetti Workfront possono essere pianificati a partire da una data di inizio o da una data di completamento. Tale selezione importante determina il modo in cui vengono calcolate le date pianificate di ciascuna attività.
 
-   L’opzione Data inizio considera la data di inizio del progetto, immessa dall’utente, nonché la durata e i predecessori di ogni attività per calcolare la data di fine del progetto. Workfront consiglia di utilizzare questa opzione, in quanto è la più comune e semplifica la pianificazione delle date del progetto.
+   L&#39;opzione Data inizio considera la data di inizio del progetto, immessa dall&#39;utente, nonché la durata e i predecessori di ogni attività per calcolare la data di fine del progetto. Workfront consiglia di utilizzare questa opzione, in quanto è la più comune e semplifica la pianificazione delle date del progetto.
 
    Tuttavia, puoi utilizzare una data di completamento. Workfront esamina la data di fine (inserita dall’utente) e il lavoro da eseguire (in base a durate e predecessori), quindi lavora all’indietro per calcolare la data di inizio del progetto. Workfront consiglia di attendere la data di completamento dopo aver stabilito un certo livello di competenza in Workfront.
 
@@ -61,9 +62,9 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 
 1. **Gruppo**
 
-   Un gruppo è un’unità organizzativa Workfront che spesso si allinea a un reparto. Questo campo può essere impostato sul modello di progetto. Se non lo è, il campo viene impostato automaticamente sul Gruppo Home della persona che crea il progetto. È possibile modificare il gruppo in base alle esigenze.
+   Un gruppo è un’unità organizzativa Workfront che spesso si allinea a un reparto. Questo campo può essere impostato sul modello di progetto. In caso contrario, il campo viene impostato automaticamente sul Gruppo Home della persona che crea il progetto. È possibile modificare il gruppo in base alle esigenze.
 
-   In generale, la maggior parte delle persone che lavorano al progetto provengono da questo gruppo. Ma questo non limita le persone da altri gruppi a cui viene assegnato il lavoro nel progetto.
+   In generale, la maggior parte delle persone che lavorano al progetto provengono da questo gruppo. Ma questo non limita le persone di altri gruppi a cui viene assegnato il lavoro nel progetto.
 
    Il gruppo del progetto determina inoltre quale progetto, attività ed emette le preferenze che il progetto utilizzerà. Queste preferenze, ad esempio lo stato personalizzato di un gruppo specifico, vengono impostate dall’amministratore di sistema o da un amministratore di gruppo.
 
@@ -71,15 +72,15 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 
 1. **Proprietario progetto**
 
-   Il proprietario del progetto è il termine di Workfront per project manager. Responsabile della pianificazione e/o della gestione del progetto.
+   Il proprietario del progetto è un termine Workfront in  per project manager. Responsabile della pianificazione e/o della gestione del progetto.
 
-   Il proprietario del progetto dispone di autorizzazioni di gestione complete per il progetto, pertanto deve disporre di una licenza di piano.
+   Affinché il proprietario del progetto disponga delle autorizzazioni di gestione complete per il progetto, deve disporre di una licenza di piano.
 
    Normalmente questo campo viene lasciato vuoto nel modello e viene compilato automaticamente con il nome della persona che crea il progetto. Se nel modello viene immesso un nome, è il proprietario predefinito del progetto.
 
 1. **Sponsor Progetto**
 
-   In genere, lo sponsor del progetto è la persona che ha richiesto il progetto. Spesso si tratta di un soggetto interno, come un dirigente o un dirigente, con responsabilità complessiva per il progetto.
+   Lo sponsor del progetto non è obbligatorio, ma se utilizzato, in genere si tratta della persona che ha richiesto il progetto. Spesso si tratta di un soggetto interno, come un dirigente o un dirigente, con responsabilità complessiva per il progetto.
 
    Lo sponsor riceve automaticamente le autorizzazioni di visualizzazione per il progetto e deve essere un utente con licenza Workfront.
 
@@ -93,7 +94,7 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 
 1. **Moduli personalizzati**
 
-   Workfront fornisce campi nativi per elementi quali il nome del progetto e la data di inizio. Tuttavia, è necessario disporre di ulteriori informazioni in qualità di project manager o che il team di progetto avrà bisogno di. I tuoi dati unici sono ugualmente importanti ed è facilmente memorizzabile in questi moduli. Dettagli come date di pubblicazione, dimensioni delle risorse di stampa, canali di consegna e altro ancora.
+   Workfront fornisce campi nativi per elementi quali il nome del progetto e la data di inizio. Tuttavia, è necessario disporre di ulteriori informazioni in qualità di project manager, o di cui il team del progetto avrà bisogno. I tuoi dati unici sono ugualmente importanti ed è facilmente memorizzabile in questi moduli. Dettagli come date di pubblicazione, dimensioni delle risorse di stampa, canali di consegna, ecc.
 
    I moduli personalizzati possono acquisire queste informazioni e possono essere inclusi negli elenchi e nei rapporti di Workfront, semplificando la visualizzazione e la modifica delle informazioni.
 
@@ -121,10 +122,8 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 
 1. **Accesso al progetto per visualizzatori e collaboratori**
 
-   Quando un utente ha accesso a un progetto, possono inizialmente ottenere tre livelli di autorizzazioni: Visualizza, Contribuisce e Gestisci. Ogni livello di autorizzazione consente all’utente di visualizzare e eseguire determinate operazioni con il progetto.
+   Quando un utente ha accesso a un progetto tramite Share, è possibile concedere a tale utente tre livelli di autorizzazioni: Visualizza, Contribuisci e Gestisci. Ogni livello di autorizzazione consente all’utente di visualizzare e eseguire determinate operazioni con il progetto.
 
-   Ad esempio, ci sono persone che potrebbero avere accesso al progetto ma non dovrebbero visualizzare le informazioni finanziarie. Per disattivare l’opzione Visualizza contabilità per visualizzatori e collaboratori.
-
-   Puoi regolare in modo preciso queste impostazioni delle autorizzazioni per i singoli progetti in qualsiasi momento. Tuttavia, una volta che un progetto è passato dallo stato Planning allo stato attuale, è necessario eseguire regolazioni basate sulle autorizzazioni tramite la condivisione del progetto.
+   Ad esempio, ci sono persone che potrebbero avere accesso al progetto ma non dovrebbero visualizzare le informazioni finanziarie. In questo modo è possibile disattivare l&#39;opzione Visualizza finanziamento.
 
    Le impostazioni di accesso possono essere impostate nel modello.

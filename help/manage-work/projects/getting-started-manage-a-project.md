@@ -11,16 +11,16 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Guida introduttiva alla gestione di un progetto
 
-Questo video illustra come:
+In questo video imparerai:
 
 * Cosa vedere durante il monitoraggio del lavoro del progetto
 * Qual è il tuo ruolo di project manager?
@@ -29,7 +29,7 @@ Questo video illustra come:
 
 ## Gestire un progetto: revisione
 
-Ogni volta che gestisci un progetto, ti stabilirai quando rivedere i progetti e cosa desideri esaminare. Rimanere al di sopra dei progetti e portarli al successo è ciò che significa essere project manager.
+Ogni volta che gestisci un progetto, ti stabilirai quando e quando rivedere i progetti e cosa desideri esaminare. Rimanere al di sopra dei progetti e portarli al successo è ciò che significa essere project manager.
 
 Ogni project manager gestisce i propri progetti in modo un po&#39; diverso. E ogni team, reparto o organizzazione può avere esigenze e requisiti di progetto diversi.
 
