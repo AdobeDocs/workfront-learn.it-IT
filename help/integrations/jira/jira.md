@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1402821a23ed67d46179e419aff18f7befc66620
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -24,15 +24,19 @@ ht-degree: 0%
 
 [!DNL Jira]  è un prodotto creato da [!DNL Atlassian] per tenere traccia dei progetti e dei problemi relativi ai team di sviluppo e supporto tecnico. Molti team utilizzano [!DNL Jira]  per monitorare l&#39;avanzamento a livello di attività, ma utilizzano anche [!DNL Workfront] per la gestione dei progetti. Ciò significa che i team raddoppiano i propri sforzi creando attività [!DNL Workfront] e [!DNL Jira] . Eppure con [!DNL Jira]  integrazione nativa, questo tipo di informazioni può essere trasferito automaticamente tra le due applicazioni.
 
+## Come posso installare Adobe Workfront per Jira?
+
+Vai a [Adobe Workfront per Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) per scoprire come installare e configurare Adobe Workfront per Jira.
+
 ## Cosa può fare un [!DNL Jira]  integrazione sì?
 
 Qui abbiamo uno sprint in [!DNL Workfront] titolato &quot;[!DNL Workfront] La Primavera Della Storia&quot;.
 
 ![Grafico a discesa storyboard](assets/Jira01.png)
 
-Joan Harris, il capo del team Dev-Jedi Council Agile, usa il tabellone e il grafico a discesa come modo per misurare il progresso dello sprint complessivo. Fornisce al team una rappresentazione visiva di quello che sta succedendo. Inoltre, queste informazioni vengono inserite in un rapporto esecutivo che viene rivisto ogni trimestre. Tuttavia, la maggior parte del team effettua i propri aggiornamenti in [!DNL Jira] , not [!DNL Workfront].
+Joan Harris, il capo del team Dev-Jedi Council Agile, usa il tabellone e il grafico a discesa come modo per misurare il progresso dello sprint complessivo. Dà alla squadra una bella rappresentazione visiva di quello che sta succedendo. Inoltre, queste informazioni vengono inserite in un rapporto esecutivo che viene rivisto ogni trimestre. Tuttavia, la maggior parte del team effettua i propri aggiornamenti in [!DNL Jira] , not [!DNL Workfront].
 
-La squadra di Joan ha utilizzato [!DNL Jira]  per diversi anni e trova un buon modo per monitorare le singole attività e/o i bug su cui sono stati assegnati. Ma Joan ha davvero bisogno di quelle informazioni per connettersi a [!DNL Workfront] e, in ultima analisi, alimentare i rapporti esecutivi.
+Il team di Joan ha utilizzato [!DNL Jira]  per diversi anni e trovare che è un buon modo per loro di monitorare i singoli compiti e/o bug su cui sono stati assegnati a lavorare. Ma Joan ha davvero bisogno di quelle informazioni per connettersi a [!DNL Workfront] e, in ultima analisi, alimentare i rapporti esecutivi.
 
 ![Storyboard di Jira](assets/Jira02.png)
 
