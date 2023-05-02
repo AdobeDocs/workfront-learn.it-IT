@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ Nel grafico puoi vedere:
 1. Le date in basso provengono dall’intervallo di date selezionato.
 1. Il colore di riempimento blu più scuro indica che il team di casa sta sperimentando il burnout (4) o è incontestabile.
 1. Il blu più leggero o più trasparente indica che il carico di lavoro del team principale è bilanciato
+
+## Come spostarsi al grafico
+
+1. Fai clic sul pulsante [!UICONTROL Persone] nel pannello a sinistra.
+1. Utilizza la [!UICONTROL Filtro] per scegliere un team Home da esaminare.
+1. Il grafico della capacità del team viene visualizzato sotto la [!UICONTROL Capacità delle risorse] grafico.
 
 ## Come utilizzare il grafico
 
