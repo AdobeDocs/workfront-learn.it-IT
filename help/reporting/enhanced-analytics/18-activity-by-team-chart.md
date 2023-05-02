@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,5 +42,5 @@ Nel grafico puoi vedere:
 ## Come spostarsi al grafico
 
 1. Fai clic sul pulsante [!UICONTROL Persone] nel pannello a sinistra.
-1. Utilizza la [!UICONTROL Filtro] per scegliere un team Home da esaminare.
+1. Utilizza la [!UICONTROL Filtro] per scegliere uno o più team Home da esaminare.
 1. Il grafico dell&#39;attività per gruppo verrà visualizzato nella parte superiore dei grafici delle persone.
