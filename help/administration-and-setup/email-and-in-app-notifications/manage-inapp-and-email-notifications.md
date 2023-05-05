@@ -1,6 +1,6 @@
 ---
 title: Gestire le notifiche degli eventi in-app ed e-mail
-description: Scopri come gli utenti possono controllare quali notifiche in-app e e-mail ricevono in modo da ricevere e-mail pertinenti e utili sul proprio lavoro.
+description: Scopri come è possibile gestire le notifiche in-app ed e-mail, in modo da ricevere e-mail pertinenti e utili al proprio lavoro.
 short-description: Scopri come gli utenti possono controllare quali notifiche in-app e e-mail ricevono.
 feature: System Setup and Administration
 activity: deploy
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '628'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
