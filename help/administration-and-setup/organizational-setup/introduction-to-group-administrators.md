@@ -1,6 +1,6 @@
 ---
 title: Comprendere la necessità di amministratori di gruppo
-description: Scopri in che modo gli amministratori di sistema possono utilizzare gli amministratori di gruppo per gestire [!DNL Workfront] , offrendo ai gruppi un maggiore controllo sul loro lavoro.
+description: Scopri in che modo gli amministratori di sistema possono avvalersi di amministratori di gruppo per gestire le impostazioni di  [!DNL Workfront]  e consentire ai gruppi un maggiore controllo sul loro lavoro.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,8 +12,8 @@ kt: 10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 5%
 
 ---
 
