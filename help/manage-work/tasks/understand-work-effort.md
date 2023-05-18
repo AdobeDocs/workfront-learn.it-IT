@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Workfront è consapevole del fatto che alcune organizzazioni non utilizzano le o
 
 Con entrambi i concetti, Workfront ha creato il [!UICONTROL Sforzo di lavoro] opzione .
 
-Invece di immettere ore specifiche per ogni attività del progetto, puoi utilizzare la [!UICONTROL Sforzo di lavoro] per indicare se un&#39;attività è un piccolo, medio o grande sforzo. Workfront calcola automaticamente le ore pianificate con tali attività in base alle impostazioni all’interno del progetto.
+Invece di immettere ore specifiche per ogni attività del progetto, puoi utilizzare [!UICONTROL Sforzo di lavoro] per indicare se un&#39;attività è un piccolo, medio o grande sforzo. Workfront calcola automaticamente le ore pianificate con tali attività in base alle impostazioni all’interno del progetto.
 
 In questo modo, se prevedi di utilizzare uno qualsiasi degli strumenti di gestione delle risorse di Workfront, le stime necessarie sono già state compilate e gli utenti hanno un&#39;idea sulla quantità di lavoro in arrivo.
 
