@@ -1,6 +1,6 @@
 ---
 title: Creare un filtro di base
-description: Scopri cos’è un filtro, come crearne uno e come condividerlo con altri utenti in Workfront.
+description: Scopri cos’è un filtro, come crearne uno e come condividerlo con altri utenti in Workfront. Scopri anche come utilizzare la nuova esperienza di filtro.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -8,22 +8,32 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8857
+jira: kt-8857, kt-13080
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 9ac8702eaab26c4efd972507097557cb6728902d
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
-# Creare un filtro di base
+# Creare un filtro di base nell’esperienza di filtro legacy
 
-In questo video imparerai:
+Questo video illustra:
 
-* Filtro in Workfront
-* Come creare e modificare un filtro
-* Come condividere un filtro con altri utenti Workfront
+* Che cos’è un filtro in Workfront
+* Creare e modificare un filtro
+* Come condividere un filtro con altri utenti di Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)
+
+## Comprendere la nuova esperienza di filtro
+
+Questo video illustra come:
+
+* Abilita e disabilita la nuova esperienza di filtro
+* Creare e modificare filtri
+* Stack di filtri
+
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on)
