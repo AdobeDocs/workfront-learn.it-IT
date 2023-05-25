@@ -1,6 +1,6 @@
 ---
 title: Comprendere la modalità testo di base per i raggruppamenti
-description: Scopri la modalità testo, il cammello e alcune modalità testo "plug and play" di base che puoi utilizzare nei tuoi raggruppamenti in Workfront.
+description: Scopri che cosa sono la modalità testo, la notazione a cammello e alcune modalità testo "plug and play" di base che puoi utilizzare nei raggruppamenti in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -31,21 +31,21 @@ ht-degree: 0%
 
 >[!TIP]
 >
->* Per una comprensione più approfondita della modalità di testo, si consiglia di guardare l&#39;evento del webinar registrato [Chiedi all&#39;esperto - Introduzione al reporting in modalità testo](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), che dura un&#39;ora.
->* Per ulteriori informazioni sulla modalità testo, si consiglia di guardare la [Rapporti avanzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) i tutorial, che insieme sono lunghi cinque ore e mezza.
+>* Per comprendere meglio la modalità testo, consigliamo di guardare l’evento del webinar registrato [Ask the Expert - Introduzione al reporting in modalità testo](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), della durata di un&#39;ora.
+>* Per ulteriori informazioni sulla modalità testo, si consiglia di guardare [Reporting avanzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) esercitazioni, che insieme durano cinque ore e mezza.
 
 
-In questo video imparerai:
+Questo video illustra:
 
-* Modalità testo
-* Che caso di cammello è
-* Modalità testo &quot;plug and play&quot; di base che è possibile utilizzare nei raggruppamenti
+* Che cos’è la modalità testo
+* Che cos’è Camel Case
+* Alcune modalità di testo &quot;plug and play&quot; di base che è possibile utilizzare nei raggruppamenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Attività - Raggruppamento di 4 genitori
+## Attività - Raggruppamento 4 padri
 
-La seguente modalità di testo consente di raggruppare le attività in base a un massimo di quattro livelli di elementi principali e di lasciare gli elementi principali che non esistono vuoti.
+La modalità di testo seguente raggrupperà le attività in base a un massimo di quattro livelli di padri e lascerà vuoti i padri che non esistono.
 
 ```
 textmode=true
@@ -57,12 +57,12 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![Immagine a schermo che mostra le attività del progetto raggruppate per 4 elementi principali](assets/4-parents-grouping.png)
+![Un&#39;immagine della schermata che mostra le attività del progetto raggruppate per 4 elementi principali](assets/4-parents-grouping.png)
 
 
-## Attività - Percentuale di raggruppamento completo
+## Attività - Raggruppamento percentuale di completamento
 
-La seguente modalità di testo raggrupperà le attività in base alla loro percentuale di completamento. Le attività rientrano in una delle seguenti categorie quando sono raggruppate:
+La modalità di testo seguente raggrupperà le attività in base alla loro percentuale di completamento. Le attività sono raggruppate in una delle seguenti categorie:
 
 * 0%
 * Da 1% a 25%
@@ -79,11 +79,11 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![Immagine della schermata con le attività del progetto raggruppate per percentuale di completamento](assets/percent-complete-grouping.png)
+![Immagine che mostra le attività di progetto raggruppate per percentuale di completamento](assets/percent-complete-grouping.png)
 
-## Task - statusEquatesWith, quindi stato
+## Attività: statusEquatesWith, quindi status
 
-La seguente modalità di testo raggruppa le attività per statusEquatesWith, quindi per stato.
+La modalità di testo seguente raggrupperà le attività per statusEquatesWith, quindi per status.
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -103,10 +103,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![Un&#39;immagine a schermo che mostra le attività del progetto raggruppate per statusEquatesWith](assets/status-equates-with.png)
+![Immagine schermata che mostra le attività del progetto raggruppate per statusEquatesWith](assets/status-equates-with.png)
 
 
-## Approvazione bozza - Raggruppa per nome del progetto
+## Approvazione bozza - Raggruppa per nome progetto
 
 ```
 group.0.valueformat=HTML
@@ -114,5 +114,16 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![Immagine della schermata che mostra le approvazioni delle prove raggruppate per nome del progetto](assets/proof-approvals-grouped-by-project-name.png)
+![Immagine che mostra le approvazioni della bozza raggruppate per nome progetto](assets/proof-approvals-grouped-by-project-name.png)
+
+
+## Approvazione bozza - Raggruppa per nome documento
+
+```
+group.0.displayname=Document Name
+group.0.valuefield=documentVersion:document:name
+group.0.valueformat=HTML
+```
+
+![Immagine che mostra le approvazioni della bozza raggruppate per nome progetto](assets/proof-approvals-grouped-by-doc-name.png)
 
