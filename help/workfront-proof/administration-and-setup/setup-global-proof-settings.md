@@ -1,6 +1,6 @@
 ---
-title: Impostazione delle impostazioni della bozza globale
-description: Scopri come impostare i ruoli di bozza predefiniti per gli utenti; impostazioni account di correzione predefinite; e le impostazioni di bozza predefinite.
+title: Impostare le impostazioni globali della bozza
+description: Scopri come impostare i ruoli di bozza predefiniti per gli utenti; le impostazioni account di bozza predefinite; e le impostazioni di bozza predefinite per la bozza.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,19 +10,19 @@ level: Intermediate
 thumbnail: setup-global-proof-settings.png
 kt: 10237
 exl-id: c10eb48d-2e05-4b82-8393-60c4b9196d40
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Impostazione delle impostazioni della bozza globale
+# Impostare le impostazioni globali della bozza
 
-Avvia le impostazioni di sistema per la correzione in [!DNL Workfront] stabilendo impostazioni predefinite globali che interessano gli utenti. L&#39;impostazione di questi valori predefiniti ora assicura che gli utenti creati abbiano le impostazioni minime necessarie per iniziare a utilizzare le funzionalità di correzione µ Ω..inoltre, consente di risparmiare tempo mentre si lavora attraverso le impostazioni di correzione.
+Avvia le impostazioni di sistema per la verifica in [!DNL Workfront] definendo le impostazioni globali predefinite relative agli utenti. L&#39;impostazione di queste impostazioni predefinite garantisce agli utenti creati di disporre delle impostazioni minime necessarie per iniziare a utilizzare le funzionalità di verifica. Inoltre, consente di risparmiare tempo mentre si lavora attraverso le impostazioni di verifica.
 
-* Assegnare ruoli di bozza predefiniti
+* Assegna ruoli bozza predefiniti
 * Stabilire le impostazioni account predefinite
-* Imposta le impostazioni predefinite della bozza
+* Imposta le impostazioni di bozza predefinite
 
-Se hai già iniziato a creare gli utenti prima di stabilire queste impostazioni predefinite, non preoccuparti. Puoi modificare tutte queste informazioni sui singoli profili utente.
+Se hai già iniziato a creare utenti prima di stabilire queste impostazioni predefinite, non preoccuparti. Puoi modificare tutte queste informazioni sui singoli profili utente.

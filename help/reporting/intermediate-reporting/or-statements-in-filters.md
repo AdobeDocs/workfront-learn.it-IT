@@ -1,6 +1,6 @@
 ---
 title: Creare istruzioni OR nei filtri
-description: Scopri come utilizzare un’istruzione OR per comunicare a Workfront che desideri visualizzare questo OPPURE nel rapporto.
+description: Scopri come utilizzare un’istruzione OR per comunicare a Workfront che desideri visualizzare questo OR nel rapporto.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,99 +10,99 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
 
 # Creare istruzioni OR nei filtri
 
-Quando crei un filtro con più linee di criteri, per impostazione predefinita inserisce un valore AND tra ciascuna riga. Questo significa che ogni risultato nell’elenco quando utilizzi questo filtro soddisfa tutte le regole del filtro.
+Quando si crea un filtro con più righe di criteri, per impostazione predefinita Workfront inserisce un AND tra ogni riga. Ciò significa che ogni risultato nell’elenco quando utilizzi questo filtro soddisfa tutte le regole del filtro.
 
-In questo esempio sono disponibili tre criteri o regole per un filtro di progetto:
+In questo esempio, abbiamo tre criteri, o regole, per un filtro di progetto:
 
-1. Il progetto deve disporre di una data di completamento pianificata corrispondente al mese corrente.
-1. Il progetto deve essere incluso nel portafoglio Eventi Marketing .
-1. Il progetto deve essere un progetto attivo, ovvero deve avere lo stato Corrente.
+1. Il progetto deve avere una data di completamento pianificata che cade nel mese corrente.
+1. Il progetto deve trovarsi nel portfolio Marketing degli eventi.
+1. Il progetto deve essere attivo, ovvero avere lo stato Attuale.
 
 ![Immagine della creazione di un filtro con istruzioni AND in [!DNL Workfront]](assets/or-statement-1.png)
 
-I progetti nell’elenco dei risultati soddisfano tutti e tre i criteri, facilitando la riduzione dei risultati della ricerca per visualizzare le informazioni esatte necessarie.
+I progetti nell’elenco dei risultati soddisfano tutti e tre questi criteri, che consentono di limitare i risultati della ricerca in modo da visualizzare le informazioni esatte necessarie.
 
 ![Immagine di un elenco filtrato in [!DNL Workfront]](assets/or-statement-2.png)
 
-Tuttavia, in alcuni casi può essere utile che i risultati del filtro soddisfino vari criteri, ovvero che le istruzioni OR siano utili. Con un&#39;istruzione OR, stai dicendo al filtro che desideri visualizzare questo operatore OR.
+Tuttavia, in alcuni casi potrebbe essere utile che i risultati del filtro soddisfino vari criteri ed è qui che le istruzioni OR possono essere utili. Con un’istruzione OR, stai dicendo al filtro che desideri visualizzare elementi che corrispondono a UNA QUALSIASI delle tue istruzioni OR, anziché TUTTE le tue istruzioni AND.
 
-## Uso delle istruzioni OR
+## Utilizzo delle istruzioni OR
 
-Le istruzioni OR espandono o aumentano la quantità di informazioni che il filtro trova perché per essere visualizzate nell&#39;elenco dei risultati, un elemento deve soddisfare solo una delle regole del filtro, non tutte.
+Le istruzioni OR espandono o aumentano la quantità di informazioni trovate dal filtro perché, per essere visualizzate nell&#39;elenco dei risultati, un elemento deve soddisfare solo una delle regole del filtro, non tutte.
 
-Diamo un’occhiata a un’istruzione OR semplice: progetti creati dall’utente come project manager (proprietario) per progetti OR.
+Vediamo una semplice istruzione OR: i progetti di cui sei il project manager (proprietario) sono progetti OR creati da te.
 
 ![Immagine della creazione di un filtro con istruzioni OR in [!DNL Workfront]](assets/or-statement-3.png)
 
-Dopo aver impostato entrambe le regole di filtro, fai clic sull&#39;AND tra di esse e passa a OR.
+Dopo aver impostato entrambe le regole di filtro, fai clic sull’operatore AND tra le due e impostalo su OR.
 
 ![Immagine della creazione di un filtro con istruzioni OR in [!DNL Workfront]](assets/or-statement-4.png)
 
-L’operatore OR tra le due regole di filtro espande i criteri di ricerca, indicando ad Workfront di trovare i progetti che soddisfano una o più di tali opzioni: il tuo nome si trova nel campo proprietario del progetto o sei la persona che ha creato il progetto.
+L’operatore OR tra le due regole di filtro espande i criteri di ricerca, indicando a Workfront di trovare i progetti che soddisfano una o l’altra di tali opzioni: il tuo nome si trova nel campo proprietario del progetto o sei la persona che ha creato il progetto.
 
 ## Più regole di filtro con istruzioni OR
 
-Ora esaminiamo un’istruzione OR che contiene più regole di filtro su ciascun lato dell’OR. Vengono utilizzate le stesse due regole di prima, ma viene aggiunta una regola. I progetti devono avere anche uno stato Corrente.
+Ora vediamo un’istruzione OR che contiene più regole di filtro su ciascun lato dell’operatore OR. In questo modo vengono utilizzate le stesse due regole precedenti, ma viene aggiunta una regola. Anche i progetti devono avere lo stato Corrente.
 
 ![Immagine della creazione di un filtro con istruzioni OR in [!DNL Workfront]](assets/or-statement-5.png)
 
-Tieni presente che Workfront ha &quot;raggruppato&quot; le regole di filtro su ciascun lato dell’OR (è presente una casella grigia intorno ad esse). Questo comunica a Workfront di eseguire insieme le regole su ciascun lato dell’OR, individuando progetti che soddisfano entrambi i criteri perché sono uniti con AND.
+Workfront ha &quot;raggruppato&quot; le regole del filtro su ciascun lato dell’operatore OR (attorno a esse è presente una casella grigia). Questo indica a Workfront di eseguire insieme le regole su ciascun lato dell’operatore OR, trovando progetti che soddisfino entrambi questi criteri perché sono uniti con l’operatore AND.
 
 In questo esempio, Workfront cerca:
 
-* Progetti con il tuo nome nel campo proprietario del progetto che hanno anche lo stato Corrente.
+* I progetti il cui nome è indicato nel campo proprietario del progetto e che hanno anche lo stato Corrente.
 * **PIÙ (O)**
-* Progetti creati con uno stato anche Corrente.
+* Progetti creati che hanno anche lo stato Corrente.
 
-Se la regola &quot;stato progetto è uguale a corrente&quot; su ciascun lato dell’OR, la regola funziona insieme a ciascuna delle altre regole. Questa regola comune è a volte indicata come &quot;costante&quot;.
+Se si imposta la regola &quot;Stato progetto uguale a Corrente&quot; su ciascun lato dell’operatore OR, la regola funziona in combinazione con ciascuna delle altre regole. Questa regola comune è a volte indicata come la &quot;costante&quot;.
 
 >[!NOTE]
 >
->Non sei limitato a una regola di filtro ripetuta su ciascun lato dell&#39;operatore OR. A seconda delle tue esigenze, potresti averne diverse. Workfront consiglia di mantenere al minimo queste regole ripetute, per garantire che il filtro fornisca i risultati necessari.
+>Non sei limitato a una regola di filtro ripetuta su ciascun lato dell’operatore OR. A seconda delle tue esigenze, potresti avere più. Workfront consiglia di mantenere queste regole ripetute al minimo, per garantire che il filtro fornisca i risultati necessari.
 
 ## Cosa succede senza la regola di filtro comune?
 
 Senza le regole di filtro comuni, è possibile che non si ottengano i risultati di ricerca previsti.
 
-Ad esempio, se metti la regola &quot;stato progetto uguale a corrente&quot; solo su un lato dell’OR, funziona solo con le altre regole di filtro in quella sezione. Nell’immagine seguente, la regola &quot;stato progetto è uguale a corrente&quot; si trova solo nella sezione superiore.
+Ad esempio, se inserisci la regola &quot;lo stato del progetto è uguale a Corrente&quot; solo su un lato dell’operatore OR, questa funziona solo con le altre regole di filtro in quella sezione. Nell’immagine seguente, puoi vedere che la regola &quot;stato del progetto è uguale a corrente&quot; è presente solo nella sezione superiore.
 
 ![Immagine della creazione di un filtro con istruzioni OR in [!DNL Workfront]](assets/or-statement-6.png)
 
 Ciò significa che Workfront cercherà:
 
-* Progetti con il tuo nome nel campo relativo al proprietario del progetto e con lo stato Corrente.
+* Progetti che hanno il tuo nome nel campo proprietario del progetto e lo stato Attuale.
 * **PIÙ (O)**
 * Tutti i progetti creati.
 
-Come puoi vedere, questa configurazione del filtro fornisce risultati leggermente diversi rispetto al filtro con la regola di filtro ripetuta. Per questo motivo è importante assicurarsi che il filtro sia configurato correttamente per ottenere i risultati desiderati e necessari.
+Come puoi vedere, questa impostazione di filtro fornisce risultati leggermente diversi rispetto al filtro con la regola di filtro ripetuta. Per questo motivo è importante assicurarsi che il filtro sia configurato correttamente per ottenere i risultati desiderati e necessari.
 
-Non è possibile utilizzare frequentemente le istruzioni OR durante la creazione di filtri. Tuttavia, così facendo potresti ridurre il numero di filtri necessari. Assicurati semplicemente che i filtri non restituiscano troppi risultati: una lista lunga può rendere più difficile trovare le informazioni esatte necessarie per gli utenti.
+Non è possibile utilizzare frequentemente le istruzioni OR durante la creazione di filtri. In questo modo, però, potresti ridurre il numero di filtri da creare. Assicurati solo che i filtri non restituiscano troppi risultati: un elenco lungo può rendere più difficile trovare le informazioni esatte necessarie per gli utenti.
 
 ## Attività filtro OR
 
-Individuare attività incomplete assegnate a te o non assegnate a nessuno. Imposta un filtro come quello sottostante. Questo filtro ti darà i risultati desiderati? Perché o perché no?
+Si desidera trovare le attività incomplete che sono state assegnate a se stessi o che non sono state assegnate a nessuno. Puoi impostare un filtro simile a quello riportato di seguito. Questo filtro fornirà i risultati desiderati? Perché o perché no?
 
-![Immagine di un&#39;istruzione OR creata in modo errato in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
+![Immagine di un&#39;istruzione OR creata in modo non corretto in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Risposte
 
-No, questo filtro non fornirà i risultati sperati, ovvero le attività non completate che sono state assegnate a te o a nessuno, perché la regola di filtro per lo stato dell&#39;attività si trova solo su un lato dell&#39;OR.
+No, questo filtro non fornirà i risultati desiderati, ovvero le attività che non sono state completate e che sono state assegnate a te o a nessuno, perché la regola del filtro per lo stato dell&#39;attività si trova solo su un lato dell&#39;operatore OR.
 
-Questo filtro genera invece un elenco che mostra:
+Al contrario, questo filtro genera un elenco che mostra:
 
-* Attività assegnate all&#39;utente con stato In corso o Nuovo.
+* Attività assegnate con stato In corso o Nuovo.
 * **PIÙ (O)**
 * Tutte le attività non assegnate, indipendentemente dallo stato.
 
-Il filtro deve essere simile a quello sottostante. Nota che questo filtro ha la regola di filtro per lo stato dell&#39;attività su entrambi i lati dell&#39;operatore OR.
+Il filtro deve essere simile a quello riportato di seguito. Si noti che questo filtro ha la regola di filtro per lo stato dell&#39;attività su entrambi i lati dell&#39;operatore OR.
 
 ![Immagine di un&#39;istruzione OR creata correttamente in [!DNL Workfront]](assets/or-statement-your-turn-2.png)
