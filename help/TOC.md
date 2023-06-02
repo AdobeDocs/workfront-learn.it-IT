@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2368'
 ht-degree: 2%
 
 ---
@@ -364,10 +364,10 @@ ht-degree: 2%
 
 + Fusion {#fusion}
    + Benvenuti in Workfront Fusion {#welcome-to-workfront-fusion}
-      + [Panoramica di Workfront Fusion](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+      + [Introduzione e strategia tecnologica](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [Panoramica del corso di formazione su Workfront Fusion](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [Configurare i file degli esercizi di Workfront Fusion](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [Accedi come nuovo utente](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-      + [Introduzione e strategia tecnologica](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [Concetti di base](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
    + Nozioni di base {#understand-the-basics}
       + [Procedura dettagliata sulla progettazione dello scenario iniziale](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
@@ -402,7 +402,7 @@ ht-degree: 2%
       + [Acquisisci familiarità con le app aggiuntive e i moduli comuni](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Passa a un&#39;altra](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Procedura dettagliata per cambiare funzione](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
-      + [Procedura dettagliata del modulo switch](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [Procedura dettagliata per il modulo Switch](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [Comprendere il mondo del webhook](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Procedura dettagliata sui webhook](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
    + Strutture di dati e archivi di dati {#data-structures-and-data-stores}
