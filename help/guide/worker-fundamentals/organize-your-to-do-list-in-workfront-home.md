@@ -1,24 +1,24 @@
 ---
-title: Organizza l'elenco cose da fare in Home
-description: Questo video illustra come ordinare le assegnazioni di lavoro, filtrare le assegnazioni in base al tipo, identificare il lavoro pronto per essere avviato e accettare le assegnazioni di lavoro.
+title: Organizza il tuo elenco attività in Home
+description: Questo video spiega come ordinare le assegnazioni di lavoro, filtrarle per tipo, identificare il lavoro pronto per iniziare e accettare le assegnazioni di lavoro.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Organizza l&#39;elenco cose da fare in Home
+# Organizza il tuo elenco attività in Home
 
 Questo video illustra come:
 
 * Ordinare le assegnazioni di lavoro
-* Filtra le assegnazioni di lavoro per tipo
+* Filtra assegnazioni di lavoro per tipo
 * Identificare il lavoro pronto per iniziare
 * Accetta assegnazioni di lavoro
 
