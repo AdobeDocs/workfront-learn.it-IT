@@ -1,5 +1,5 @@
 ---
-title: Rapporto sui problemi
+title: Report sulle Issues
 description: Scopri come centralizzare i problemi creando un rapporto.
 activity: use
 team: Technical Marketing
@@ -10,48 +10,38 @@ role: User
 level: Intermediate
 kt: 10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
-# Relazione sulle questioni
+# Report sui problemi
 
 ## Centralizzare i problemi creando un rapporto
 
-Molti gestori di traffico e progetti creano un [!UICONTROL Workfront] rapporto personalizzato per centralizzare tutti i problemi in arrivo. In questo modo è facile tenere traccia delle novità e richiede attenzione.
+Molti responsabili del traffico e dei progetti creano un [!UICONTROL Workfront] report personalizzato per centralizzare tutti i problemi in arrivo. In questo modo è facile tenere traccia delle novità e richiede attenzione.
 
-Il rapporto può quindi essere aggiunto a un dashboard, inserendo tutto il necessario per eseguire il lavoro in un unico [!UICONTROL Workfront] finestra.
+Il report può quindi essere aggiunto a una dashboard, unendo in un’unica dashboard tutto il necessario per svolgere il lavoro [!UICONTROL Workfront] finestra.
 
-![Un&#39;immagine del [!UICONTROL Risoluzione dell&#39;oggetto] di un report del problema.](assets/18-resolving-object-report.png)
+![Un&#39;immagine del [!UICONTROL Oggetto risolutivo] colonna di un report di problemi.](assets/18-resolving-object-report.png)
 
-Per visualizzare il nome dell’attività o del progetto in cui è stato convertito il problema, includi la &quot;[!UICONTROL Risoluzione dell&#39;oggetto]&quot; nella visualizzazione. A &quot;[!UICONTROL Risoluzione dell&#39;oggetto]&quot; è l&#39;attività o il progetto creato al momento della conversione di un problema. Se un problema non è stato convertito, la [!UICONTROL Risoluzione dell&#39;oggetto] Il campo sarà vuoto. Questo rapporto ti consente di vedere rapidamente quali problemi sono già stati convertiti, in modo da non finire con i duplicati. È sufficiente fare clic sul nome dell&#39;oggetto di risoluzione per aprirlo in modo da poter tenere traccia dell&#39;avanzamento del lavoro in corso.
+Per visualizzare il nome dell’attività o del progetto a cui è stato convertito il problema, includi &quot;[!UICONTROL Oggetto risolutivo]&quot; nella visualizzazione. A &quot;[!UICONTROL Oggetto risolutivo]&quot; è l’attività o il progetto creato quando si converte un problema. Se un problema non è stato convertito, [!UICONTROL Oggetto risolutivo] il campo sarà vuoto. Questo rapporto consente di vedere rapidamente quali problemi sono già stati convertiti, in modo da non finire con duplicati. Fai clic sul nome dell’oggetto di risoluzione per aprirlo in modo da poter tenere traccia dell’avanzamento del lavoro svolto.
 
-## Mostra informazioni originali sul problema nei report
+## Mostra le informazioni originali sul problema nei rapporti
 
-A volte un problema viene convertito in un’attività o in un progetto in modo che il lavoro necessario per risolverlo possa essere tracciato e monitorato in base ai flussi di lavoro della tua organizzazione.
+Quando un problema viene convertito in un progetto o in un’attività, molti dei dettagli originali del problema possono essere segnalati nei rapporti relativi al progetto o all’attività. Il problema originale è indicato come &quot;[!UICONTROL Problema convertito]&quot;.
 
-Un progetto o un rapporto di attività può visualizzare informazioni utili sul problema originale. Queste colonne possono essere aggiunte a una visualizzazione personalizzata con reporting in modalità testo:
+Un report di progetto o di attività può visualizzare queste informazioni utilizzando [!UICONTROL Iniziatore problema convertito] insieme a due campi dedicati. È possibile aggiungere queste colonne a una visualizzazione personalizzata senza dover utilizzare la modalità testo:
 
-* [!UICONTROL Data di ingresso emissione originale]
-* [!UICONTROL Nome problema originale]
-* [!UICONTROL Nome dell&#39;origine del problema originale]
+* [!UICONTROL Data voce problema convertito]
+* [!UICONTROL Nome problema convertito]
+* [!UICONTROL Iniziatore problema convertito > Nome]
 
-![Immagine delle informazioni di segnalazione dei problemi.](assets/19-text-mode-reporting-for-issues.png)
+![Immagine delle informazioni di segnalazione del problema.](assets/19-text-mode-reporting-for-issues.png)
 
-<!-- Need wf one documentation article link below
+>[!NOTE]
+>
+>Per istruzioni su come creare una visualizzazione, consulta [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 
-For the text mode used to create this report, see the article titled View: Display original issue information on task and project list.
-
--->
-
-
-<!--  Learn more graphic and documentation article links
-
-* Create and customize views
-* Overview of resolving and resolvable objects
-* Understanding resolving and resolvable objects
-
--->
