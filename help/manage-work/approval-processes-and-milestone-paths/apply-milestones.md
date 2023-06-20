@@ -1,6 +1,6 @@
 ---
-title: Applicare le fasi cardine
-description: Scopri come applicare percorsi cardine a un [!DNL  Workfront] proiettare e associare attività chiave come fasi cardine all'interno del progetto.
+title: Applica milestone
+description: Scopri come applicare percorsi milestone a un [!DNL  Workfront] progettare e associare le attività chiave come fasi cardine all’interno del progetto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -8,21 +8,28 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
+last-substantial-update: 2023-06-20T00:00:00Z
 kt: 8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Applicare le fasi cardine
+# Applica milestone
 
 Questo video illustra come:
 
-* Applicazione di percorsi cardine a un progetto specifico
-* Associa attività chiave come fasi cardine all’interno del progetto
+* Applicare un percorso milestone a un progetto
+* Aggiungere un&#39;attività cardine a un&#39;attività
+* Best practice per l’applicazione delle milestone
 
 >[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on)
+
+>[!TIP]
+>
+>Per ulteriori informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
