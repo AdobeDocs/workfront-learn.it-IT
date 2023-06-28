@@ -1,16 +1,16 @@
 ---
 title: Comprendere le direttive per la gestione degli errori
-description: Scopri le direttive del gestore di errori che consentono il proseguimento dell’esecuzione e quelle che ne arrestano l’esecuzione, in [!DNL Adobe Workfront Fusion].
+description: Scopri le direttive del gestore degli errori che consentono la continuazione dell’esecuzione e quelle che la interrompono, in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9064
+jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -19,59 +19,59 @@ ht-degree: 0%
 
 # Comprendere le direttive per la gestione degli errori
 
-In questo video imparerai:
+Questo video illustra:
 
-* Le tre direttive del gestore di errori che consentono di continuare l&#39;esecuzione
-* Le due direttive del gestore di errori che arrestano l&#39;esecuzione
+* Le tre direttive del gestore degli errori che consentono la continuazione dell’esecuzione
+* Le due direttive del gestore degli errori che interrompono l’esecuzione
 
 >[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on)
 
-## Direttive - Continua lo scenario
+## Direttive — Scenario continua
 
 ### Riprendi
 
 * Viene specificato e fornito un output sostitutivo al modulo che rileva un errore.
-* I moduli successivi vengono elaborati.
-* Lo stato di esecuzione dello scenario è contrassegnato come &quot;riuscito&quot;.
+* Vengono elaborati i moduli successivi.
+* Lo stato di esecuzione dello scenario è contrassegnato come &quot;Completato&quot;.
 
-![Immagine di una direttiva Resume](assets/troubleshooting-and-error-handling-2.png)
+![Immagine di una direttiva Riprendi](assets/troubleshooting-and-error-handling-2.png)
 
-### Interruzione
+### Interrompi
 
-* Lo stato dell’esecuzione dello scenario viene memorizzato nella coda delle esecuzioni incomplete in cui l’errore può essere risolto manualmente. Vi sono tuttavia alcune eccezioni che vengono menzionate in questa sede.
+* Lo stato dell’esecuzione dello scenario viene memorizzato nella coda di esecuzioni incomplete, dove l’errore può essere risolto manualmente. Vi sono tuttavia alcune eccezioni qui menzionate.
 * I moduli successivi non vengono elaborati.
-* Se sono presenti bundle non elaborati, l&#39;esecuzione dello scenario continua normalmente.
+* Se sono presenti bundle non elaborati, l’esecuzione dello scenario continua normalmente.
 * Lo stato di esecuzione dello scenario è contrassegnato come &quot;avviso&quot;.
 
-![L&#39;immagine di una direttiva di rottura](assets/troubleshooting-and-error-handling-3.png)
+![Immagine di una direttiva di interruzione](assets/troubleshooting-and-error-handling-3.png)
 
 ### Ignora
 
 * L’errore viene ignorato e i moduli successivi non vengono elaborati.
-* Se sono presenti bundle non elaborati, l&#39;esecuzione dello scenario continua normalmente.
-* Lo stato di esecuzione dello scenario è contrassegnato come &quot;riuscito&quot;.
+* Se sono presenti bundle non elaborati, l’esecuzione dello scenario continua normalmente.
+* Lo stato di esecuzione dello scenario è contrassegnato come &quot;Completato&quot;.
 
-![Immagine di una direttiva Ignore](assets/troubleshooting-and-error-handling-4.png)
+![Immagine di una direttiva Ignora](assets/troubleshooting-and-error-handling-4.png)
 
-## Direttive - Stop allo scenario
+## Direttive — Interruzione dello scenario
 
-### Ripristino
+### Rollback
 
-* L&#39;esecuzione dello scenario viene interrotta immediatamente e viene avviata una fase di rollback su tutti i moduli per tentare di ripristinarli tutti allo stato iniziale.
+* L’esecuzione dello scenario viene interrotta immediatamente e viene avviata una fase di rollback su tutti i moduli nel tentativo di ripristinarne lo stato iniziale.
 * I moduli successivi non vengono elaborati.
-* Per alcuni tipi di errore, lo scenario viene disattivato dopo il &quot;numero di errori consecutivi&quot; specificato nelle impostazioni Scenario.
-* Lo stato di esecuzione dello scenario è contrassegnato come &quot;error&quot;.
+* Salvo alcuni tipi di errore, lo scenario viene disattivato dopo il &quot;numero di errori consecutivi&quot; specificato in Impostazioni scenario.
+* Lo stato di esecuzione dello scenario è contrassegnato come &quot;error&quot; (Errore).
 
 >[!NOTE]
 >
->Questo è il comportamento predefinito se non è collegato alcun percorso del gestore di errori al modulo e l&#39;impostazione &quot;Consenti archiviazione esecuzioni incomplete&quot; nelle impostazioni Scenario non è selezionata.
+>Questo è il comportamento predefinito se al modulo non è collegata alcuna route del gestore degli errori e l’impostazione &quot;Consenti memorizzazione di esecuzioni incomplete&quot; in Impostazioni scenario non è selezionata.
 
-![Immagine di una direttiva Rollback](assets/troubleshooting-and-error-handling-5.png)
+![Immagine di una direttiva di rollback](assets/troubleshooting-and-error-handling-5.png)
 
 ### Conferma
 
 * L’errore viene ignorato e i moduli successivi non vengono elaborati.
-* Se sono presenti bundle non elaborati, l&#39;esecuzione dello scenario continua normalmente.
-* Lo stato di esecuzione dello scenario è contrassegnato come &quot;riuscito&quot;.
+* Se sono presenti bundle non elaborati, l’esecuzione dello scenario continua normalmente.
+* Lo stato di esecuzione dello scenario è contrassegnato come &quot;Completato&quot;.
 
-![L&#39;immagine di una direttiva sui Commit](assets/troubleshooting-and-error-handling-6.png)
+![Immagine di una direttiva Commit](assets/troubleshooting-and-error-handling-6.png)

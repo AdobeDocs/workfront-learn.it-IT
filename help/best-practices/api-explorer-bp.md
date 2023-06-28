@@ -1,47 +1,47 @@
 ---
-title: Procedure consigliate - Esplora API
-description: Scopri le best practice consigliate dagli esperti Adobe Workfront sull’impostazione, la gestione e l’utilizzo di Workfront API Explorer.
+title: Best practice - API Explorer
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo di API Explorer di Workfront.
 feature: Workfront API
 role: Admin, Leader, User
 level: Beginner
-kt: 10902
+jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Procedure consigliate - Esplora API
+# Best practice - API Explorer
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
-## Best practice di API Explorer
+## Best practice per API Explorer
 
 * Stabilisci una convenzione di denominazione per i campi personalizzati utilizzati con integrazioni da sistemi di terze parti.
 
-* Tieni traccia di tutti i campi personalizzati utilizzati nelle integrazioni utilizzando un progetto Workfront.
+* Monitora tutti i campi personalizzati utilizzati nelle integrazioni tramite un progetto Workfront.
 
-* Aggiungere il campo ID oggetto ai rapporti utilizzati dall&#39;amministratore di sistema.
+* Aggiungi il campo ID oggetto ai report utilizzati dall’amministratore di sistema.
 
 </br>
 </br>
 
-## Perché queste best practice sono?
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
@@ -49,7 +49,7 @@ Stabilisci una convenzione di denominazione per i campi personalizzati utilizzat
 
 **Ecco perché**
 
-Verificare che tutti gli utenti che creano moduli personalizzati siano a conoscenza della convenzione di denominazione, in modo che non utilizzino accidentalmente un campo riservato a un’integrazione. A seconda delle integrazioni e dei flussi di lavoro, l’utilizzo dello stesso campo in più modi potrebbe causare la modifica o la sovrascrittura dei dati e generare la presenza di dati errati nei rapporti.
+Assicurati che tutti coloro che creano moduli personalizzati siano a conoscenza della convenzione di denominazione, in modo da non utilizzare accidentalmente un campo riservato a un’integrazione. A seconda delle integrazioni e dei flussi di lavoro, l’utilizzo dello stesso campo in più modi potrebbe comportare la modifica o la sovrascrittura dei dati e la generazione di dati errati nei rapporti.
 
 </br>
 </br>
@@ -57,11 +57,11 @@ Verificare che tutti gli utenti che creano moduli personalizzati siano a conosce
 
 **Best practice**
 
-Tieni traccia di tutti i campi personalizzati utilizzati nelle integrazioni utilizzando un progetto Workfront.
+Monitora tutti i campi personalizzati utilizzati nelle integrazioni tramite un progetto Workfront.
 
 **Ecco perché**
 
-Un progetto rappresenta la posizione ideale per registrare i nomi di campi personalizzati, l’integrazione con cui vengono utilizzati, ecc. Questo ti aiuterà a evitare la creazione di campi personalizzati ridondanti o l’utilizzo dello stesso campo personalizzato con più integrazioni.
+Un progetto rappresenta il punto ideale per registrare i nomi di campo personalizzati, l’integrazione con cui vengono utilizzati, ecc. Questo ti aiuterà a evitare la creazione di campi personalizzati ridondanti o l’utilizzo dello stesso campo personalizzato con più integrazioni.
 
 </br>
 </br>
@@ -69,8 +69,8 @@ Un progetto rappresenta la posizione ideale per registrare i nomi di campi perso
 
 **Best practice**
 
-Aggiungere il campo ID oggetto ai rapporti utilizzati dall&#39;amministratore di sistema.
+Aggiungi il campo ID oggetto ai report utilizzati dall’amministratore di sistema.
 
 **Ecco perché**
 
-Gli amministratori di sistema spesso devono fare riferimento agli oggetti in Workfront in base al loro numero ID quando utilizzano API o altre integrazioni. Includi il campo ID nelle visualizzazioni degli oggetti su cui lavori (progetti, attività, problemi, modelli, moduli personalizzati, ecc.) per semplificare l’accesso e la copia.
+Quando si utilizzano API o altre integrazioni, gli amministratori di sistema spesso devono fare riferimento agli oggetti in Workfront per il numero ID. Includi il campo ID nelle visualizzazioni per gli oggetti su cui lavori (progetti, attività, problemi, modelli, moduli personalizzati, ecc.) per semplificare l&#39;accesso e la copia.

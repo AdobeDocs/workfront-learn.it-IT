@@ -1,16 +1,16 @@
 ---
-title: Abilitare e applicare la tassonomia delle parole chiave
-description: Scopri come abilitare e applicare la tassonomia delle parole chiave quando gli utenti possono inserire le proprie parole chiave e impostare i facet di ricerca in [!UICONTROL Workfront DAM].
+title: Attivare e applicare la tassonomia delle parole chiave
+description: Scopri come abilitare e applicare la tassonomia delle parole chiave, quando gli utenti possono immettere le proprie parole chiave e impostare i facet di ricerca in [!UICONTROL DAM WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 team: Technical Marketing
-kt: 8974
+jira: KT-8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Consentire l’accesso alla tassonomia delle parole chiave
-* Imponi l&#39;uso della tassonomia delle parole chiave
-* Comprendere quando [!UICONTROL Workfront DAM] gli utenti possono inserire le proprie parole chiave
+* Concedere l’accesso alla tassonomia delle parole chiave
+* Imponi l’uso della tassonomia delle parole chiave
+* Comprendere quando [!UICONTROL DAM WORKFRONT] gli utenti possono immettere le proprie parole chiave
 * Impostare i facet di ricerca
 
 >[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

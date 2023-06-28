@@ -1,26 +1,26 @@
 ---
-title: Cos’è un gruppo e un sottogruppo e come crearli
-description: In questo video, scopri come utilizzare i gruppi, aggiungere un gruppo e creare sottogruppi.
+title: Che cos’è un gruppo e un sottogruppo e come crearli
+description: Questo video spiega come utilizzare i gruppi, aggiungerne uno e creare sottogruppi.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 5%
 
 ---
 
-# Cos’è un gruppo e un sottogruppo e come crearli
+# Che cos’è un gruppo e un sottogruppo e come crearli
 
 Questo video illustra come:
 
 * Usa gruppi
 * Aggiungi un gruppo
-* Associare un gruppo
+* Associa un gruppo
 * Creare e associare sottogruppi
 
 >[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on)

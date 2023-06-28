@@ -1,6 +1,6 @@
 ---
 title: Chiudere un’attività di progetto
-description: Trova un progetto Workfront con cui hai fatto pratica durante il tuo corso di formazione e preparati a chiuderlo.
+description: Trova un progetto Workfront con cui hai fatto pratica durante il corso di formazione e preparalo a chiudere.
 activity: use
 feature: Work Management
 thumbnail: close-a-project-activity.png
@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: e81ba47db087aa33510ddfa13ab8e5d4ef329d00
+jira: KT-null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -18,20 +19,18 @@ ht-degree: 0%
 
 # Chiudere un’attività di progetto
 
-Trova un progetto Workfront con cui hai fatto pratica durante il tuo corso di formazione e preparati a chiuderlo. Completa i seguenti passaggi Workfront:
+Trova un progetto Workfront con cui hai fatto pratica durante il corso di formazione e preparalo a chiudere. Completa i seguenti passaggi di Workfront:
 
 * Chiudi attività e problemi
 * Risolvere le approvazioni
-* Caricare documenti
-* Esamina le ore registrate (se applicabile)
-* Rivedere le informazioni finanziarie (se applicabili)
+* Carica documenti
+* Controlla le ore registrate (se applicabile)
+* Rivedere le informazioni finanziarie (se applicabile)
 * Modificare lo stato del progetto
 
-Parla con il tuo responsabile o con il team interno di Workfront per scoprire quali passaggi segui per chiudere un progetto all’interno della tua organizzazione. Quale di questi passaggi è disponibile in Workfront? Quali sono fuori da Workfront?
+Parla con il tuo manager o con il team interno di Workfront per scoprire i passaggi da seguire per chiudere un progetto nella tua organizzazione. Quale di questi passaggi si trova in Workfront? Quali sono fuori da Workfront?
 
-In qualità di project manager, tenere sessioni &quot;lezioni apprese&quot; può fornire informazioni utili.
+In qualità di project manager, lo svolgimento di sessioni &quot;basate sulle lezioni apprese&quot; può fornire informazioni preziose.
 
-* Pensa ad alcuni dei progetti che hai gestito nell’ultimo anno. Quali tipi di domande poni o informazioni raccoglieresti in una sessione &quot;lezioni apprese&quot;?
-* Decidi se desideri incorporare le &quot;lezioni apprese&quot; nei tuoi progetti. Poi decidi come. Ad esempio, puoi fare qualcosa di informale, ad esempio uno standup rapido con il tuo team. O potrebbe essere integrato nel tuo piano di progetto.
-
-
+* Pensa ad alcuni dei progetti che hai gestito nell’ultimo anno. Che tipo di domande o informazioni raccoglieresti durante una sessione &quot;lezioni apprese&quot;?
+* Decidi se desideri incorporare le &quot;lezioni apprese&quot; nei tuoi progetti. Allora decidi come. Ad esempio, puoi eseguire una procedura informale, ad esempio una rapida presentazione con il tuo team. Oppure potrebbe essere incorporato nel piano del progetto.

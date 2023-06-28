@@ -1,25 +1,25 @@
 ---
-title: Cos’è un team e come crearli
-description: In questo video, scopri come vengono utilizzati i team, come utilizzare i team interfunzionali e come creare i team.
+title: Che cos’è un team e come crearlo
+description: In questo video, scopri come vengono utilizzati i team, come utilizzare i team cross-functional e come crearne di nuovi.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Cos’è un team e come crearli
+# Che cos’è un team e come crearlo
 
-In questo video imparerai:
+Questo video illustra:
 
 * Utilizzo dei team
-* Come utilizzare i team interfunzionali
-* Creazione e associazione di team
+* Come utilizzare i team cross-functional
+* Come creare e associare i team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on)

@@ -1,11 +1,11 @@
 ---
 title: 4 modi per creare un progetto
-description: In questo video, scopri come creare un progetto da un modello, creare un progetto da zero, copiare un progetto esistente e importare un file di progetto Microsoft
+description: Questo video spiega come creare un progetto da un modello, creare un progetto da zero, copiare un progetto esistente, importare un file di progetto Microsoft
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -17,8 +17,8 @@ ht-degree: 0%
 Questo video illustra come:
 
 * Creare un progetto da un modello
-* Crea un progetto da zero
-* Copiare un progetto esistente
+* Creare un progetto da zero
+* Copia un progetto esistente
 * Importare un file di progetto Microsoft
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)

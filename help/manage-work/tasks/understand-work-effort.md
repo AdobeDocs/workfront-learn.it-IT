@@ -1,6 +1,6 @@
 ---
-title: Comprendere [!UICONTROL Sforzo di lavoro]
-description: Scopri come utilizzare [!UICONTROL Sforzo di lavoro] per ottenere una stima rapida delle ore pianificate nella timeline del progetto.
+title: Comprendere [!UICONTROL Impegno di lavoro]
+description: Scopri come utilizzare [!UICONTROL Impegno di lavoro] per ottenere una stima rapida delle ore pianificate nella sequenza temporale del progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,25 +8,25 @@ thumbnail: understand-work-effort.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10153
+jira: KT-10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-# Comprendere [!UICONTROL Sforzo di lavoro]
+# Comprendere [!UICONTROL Impegno di lavoro]
 
-Workfront è consapevole del fatto che alcune organizzazioni non utilizzano le ore pianificate durante la creazione dei progetti. Tuttavia, per ottenere tutti i vantaggi degli strumenti di gestione delle risorse di Workfront e una migliore comprensione della quantità di lavoro assegnato agli utenti, le ore pianificate nei progetti sono un must.
+Workfront è consapevole del fatto che alcune organizzazioni non utilizzano le ore pianificate durante la creazione dei progetti. Tuttavia, per sfruttare appieno i vantaggi degli strumenti di gestione delle risorse di Workfront e comprendere meglio la quantità di lavoro assegnata agli utenti, è fondamentale pianificare le ore nei progetti.
 
-Con entrambi i concetti, Workfront ha creato il [!UICONTROL Sforzo di lavoro] opzione .
+Tenendo presenti entrambi i concetti, Workfront ha creato [!UICONTROL Impegno di lavoro] opzione.
 
-Invece di immettere ore specifiche per ogni attività del progetto, puoi utilizzare [!UICONTROL Sforzo di lavoro] per indicare se un&#39;attività è un piccolo, medio o grande sforzo. Workfront calcola automaticamente le ore pianificate con tali attività in base alle impostazioni all’interno del progetto.
+Invece di immettere ore specifiche per ogni attività nel progetto, puoi utilizzare [!UICONTROL Impegno di lavoro] per indicare se si tratta di un&#39;attività di piccole, medie o grandi dimensioni. Workfront stima automaticamente le ore pianificate con tali attività in base alle impostazioni all’interno del progetto.
 
-In questo modo, se prevedi di utilizzare uno qualsiasi degli strumenti di gestione delle risorse di Workfront, le stime necessarie sono già state compilate e gli utenti hanno un&#39;idea sulla quantità di lavoro in arrivo.
+In questo modo, se prevedi di utilizzare uno degli strumenti di gestione delle risorse di Workfront, le stime necessarie sono già state compilate e gli utenti hanno a disposizione anticipazioni sulla quantità di lavoro in arrivo.
 
-![Elenco delle attività del progetto con [!UICONTROL Sforzo di lavoro] column](assets/planner-fund-work-effort.png)
+![Elenco attività progetto con [!UICONTROL Impegno di lavoro] colonna](assets/planner-fund-work-effort.png)
 
-Per ulteriori informazioni su [!UICONTROL Sforzo di lavoro], vedi [Panoramica sullo sforzo di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) articolo.
+Per ulteriori informazioni su [!UICONTROL Impegno di lavoro], vedere [Panoramica sull’impegno di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) articolo.

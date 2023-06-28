@@ -1,28 +1,28 @@
 ---
-title: Comprendere i router
-description: Scopri cosa sono i router e perché usarli, come i bundle di dati passano attraverso i percorsi dei router, e come aggiungere e utilizzare i router, tutto in [!DNL Adobe Workfront Fusion].
+title: Informazioni sui router
+description: Scopri cosa sono i router e perché utilizzarli, come i bundle di dati passano i percorsi dei router e come aggiungere e utilizzare i router, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9012
+jira: KT-9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Comprendere i router
+# Informazioni sui router
 
-In questo video imparerai:
+Questo video illustra:
 
-* Cosa sono i router e perché usarli
-* Come i bundle di dati passano attraverso i percorsi dei router
+* Che cosa sono i router e perché usarli
+* Modalità di trasmissione dei percorsi dei router da parte dei bundle di dati
 * Come aggiungere e utilizzare i router
 
 >[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Inserisci i dettagli del progetto
-description: Scopri quali 12 campi di dettagli del progetto [!DNL  Workfront] consiglia di compilare il modulo durante la creazione di un progetto.
+description: Scopri quali 12 campi dei dettagli del progetto [!DNL  Workfront] consiglia di compilare durante la creazione di un progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,9 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10140
+jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1219'
 ht-degree: 1%
@@ -19,68 +19,68 @@ ht-degree: 1%
 
 # Inserisci i dettagli del progetto
 
-Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo nei dettagli del progetto con ogni progetto creato in [!DNL  Workfront]. Utilizza i modelli per precompilare le informazioni, quindi fai attenzione ai 12 campi più importanti per i dettagli del progetto elencati di seguito.
+Non preoccuparti ... non devi compilare ogni campo e casella di controllo nei dettagli del progetto con ogni progetto creato in [!DNL  Workfront]. Utilizza i modelli per precompilare le informazioni, quindi rivolgi la tua attenzione ai 12 campi più importanti dei dettagli del progetto elencati di seguito.
 
 1. **Nome**
 
-   Un nome descrittivo del progetto aiuta tutti a identificare lo scopo del progetto. Accertati di seguire la convenzione per la denominazione dei progetti della tua organizzazione, che potrebbe richiedere l’inclusione di determinate informazioni nel nome del progetto (ad esempio un numero di riferimento, un nome di reparto o un indicatore di categoria).
+   Un nome descrittivo del progetto consente a tutti di identificare lo scopo del progetto. Assicurati di seguire la convenzione di denominazione dei progetti della tua organizzazione, che potrebbe richiedere l’inclusione di determinate informazioni nel nome del progetto (ad esempio un numero di riferimento, il nome del reparto o un indicatore di categoria).
 
 
 1. **Descrizione**
 
-   Quando più persone lavorano su un progetto, in qualità di project manager dovrai accertarti che tutti siano al passo con lo scopo e le aspettative del progetto.
+   Quando più persone lavorano a un progetto, tu, in qualità di project manager, devi assicurarti che tutti siano al corrente dello scopo e delle aspettative del progetto.
 
-   A tale scopo, inserisci una descrizione del progetto che fornisce informazioni di base, risponde alle domande e consente al team di progetto di proseguire il proprio lavoro. Ad esempio, &quot;Una campagna mirata ad aumentare del 50% i ricavi che generano lavoro&quot; o &quot;Nuovo aggiornamento del sistema per migliorare l&#39;efficienza in tutto il dipartimento&quot;.
+   A tale scopo, utilizzare una descrizione del progetto che fornisca informazioni di base, risponda alle domande e consenta al team di progetto di proseguire il proprio lavoro. Ad esempio, &quot;Una campagna mirata ad aumentare del 50% il lavoro generatore di ricavi&quot; o &quot;Un nuovo aggiornamento del sistema per migliorare l&#39;efficienza in tutto il reparto&quot;.
 
-   Alcuni clienti Workfront includono un esempio di come dovrebbe essere una descrizione del progetto nei loro modelli di progetto.
+   Alcuni clienti di Workfront includono un esempio di descrizione di un progetto nei loro modelli di progetto.
 
 1. **Stato**
 
-   Lo stato viene utilizzato in Workfront per indicare la posizione o la fase del flusso di lavoro in cui si trova un progetto. Lo stato viene utilizzato in molti rapporti di Workfront per monitorare l’avanzamento del lavoro.
+   Lo stato viene utilizzato in Workfront per indicare dove o in quale fase del flusso di lavoro si trova un progetto. Lo stato viene utilizzato in molti rapporti di Workfront per monitorare l’avanzamento del lavoro.
 
-   Workfront consiglia di impostare lo stato su Planning durante la compilazione e la finalizzazione del piano di progetto. La cosa chiave dello stato di pianificazione è che le notifiche Workfront non vengono inviate agli assegnatari delle attività relative al progetto mentre si trova in questo stato.
+   Workfront consiglia di impostare lo stato su Planning durante la definizione e la finalizzazione del piano di progetto. L&#39;elemento chiave con lo stato Pianificazione è che le notifiche di Workfront non vengono inviate agli assegnatari dell&#39;attività sul progetto mentre si trova in questo stato.
 
-   Quindi, quando il progetto è pronto per essere live, cambia lo stato in Corrente. In questo modo Workfront può inviare notifiche alle persone relative alle nuove attività a cui è stato assegnato, ma non invia notifiche agli utenti per le attività assegnate mentre il progetto era in stato di pianificazione.
+   Quindi, una volta che il progetto è pronto per andare live, modifica lo stato su Corrente. Questo consente a Workfront di inviare notifiche alle persone sulle nuove attività a cui sono assegnate, ma non invierà notifiche agli utenti per le attività a cui sono state assegnate mentre il progetto era in stato Pianificazione.
 
    >[!TIP]
    >
-   >  Quando si apportano modifiche al progetto, ad esempio se si modificano le date di scadenza, è possibile riportare lo stato su Planning oppure disattivare la funzione di salvataggio automatico per impedire che le notifiche vengano inviate fino al completamento delle modifiche.
+   >  Quando si apportano modifiche al progetto, ad esempio la modifica delle date di scadenza, è possibile ripristinare lo stato su Planning oppure disattivare la funzione Salvataggio automatico per impedire che le notifiche vengano inviate fino al completamento delle modifiche.
 
-   L&#39;amministratore di sistema può impostare lo stato Planning come predefinito globale di Workfront per i nuovi progetti.
+   L&#39;amministratore di sistema può impostare lo stato Pianificazione come predefinito globale di Workfront per i nuovi progetti.
 
 1. **Modalità Schedule**
 
-   I progetti Workfront possono essere pianificati a partire da una data di inizio o da una data di completamento. Tale selezione importante determina il modo in cui vengono calcolate le date pianificate di ciascuna attività.
+   I progetti Workfront possono essere programmati da una data di inizio o una data di completamento. Questa selezione importante determina il modo in cui vengono calcolate le date pianificate di ogni attività.
 
-   L&#39;opzione Data inizio considera la data di inizio del progetto, immessa dall&#39;utente, nonché la durata e i predecessori di ogni attività per calcolare la data di fine del progetto. Workfront consiglia di utilizzare questa opzione, in quanto è la più comune e semplifica la pianificazione delle date del progetto.
+   L&#39;opzione Data inizio consente di calcolare la data di inizio del progetto, inserita dall&#39;utente, nonché la durata e i predecessori di ogni attività. Workfront consiglia di utilizzare questa opzione, in quanto è la più comune e semplifica la pianificazione delle date dei progetti.
 
-   Tuttavia, puoi utilizzare una data di completamento. Workfront esamina la data di fine (inserita dall’utente) e il lavoro da eseguire (in base a durate e predecessori), quindi lavora all’indietro per calcolare la data di inizio del progetto. Workfront consiglia di attendere la data di completamento dopo aver stabilito un certo livello di competenza in Workfront.
+   Tuttavia, puoi utilizzare una data di completamento. Workfront esamina la data di fine (inserita dall’utente) e il lavoro da eseguire (in base alle durate e ai predecessori), quindi lavora all’indietro per calcolare la data di inizio del progetto. Workfront consiglia di attendere la data di completamento dopo aver stabilito un determinato livello di esperienza in Workfront.
 
-   A prescindere dall’opzione scelta, non dimenticare di selezionare una data dal calendario a comparsa.
+   Indipendentemente dall&#39;opzione scelta, non dimenticare di selezionare una data dal calendario popup.
 
-   L’opzione Modalità pianificazione può essere impostata nel modello.
+   L&#39;opzione Modalità di pianificazione può essere impostata nel modello.
 
 1. **Gruppo**
 
-   Un gruppo è un’unità organizzativa Workfront che spesso si allinea a un reparto. Questo campo può essere impostato sul modello di progetto. In caso contrario, il campo viene impostato automaticamente sul Gruppo Home della persona che crea il progetto. È possibile modificare il gruppo in base alle esigenze.
+   Un gruppo è un&#39;unità organizzativa di Workfront che spesso si allinea a un reparto. Questo campo può essere impostato sul modello di progetto. In caso contrario, il campo viene impostato automaticamente sul Gruppo predefinito della persona che crea il progetto. È possibile modificare il gruppo in base alle esigenze.
 
-   In generale, la maggior parte delle persone che lavorano al progetto provengono da questo gruppo. Ma questo non limita le persone di altri gruppi a cui viene assegnato il lavoro nel progetto.
+   Generalmente, la maggior parte delle persone che lavorano al progetto provengono da questo gruppo. Ma questo non limita le persone di altri gruppi a cui viene assegnato il lavoro nel progetto.
 
-   Il gruppo del progetto determina inoltre quale progetto, attività ed emette le preferenze che il progetto utilizzerà. Queste preferenze, ad esempio lo stato personalizzato di un gruppo specifico, vengono impostate dall’amministratore di sistema o da un amministratore di gruppo.
+   Il Gruppo del progetto determina anche le preferenze di progetto, attività e problema che il progetto utilizzerà. Queste preferenze, ad esempio uno stato personalizzato per un gruppo specifico, vengono impostate dall&#39;amministratore di sistema o da un amministratore di gruppo.
 
-   L&#39;impostazione di gruppo è un modo conveniente, attraverso il reporting, per mostrare tutti i progetti su cui un reparto sta lavorando.
+   L&#39;impostazione del gruppo è un modo pratico, attraverso la generazione di rapporti, per mostrare tutti i progetti su cui un reparto sta lavorando.
 
 1. **Proprietario progetto**
 
-   Il proprietario del progetto è un termine Workfront in  per project manager. Responsabile della pianificazione e/o della gestione del progetto.
+   Proprietario del progetto è il termine utilizzato da Workfront per project manager. Si tratta della persona responsabile della pianificazione e/o della gestione del progetto.
 
-   Affinché il proprietario del progetto disponga delle autorizzazioni di gestione complete per il progetto, deve disporre di una licenza di piano.
+   Affinché il proprietario del progetto possa disporre delle autorizzazioni di gestione complete per il progetto, deve disporre di una licenza Pianificazione.
 
-   Normalmente questo campo viene lasciato vuoto nel modello e viene compilato automaticamente con il nome della persona che crea il progetto. Se nel modello viene immesso un nome, è il proprietario predefinito del progetto.
+   Normalmente questo campo viene lasciato vuoto nel modello e viene compilato automaticamente con il nome della persona che ha creato il progetto. Se nel modello viene immesso un nome, si tratta del proprietario predefinito del progetto.
 
 1. **Sponsor Progetto**
 
-   Lo sponsor del progetto non è obbligatorio, ma se utilizzato, in genere si tratta della persona che ha richiesto il progetto. Spesso si tratta di un soggetto interno, come un dirigente o un dirigente, con responsabilità complessiva per il progetto.
+   Lo sponsor del progetto non è obbligatorio, ma quando viene utilizzato è generalmente la persona che ha richiesto il progetto. Si tratta spesso di un soggetto interessato interno, come un manager o un dirigente, con responsabilità generale per il progetto.
 
    Lo sponsor riceve automaticamente le autorizzazioni di visualizzazione per il progetto e deve essere un utente con licenza Workfront.
 
@@ -88,42 +88,42 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
 
 1. **Responsabile risorse**
 
-   Gli utenti Workfront elencati in questo campo possono utilizzare gli strumenti di pianificazione e gestione delle risorse in Workfront per i progetti specifici in cui sono elencati. È possibile elencare fino a 30 nomi nel campo Gestione risorse e ciascuno deve disporre di una licenza Piano.
+   Gli utenti di Workfront elencati in questo campo possono utilizzare gli strumenti di gestione e pianificazione delle risorse di Workfront per i progetti specifici in cui sono elencati. Nel campo Responsabile risorse è possibile elencare fino a 30 nomi, ognuno dei quali deve disporre di una licenza Pianificazione.
 
-   Il campo Gestione risorse può essere impostato nel modello.
+   Il campo Responsabile risorse può essere impostato nel modello.
 
 1. **Moduli personalizzati**
 
-   Workfront fornisce campi nativi per elementi quali il nome del progetto e la data di inizio. Tuttavia, è necessario disporre di ulteriori informazioni in qualità di project manager, o di cui il team del progetto avrà bisogno. I tuoi dati unici sono ugualmente importanti ed è facilmente memorizzabile in questi moduli. Dettagli come date di pubblicazione, dimensioni delle risorse di stampa, canali di consegna, ecc.
+   In Workfront sono disponibili campi nativi per elementi quali il nome del progetto e la data di inizio. Tuttavia, sono necessarie ulteriori informazioni in qualità di project manager o per il team del progetto. I dati univoci sono ugualmente importanti e possono essere facilmente archiviati in questi moduli. Dettagli come date di pubblicazione, dimensioni delle risorse di stampa, canali di consegna, ecc.
 
-   I moduli personalizzati possono acquisire queste informazioni e possono essere inclusi negli elenchi e nei rapporti di Workfront, semplificando la visualizzazione e la modifica delle informazioni.
+   I moduli personalizzati possono acquisire queste informazioni e possono essere inclusi in elenchi e report in Workfront, semplificandone la visualizzazione e la modifica.
 
-   I moduli personalizzati possono essere allegati ai modelli in anticipo.
+   I moduli personalizzati possono essere allegati in anticipo ai modelli.
 
 1. **Pianificazione**
 
-   Il lavoro avviene 24 ore su 24, come molte aziende hanno dipendenti in tutto il mondo.
+   Il lavoro è ininterrotto, dato che molte aziende hanno dipendenti in tutto il mondo.
 
-   Workfront consente di applicare ai progetti una pianificazione comune. Questi vengono creati dall’amministratore di sistema. Le pianificazioni riflettono i giorni e le ore lavorative dei team, oltre ai giorni in cui i dipendenti non lavoreranno (ad esempio le vacanze).
+   Workfront consente di applicare ai progetti una pianificazione comune. Vengono create dall&#39;amministratore di sistema. Le pianificazioni riflettono i giorni e le ore lavorative dei team, più i giorni in cui i dipendenti non saranno al lavoro (come le ferie).
 
-   In qualità di pianificatore, assicurati di applicare la pianificazione corretta al progetto corretto. Le impostazioni della pianificazione influiscono sul calcolo della timeline, tenendo conto del tempo di inattività e dei fusi orari.
+   In qualità di planner, assicurati di applicare la pianificazione corretta al progetto corretto. Le impostazioni della pianificazione influiscono sui calcoli della sequenza temporale, tenendo conto del tempo libero e dei fusi orari.
 
-   La pianificazione assegnata al progetto deve essere quella che si applica alla maggior parte degli assegnatari delle attività. Se non è specificata alcuna pianificazione per il progetto, verrà utilizzata la pianificazione contrassegnata come Predefinito.
+   La pianificazione assegnata al progetto deve essere quella che si applica alla maggior parte degli assegnatari dell&#39;attività. Se non è stata specificata alcuna pianificazione per il progetto, verrà utilizzata la pianificazione contrassegnata come Predefinita.
 
    La pianificazione può essere impostata nel modello.
 
 1. **Gruppi di risorse**
 
-   I pool di risorse sono raccolte di utenti Workfront che sono necessari allo stesso tempo per il completamento dei progetti nella tua organizzazione. Un pool di risorse può essere assegnato a più progetti, il che significa che i progetti sono in competizione per le risorse.
+   I gruppi di risorse sono insiemi di utenti Workfront necessari contemporaneamente per il completamento dei progetti all’interno dell’organizzazione. Un pool di risorse può essere assegnato a più progetti, il che significa che si dispone di progetti in competizione per le risorse.
 
-   L’assegnazione di pool di risorse a un progetto è un prerequisito per l’utilizzo di Resource Planner e di altri strumenti di gestione delle risorse in Workfront.
+   L’assegnazione di pool di risorse a un progetto è un prerequisito per l’utilizzo della pianificazione delle risorse e di altri strumenti di gestione delle risorse in Workfront.
 
-   Nel modello è possibile impostare un pool di risorse predefinito.
+   È possibile impostare un pool di risorse predefinito nel modello.
 
 1. **Accesso al progetto per visualizzatori e collaboratori**
 
-   Quando un utente ha accesso a un progetto tramite Share, è possibile concedere a tale utente tre livelli di autorizzazioni: Visualizza, Contribuisci e Gestisci. Ogni livello di autorizzazione consente all’utente di visualizzare e eseguire determinate operazioni con il progetto.
+   Quando a un utente viene concesso l&#39;accesso a un progetto tramite Condividi, è possibile assegnare tre livelli di autorizzazione: Visualizza, Contribuisci e Gestisci. Ogni livello di autorizzazione consente all’utente di visualizzare ed eseguire determinate operazioni con il progetto.
 
-   Ad esempio, ci sono persone che potrebbero avere accesso al progetto ma non dovrebbero visualizzare le informazioni finanziarie. In questo modo è possibile disattivare l&#39;opzione Visualizza finanziamento.
+   Ad esempio, ci sono persone che potrebbero avere accesso al progetto ma non dovrebbero vedere le informazioni finanziarie. In questo modo è possibile disattivare l&#39;opzione Visualizza contabilità.
 
    Le impostazioni di accesso possono essere impostate nel modello.

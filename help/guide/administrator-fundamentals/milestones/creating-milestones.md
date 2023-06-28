@@ -1,25 +1,25 @@
 ---
-title: Creazione di pietre miliari
-description: In questo video, scopri cosa sono i percorsi cardine, come creare percorsi cardine e come aggiungere passaggi cardine.
+title: Creazione di milestone
+description: In questo video, scopri cosa sono i percorsi milestone, come creare percorsi milestone e come aggiungere passaggi milestone.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Creazione di pietre miliari
+# Creazione di milestone
 
-In questo video imparerai:
+Questo video illustra:
 
-* Quali percorsi cardine sono
-* Creazione dei percorsi cardine
-* Come aggiungere passaggi cardine a un percorso cardine
+* Quali sono i percorsi milestone
+* Come vengono creati i percorsi delle milestone
+* Come aggiungere passaggi milestone a un percorso milestone
 
 >[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)

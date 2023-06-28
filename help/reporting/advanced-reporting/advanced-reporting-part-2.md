@@ -1,6 +1,6 @@
 ---
-title: Parte 2
-description: Comprendere uno studio approfondito delle visualizzazioni in modalità testo, ulteriori dettagli sulla struttura della modalità testo, i dati personalizzati calcolati e le colonne calcolate.
+title: Reporting avanzato - Parte 2
+description: Comprendi uno studio approfondito delle visualizzazioni in modalità testo, ulteriori dettagli sulla struttura della modalità testo, dati personalizzati calcolati e colonne calcolate.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -8,28 +8,28 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11201
+jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Parte 2
+# Reporting avanzato - Parte 2
 
-In questo video imparerai:
+Questo video illustra:
 
-* Uno studio approfondito delle visualizzazioni in modalità testo
-* Ulteriori dettagli sulla struttura della modalità testo
-* Creazione di campi dati personalizzati calcolati e colonne calcolate
+* Studio approfondito delle visualizzazioni in modalità testo
+* Dettagli aggiuntivi sulla struttura della modalità testo
+* Come creare campi dati personalizzati calcolati e colonne calcolate
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on)
 
-## Collegamenti handy
+## Collegamenti utili
 
-[[!UICONTROL Esplora API]](https://developer.adobe.com/workfront/api-explorer/)
+[[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Manuale di reporting avanzato](/help/assets/advanced-reporting-manual.pdf)
+[Manuale di reportistica avanzata](/help/assets/advanced-reporting-manual.pdf)

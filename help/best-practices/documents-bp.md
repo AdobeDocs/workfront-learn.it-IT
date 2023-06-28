@@ -1,48 +1,48 @@
 ---
-title: Procedure consigliate - Documenti
-description: Esplorare le raccomandazioni relative alle best practice degli esperti Adobe Workfront sull’impostazione, la gestione e l’utilizzo dei documenti in Workfront.
+title: Best practice - Documenti
+description: Esplora le best practice consigliate dagli esperti Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo dei documenti in Workfront.
 feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
-kt: 10910
+jira: KT-10910
 exl-id: 0554b393-ca51-443c-97e9-98af017a0586
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-# Procedure consigliate - Documenti
+# Best practice - Documenti
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
-
-</br>
-</br>
-
-## Procedure consigliate per i documenti
-
-* Se si utilizzano sistemi di archiviazione documenti di terze parti, è possibile attivare le integrazioni predefinite di Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
-## Perché queste best practice sono?
+## Documenta le best practice
+
+* Se utilizzi sistemi di archiviazione dei documenti di terze parti, attiva le integrazioni dei documenti preconfigurate di Workfront.
+
+</br>
+</br>
+
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
-Se si utilizzano sistemi di archiviazione documenti di terze parti, è possibile attivare le integrazioni predefinite di Workfront.
+Se utilizzi sistemi di archiviazione dei documenti di terze parti, attiva le integrazioni dei documenti preconfigurate di Workfront.
 
 **Ecco perché**
 
-Le integrazioni di documenti basate su cloud provider predefinite di Workfront consentono di collegare file agli oggetti Workfront. Ciò significa che non è necessario esportare una copia di un documento e caricarla in Workfront, il che si traduce in più versioni di un file mobile.
+Le integrazioni predefinite di documenti basate su provider cloud di Workfront consentono di collegare file a oggetti Workfront. Ciò significa che non è necessario esportare una copia di un documento e caricarla in Workfront, con il risultato di disporre di più versioni di un file.

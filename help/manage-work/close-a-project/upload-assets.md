@@ -1,6 +1,6 @@
 ---
 title: Caricare le risorse
-description: Carica documenti, bozze e altre risorse nel progetto prima di chiuderlo per garantire che tutti i dati pertinenti siano associati al progetto.
+description: Carica documenti, bozze e altre risorse nel progetto prima di chiuderlo, in modo da associare tutti i dati pertinenti.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,9 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10138
+jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 # Caricare le risorse
 
-Prima di chiudere un [!DNL Workfront] assicurati che tutti i file pertinenti siano allegati nel [!UICONTROL Documenti] sezione . Caricali come documento o bozza, come determinato dalle linee guida della tua organizzazione.
+Prima di chiudere un [!DNL Workfront] progetto, assicurati che tutti i file rilevanti siano allegati al [!UICONTROL Documenti] sezione. Carica questi elementi come documento o bozza, in base alle linee guida aziendali.
 
 Potrebbe essere necessario caricare il documento o la bozza come versione di un file esistente.
 
-Se l’organizzazione utilizza le approvazioni delle prove, accertati che tutte siano completate con un rapido sguardo alle icone di avanzamento.
+Se la tua organizzazione utilizza approvazioni della bozza, assicurati che tutte queste siano completate con un rapido sguardo alle icone di avanzamento.
 
-![Pagina Documenti che mostra le icone di avanzamento della bozza](assets/planner-fund-proof-progress-icons.png)
+![Pagina Documenti con icone di avanzamento della bozza](assets/planner-fund-proof-progress-icons.png)
 
-Inoltre, se l&#39;organizzazione utilizza le approvazioni dei documenti, selezionare ogni elemento nell&#39;elenco e controllare i dettagli del documento per verificare se le approvazioni sono complete.
+Se l&#39;organizzazione utilizza le approvazioni dei documenti, selezionare ogni elemento nell&#39;elenco e controllare i dettagli del documento per verificare se le approvazioni sono state completate.
 
-![Riepilogo lato nella pagina Documenti che mostra l&#39;approvazione del documento](assets/planner-fund-document-approval.png)
+![Riepilogo laterale nella pagina Documenti che mostra l&#39;approvazione del documento](assets/planner-fund-document-approval.png)
 
 <!---
 learn more urls

@@ -1,23 +1,23 @@
 ---
-title: Personalizza l’aspetto di [!UICONTROL Brand Connect]
-description: Scopri come personalizzare la barra di navigazione e il piè di pagina, nonché la home page e la pagina di accesso in [!UICONTROL Brand Connect] per [!UICONTROL Workfront DAM].
+title: Personalizzare l'aspetto di [!UICONTROL Brand Connect]
+description: Scopri come personalizzare la barra di navigazione e il piè di pagina e come personalizzare la home page e la pagina di accesso in [!UICONTROL Brand Connect] per [!UICONTROL DAM WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8980
+jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-# Personalizza l’aspetto di [!UICONTROL Brand Connect]
+# Personalizzare l&#39;aspetto di [!UICONTROL Brand Connect]
 
 Questo video illustra come:
 
@@ -28,35 +28,35 @@ Questo video illustra come:
 
 ## Aggiuntivo [!UICONTROL Aspetto] impostazione
 
-La [!UICONTROL Font] nella sezione [!UICONTROL Aspetto] stili del menu tutto il testo [!UICONTROL Brand Portal] nel font selezionato. Sono supportati più di 800 font Google.
+Il [!UICONTROL Font] opzione sotto [!UICONTROL Aspetto] il menu applica uno stile a tutto il testo [!UICONTROL Brand Portal] nel carattere selezionato. Sono supportati più di 800 font Google.
 
-![La [!UICONTROL Font] nella sezione [!UICONTROL Aspetto] stile del menu [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![Il [!UICONTROL Font] opzione sotto [!UICONTROL Aspetto] stile di menu per [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
 ## Widget homepage
 
-Personalizzare l&#39;aspetto e le caratteristiche del tuo [!UICONTROL Brand Connect] homepage per far corrispondere la tua organizzazione. Utilizzando i widget, puoi aggiungere elementi quali cartelle e cursori di immagini. Se l’organizzazione dispone di più [!UICONTROL Collegamenti al marchio], ognuna ha la propria homepage, che si può dare con un aspetto distinto.
+Personalizza l&#39;aspetto del tuo [!UICONTROL Brand Connect] home page per la tua organizzazione. Utilizzando i widget, potete aggiungere elementi quali cartelle e cursori di immagini. Se la tua organizzazione dispone di più [!UICONTROL Brand Connections], ognuno di essi dispone di una propria home page, alla quale è possibile assegnare un aspetto distinto.
 
 ![Uno screenshot dei widget disponibili per il tuo [!UICONTROL Brand Connect] homepage](assets/03-brand-connect-home-page-widgets.png)
 
 Sono disponibili i seguenti widget:
 
-**A. Carosello**- Consente di visualizzare più risorse in un cursore di immagine. Puoi aggiungere descrizioni a ogni risorsa. Fai clic sull’icona Aggiungi per selezionare le immagini da visualizzare nel carosello.
+**A. Carosello**- Visualizza più risorse in un cursore immagine. Puoi aggiungere descrizioni a ciascuna risorsa. Fai clic sull’icona Aggiungi per selezionare le immagini da visualizzare nel carosello.
 
-**B. Cartella**- Visualizza una cartella contenente le risorse selezionate. Fai clic sull’icona Aggiungi per aprire la [!UICONTROL Selettore risorse] per selezionare una cartella. Le risorse presenti nella cartella sono visibili a [!UICONTROL Brand Connect] utenti ma possono essere scaricati solo da quelli autorizzati.
+**B. Cartella**- Visualizza una cartella contenente le risorse selezionate. Fai clic sull’icona Aggiungi per aprire [!UICONTROL Selettore risorse] per selezionare una cartella. Le risorse nella cartella sono visibili a [!UICONTROL Brand Connect] ma possono essere scaricati solo da chi dispone della relativa autorizzazione.
 
-**C. Lightbox**- Visualizza un [!UICONTROL Lightbox]. Le risorse nel [!UICONTROL Lightbox] sarà visibile a [!UICONTROL Brand Connect] utenti ma possono essere scaricati solo da quelli autorizzati.
+**C. Lightbox**- Visualizza un elemento esistente [!UICONTROL Lightbox]. Le risorse in [!UICONTROL Lightbox] sarà visibile a [!UICONTROL Brand Connect] ma possono essere scaricati solo da chi dispone della relativa autorizzazione.
 
-**D. Linee guida sul marchio**- Visualizza le linee guida del marchio nella home page anziché nella barra di navigazione superiore, o in aggiunta a.
+**D. Linee guida per il marchio**- Visualizza le Linee guida per i marchi nella home page anziché/oltre a nella barra di navigazione superiore.
 
 **E. Descrizione**- Consente di visualizzare brevi parti di testo.
 
-**F. Descrizione compilata**- Inserisci un blocco di testo da visualizzare su uno sfondo grigio.
+**F. Descrizione compilata**- Consente di immettere un blocco di testo da visualizzare su uno sfondo grigio.
 
-**HTML**- Utilizza HTML e CSS per creare contenuti personalizzati. Ad esempio, puoi incorporare un collegamento a un video. Ce ne sono alcuni [Tag HTML per evitare](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML**: utilizza HTML e CSS per creare contenuti personalizzati. Ad esempio, puoi incorporare un collegamento a un video. Ce ne sono alcuni [HTML tag da evitare](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 
 ## Aggiungi una barra di ricerca
 
-Se progetti una homepage personalizzata per la tua organizzazione [!UICONTROL Brand Connect], gli utenti devono fare clic su [!UICONTROL Risorse] area per eseguire una ricerca.
+Se si progetta una pagina home personalizzata per l’organizzazione [!UICONTROL Brand Connect], gli utenti devono fare clic su nella [!UICONTROL Risorse] per eseguire una ricerca.
 
 Tuttavia, gli amministratori di sistema possono creare una barra di ricerca utilizzando il widget HTML e questo tag HTML:
 

@@ -1,12 +1,12 @@
 ---
 title: Best practice - Comunicazione
-description: Scopri le best practice consigliate dagli esperti Adobe Workfront sulla configurazione e la gestione delle notifiche di comunicazione in Workfront.
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito alla configurazione e alla gestione delle notifiche di comunicazione in Workfront.
 feature: Work Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10905
+jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 1%
@@ -15,39 +15,39 @@ ht-degree: 1%
 
 # Best practice - Comunicazione
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
 ## Best practice di comunicazione
 
-* Utilizza i tuoi flussi di lavoro per determinare le notifiche necessarie.
+* Utilizza i flussi di lavoro per determinare le notifiche necessarie.
 
-* Crea un rapporto di nota con richieste che gli utenti possano cercare facilmente i commenti o gli aggiornamenti all’interno di un progetto.
+* Crea un report di note con le richieste degli utenti di cercare facilmente commenti/aggiornamenti all’interno di un progetto.
 
 </br>
 </br>
 
-## Perché queste best practice sono?
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
-Utilizza i tuoi flussi di lavoro per determinare le notifiche necessarie.
+Utilizza i flussi di lavoro per determinare le notifiche necessarie.
 
 **Ecco perché**
 
-L’analisi dettagliata dei flussi di lavoro semplifica l’identificazione dei punti di comunicazione e l’abilitazione delle notifiche corrette. In questo modo vengono prioritarie le notifiche per il modo in cui la tua organizzazione sta già funzionando, evitando il danneggiamento di spam o comunicazioni.
+Esaminando i flussi di lavoro in modo dettagliato è più facile identificare i punti di comunicazione e assicurarsi che siano abilitate le notifiche corrette. In questo modo le notifiche vengono preparate in base al funzionamento dell’organizzazione, evitando spam o interruzioni delle comunicazioni.
 
 </br>
 </br>
@@ -55,15 +55,15 @@ L’analisi dettagliata dei flussi di lavoro semplifica l’identificazione dei 
 
 **Best practice**
 
-Crea un rapporto di nota con richieste che gli utenti possano cercare facilmente i commenti o gli aggiornamenti all’interno di un progetto.
+Crea un report di note con le richieste degli utenti di cercare facilmente commenti/aggiornamenti all’interno di un progetto.
 
 
 
 **Ecco perché**
 
-Se in un progetto sono presenti molti thread di aggiornamento, può essere difficile trovare un aggiornamento specifico, soprattutto perché Ctrl/Comando F non esegue ricerche all’interno dei thread. Un rapporto di nota consente di analizzare facilmente tutti gli aggiornamenti in base alle opzioni di prompt senza dover aprire ogni thread. Le opzioni di prompt comuni sono:
+Se in un progetto sono presenti molti thread di aggiornamento, può essere difficile trovare un aggiornamento specifico, in particolare perché Ctrl/Comando F non esegue la ricerca all&#39;interno dei thread. Un report di note consente di analizzare facilmente tutti gli aggiornamenti in base alle opzioni di richiesta senza dover aprire ogni thread. Le opzioni comuni per i prompt sono:
 
-* Testo di audit
-* Testo nota
+* Testo di controllo
+* Testo della nota
 * Nome del proprietario
 * Data immissione

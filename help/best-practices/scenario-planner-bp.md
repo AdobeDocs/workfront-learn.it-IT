@@ -1,86 +1,86 @@
 ---
-title: Best practice - Planner scenario
-description: Esplorare le raccomandazioni sulle best practice formulate dagli esperti di Adobe Workfront relative allo strumento per la pianificazione degli scenari .
+title: Best practice - Pianificazione scenario
+description: Esplora i consigli sulle best practice forniti dagli esperti Adobe Workfront in merito allo strumento Scenario Planner.
 feature: Workfront Scenario Planner
 role: Admin, Leader, User
 level: Beginner
-kt: 10924
+jira: KT-10924
 exl-id: f9dafebf-efb0-4c40-b98d-540a92e931a7
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
 
 ---
 
-# Best practice - Planner scenario
+# Best practice - Pianificazione scenario
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
 ## Best practice per la pianificazione degli scenari
 
-* Crea e confronta più scenari di alto livello per aiutarti a navigare nella tua organizzazione attraverso la mappatura strategica della strada.
+* Crea e confronta più scenari di alto livello per aiutarti a navigare all’interno della tua organizzazione attraverso la mappatura strategica delle strade.
 
-* Mantenere al minimo gli scenari.
+* Riduci al minimo gli scenari.
 
-* Stimare o adeguare mensilmente i ruoli di lavoro richiesti o le informazioni sui costi fissi.
+* Stimare o adeguare mensilmente le informazioni sulle mansioni o sui costi fissi richiesti.
 
 </br>
 </br>
 
-## Perché queste best practice sono?
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
-Crea e confronta più scenari di alto livello per aiutarti a navigare nella tua organizzazione attraverso la mappatura strategica della strada.
+Crea e confronta più scenari di alto livello per aiutarti a navigare all’interno della tua organizzazione attraverso la mappatura strategica delle strade.
 
 
 
 **Ecco perché**
 
-Visualizzando e confrontando più scenari, ad alto livello, puoi valutare con precisione le risorse necessarie per raggiungere gli obiettivi. È possibile assicurarsi che l&#39;organizzazione disponga del personale necessario, che i budget vengano distribuiti di conseguenza e che gli obiettivi appropriati siano raggiunti al momento desiderato.
+Visualizzando e confrontando più scenari, ad alto livello, puoi valutare con precisione le risorse necessarie per raggiungere gli obiettivi. È possibile assicurarsi che l&#39;organizzazione disponga di personale adeguato, che i budget siano distribuiti di conseguenza e che gli obiettivi appropriati vengano raggiunti al momento desiderato.
 
 
 
-Questo consente inoltre di determinare il piano di azione migliore per eseguire ogni iniziativa, ottimizzando le risorse e spostando i budget in movimento. Pianificare in anticipo e valutare più scenari può aiutare ad adattarsi ai cambiamenti più rapidamente e correggere il corso, se necessario.
-
-</br>
-</br>
-
-**Best practice**
-
-Mantenere al minimo gli scenari.
-
-
-
-**Ecco perché**
-
-Anche se è possibile creare molti scenari in un&#39;iniziativa, è consigliabile tenerli al minimo. Questo renderà più semplice il confronto degli scenari quando li si guarda in formato carta e la distribuzione degli scenari scelti sarà più gestibile.
+Questo consente anche di determinare il piano di azione migliore per eseguire ogni iniziativa, ottimizzando le risorse e spostando i budget. Pianificare in anticipo e soppesare più scenari può aiutarti ad adattarti ai cambiamenti più rapidamente e, se necessario, a correggere il corso.
 
 </br>
 </br>
 
 **Best practice**
 
-Stimare o adeguare mensilmente i ruoli di lavoro richiesti o le informazioni sui costi fissi.
+Riduci al minimo gli scenari.
+
+
 
 **Ecco perché**
 
-Mantenere aggiornati i ruoli e i costi richiesti dell&#39;iniziativa mantiene il calcolo dell&#39;iniziativa nel modo più accurato possibile. In questo modo, è possibile allocare le risorse e le ore del personale ai progetti prioritari e vedere facilmente ciò che è necessario sapere sulla vostra offerta e domanda.
+Sebbene in un’iniziativa sia possibile creare molti scenari, si consiglia di mantenerli al minimo. In questo modo sarà più semplice confrontare gli scenari quando si presentano in formato scheda e sarà più facile gestire la distribuzione degli scenari scelti.
+
+</br>
+</br>
+
+**Best practice**
+
+Stimare o adeguare mensilmente le informazioni sulle mansioni o sui costi fissi richiesti.
+
+**Ecco perché**
+
+Mantenendo aggiornati i ruoli e i costi richiesti dell’iniziativa, i calcoli dell’iniziativa nello scenario vengono mantenuti il più accurati possibile. In questo modo, è possibile allocare le risorse umane e le ore ai progetti prioritari e visualizzare facilmente ciò che è necessario sapere sulla fornitura e sulla domanda.
 
 
 
-Questo consente inoltre di visualizzare e risolvere rapidamente eventuali conflitti relativi a risorse, budget o timeline.
+Questo consente inoltre di visualizzare e risolvere rapidamente eventuali conflitti nelle risorse, nei budget o nelle tempistiche.

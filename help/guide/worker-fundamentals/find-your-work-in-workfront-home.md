@@ -1,13 +1,13 @@
 ---
 title: Trova il tuo lavoro in Home
-description: In questo video, scopri come trovare le assegnazioni di lavoro in entrata ed esistenti e come esaminare le informazioni sulle assegnazioni .
+description: In questo video, scopri come trovare le assegnazioni di lavoro esistenti e in entrata e rivedere le informazioni sulle assegnazioni .
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 335098.png
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Trova assegnazioni di lavoro in entrata ed esistenti
-* Verifica informazioni sull&#39;assegnazione
+* Trova assegnazioni di lavoro esistenti e in entrata
+* Rivedi informazioni assegnazione
 
 >[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

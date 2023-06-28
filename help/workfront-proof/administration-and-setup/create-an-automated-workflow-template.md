@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png
-kt: 8830
+jira: KT-8830
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -22,20 +22,20 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Creare un modello di flusso di lavoro automatizzato per [!DNL  Workfront] correzione
-* Assegnare i destinatari della bozza
-* Imposta una scadenza del processo di revisione e approvazione
-* Condividere il modello di flusso di lavoro automatizzato con altri
+* Crea un modello di flusso di lavoro automatizzato per [!DNL  Workfront] prova
+* Assegna destinatari bozza
+* Impostare una scadenza per il processo di revisione e approvazione
+* Condividere il modello di workflow automatizzato con altri utenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on)
 
-## Opzioni di attivazione della fase aggiuntive
+## Opzioni aggiuntive di attivazione della fase
 
-Per determinare quando deve essere avviata una fase del flusso di lavoro di correzione, raramente vengono utilizzate due opzioni: la [!UICONTROL Data e ora] e la &quot;[!UICONTROL Quando il termine della fase precedente viene superato]&quot; opzione.
+Due opzioni per determinare quando deve iniziare una fase del flusso di lavoro di correzione sono utilizzate raramente, se non mai: [!UICONTROL Data e ora] e il pulsante &quot;[!UICONTROL Quando la scadenza della fase precedente viene superata]&quot;.
 
-La seconda opzione funziona solo in scenari in cui si dispone di un ampio gruppo di persone che rivedono e non si desidera attendere tutti. È una specie di opzione &quot;Ti darò un certo periodo di tempo per completare la tua recensione e poi perderai la possibilità&quot;. Ma anche questo può rallentare il processo di revisione.
+La seconda opzione funziona solo in scenari in cui un ampio gruppo di persone rivede e non desideri aspettare tutti. È una specie di opzione: &quot;Ti darò un certo periodo di tempo per completare la tua recensione e poi perderai la tua occasione&quot;. Ma anche questo può rallentare il processo di revisione.
 
-Se utilizzi &quot;[!UICONTROL quando il termine della fase precedente è scaduto],&quot; è importante ricordare che è possibile attivare manualmente un’area di visualizzazione in qualsiasi momento se non si desidera attendere il superamento di una scadenza.
+Se utilizzi effettivamente &quot;[!UICONTROL quando la scadenza della fase precedente viene superata],&quot; è importante ricordare che è possibile attivare manualmente una fase in qualsiasi momento se non si desidera attendere il superamento di una scadenza.
 
 <!--
 Lean More URLs

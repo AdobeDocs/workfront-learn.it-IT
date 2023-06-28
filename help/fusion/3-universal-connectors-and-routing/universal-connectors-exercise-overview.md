@@ -1,5 +1,5 @@
 ---
-title: Panoramica dell’esercizio dei connettori universali
+title: Panoramica dell’esercizio sui connettori universali
 description: Scopri come sfruttare la potenza dei connettori universali, connettersi a un’API esterna ed estrarre informazioni da un array, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -7,22 +7,22 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9010
+jira: KT-9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Panoramica dell’esercizio dei connettori universali
+# Panoramica dell’esercizio sui connettori universali
 
 Questo video illustra come:
 
-* Sfruttare la potenza dei connettori universali
+* Accendere i connettori universali
 * Connettersi a un’API esterna
-* Utilizzare l&#39;editor di formule per estrarre informazioni da una matrice
+* Utilizza l’editor di formule per estrarre informazioni da una matrice
 
 >[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on)

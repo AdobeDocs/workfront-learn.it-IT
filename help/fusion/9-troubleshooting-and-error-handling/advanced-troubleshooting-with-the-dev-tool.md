@@ -1,27 +1,27 @@
 ---
-title: Risoluzione dei problemi avanzata con lo strumento Dev
-description: Scopri come installare e utilizzare il [!DNL Adobe Workfront Fusion Dev Tool]e controlla i diversi strumenti avanzati di progettazione dello scenario che include.
+title: Risoluzione avanzata dei problemi con Dev Tool
+description: Scopri come installare e utilizzare il [!DNL Adobe Workfront Fusion Dev Tool]e rivedere i diversi strumenti avanzati di progettazione degli scenari inclusi.
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9061
+jira: KT-9061
 exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# Risoluzione dei problemi avanzata con lo strumento Dev
+# Risoluzione avanzata dei problemi con Dev Tool
 
-In questo video imparerai:
+Questo video illustra:
 
 * Come installare e utilizzare Workfront Fusion Dev Tool
-* Come esaminare i diversi strumenti di progettazione di scenari avanzati
+* Come rivedere i diversi strumenti avanzati di progettazione degli scenari
 
 >[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on)

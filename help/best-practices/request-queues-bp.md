@@ -1,62 +1,62 @@
 ---
-title: 'Procedure consigliate: code di richiesta'
-description: Scopri le best practice consigliate dagli esperti Adobe Workfront sull’impostazione, la gestione e l’utilizzo delle code di richiesta Workfront.
+title: Best practice - Code di richieste
+description: Esplora le best practice consigliate dagli esperti Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo delle code di richieste Workfront.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10921
+jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1480'
 ht-degree: 0%
 
 ---
 
-# Procedure consigliate: code di richiesta
+# Best practice - Code di richieste
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
-## Best practice per le code di richiesta
+## Best practice per le code di richieste
 
-* Includi una descrizione per ogni elemento di una coda di richiesta: il progetto della coda di richiesta, i gruppi di argomenti, gli argomenti della coda e le regole di indirizzamento.
+* Includere una descrizione per ogni elemento di una coda di richieste, ovvero il progetto della coda di richieste, i gruppi di argomenti, gli argomenti della coda e le regole di instradamento.
 
-* Crea uno stato di progetto denominato &quot;Coda richieste&quot; o &quot;Operativo&quot; che equivale a &quot;Corrente&quot; per distinguere i progetti in coda richieste da altri progetti.
+* Crea uno stato di progetto denominato &quot;Coda richieste&quot; o &quot;Operativo&quot; che sia uguale a &quot;Corrente&quot; per distinguere i progetti della coda richieste da altri progetti.
 
 * Se prevedi di utilizzare le approvazioni dei problemi con le richieste inviate tramite una coda, crea uno stato di problema denominato Rifiutato.
 
-* Assegna moduli personalizzati &quot;universali&quot; per richiedere code per acquisire il maggior numero possibile di dati coerenti a livello aziendale.
+* Assegna moduli personalizzati &quot;universali&quot; alle code di richieste per acquisire il maggior numero possibile di dati coerenti a livello aziendale.
 
-* Evita di condividere le code di richiesta con &quot;tutti&quot;. Imposta le impostazioni dei dettagli della coda in modo che gli utenti vedano solo le code pertinenti in base alle loro esigenze.
+* Evita di condividere le code di richieste con &quot;tutti&quot;. Impostare le impostazioni dei dettagli della coda in modo che gli utenti possano visualizzare solo le code pertinenti alle proprie esigenze.
 
-* Crea e assegna un dashboard contenente i rapporti sulla coda delle richieste in modo che i responsabili del traffico, gli amministratori di sistema o gli utenti assegnati possano lavorare direttamente sui problemi.
+* Crea e assegna un dashboard contenente i report della coda di richieste in modo che i gestori del traffico, gli amministratori di sistema o gli utenti assegnati possano lavorare direttamente sui problemi.
 
-* Utilizza i modelli di layout per rimuovere le opzioni di configurazione della coda di richiesta dal menu del pannello a sinistra dei progetti per gli utenti che non hanno bisogno di creare code.
+* Utilizza i modelli di layout per rimuovere le opzioni di configurazione della coda richieste dal menu del pannello a sinistra dei progetti, per gli utenti che non hanno bisogno di creare code.
 
-* Crea una coda di richiesta dell’amministratore di sistema per consentire agli utenti di porre domande relative a Workfront, effettuare richieste relative alle impostazioni di sistema, pianificare nuovi corsi di formazione per gli utenti, ecc.
+* Creare una coda di richieste di amministratore di sistema per consentire agli utenti di porre domande relative a Workfront, effettuare richieste relative alle impostazioni di sistema, pianificare nuovi corsi di formazione per gli utenti, ecc.
 
-* Controlla regolarmente le code di richiesta per identificare e annullare la condivisione delle code che non vengono utilizzate.
+* Controlla regolarmente le code di richieste per identificare e annullare la condivisione delle code non utilizzate.
 
-* Utilizza i gruppi di argomenti per organizzare più di 10 argomenti della coda in una coda di richiesta per creare elenchi più brevi e facili da gestire.
+* Utilizza i gruppi di argomenti per organizzare più di 10 argomenti della coda in una coda di richieste per creare elenchi più brevi e facili da gestire.
 
-* Controlla il numero totale di code di richiesta disponibili agli utenti suddividendo una coda di richiesta utilizzando gruppi di argomenti e argomenti della coda, anziché creare più code.
+* Controllare il numero totale di code di richieste disponibili per gli utenti suddividendo una coda di richieste utilizzando gruppi di argomenti e argomenti della coda, anziché creare più code.
 
-* Imposta le regole di routing per ogni argomento della coda. Come minimo, impostare una regola di routing predefinita.
+* Impostare le regole di instradamento per ogni argomento della coda. Impostare almeno una regola di instradamento predefinita.
 
-* Sfrutta i gruppi di argomenti e gli argomenti della coda quando è necessario indirizzare selettivo.
+* Utilizza i gruppi di argomenti e gli argomenti della coda quando è necessario il routing selettivo.
 
 * Indirizza le richieste a un team, anziché a un singolo utente.
 
@@ -65,107 +65,68 @@ Perché queste best practice? area, disponibile dopo l’elenco di alto livello,
 </br>
 
 
-## Perché queste best practice sono?
+## Perché si tratta di procedure ottimali?
 
 
 **Best practice**
 
-Includi una descrizione per ogni elemento di una coda di richiesta: il progetto della coda di richiesta, i gruppi di argomenti, gli argomenti della coda e le regole di indirizzamento.
+Includere una descrizione per ogni elemento di una coda di richieste, ovvero il progetto della coda di richieste, i gruppi di argomenti, gli argomenti della coda e le regole di instradamento.
 
 **Ecco perché**
 
-Le descrizioni consentono agli amministratori di gruppo, ai futuri amministratori di sistema o a altri utenti che mantengono le code di richiesta di sapere esattamente cosa fa ogni parte della coda di richiesta.
+Le descrizioni consentono agli amministratori di gruppi, ai futuri amministratori di sistema o ad altri che gestiscono code di richieste di sapere esattamente cosa fa ogni parte della coda di richieste.
 
-Le informazioni di descrizione vengono visualizzate anche quando passi il cursore sull’icona delle informazioni sul campo nella nuova finestra di richiesta.
+Le informazioni descrittive vengono visualizzate anche quando passi il cursore sull’icona delle informazioni nel campo della finestra della nuova richiesta.
 
-La descrizione non deve essere lunga, ma può contenere solo un breve commento sullo scopo o sull’utilizzo dell’elemento.
+La descrizione non deve essere necessariamente lunga, ma solo un breve commento sullo scopo o sull’utilizzo dell’elemento.
 
 </br>
 </br>
 
 **Best practice**
 
-Crea uno stato di progetto denominato &quot;Coda richieste&quot; o &quot;Operativo&quot; che equivale a &quot;Corrente&quot; per distinguere i progetti in coda richieste da altri progetti.
+Crea uno stato di progetto denominato &quot;Coda richieste&quot; o &quot;Operativo&quot; che sia uguale a &quot;Corrente&quot; per distinguere i progetti della coda richieste da altri progetti.
 
 **Ecco perché**
 
-Una coda di richiesta &quot;vive&quot; in un progetto e deve essere in uno stato uguale a Corrente affinché la coda sia attiva.
+Una coda di richieste &quot;vive&quot; in un progetto e deve trovarsi in uno stato uguale a Corrente affinché la coda sia attiva.
 
-Per distinguere una richiesta da progetti di lavoro effettivi con stato &quot;Current&quot; (Corrente), creare uno stato da utilizzare solo nelle code di richiesta denominate &quot;Request Queue&quot; (Coda richieste) o &quot;Operations&quot; (Operativo). Puoi quindi utilizzare questo stato per escludere o includere progetti nella coda delle richieste durante la scrittura di rapporti.
+Per distinguere una richiesta dai progetti di lavoro effettivi con stato &quot;Corrente&quot;, creare uno stato da utilizzare solo sulle code di richiesta denominate &quot;Coda di richiesta&quot; o &quot;Operativa&quot;. Puoi quindi utilizzare questo stato per escludere o includere i progetti della coda di richieste durante la scrittura dei rapporti.
 
 </br>
 </br>
 
 **Best practice**
 
-Crea uno stato di problema denominato &quot;Rifiutato&quot; quando utilizzi le approvazioni dei problemi e imposta l&#39;opzione Se rifiutato sullo stato &quot;Rifiutato&quot;.
+Creare uno stato di problema denominato &quot;Rifiutato&quot; quando si utilizzano approvazioni di problemi e impostare l&#39;opzione Se rifiutato sullo stato &quot;Rifiutato&quot;.
 
 **Ecco perché**
 
-Utilizzando uno stato &quot;Rifiutato&quot;, questo chiarisce che la richiesta è stata rivista e rifiutata.
+L&#39;utilizzo dello stato &quot;Rifiutato&quot; indica chiaramente che la richiesta è stata esaminata e rifiutata.
 
 </br>
 </br>
 
 **Best practice**
 
-Assegna moduli personalizzati &quot;universali&quot; per richiedere code per acquisire il maggior numero possibile di dati coerenti a livello aziendale.
+Assegna moduli personalizzati &quot;universali&quot; alle code di richieste per acquisire il maggior numero possibile di dati coerenti a livello aziendale.
 
 **Ecco perché**
 
 Un modulo personalizzato &quot;universale&quot; raccoglie le informazioni standard necessarie per la richiesta, indipendentemente dal tipo di richiesta inviata.
 
-L’uso di un modulo personalizzato &quot;universale&quot; consente di ridurre il numero di moduli personalizzati da creare e gestire. Inoltre, garantisce che tutte le richieste raccolgano le stesse informazioni allo stesso modo, il che porta a rapporti e analisi dei dati coerenti.
+L’utilizzo di un modulo personalizzato &quot;universale&quot; consente di ridurre il numero di moduli personalizzati da creare e mantenere. Inoltre, garantisce che tutte le richieste raccolgano le stesse informazioni nello stesso modo, con conseguente coerenza nelle attività di reporting e analisi dei dati.
 
 </br>
 </br>
 
 **Best practice**
 
-Evita di condividere le code di richiesta con &quot;tutti&quot;.  Imposta le impostazioni dei dettagli della coda in modo che gli utenti vedano solo le code pertinenti in base alle loro esigenze.
+Evita di condividere le code di richieste con &quot;tutti&quot;.  Impostare le impostazioni dei dettagli della coda in modo che gli utenti possano visualizzare solo le code pertinenti alle proprie esigenze.
 
 **Ecco perché**
 
-Nella maggior parte dei casi, una coda di richiesta deve essere condivisa solo con un determinato gruppo di persone come un team, un fornitore, clienti, ecc. Quando i richiedenti visualizzano solo ciò di cui hanno bisogno nell’elenco della coda delle richieste, è facile trovare e navigare.
-
-</br>
-</br>
-
-
-**Best practice**
-
-Crea e assegna un dashboard contenente i rapporti sulla coda delle richieste in modo che i responsabili del traffico, gli amministratori di sistema o gli utenti assegnati possano lavorare direttamente sui problemi.
-
-**Ecco perché**
-
-Consentire agli utenti di accedere in modo rapido e semplice alle richieste in arrivo significa che il lavoro non viene perso nel miscuglio.
-
-</br>
-</br>
-
-**Best practice**
-
-Utilizza i modelli di layout per rimuovere le opzioni di configurazione della coda di richiesta dal menu del pannello a sinistra dei progetti per gli utenti che non hanno bisogno di creare code.
-
-
-**Ecco perché**
-
-In questo modo tutte le code di richiesta passano attraverso il processo di creazione corretto (ad esempio, vengono esaminate da un comitato di governance) e vengono configurate correttamente da un amministratore di sistema o di gruppo.
-
-Inoltre, questo consente di mantenere l’elenco delle code organizzato e concentrato sui tipi di richieste necessari alla tua organizzazione.
-
-</br>
-</br>
-
-**Best practice**
-
-Crea una coda di richiesta dell’amministratore di sistema per consentire agli utenti di porre domande relative a Workfront, effettuare richieste relative alle impostazioni di sistema, pianificare nuovi corsi di formazione per gli utenti, ecc.
-
-**Ecco perché**
-
-Questo fornisce una posizione centralizzata in cui gli utenti possono inviare domande e consentire agli amministratori di raccogliere, monitorare e rispondere ai problemi relativi a Workfront.
-
-Inoltre, queste informazioni possono essere utilizzate per mostrare al leadership il tempo, lo sforzo e il valore del ruolo di amministratore di sistema e come giustificazione per un amministratore di sistema aggiuntivo.
+Nella maggior parte dei casi, una coda di richieste deve essere condivisa solo con un determinato gruppo di persone come un team, un fornitore, clienti e così via. Quando i richiedenti visualizzano solo ciò di cui hanno bisogno nell’elenco della coda delle richieste, è più semplice trovare e navigare.
 
 </br>
 </br>
@@ -173,11 +134,38 @@ Inoltre, queste informazioni possono essere utilizzate per mostrare al leadershi
 
 **Best practice**
 
-Controlla regolarmente le code di richiesta per identificare e annullare la condivisione delle code che non vengono utilizzate.
+Crea e assegna un dashboard contenente i report della coda di richieste in modo che i gestori del traffico, gli amministratori di sistema o gli utenti assegnati possano lavorare direttamente sui problemi.
 
 **Ecco perché**
 
-Un controllo regolare delle impostazioni e degli elementi nel sistema Adobe Workfront consente di mantenerli privi di vincoli e privi di elementi non necessari. Se una coda non viene più utilizzata o monitorata, assicurati che gli utenti non possano più accedervi, in modo che le richieste di lavoro non cadano in un vuoto.
+Consentire agli utenti di accedere in modo semplice e rapido alle richieste in arrivo significa non perdere il lavoro nel miscuglio.
+
+</br>
+</br>
+
+**Best practice**
+
+Utilizza i modelli di layout per rimuovere le opzioni di configurazione della coda richieste dal menu del pannello a sinistra dei progetti, per gli utenti che non hanno bisogno di creare code.
+
+
+**Ecco perché**
+
+In questo modo tutte le code di richieste seguono il processo appropriato per la creazione (ad esempio vengono esaminate da un comitato di governance) e vengono configurate correttamente da un amministratore di sistema o di gruppo.
+
+Inoltre, questo aiuta a mantenere l’elenco delle code organizzato e concentrato sui tipi di richieste di cui la tua organizzazione ha bisogno.
+
+</br>
+</br>
+
+**Best practice**
+
+Creare una coda di richieste di amministratore di sistema per consentire agli utenti di porre domande relative a Workfront, effettuare richieste relative alle impostazioni di sistema, pianificare nuovi corsi di formazione per gli utenti, ecc.
+
+**Ecco perché**
+
+In questo modo, gli utenti possono inviare domande da una posizione centralizzata e gli amministratori possono raccogliere, monitorare e rispondere ai problemi relativi a Workfront.
+
+Inoltre, queste informazioni possono essere utilizzate per mostrare alla leadership il tempo, l&#39;impegno e il valore del ruolo di amministratore di sistema e come giustificazione per un amministratore di sistema aggiuntivo.
 
 </br>
 </br>
@@ -185,50 +173,62 @@ Un controllo regolare delle impostazioni e degli elementi nel sistema Adobe Work
 
 **Best practice**
 
-Utilizza i gruppi di argomenti per organizzare più di 10 argomenti della coda in una coda di richiesta per creare elenchi più brevi e facili da gestire.
+Controlla regolarmente le code di richieste per identificare e annullare la condivisione delle code non utilizzate.
 
 **Ecco perché**
 
-I gruppi di argomenti aumentano l&#39;adozione degli utenti e creano meno confusione riducendo l&#39;elenco iniziale di opzioni tra cui selezionare. Questo consente agli utenti di trovare facilmente ciò che stanno cercando senza sovraccaricarli quando tentano di inviare una richiesta.
+Un controllo regolare delle impostazioni e degli elementi nel sistema Adobe Workfront lo consente di mantenere il sistema ordinato e privo di elementi non necessari. Se una coda non viene più utilizzata o monitorata, assicurati che gli utenti non possano più accedervi in modo che le richieste di lavoro non cadano in un vuoto.
 
-Inoltre, consente agli amministratori di sistema e/o ai gestori delle code di creare un percorso di navigazione fluido per gli utenti e un modo migliore per organizzare e creare rapporti sui tipi di richieste inviate.
+</br>
+</br>
+
+
+**Best practice**
+
+Utilizza i gruppi di argomenti per organizzare più di 10 argomenti della coda in una coda di richieste per creare elenchi più brevi e facili da gestire.
+
+**Ecco perché**
+
+I gruppi di argomenti aumentano l’adozione da parte dell’utente e creano meno confusione diminuendo l’elenco iniziale di opzioni tra cui selezionare. Questo consente agli utenti di trovare facilmente ciò che cercano senza sopraffarli quando tentano di inviare una richiesta.
+
+Inoltre, consente agli amministratori di sistema e/o ai responsabili delle code di richieste di creare un percorso di navigazione fluido per gli utenti e un modo migliore per organizzare e generare rapporti sui tipi di richieste inviate.
 
 </br>
 </br>
 
 **Best practice**
 
-Controlla il numero totale di code di richiesta disponibili agli utenti suddividendo una coda di richiesta utilizzando gruppi di argomenti e argomenti della coda, anziché creare più code.
+Controllare il numero totale di code di richieste disponibili per gli utenti suddividendo una coda di richieste utilizzando gruppi di argomenti e argomenti della coda, anziché creare più code.
 
 **Ecco perché**
 
-Troppe code di richiesta rendono difficile agli utenti trovare ciò di cui hanno bisogno.
+Troppe code di richieste rendono difficile agli utenti trovare ciò di cui hanno bisogno.
 
-Il minor numero di code aiuta anche i coordinatori del traffico, gli amministratori di sistema o altri utenti che gestiscono le code, consentendo loro di trovare le informazioni necessarie più rapidamente, senza dover passare a più progetti di coda delle richieste.
+Un numero inferiore di code consente inoltre ai coordinatori del traffico, agli amministratori di sistema o ad altri utenti di gestire le code, consentendo loro di trovare le informazioni necessarie più rapidamente, senza dover passare a più progetti di code di richieste.
 
-Crea più code di richiesta se è necessario un accesso diverso per code di richiesta diverse o se il consolidamento delle code confonderebbe gli utenti.
+Creare più code di richiesta se è necessario un accesso diverso per le diverse code di richiesta o se il consolidamento delle code potrebbe confondere gli utenti.
 
 </br>
 </br>
 
 **Best practice**
 
-Imposta le regole di routing per ogni argomento della coda. Come minimo, impostare una regola di routing predefinita.
+Impostare le regole di instradamento per ogni argomento della coda. Impostare almeno una regola di instradamento predefinita.
 
 **Ecco perché**
 
-Le regole di instradamento assicurano che a qualcuno venga sempre assegnata la richiesta in arrivo in modo che il lavoro non cada attraverso le fessure.
+Le regole di instradamento garantiscono che a qualcuno venga sempre assegnata la richiesta in ingresso in modo che il lavoro non vada perduto.
 
 </br>
 </br>
 
 **Best practice**
 
-Sfrutta i gruppi di argomenti e gli argomenti della coda quando è necessario indirizzare selettivo.
+Utilizza i gruppi di argomenti e gli argomenti della coda quando è necessario il routing selettivo.
 
 **Ecco perché**
 
-Impossibile applicare le regole di instradamento ai campi di un modulo personalizzato. Quindi, se diversi tipi di richieste devono essere indirizzati a diversi team/singoli utenti, fai in modo che ogni tipo di richiesta sia indirizzato correttamente al proprio gruppo di argomenti/argomento della coda.
+Impossibile applicare le regole di indirizzamento ai campi di un modulo personalizzato. Pertanto, se è necessario instradare diversi tipi di richieste a team/singoli utenti diversi, impostare ogni tipo di richiesta come gruppo di argomenti/argomento della coda in modo che il lavoro possa essere instradato correttamente.
 
 </br>
 </br>
@@ -239,6 +239,6 @@ Indirizza le richieste a un team, anziché a un singolo utente.
 
 **Ecco perché**
 
-Quando le richieste vengono inviate al team, l&#39;intero team può visualizzare le richieste che vengono effettuate e quali potrebbero essere le conseguenze del lavoro in corso. Tutti possono guardare la pagina Team per individuare nuovi elementi o tenere traccia delle novità di un report su un dashboard.
+Quando le richieste vengono inviate al team, questo offre all’intero team la visibilità delle richieste in corso e di ciò che potrebbe comportare il lavoro in programma. Tutti possono guardare la pagina Team per trovare nuovi elementi o tenere traccia delle novità con un rapporto su un dashboard.
 
-Inoltre, quando il gestore del traffico o un’altra persona incaricata di rivedere o assegnare le richieste in arrivo non è disponibile, viene automaticamente disponibile un backup che consente di accedere alle informazioni richieste.
+Inoltre, quando il gestore del traffico o un’altra persona incaricata di esaminare o assegnare le richieste in ingresso non è disponibile, garantisce che sia automaticamente disponibile un backup e che abbia accesso alle informazioni della richiesta.

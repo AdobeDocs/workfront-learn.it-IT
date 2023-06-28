@@ -1,6 +1,6 @@
 ---
-title: Che cos'è una versione di prova?
-description: Scopri come le versioni possono aiutarti a gestire il processo di revisione e approvazione in più iterazioni di un file utilizzando le funzioni di correzione di .
+title: Che cos’è una versione di prova?
+description: Scopri come le versioni possono essere utili per gestire il processo di revisione e approvazione in più iterazioni di un file utilizzando le funzioni di correzione di [!DNL].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -8,23 +8,23 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: what-is-a-proof-version.png
-kt: 10161
+jira: KT-10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-# Che cos&#39;è una versione di prova?
+# Che cos’è una versione di prova?
 
-[!DNL Workfront’s] le funzioni di correzione consentono all’organizzazione di gestire il processo di revisione e approvazione per più iterazioni di un file che utilizzano versioni.
+[!DNL Workfront’s] le funzioni di verifica consentono di gestire il processo di revisione e approvazione in più iterazioni di un file utilizzando le versioni.
 
-Una definizione di base di una versione è una copia rivista di una prova. Ad esempio, la progettazione dello stand della tua organizzazione durante la conferenza utente ha superato il processo iniziale di revisione e approvazione utilizzando [!DNL Workfront’s] funzioni di correzione. Sono state apportate delle correzioni e il file aggiornato è pronto per la revisione.
+Una definizione di base di una versione è una copia rivista di una bozza. Ad esempio, il progetto per lo stand della tua organizzazione alla conferenza degli utenti è stato sottoposto al processo di revisione e approvazione iniziale utilizzando [!DNL Workfront’s] funzionalità di correzione. Sono state apportate correzioni e il file aggiornato è pronto per la revisione.
 
-È possibile aggiungere il nuovo file a [!DNL Workfront] come versione del file originale.
+Il nuovo file può essere aggiunto a [!DNL Workfront] come versione del file originale.
 
-Questa opzione consente di sovrapporre la versione al file originale, mantenendo una cronologia delle revisioni e assicurando al contempo di visualizzare l’ultima iterazione del lavoro. [!DNL Workfront’s] il visualizzatore di correzione consente inoltre di confrontare la versione più recente con una versione precedente del file.
+In questo modo la versione viene &quot;impilata&quot; sopra il file originale, mantenendo una cronologia delle revisioni e garantendo al contempo la visualizzazione dell’ultima iterazione del lavoro. [!DNL Workfront’s] il visualizzatore di bozze consente inoltre di confrontare l&#39;ultima versione con una precedente.
 
-Cominciamo a rivedere e confrontare le versioni delle prove.
+Iniziamo a rivedere e confrontare le versioni delle bozze.

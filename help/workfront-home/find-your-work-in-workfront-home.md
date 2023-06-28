@@ -1,27 +1,27 @@
 ---
-title: Come trovare le assegnazioni di lavoro in [!UICONTROL Pagina principale]
-description: Scopri come trovare il lavoro in entrata e quello esistente assegnato a te in [!UICONTROL  ]. Quindi controlla le informazioni sull'assegnazione.
+title: Come trovare le assegnazioni di lavoro in [!UICONTROL Home]
+description: Scopri come trovare il lavoro esistente e in entrata che ti è stato assegnato in [!UICONTROL  ]. Rivedere quindi le informazioni sulle assegnazioni.
 feature: Work Management
 type: Tutorial
 role: User
 level: Beginner
 activity: use
 team: Technical Marketing
-kt: 8797
+jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Trova il lavoro assegnato in [!DNL Workfront] [!UICONTROL Pagina principale]
+# Trovare il lavoro assegnato in [!DNL Workfront] [!UICONTROL Home]
 
 Questo video illustra come:
 
-* Trova assegnazioni di lavoro in entrata ed esistenti
-* Verifica informazioni sull&#39;assegnazione
+* Trova assegnazioni di lavoro esistenti e in entrata
+* Rivedi informazioni assegnazione
 
 >[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)

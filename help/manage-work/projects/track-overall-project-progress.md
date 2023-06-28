@@ -1,6 +1,6 @@
 ---
 title: Tracciare l’avanzamento generale del progetto
-description: Scopri in che modo le informazioni visualizzate nell’intestazione del progetto possono aiutarti a monitorare l’avanzamento e lo stato generale del progetto.
+description: Scopri in che modo le informazioni visualizzate nell’intestazione del progetto possono aiutarti a tenere traccia dell’avanzamento e dello stato generali del progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,9 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10149
+jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -19,23 +19,23 @@ ht-degree: 0%
 
 # Tracciare l’avanzamento generale del progetto
 
-L’intestazione nella parte superiore di un progetto consente di visualizzare con un’occhiata lo stato e lo stato di salute complessivi del progetto.
+L’intestazione nella parte superiore di un progetto ti consente di visualizzare lo stato e l’integrità generali del progetto con una semplice occhiata.
 
-![Intestazione del progetto che mostra [!UICONTROL Percentuale completata]](assets/planner-fund-percent-complete.png)
+![Intestazione del progetto che mostra [!UICONTROL Percentuale completamento]](assets/planner-fund-percent-complete.png)
 
-La [!UICONTROL Percentuale completata] si basa sullo stato di avanzamento generale delle attività del progetto. Il numero è più preciso quando i membri del team cambiano lo stato delle attività assegnate e indicano una percentuale di completamento.
+Il [!UICONTROL Percentuale completamento] si basa sull’avanzamento complessivo delle attività nel progetto. Il numero è più preciso quando i membri del team modificano lo stato delle attività assegnate e indica una percentuale di completamento.
 
 >[!NOTE]
 >
->Un’impostazione di sistema globale influisce sul modo in cui viene calcolata la percentuale di completamento del progetto, in base alle durate o alle ore pianificate delle attività.
+>Un&#39;impostazione di sistema globale influisce sul modo in cui viene calcolata la percentuale di completamento del progetto, in base alla durata o alle ore pianificate delle attività.
 
-Il progetto [!UICONTROL Condizione] è denominato &quot;stato di salute del programma del progetto&quot;. Ci sono un certo numero di fattori che influenzano il modo in cui la condizione viene calcolata. [!DNL Workfront] guarda [!UICONTROL Data completamento pianificata] e [!UICONTROL Data di completamento prevista], nonché il percorso critico, per calcolare se il progetto è [!UICONTROL Ora di attivazione], [!UICONTROL A rischio]oppure [!UICONTROL In problemi].
+Il progetto [!UICONTROL Condizione] è noto come &quot;stato della pianificazione del progetto&quot;. Esistono diversi fattori che influiscono sul calcolo della condizione. [!DNL Workfront] esamina la [!UICONTROL Data di completamento Pianificata] e [!UICONTROL Data di completamento Prevista], nonché il percorso critico, per calcolare se il progetto è [!UICONTROL Ora di attivazione], [!UICONTROL A Rischio], o [!UICONTROL In difficoltà].
 
 ![Intestazione del progetto che mostra [!UICONTROL Condizione]](assets/planner-fund-condition.png)
 
 >[!NOTE]
 >
->Se la condizione del progetto viene impostata automaticamente da [!DNL Workfront] o manualmente da un utente con diritti di gestione per il progetto è controllato dal [!UICONTROL Tipo di condizione] nella [!UICONTROL Panoramica] della sezione [!UICONTROL Dettagli progetto] pagina.
+>Indica se la condizione del progetto viene impostata automaticamente da [!DNL Workfront] o manualmente da un utente con diritti di gestione per il progetto è controllato da [!UICONTROL Tipo di condizione] impostazione in [!UICONTROL Panoramica] sezione del [!UICONTROL Dettagli progetto] pagina.
 
 <!---
 learn more urls

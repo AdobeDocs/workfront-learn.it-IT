@@ -1,6 +1,6 @@
 ---
-title: Aggiorna informazioni piano in [!DNL Scenario Planner]
-description: Scopri come modificare o aggiornare le informazioni su ruoli, budget o costi di un processo dopo la creazione di un piano o di un’iniziativa nel [!DNL Scenario Planner].
+title: Aggiornare le informazioni del piano in [!DNL Scenario Planner]
+description: Scopri come modificare o aggiornare le informazioni su mansioni, budget o costi dopo la creazione di un piano o un’iniziativa in [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,22 +8,22 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335320.jpeg
-kt: 9078
+jira: KT-9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Adeguare le informazioni su ruolo, budget e costo nel [!DNL Scenario Planner]
+# Regolare le informazioni su mansioni, budget e costi in [!DNL Scenario Planner]
 
 Questo video illustra come:
 
-* Aggiunta o rimozione di ruoli di lavoro a un piano o a un&#39;iniziativa
-* Modifica delle informazioni sul budget
-* Modificare le informazioni sui costi
+* Aggiungere o rimuovere mansioni in un piano o in un&#39;iniziativa
+* Regola informazioni budget
+* Regola informazioni sui costi
 
 >[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)

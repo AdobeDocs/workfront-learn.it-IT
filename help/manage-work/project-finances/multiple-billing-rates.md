@@ -1,6 +1,6 @@
 ---
-title: Comprendere i tassi di fatturazione multipli
-description: Scopri come ignorare le tariffe di fatturazione del sistema all’interno di un progetto.
+title: Comprendere più tariffe di fatturazione
+description: Scopri come sostituire le tariffe di fatturazione di sistema all’interno di un progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,50 +8,51 @@ thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10048
+jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-# Comprendere i tassi di fatturazione multipli
+# Comprendere più tariffe di fatturazione
 
-Within [!DNL Workfront], un project manager può ignorare le tariffe di fatturazione del sistema all’interno di un progetto specifico. Precedentemente, quando il nuovo tasso di fatturazione veniva applicato al progetto, non solo influenzava le ore future, ma le ore già registrate sul progetto.
+Entro [!DNL Workfront], un project manager può ignorare le tariffe di fatturazione del sistema all’interno di un progetto specifico. In precedenza, quando la nuova tariffa di fatturazione veniva applicata al progetto, non solo influenzava le ore future, ma anche le ore già registrate sul progetto.
 
-Con [!DNL Workfront]La nuova funzionalità di tasso di fatturazione multiplo, il project manager è in grado di decidere quale periodo di tempo applicare un tasso di fatturazione. In questo modo, se un tasso è stato negoziato o modificato, il project manager può determinare quando tale tasso dovrebbe avere effetto.
+Con [!DNL Workfront]La nuova funzionalità di fatturazione multipla di, il project manager è in grado di decidere il periodo di tempo in cui applicare una tariffa di fatturazione. In questo modo, se un tasso è stato negoziato o modificato, il project manager può determinare quando tale tasso dovrebbe diventare effettivo.
 
-## Modificare il tasso di fatturazione
+## Modificare la tariffa di fatturazione
 
-1. Vai alla pagina di destinazione del progetto. Seleziona **[!UICONTROL Tassi di fatturazione]** dal pannello a sinistra.
+1. Vai alla pagina di destinazione del progetto. Seleziona **[!UICONTROL Tariffe di fatturazione]** dal pannello a sinistra.
 
-   ![Immagine di selezione [!UICONTROL Tassi di fatturazione] in [!DNL Workfront]](assets/project-finances-1.png)
+   ![Immagine di selezione [!UICONTROL Tariffe di fatturazione] in [!DNL Workfront]](assets/project-finances-1.png)
 
-1. Da **[!UICONTROL Tassi di fatturazione]** fai clic sulla scheda **[!UICONTROL Aggiungi tasso di fatturazione]** pulsante . Seleziona **[!UICONTROL Nuovo tasso di fatturazione]** dal menu a discesa .
+1. Dalla sezione **[!UICONTROL Tariffe di fatturazione]** , fare clic sulla scheda **[!UICONTROL Aggiungi tariffa di fatturazione]** pulsante. Seleziona **[!UICONTROL Nuova tariffa di fatturazione]** dal menu a discesa.
 
-   ![Immagine di selezione [!UICONTROL Nuovo tasso di fatturazione] in [!DNL Workfront]](assets/project-finances-2.png)
+   ![Immagine di selezione [!UICONTROL Nuova tariffa di fatturazione] in [!DNL Workfront]](assets/project-finances-2.png)
 
-1. La [!UICONTROL Nuovo tasso di fatturazione] viene visualizzata la finestra di dialogo. Da **[!UICONTROL Ruolo]** a discesa, seleziona il ruolo del processo a cui verrà applicato il nuovo tasso di fatturazione.
+1. Il [!UICONTROL Nuova tariffa di fatturazione] viene visualizzata. Dalla sezione **[!UICONTROL Ruolo]** a discesa, seleziona la mansione a cui verrà applicata la nuova tariffa di fatturazione.
 
-   ![Immagine della selezione di ruoli di lavoro in un nuovo tasso di fatturazione in [!DNL Workfront]](assets/project-finances-3.png)
+   ![Immagine che mostra come selezionare le mansioni in una nuova tariffa di fatturazione in [!DNL Workfront]](assets/project-finances-3.png)
 
-1. Una volta selezionato il ruolo di lavoro, il [!UICONTROL Tasso di fatturazione predefinito] e [!UICONTROL Tasso di fatturazione 1] viene visualizzato il campo . Inserisci il nuovo tasso di fatturazione nel [!UICONTROL Tasso di fatturazione 1] campo . Se il tasso di fatturazione è applicabile all&#39;intero progetto (ore passate, presenti e future registrate), fai clic sul pulsante **[!UICONTROL Salva]** pulsante .
+1. Una volta selezionata la mansione, [!UICONTROL Tariffa di fatturazione predefinita] e [!UICONTROL Tariffa di fatturazione 1] viene visualizzato. Inserire la nuova tariffa di fatturazione in [!UICONTROL Tariffa di fatturazione 1] campo. Se la tariffa di fatturazione si applica all’intero progetto (ore passate, presenti e future registrate), fai clic su **[!UICONTROL Salva]** pulsante.
 
-   ![Immagine del salvataggio di un nuovo tasso di fatturazione applicabile all&#39;intero progetto in [!DNL Workfront]](assets/project-finances-5.png)
+   ![Immagine che mostra come salvare una nuova tariffa di fatturazione applicabile all’intero progetto in [!DNL Workfront]](assets/project-finances-5.png)
 
-1. Se il nuovo tasso di fatturazione si applica solo per un determinato periodo di tempo, fai clic sul pulsante **[!UICONTROL Aggiungi tasso]** pulsante . La [!UICONTROL Data di fine tasso di fatturazione 1] e [!UICONTROL Tasso di fatturazione 2] vengono visualizzati i campi. Immettere la data di fine per [!UICONTROL Tasso di fatturazione 1]. Non è possibile inserire una data di inizio per [!UICONTROL Tasso di fatturazione 1] poiché il sistema presuppone che sia stato avviato all’inizio del progetto.
+1. Se la nuova tariffa di fatturazione si applica solo per un determinato periodo di tempo, fare clic sul pulsante **[!UICONTROL Aggiungi tariffa]** pulsante. Il [!UICONTROL Data di fine tariffa di fatturazione 1] e [!UICONTROL Tariffa di fatturazione 2] vengono visualizzati. Immettere la data di fine per [!UICONTROL Tariffa di fatturazione 1]. Impossibile immettere una data di inizio per [!UICONTROL Tariffa di fatturazione 1] perché il sistema presuppone che sia stato avviato all&#39;inizio del progetto.
 
-   ![Immagine della creazione di un nuovo tasso di fatturazione applicabile a un determinato periodo di tempo, a partire dall&#39;inizio del progetto in [!DNL Workfront]](assets/project-finances-6.png)
+   ![Immagine che mostra la creazione di una nuova tariffa di fatturazione per un determinato periodo di tempo, a partire dall’inizio del progetto in [!DNL Workfront]](assets/project-finances-6.png)
 
 1. In caso contrario:
 
-   * Immettere il tasso di fatturazione predefinito per [!UICONTROL Tasso di fatturazione 1].
-   * Selezionare la data di fine per [!UICONTROL Tasso di fatturazione 1] ([!UICONTROL Tasso di fatturazione predefinito]).
-   * Data di inizio per [!UICONTROL Tasso di fatturazione 2] viene automaticamente impostato sul giorno successivo a [!UICONTROL Tasso di fatturazione 1] termina.
-   * Inserisci il tasso di fatturazione desiderato nel [!UICONTROL Tasso di fatturazione 2] sezione .
-   * Continua ad aggiungere le tariffe di fatturazione, se necessario, facendo clic sul pulsante **[!UICONTROL Aggiungi tasso]** pulsante .
+   * Inserisci la tariffa di fatturazione predefinita per [!UICONTROL Tariffa di fatturazione 1].
+   * Seleziona la data di fine per [!UICONTROL Tariffa di fatturazione 1] ([!UICONTROL Tariffa di fatturazione predefinita]).
+   * La data di inizio per [!UICONTROL Tariffa di fatturazione 2] verrà impostato automaticamente sul giorno successivo [!UICONTROL Tariffa di fatturazione 1] termina.
+   * Inserisci la tariffa di fatturazione desiderata in [!UICONTROL Tariffa di fatturazione 2] sezione.
+   * Continua ad aggiungere tariffe di fatturazione, in base alle esigenze, facendo clic sul pulsante **[!UICONTROL Aggiungi tariffa]** pulsante.
    * Al termine, fai clic su **[!UICONTROL Salva]**.
-   * Tutte le tariffe di fatturazione verranno visualizzate nella [!UICONTROL Tassi di fatturazione] nel progetto.
-   ![Immagine della creazione di nuovi tassi di fatturazione applicabili ai diversi periodi di tempo in [!DNL Workfront]](assets/project-finances-7.png)
+   * Tutte le tariffe di fatturazione saranno visualizzate nel [!UICONTROL Tariffe di fatturazione] sul progetto.
+
+   ![Un&#39;immagine della creazione di nuove tariffe di fatturazione che si applicano ai diversi periodi di tempo in [!DNL Workfront]](assets/project-finances-7.png)

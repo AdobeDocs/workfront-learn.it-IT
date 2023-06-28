@@ -1,59 +1,59 @@
 ---
-title: Procedure consigliate - Generazione rapporti in modalità testo
-description: Scopri le best practice consigliate dagli esperti di Adobe Workfront sull’impostazione, la gestione e l’utilizzo dei rapporti in modalità testo di Workfront.
+title: Best practice - Generazione rapporti in modalità testo
+description: Esplora le best practice consigliate dagli esperti Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo della modalità di reporting in formato testo Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
-kt: 10928
+jira: KT-10928
 exl-id: c624545c-ba42-4cc3-aafe-8be15baadb75
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-# Procedure consigliate - Generazione rapporti in modalità testo
+# Best practice - Generazione rapporti in modalità testo
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
 ## Best practice per la generazione di rapporti in modalità testo
 
-* Utilizza le espressioni di valore della modalità testo invece dei campi personalizzati calcolati quando possibile nelle colonne dei rapporti elenco.
+* Se possibile, utilizza espressioni di valore in modalità testo anziché campi personalizzati calcolati nelle colonne dei rapporti elenco.
 
-* Inserire i calcoli utilizzati nel calcolo in modalità testo nella descrizione del rapporto.
+* Inserire i calcoli utilizzati in un calcolo in modalità testo nella descrizione del report.
 
 </br>
 </br>
 
-## Perché queste best practice sono?
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
-Utilizza le espressioni di valore della modalità testo invece dei campi personalizzati calcolati quando possibile nelle colonne dei rapporti elenco.
+Se possibile, utilizza espressioni di valore in modalità testo anziché campi personalizzati calcolati nelle colonne dei rapporti elenco.
 
 
 
 **Ecco perché**
 
-Le espressioni del valore della modalità testo vengono calcolate al momento dell’esecuzione del rapporto e vengono ricalcolate ogni volta che questo viene aggiornato. Ciò significa che avrai sempre a disposizione dati aggiornati e rapporti precisi.
+Le espressioni di valore in modalità testo vengono calcolate al momento dell&#39;esecuzione del report e vengono ricalcolate ogni volta che il report viene aggiornato. Ciò significa che avrai sempre dati aggiornati e rapporti accurati.
 
 
 
-I campi personalizzati calcolati (utilizzati nei moduli personalizzati) non vengono aggiornati automaticamente quando i dati vengono visualizzati in Workfront. Al contrario, visualizzano i risultati del calcolo più recente memorizzato in Workfront. Ciò significa che tali valori potrebbero essere &quot;obsoleti&quot; o obsoleti in un dato momento. I campi personalizzati calcolati devono essere aggiornati manualmente, ricalcolando l’espressione o modificando e salvando l’oggetto che contiene il campo calcolato. Questo può richiedere molto tempo, così come è facile dimenticare di farlo.
+I campi personalizzati calcolati (utilizzati nei moduli personalizzati) non vengono aggiornati automaticamente quando i dati vengono visualizzati in Workfront. Vengono invece visualizzati i risultati del calcolo più recente memorizzato in Workfront. Ciò significa che tali valori potrebbero essere &quot;obsoleti&quot; o non aggiornati in un dato momento. I campi personalizzati calcolati devono essere aggiornati manualmente, ricalcolando l’espressione o modificando e salvando l’oggetto che contiene il campo calcolato. Questo può richiedere molto tempo e può essere facile dimenticarsi di farlo.
 
 
 </br>
@@ -61,10 +61,10 @@ I campi personalizzati calcolati (utilizzati nei moduli personalizzati) non veng
 
 **Best practice**
 
-Inserire i calcoli utilizzati nel calcolo in modalità testo nella descrizione del rapporto.
+Inserire i calcoli utilizzati in un calcolo in modalità testo nella descrizione del report.
 
 
 
 **Ecco perché**
 
-L’inclusione di calcoli in modalità testo nella descrizione del rapporto aiuta altri a comprendere come è stato creato il calcolo e che tipo di informazioni deve visualizzare. Inoltre, ricorda agli amministratori di sistema come è stato creato il rapporto, nel caso in cui siano necessari aggiornamenti in futuro.
+L’inclusione di calcoli in modalità testo nella descrizione del rapporto aiuta gli altri a capire in che modo è stato creato il calcolo e che tipo di informazioni dovrebbe essere visualizzato. Inoltre, ricorda agli amministratori di sistema come è stato creato il rapporto, nel caso in cui siano necessari aggiornamenti in futuro.

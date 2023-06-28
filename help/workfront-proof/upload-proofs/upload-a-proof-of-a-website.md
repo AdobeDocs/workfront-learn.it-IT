@@ -1,5 +1,5 @@
 ---
-title: Caricare una bozza di un sito web
+title: Caricare la bozza di un sito web
 description: Scopri come caricare un sito web come bozza statica e bozza interattiva in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -8,17 +8,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335135.png
-kt: 8835
+jira: KT-8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Caricare una bozza di un sito web
+# Caricare la bozza di un sito web
 
 Questo video illustra come:
 
@@ -28,24 +28,24 @@ Questo video illustra come:
 >[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on)
 
 
-## Considerazioni sul contenuto interattivo
+## Considerazioni sui contenuti interattivi
 
-Quando inizi a eseguire la correzione dei siti web, potresti scoprire che [!DNL Workfront] non supporta tutte le configurazioni o situazioni. Devono essere soddisfatti alcuni criteri:
+Quando si inizia a verificare i siti Web, è possibile che [!DNL Workfront] non supporta tutte le configurazioni o situazioni. Devono essere soddisfatti alcuni criteri:
 
 * Il sito web deve essere ospitato con un protocollo sicuro, il che significa che l’indirizzo del sito web inizia con https.
-* Il sito Web da verificare non può essere incorporato in un iframe.
+* Impossibile incorporare in un iframe il sito Web da sottoporre a verifica.
 * Il sito web deve essere accessibile ai revisori.
-* Il sito web deve essere accessibile al pubblico, il che significa che non può essere protetto da un firewall.
-* Durante la creazione di bozze di siti web statici, il sito web non può essere protetto da password.
+* Il sito web deve essere accessibile al pubblico, il che significa che non può trovarsi dietro un firewall.
+* Quando si creano bozze statiche di un sito web, questo non può essere protetto da password.
 
-## Il tuo turno
+## Tocca a te
 
 >[!IMPORTANT]
 >
->Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una prova nell’ambito del tuo training Workfront.
+>Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte del tuo corso di formazione su Workfront.
 
-1. Apri un progetto, un&#39;attività o un problema che utilizzi per esercitarti in Workfront. Crea una bozza statica del sito web dell’organizzazione. Se non soddisfa i criteri di bozza statica, puoi utilizzare adobe.com.
-1. Quindi, crea una bozza interattiva del sito web dell’organizzazione. Puoi utilizzare adobe.com se l’altro sito web non funziona.
+1. Apri un progetto, un’attività o un problema utilizzato per esercitarti in Workfront. Crea una bozza statica del sito web della tua organizzazione. Se non soddisfa i criteri di bozza statici, puoi utilizzare adobe.com.
+1. Quindi, crea una bozza interattiva del sito web della tua organizzazione. Se l’altro sito web non funziona, puoi utilizzare adobe.com.
 
 <!-- 
 Learn more about these considerations in the articles Generate a static proof for a website or other web content and Generate an interactive proof for a website or other web content. 

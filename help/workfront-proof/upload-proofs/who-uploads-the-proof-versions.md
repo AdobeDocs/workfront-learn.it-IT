@@ -1,6 +1,6 @@
 ---
-title: Chi carica le versioni delle prove?
-description: Il responsabile del caricamento delle versioni di prova in [!DNL  Workfront] può variare. Impara dai casi d’uso comuni per identificare la configurazione ideale all’interno della tua organizzazione.
+title: Chi carica le versioni della bozza?
+description: Persona responsabile del caricamento delle versioni delle bozze in [!DNL  Workfront] può variare. Scopri dai casi d’uso comuni per identificare la configurazione ideale per la tua organizzazione.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -8,23 +8,23 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: who-uploads-proofs.png
-kt: 10162
+jira: KT-10162
 exl-id: e49ce586-ff9e-459c-967f-f974791612cb
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-# Chi carica le versioni delle prove?
+# Chi carica le versioni della bozza?
 
-La persona responsabile del caricamento delle versioni di una bozza può variare da reparto a reparto o team a team. Può anche dipendere dal tipo di prova stessa.
+La persona responsabile del caricamento delle versioni di una bozza può variare da un reparto all&#39;altro o da un team all&#39;altro. Può anche dipendere dal tipo di prova stessa.
 
-Ad esempio, se sei un creativo designer che ha appena apportato delle correzioni a un layout, puoi essere responsabile del caricamento della nuova versione e dell’avviso al project manager.
+Ad esempio, se sei un designer creativo che ha appena apportato correzioni a un layout, potresti essere responsabile del caricamento della nuova versione e dell’invio di avvisi al project manager.
 
-In qualità di editor di copie, potresti aver scaricato il file originale dalla bozza del testo per l’ultima campagna e-mail. Dopo aver modificato il file nella sua applicazione originale, è necessario caricare il file corretto in modo che sia accessibile ad altri membri del team.
+Come editor di copie, potresti aver scaricato il file originale dalla bozza del testo per l’ultima campagna e-mail. Dopo aver modificato il file nell’applicazione originale, devi caricarlo in modo che altri utenti del team possano accedervi.
 
-La possibilità di caricare una bozza dipende dalle impostazioni delle autorizzazioni di correzione e dalle impostazioni della singola bozza. Se hai bisogno di caricare le versioni ma non puoi, parla con il tuo [!DNL Workfront] amministratore o amministratore di sistema.
+La possibilità di caricare una bozza dipende dalle impostazioni delle autorizzazioni di verifica e dalle impostazioni della singola bozza. Se vuoi caricare delle versioni ma non riesci a farlo, contatta il tuo [!DNL Workfront] amministratore di bozza o amministratore di sistema.
 
-Consulta il tuo team o organizzazione per ulteriori informazioni sul tuo ruolo nel processo di correzione.
+Rivolgiti al team o all’organizzazione per ulteriori informazioni sul tuo ruolo nel processo di verifica.

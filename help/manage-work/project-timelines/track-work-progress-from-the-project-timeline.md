@@ -1,6 +1,6 @@
 ---
 title: Tracciare l’avanzamento dalla timeline del progetto
-description: Scopri come monitorare l’avanzamento del lavoro dalla timeline del progetto in [!DNL  Workfront] utilizzo di percentuale di completamento, stato, assegnazioni o vincoli.
+description: Scopri come tenere traccia dell’avanzamento del lavoro dalla timeline del progetto in [!DNL  Workfront] utilizzo di percentuale di completamento, stato, assegnazioni o vincoli.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,42 +8,42 @@ thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10150
+jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Tracciare l’avanzamento dalla timeline del progetto
 
-Assicurati che le attività stiano facendo progressi nel modo in cui dovrebbero rispettare le scadenze del progetto. Durante la scansione del [!UICONTROL Attività] elenco, sono disponibili diverse funzioni in [!DNL  Workfront] che consentono di monitorare l&#39;avanzamento e lo stato del lavoro.
+Assicurarsi che le attività stiano procedendo nel modo desiderato per raggiungere le scadenze del progetto. Durante la scansione [!UICONTROL Attività] , sono disponibili diverse funzioni in [!DNL  Workfront] che consentono di monitorare lo stato di avanzamento e di avanzamento del lavoro.
 
 ## Percentuale completata
 
-La percentuale di completamento di ogni attività viene talvolta utilizzata per misurare l&#39;avanzamento del lavoro. È importante notare..questo campo deve essere regolato manualmente, in quanto è la stima dell’assegnatario della loro lunghezza.
+La percentuale di completamento di ogni attività viene talvolta utilizzata per misurare l&#39;avanzamento del lavoro. È importante notare che... questo campo deve essere regolato manualmente, in quanto rappresenta la stima dell’assegnatario della distanza.
 
-![Elenco delle attività del progetto visualizzato [!UICONTROL Percentuale completata] column](assets/planner-fund-task-percent-complete.png)
+![Elenco attività progetto visualizzato [!UICONTROL Percentuale completamento] colonna](assets/planner-fund-task-percent-complete.png)
 
-Ci sono due volte in cui la percentuale di completamento cambia automaticamente:
+Esistono due casi in cui la percentuale di completamento cambia automaticamente:
 
-Quando l’attività [!UICONTROL Stato] è impostato su Completa; la percentuale di completamento è impostata su 100.
-Se l’attività [!UICONTROL Stato] torna a Nuovo, la percentuale di completamento viene reimpostata a 0.
+Quando l&#39;attività [!UICONTROL Stato] è impostato su Completato, la percentuale di completamento diventa 100.
+Se l&#39;attività [!UICONTROL Stato] torna a Nuovo, la percentuale di completamento viene reimpostata su 0.
 
 ## Stato
 
-Includi il [!UICONTROL Stato] in una colonna [!UICONTROL Visualizza] per vedere rapidamente quali compiti sono stati avviati, quali sono in corso e quali sono stati completati. È inoltre possibile impostare la formattazione condizionale in un [!UICONTROL Visualizza] per colorare ogni stato, facilitando la decifratura delle informazioni.
+Includi [!UICONTROL Stato] colonna in a [!UICONTROL Visualizza] per vedere rapidamente quali attività sono state avviate, quali sono in corso e quali sono completate. È anche possibile impostare la formattazione condizionale in un [!UICONTROL Visualizza] per colorare ogni stato, semplificando la decifrazione delle informazioni.
 
-## Assegnazioni task
+## Assegnazioni attività
 
-Durante la revisione del progetto, esaminare le assegnazioni delle attività. Forse il lavoro è caduto perché nessuno è stato assegnato al compito. O forse la persona a cui è stato assegnato non aveva le competenze adatte per completare il lavoro. Aggiungi più persone a un&#39;attività o riassegna le attività per garantire il completamento del lavoro.
+Durante la revisione del progetto, esaminare le assegnazioni delle attività. Forse il lavoro è rimasto indietro perché nessuno è stato assegnato all&#39;attività. O forse la persona assegnata non aveva le giuste abilità per completare il lavoro. Aggiungere più persone a un&#39;attività o riassegnare le attività per assicurarsi che il lavoro venga completato.
 
 ## Vincolo attività
 
-A volte i vincoli delle attività vengono modificati e non ve ne rendete conto. I vincoli possono influenzare il comportamento della timeline, pertanto potresti voler controllare che siano impostati come desideri.
+A volte i vincoli delle attività vengono modificati e non se ne rende conto. I vincoli possono influenzare il comportamento della timeline e puoi controllare che siano impostati nel modo desiderato.
 
-![Elenco delle attività del progetto che mostra la colonna dei vincoli delle attività](assets/planner-fund-task-constraint.png)
+![Elenco attività progetto con colonna vincolo attività](assets/planner-fund-task-constraint.png)
 
-Crea una visualizzazione personalizzata che include [!UICONTROL Vincolo attività] per visualizzare queste informazioni nell’elenco delle attività. Se hai pianificato il progetto da una data di inizio, desideri che le attività abbiano [!UICONTROL Il più presto possibile] ([!UICONTROL ASAP]).
+Creare una visualizzazione personalizzata che includa [!UICONTROL Vincolo attività] per visualizzare queste informazioni nell&#39;elenco delle attività. Se il progetto è stato pianificato da una data di inizio, si desidera che le attività abbiano [!UICONTROL Il Prima Possibile] ([!UICONTROL ASAP]).

@@ -1,74 +1,74 @@
 ---
-title: Best practice - Bilanciamento del carico di lavoro
-description: Scopri le raccomandazioni relative alle best practice fornite dagli esperti Adobe Workfront sull’impostazione, la gestione e l’utilizzo del servizio di bilanciamento del carico di lavoro.
+title: Best practice - Bilanciatore dei carichi di lavoro
+description: Esplora le best practice consigliate dagli esperti Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo del Bilanciatore dei carichi di lavoro.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10932
+jira: KT-10932
 exl-id: b0fbbfa7-0851-4a83-a933-742bfb02e7dd
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-# Best practice - Bilanciamento del carico di lavoro
+# Best practice - Bilanciatore dei carichi di lavoro
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
 ## Best practice di utilizzo
 
-* Tenere traccia dell&#39;avanzamento, dei costi e dei ricavi con il rapporto Utilizzo.
+* Con il rapporto Utilizzo puoi tenere traccia di avanzamento, costi e ricavi.
 
-* Assegnare le risorse alle attività figlio anziché alle attività padre per tenere traccia delle ore totali registrate nei rapporti di utilizzo.
-
-</br>
-</br>
-
-
-## Best practice per il bilanciamento del carico di lavoro
-
-* Utilizza il servizio di bilanciamento del carico di lavoro per assicurarti che la persona che stai assegnando a un&#39;attività o a un problema sia disponibile per completarlo.
-
-* Associare pianificazioni e ruoli di lavoro ai profili utente.
+* Assegnare risorse alle attività figlio anziché alle attività padre per tenere traccia delle ore totali registrate nei report sull&#39;utilizzo.
 
 </br>
 </br>
 
 
-## Perché queste best practice sono?
+## Best practice per il bilanciatore dei carichi di lavoro
+
+* Utilizza il Bilanciatore dei carichi di lavoro per assicurarti che la persona che stai assegnando a un’attività o a un problema sia disponibile per completarlo.
+
+* Associa pianificazioni e ruoli ai profili utente.
+
+</br>
+</br>
+
+
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
-Utilizza il servizio di bilanciamento del carico di lavoro per assicurarti che la persona che stai assegnando a un&#39;attività o a un problema sia disponibile per completarlo.
+Utilizza il Bilanciatore dei carichi di lavoro per assicurarti che la persona che stai assegnando a un’attività o a un problema sia disponibile per completarlo.
 
 
 
 **Ecco perché**
 
-Il servizio di bilanciamento del carico di lavoro fornisce una mappatura chiara e visiva della sovrallocazione delle risorse e del sottoutilizzo, in modo da poter vedere facilmente quali membri del team dispongono della larghezza di banda per completare l’attività o il problema in tempo.
+Il Bilanciatore dei carichi di lavoro fornisce una mappatura chiara e visiva della sovrassegnazione e del sottoutilizzo delle risorse in modo da poter vedere facilmente quali membri del team dispongono della larghezza di banda per completare l’attività o il problema nei tempi previsti.
 
 
 
-A differenza di eseguire assegnazioni a livello di task o di problema, il servizio di bilanciamento del carico di lavoro considera il tempo di inattività di una persona e pianifica i dettagli delle eccezioni in modo da poter allocare le risorse in modo più accurato per evitare il sovraccarico degli utenti.
+A differenza di assegnazioni a livello di attività o di problema, il Bilanciatore dei carichi di lavoro prende in considerazione il tempo libero di una persona e i dettagli delle eccezioni alla pianificazione in modo da poter allocare le risorse in modo più accurato per evitare di sovraccaricare gli utenti.
 
 
 
-Ad esempio, quando assegni un utente a un&#39;attività o a un problema dall&#39;intestazione di pagina dell&#39;elemento o da un elenco di attività/problemi, non hai quasi alcuna visibilità su quale altro viene assegnato. Potresti ricevere un avviso se utilizzano il calendario temporale di Workfront per indicare che non sono più disponibili, ma non puoi vedere che altro vengono assegnati a quel giorno o a quella settimana. L&#39;utilizzo del bilanciamento del carico di lavoro consente di assegnare alla persona giusta la responsabilità per l&#39;avanzamento degli elementi di lavoro.
+Ad esempio, quando assegni un utente a un&#39;attività/problema dall&#39;intestazione della pagina dell&#39;elemento o da un elenco di attività/problemi, non hai quasi alcuna visibilità su quello a cui è assegnato. Potresti ricevere un avviso se hanno utilizzato il calendario delle ferie di Workfront per indicare che non sono più disponibili, ma non puoi vedere cos’altro sono assegnati a quel giorno o a quella settimana. L&#39;utilizzo del Bilanciatore dei carichi di lavoro consente di assegnare la persona giusta a cui tenere conto dell&#39;avanzamento degli elementi di lavoro.
 
 
 </br>
@@ -76,10 +76,10 @@ Ad esempio, quando assegni un utente a un&#39;attività o a un problema dall&#39
 
 **Best practice**
 
-Associare pianificazioni e ruoli di lavoro ai profili utente.
+Associa pianificazioni e ruoli ai profili utente.
 
 
 
 **Ecco perché**
 
-Per ottenere le informazioni più accurate sulle competenze e sulla disponibilità delle risorse, si consiglia di associare pianificazioni e ruoli di lavoro ai profili utente in Workfront. Queste informazioni vengono utilizzate da diversi strumenti di gestione delle risorse di Workfront.
+Per ottenere informazioni il più possibile accurate sulle competenze e sulla disponibilità delle risorse, si consiglia di associare le pianificazioni e i ruoli ai profili utente in Workfront. Queste informazioni vengono utilizzate da diversi strumenti di gestione delle risorse di Workfront.

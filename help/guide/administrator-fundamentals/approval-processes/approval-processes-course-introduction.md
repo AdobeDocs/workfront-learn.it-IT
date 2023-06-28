@@ -1,20 +1,20 @@
 ---
-title: 'Processi di approvazione: Introduzione al corso'
+title: 'Processi di approvazione: introduzione al corso'
 description: In questo video, scopri come i processi di approvazione possono semplificare e automatizzare il processo di revisione del lavoro.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Processi di approvazione: Introduzione al corso
+# Processi di approvazione: introduzione al corso
 
 Questo video illustra come i processi di approvazione possono semplificare e automatizzare il processo di revisione del lavoro.
 

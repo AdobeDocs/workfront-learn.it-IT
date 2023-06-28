@@ -1,20 +1,20 @@
 ---
-title: Introduzione a [!DNL Workfront] per i revisori
-description: Scopri in che modo gli utenti con una licenza di revisione possono utilizzare [!DNL  Workfront].
+title: Introduzione a [!DNL Workfront] per revisori
+description: Scopri come gli utenti con una licenza Review possono utilizzare [!DNL  Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8805
+jira: KT-8805
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
-# Introduzione a [!DNL Workfront] per i revisori
+# Introduzione a [!DNL Workfront] per revisori
 
-Questo video illustra come utilizzare [!DNL  Workfront] con una licenza di revisione.
+Questo video illustra come utilizzare [!DNL  Workfront] con una licenza Review.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on)

@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '696'
 ht-degree: 6%
 
 ---
@@ -87,3 +87,45 @@ Creare una visualizzazione delle attività denominata &quot;Vista Milestone&quot
 1. Fai clic su **[!UICONTROL Salva]**.
 
 ![Immagine di un elenco di attività in una visualizzazione milestone](assets/view-milestone-exercise-2.png)
+
+## Attività 3: creare una vista dei vincoli dei tipi di durata e delle attività
+
+Questa vista consente di esaminare e modificare tutti i tipi di durata e i vincoli delle attività nel progetto.
+
+Creare una vista delle attività denominata &quot;Visualizzazione tipi di durata e vincoli di attività&quot; con le colonne riportate di seguito.
+
+* [!UICONTROL Nome attività]
+* [!UICONTROL Assegnazioni]
+* [!UICONTROL Durata]
+* [!UICONTROL Durata Pianificata]
+* [!UICONTROL Ore pian.]
+* [!UICONTROL Predecessori]
+* [!UICONTROL Inizia il]
+* [!UICONTROL Scade il]
+* [!UICONTROL Tipo di Durata]
+* [!UICONTROL Vincolo attività]
+* [!UICONTROL Data Vincolata]
+
+Modificare il [!UICONTROL Formato campo] il [!UICONTROL Inizia il] e [!UICONTROL Scade il] colonne per visualizzare sia la data che l&#39;ora.
+
+## Risposta all&#39;attività 3
+
+![Un&#39;immagine della schermata che mostra la vista dei vincoli dei tipi di durata e delle attività](assets/view-activity-3.png)
+
+1. In un elenco delle attività di un progetto, vai al **[!UICONTROL Visualizza]** menu a discesa e selezionare **[!UICONTROL Nuova visualizzazione]**.
+1. Denomina la vista &quot;Visualizzazione dei tipi di durata e dei vincoli delle attività&quot;.
+1. Rimuovi il [!UICONTROL % completamento] colonna.
+1. Clic **[!UICONTROL Aggiungi colonna]**.
+1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;duration&quot;] quindi seleziona [!UICONTROL &quot;Durata Pianificata&quot;] sotto [!UICONTROL Attività] origine del campo.
+1. Sposta questa colonna tra [!UICONTROL Durata] e [!UICONTROL Ore Pian] colonne.
+1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
+1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;tipo di durata&quot;] quindi seleziona [!UICONTROL &quot;Tipo di durata&quot;] sotto [!UICONTROL Attività] origine del campo.
+1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
+1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;vincolo&quot;] quindi seleziona [!UICONTROL &quot;Vincolo attività&quot;] nell&#39;origine del campo Attività.
+1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
+1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;vincolo&quot;] quindi seleziona [!UICONTROL &quot;Data Vincolata&quot;] nell&#39;origine del campo Attività.
+1. Seleziona la [!UICONTROL Inizia il] , quindi fai clic su [!UICONTROL Opzioni avanzate].
+1. Sotto [!UICONTROL Formato campo] menu a discesa seleziona [!UICONTROL &quot;10/17/60 03.00&quot;].
+1. Seleziona la [!UICONTROL Scade il] , quindi fai clic su [!UICONTROL Opzioni avanzate].
+1. Sotto [!UICONTROL Formato campo] menu a discesa seleziona [!UICONTROL &quot;10/17/60 03.00&quot;].
+1. Fai clic su **[!UICONTROL Salva]**.

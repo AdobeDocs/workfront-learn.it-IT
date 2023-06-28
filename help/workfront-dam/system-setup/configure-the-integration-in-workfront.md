@@ -1,30 +1,30 @@
 ---
-title: Configura le [!UICONTROL Workfront DAM] integrazione in Workfront
-description: Scopri come abilitare il [!UICONTROL Workfront DAM] integrazione a livello di accesso dell'amministratore di sistema.
+title: Configurare [!UICONTROL DAM WORKFRONT] integrazione in Workfront
+description: Scopri come abilitare [!UICONTROL DAM WORKFRONT] a livello di accesso amministratore di sistema.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
-kt: 10087
+jira: KT-10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Configura le [!UICONTROL Workfront DAM] integrazione in Workfront
+# Configurare [!UICONTROL DAM WORKFRONT] integrazione in Workfront
 
-Abilita la [!UICONTROL Workfront DAM] integrazione da Workfront **[!UICONTROL Configurazione]** area. Devi avere un [!UICONTROL Workfront] livello di accesso dell&#39;amministratore di sistema.
+Abilita [!UICONTROL DAM WORKFRONT] integrazione da Workfront **[!UICONTROL Configurazione]** area. Devi avere un [!UICONTROL Workfront] livello di accesso amministratore di sistema.
 
-![Uno screenshot del [!UICONTROL Provider cloud] pagina di configurazione](assets/01-configure-the-integration-in-workfront.png)
+![Schermata del [!UICONTROL Provider cloud] pagina di configurazione](assets/01-configure-the-integration-in-workfront.png)
 
-1. Fai clic su **[!UICONTROL Configurazione]** in [!UICONTROL Menu principale].
+1. Clic **[!UICONTROL Configurazione]** nel [!UICONTROL Menu principale].
 1. Nel pannello a sinistra, fai clic su **[!UICONTROL Documenti]** quindi seleziona **[!UICONTROL Provider cloud]**.
-1. Seleziona la casella accanto a [!UICONTROL Workfront DAM].
+1. Seleziona la casella accanto a [!UICONTROL DAM WORKFRONT].
 1. Salva la modifica.
 
 <!--

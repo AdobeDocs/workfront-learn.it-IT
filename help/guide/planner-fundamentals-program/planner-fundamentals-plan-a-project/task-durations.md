@@ -1,12 +1,12 @@
 ---
 title: Durate attività
-description: In questo video, scopri la durata di un’attività in Workfront, come le durate influiscono sulle date di inizio e di completamento delle attività, in che modo le durate influenzano le timeline del progetto e alcune raccomandazioni sulle best practice per l’utilizzo delle durate delle attività.
+description: In questo video, scopri cosa è la durata di un’attività in Workfront, in che modo le durate influiscono sulle date di inizio e di completamento delle attività, come le durate vengono incluse nelle sequenze temporali del progetto e alcune raccomandazioni sulle best practice per l’utilizzo delle durate delle attività.
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Durate attività
 
-In questo video imparerai:
+Questo video illustra:
 
-* Durata dell’attività in Workfront
+* Che durata è un&#39;attività in Workfront
 * Effetti delle durate sulle date di inizio e di completamento delle attività
-* Fattore di durata nelle timeline del progetto
+* Fattore durata nelle sequenze temporali del progetto
 * Raccomandazioni sulle best practice per l’utilizzo delle durate delle attività
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

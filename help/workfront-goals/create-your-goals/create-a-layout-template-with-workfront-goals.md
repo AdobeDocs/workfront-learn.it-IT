@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8896
+jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 # Creare un modello di layout per [!DNL Workfront Goals] utenti
 
-In **[!UICONTROL Configurazione]** area, è inoltre possibile creare e assegnare un modello di layout che include [!DNL Workfront Goals] così tu e i tuoi utenti potrete accedervi più facilmente.
+In **[!UICONTROL Configurazione]** , è inoltre possibile creare e assegnare un modello di layout che includa [!DNL Workfront Goals] in modo che tu e i tuoi utenti possiate accedervi più facilmente.
 
 Questo video illustra come:
 
 * Creare un modello di layout
-* Assegnare il modello di layout agli utenti
+* Assegna il modello di layout agli utenti
 * Aggiungi [!DNL Goals] a un modello di layout
-* Modifica [!DNL Goals] terminologia adatta alla tua organizzazione
+* Cambia [!DNL Goals] terminologia adatta alla tua organizzazione
 * Aggiungi [!DNL Goals] al [!DNL Workfront] [!UICONTROL Menu principale]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)

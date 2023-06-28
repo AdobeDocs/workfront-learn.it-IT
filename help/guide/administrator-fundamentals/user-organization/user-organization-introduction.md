@@ -1,13 +1,13 @@
 ---
 title: Ulteriori informazioni sulle organizzazioni di utenti
-description: In questo video, scopri le aziende, i gruppi e i team.
+description: In questo video, scopri aziende, gruppi e team.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '29'
 ht-degree: 10%
@@ -16,7 +16,7 @@ ht-degree: 10%
 
 # Ulteriori informazioni sulle organizzazioni di utenti
 
-Questo video illustra :
+Questo video illustra:
 
 * Aziende
 * Gruppi

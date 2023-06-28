@@ -1,6 +1,6 @@
 ---
 title: Comprendere le visualizzazioni delle ore e della durata pianificate in [!UICONTROL Analisi avanzata]
-description: Nei grafici a discesa e a mappa ad albero del progetto è possibile visualizzare le informazioni in base alle ore o alla durata pianificate.
+description: Nei grafici Burndown e Mappa ad albero progetto, è possibile visualizzare le informazioni in base alle ore o alla durata pianificate.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -8,9 +8,9 @@ thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10044
+jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 # Comprendere le visualizzazioni delle ore e della durata pianificate in [!UICONTROL Analisi avanzata]
 
-Nei grafici a discesa e a mappa ad albero dei progetti è possibile visualizzare le informazioni per ore o durata pianificate, a seconda di ciò che si considera più accurato per l’ambiente Workfront.
+Nei grafici Burndown e Mappa ad albero progetto, puoi visualizzare le informazioni per ore o durata pianificate, a seconda di ciò che ritieni più preciso per il tuo ambiente Workfront.
 
-![Immagine della selezione di un&#39;ora pianificata anziché di una durata](assets/section-1-5.png)
+![Immagine che mostra la selezione delle ore pianificate anziché della durata](assets/section-1-5.png)
 
 
 
-L’ora pianificata è l’impostazione predefinita. Se si passa alla durata, questa continua a rimanere invariata se ci si sposta [!DNL Analytics] e torna indietro e tra gli accessi Workfront.
+Il valore predefinito è Ore pianificate. Se passi a durata, questo rimane se ti allontani da [!DNL Analytics] e tornare indietro e tra gli accessi a Workfront.
 
-## Cosa significa dimensione della scatola e sfumatura di colore?
+## Che cosa significano le dimensioni della scatola e l&#39;ombreggiatura dei colori?
 
-Le caselle blu più piccole e più leggere indicano meno ore, mentre le scatole più grandi e le tonalità più scure del blu indicano più ore di confronto. Per ulteriori informazioni consulta [Visualizzazione della mappa ad albero del progetto](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+Le caselle blu più piccole e più chiare indicano un numero inferiore di ore, mentre le caselle più grandi e le tonalità più scure indicano un numero maggiore di ore. Per ulteriori informazioni, consulta [Comprendere la visualizzazione Mappa ad albero progetto](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).

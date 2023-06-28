@@ -1,6 +1,6 @@
 ---
 title: Creare un raggruppamento di base
-description: Scopri cos’è un raggruppamento, come creare un raggruppamento e come condividere un raggruppamento con altri utenti in Workfront.
+description: Scopri cos’è un raggruppamento, come crearne uno e come condividerlo con altri utenti in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8853
+jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -20,34 +20,34 @@ ht-degree: 0%
 
 # Creare un raggruppamento di base
 
-In questo video imparerai:
+Questo video illustra:
 
 * Che cos’è un raggruppamento in Workfront
 * Come creare un raggruppamento
-* E come condividere un raggruppamento con altri utenti Workfront
+* E come condividere un raggruppamento con altri utenti di Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Attività: Creare un raggruppamento di base
+## Attività: creare un raggruppamento di base
 
-Crea un raggruppamento di problemi che verrà utilizzato in un rapporto per monitorare le richieste che passano attraverso una coda di richieste. Questo raggruppamento semplificherà la visualizzazione di tipi simili di problemi/richieste raggruppati in base alla loro priorità. Denomina il raggruppamento &quot;Coda richieste, Argomento coda, Priorità&quot;.
+Crea un raggruppamento di problemi che verrà utilizzato in un rapporto per tenere traccia delle richieste che passano attraverso una coda di richieste. Questo raggruppamento consente di vedere facilmente tipi simili di problemi/richieste raggruppati per priorità. Denomina il raggruppamento &quot;Coda di richieste, Argomento coda, Priorità&quot;.
 
-Raggruppa il report del problema in base a:
+Raggruppa il report di problemi in base a:
 
-1. Nome della coda di richiesta (nome del progetto)
-1. Argomento della coda
+1. Il nome della coda di richieste (sarà il nome del progetto)
+1. Argomento coda
 1. Priorità della richiesta
 
 ## Risposta
 
-![Immagine della schermata per creare un nuovo raggruppamento](assets/grouping-exercise.png)
+![Immagine dello schermo per creare un nuovo raggruppamento](assets/grouping-exercise.png)
 
-1. In un report elenco dei problemi, vai alla pagina **[!UICONTROL Raggruppamento]** menu e seleziona **[!UICONTROL Nuovo raggruppamento]**.
-1. Denomina il raggruppamento &quot;Coda richieste, Argomento coda, Priorità&quot;.
-1. Fai clic su **[!UICONTROL Aggiungi raggruppamento]**.
-1. In [!UICONTROL Primo da] campo . digita &quot;project name&quot;, quindi seleziona **[!UICONTROL Nome]** nell’origine del campo Progetto.
-1. Fai clic su **[!UICONTROL Aggiungi un altro gruppo]**.
-1. In [!UICONTROL E poi] campo, digita &quot;queue&quot;, quindi seleziona **[!UICONTROL Nome]** in [!UICONTROL Argomento coda] origine del campo.
-1. Fai clic su **[!UICONTROL Aggiungi un altro gruppo]**.
-1. In [!UICONTROL E poi] campo, digita &quot;priority&quot; e seleziona **[!UICONTROL Priorità]** in [!UICONTROL Problema] origine del campo.
-1. Fai clic su **[!UICONTROL Salva raggruppamento]**
+1. In un rapporto con l’elenco dei problemi, vai al **[!UICONTROL Raggruppamento]** menu e seleziona **[!UICONTROL Nuovo raggruppamento]**.
+1. Denomina il raggruppamento &quot;Coda di richieste, Argomento coda, Priorità&quot;.
+1. Clic **[!UICONTROL Aggiungi raggruppamento]**.
+1. In [!UICONTROL Primo da] campo. digita &quot;project name&quot; (nome progetto), quindi seleziona **[!UICONTROL Nome]** nel campo Origine progetto.
+1. Clic **[!UICONTROL Aggiungi un altro raggruppamento]**.
+1. In [!UICONTROL E poi per] , digita &quot;queue&quot; e seleziona **[!UICONTROL Nome]** sotto [!UICONTROL Argomento Coda] origine del campo.
+1. Clic **[!UICONTROL Aggiungi un altro raggruppamento]**.
+1. In [!UICONTROL E poi per] , digita &quot;priority&quot; e seleziona **[!UICONTROL Priorità]** sotto [!UICONTROL Problema] origine del campo.
+1. Clic **[!UICONTROL Salva raggruppamento]**

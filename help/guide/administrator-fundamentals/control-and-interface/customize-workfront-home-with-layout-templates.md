@@ -1,28 +1,28 @@
 ---
-title: Personalizzare la pagina principale con i modelli di layout
-description: In questo video, scopri come personalizzare Home aggiungendo o rimuovendo campi con un modello di layout.
+title: Personalizza la Home con i modelli di layout
+description: Questo video spiega come personalizzare la Home aggiungendo o rimuovendo campi con un modello di layout.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
 thumbnail: 335081.jpeg
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Personalizzare la pagina principale con i modelli di layout
+# Personalizza la Home con i modelli di layout
 
 Questo video illustra come:
 
-* Passa alle impostazioni Home
+* Passa a Impostazioni home
 * Modifica impostazioni globali
-* Personalizzare la home utilizzando un modello di layout
-* Rimuovi elementi dalla home
-* Aggiungi elementi a Home
+* Personalizza la Home utilizzando un modello di layout
+* Rimuovi elementi dalla Home
+* Aggiungi elementi alla Home
 
 >[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)

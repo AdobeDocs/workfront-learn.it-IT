@@ -1,21 +1,21 @@
 ---
-title: Introduzione al corso Principi fondamentali per gli amministratori di Workfront
-description: In questo video, ti verrà presentato un’azienda fittizia chiamata Swain’s, in cui gli utenti imparano a usare —proprio come te.
+title: Introduzione al corso nozioni di base per gli amministratori di Workfront
+description: Questo video presenta un'azienda fittizia chiamata Swain's, dove gli utenti imparano a usare —proprio come te.
 topic: null
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# Introduzione al corso Principi fondamentali per gli amministratori di Workfront
+# Introduzione al corso nozioni di base per gli amministratori di Workfront
 
-In questo video, ti verrà presentato un’azienda fittizia chiamata Swain’s, in cui gli utenti imparano a usare —proprio come te.
+Questo video presenta un&#39;azienda fittizia chiamata Swain&#39;s, dove gli utenti imparano a usare —proprio come te.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335064/?quality=12&learn=on)

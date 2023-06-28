@@ -1,6 +1,6 @@
 ---
-title: Informazioni sulla sequenza delle attività
-description: Scopri cos’è un predecessore e come sequenziano le attività in un progetto. Quindi scopri come utilizzare durate e predecessori per creare una timeline.
+title: Scopri come ordinare le attività
+description: Scopri cos’è un predecessore e come sequenziano le attività in un progetto. Poi scopri come utilizzare le durate e i predecessori per creare una timeline.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -8,24 +8,24 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8778
+jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulla sequenza delle attività
+# Scopri come ordinare le attività
 
-In questo video imparerai:
+Questo video illustra:
 
-* In cosa consiste un predecessore [!DNL  Workfront]
-* Sequenza delle attività dei predecessori in un progetto
+* Contenuto di un predecessore [!DNL  Workfront]
+* Sequenza delle attività in un progetto da parte dei predecessori
 * Come utilizzare le durate e i predecessori per creare una timeline
-* Come modificare o inserire predecessori
+* Come modificare o inserire i predecessori
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

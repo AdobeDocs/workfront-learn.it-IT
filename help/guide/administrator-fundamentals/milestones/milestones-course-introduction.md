@@ -1,21 +1,21 @@
 ---
-title: 'Milestone: Introduzione al corso'
-description: In questo video, scopri come le tappe principali possono aiutarti a proseguire i progetti.
+title: 'Milestones: introduzione al corso'
+description: In questo video, scopri come le milestone possono aiutarti a far avanzare i progetti.
 topic: null
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# Milestone: Introduzione al corso
+# Milestones: introduzione al corso
 
-Questo video illustra come le tappe principali possono essere utili per proseguire i progetti.
+Questo video illustra come le attività cardine possono contribuire a far progredire i progetti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)

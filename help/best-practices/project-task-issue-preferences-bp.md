@@ -1,103 +1,103 @@
 ---
-title: Procedure consigliate - Preferenze per progetti, attività ed problemi
-description: Scopri le best practice consigliate dagli esperti di Adobe Workfront sull’impostazione, la gestione e l’utilizzo di progetti, attività e preferenze per i problemi di Workfront.
+title: 'Best practice: preferenze per progetto, attività e problema'
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo delle preferenze per progetti, attività e problemi di Workfront.
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10918
+jira: KT-10918
 exl-id: 321af897-3791-4b06-a9dd-241b5246b2a0
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '702'
 ht-degree: 0%
 
 ---
 
-# Procedure consigliate - Preferenze per progetti, attività ed problemi
+# Best practice: preferenze per progetto, attività e problema
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
-
-</br>
-</br>
-
-## Best practice relative a progetti, attività e problemi delle preferenze
-
-* Impostare il tipo di durata predefinito dell&#39;attività su Semplice.
-
-* Impostare la preferenza per lo stato di un nuovo progetto su Planning o Idea, non Corrente.
-
-* Abilita Crea automaticamente linee di base nelle preferenze del progetto globale.
-
-* Controlla tutte le opzioni nella sezione Casi aziendali delle preferenze del progetto di sistema.
-
-* Nelle preferenze relative ai problemi, selezionare l&#39;opzione Aggiorna automaticamente lo stato del problema risolvibile quando cambia lo stato dell&#39;oggetto di risoluzione.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
+## Best practice per progetti, attività e problemi
 
-## Perché queste best practice sono?
+* Impostare il tipo di durata predefinita dell&#39;attività su Semplice.
+
+* Impostare la preferenza per lo stato di un nuovo progetto su Pianificazione o Idea, non su Corrente.
+
+* Abilita Crea baseline automaticamente nelle preferenze globali del progetto.
+
+* Seleziona tutte le opzioni nella sezione Casi aziendali delle preferenze di progetto del sistema.
+
+* Nelle preferenze relative ai problemi, selezionare l&#39;opzione Aggiorna automaticamente lo stato dei problemi risolvibili quando lo stato dell&#39;oggetto risolutivo cambia.
+
+</br>
+</br>
+
+
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
-Impostare il tipo di durata predefinito dell&#39;attività su Semplice.
+Impostare il tipo di durata predefinita dell&#39;attività su Semplice.
 
 **Ecco perché**
 
 I tipi di durata definiscono la relazione tra la durata dell&#39;attività, le ore pianificate e il numero di persone assegnate all&#39;attività.
 
-Con Semplice come impostazione predefinita del sistema globale, tutte le attività create manualmente hanno questo tipo di durata. Le ore pianificate sono suddivise in modo uniforme tra gli assegnatari dell&#39;attività per tutta la durata. Il tipo di durata semplice consente di semplificare la pianificazione del progetto, in quanto consente di apportare modifiche agli assegnatari dell’attività e alle ore pianificate senza influire sulla durata dell’attività, sulla data di inizio pianificata o sulla data di completamento pianificato.
+Con l&#39;impostazione predefinita del sistema globale Semplice, tutte le attività create manualmente hanno questa durata. Le ore pianificate vengono suddivise in modo uniforme tra gli assegnatari dell&#39;attività per l&#39;intera durata. Il tipo di durata semplice può semplificare la pianificazione del progetto, in quanto consente di apportare modifiche agli assegnatari dell&#39;attività e alle ore pianificate senza influire sulla durata dell&#39;attività, sulla data di inizio pianificata o sulla data di completamento pianificata.
 
 </br>
 </br>
 
 **Best practice**
 
-Impostare la preferenza per lo stato di un nuovo progetto su Planning o Idea, non Corrente.
+Impostare la preferenza per lo stato di un nuovo progetto su Pianificazione o Idea, non su Corrente.
 
 **Ecco perché**
 
-Lo stato Corrente indica che un progetto è attivo e che il lavoro è in corso. È raro che un progetto debba trovarsi in questo stato al momento della creazione. Anche se si utilizza un modello di progetto, è necessaria una certa &quot;pianificazione&quot; per ottenere assegnazioni di attività, per regolare la data di completamento pianificato del progetto, ecc. Lo stato Planning inoltre sopprime le notifiche agli assegnatari delle attività e ai membri del team di progetto. La ricezione delle notifiche prima che il progetto sia attivo può creare confusione per i soggetti coinvolti.
+Lo stato Attuale indica che un progetto è attivo e che il lavoro è in corso. È raro che un progetto debba trovarsi in questo stato al momento della creazione. Anche se si utilizza un modello di progetto, è necessaria una certa &quot;pianificazione&quot; per ottenere assegnazioni di attività, regolare la data di completamento pianificata del progetto e così via. Lo stato Pianificazione sopprime inoltre le notifiche agli assegnatari dei task e ai membri del team di progetto. Ricevere notifiche prima che il progetto sia in esecuzione può confondere gli interessati.
 
 </br>
 </br>
 
 **Best practice**
 
-Abilita Crea automaticamente linee di base nelle preferenze del progetto globale.
+Abilita Crea baseline automaticamente nelle preferenze globali del progetto.
 
 **Ecco perché**
 
-Ogni volta che lo stato di un progetto viene modificato in Corrente, Workfront registra automaticamente una linea di base del progetto. Questa &quot;istantanea&quot; del progetto fornisce informazioni storiche su come il piano del progetto è cambiato nel tempo. Ad esempio, è possibile confrontare il piano di progetto originale con il piano corrente quando si mostra come lo spostamento delle priorità o l&#39;aumento dell&#39;ambito abbiano inciso sulle scadenze del progetto.
+Ogni volta che si modifica lo stato di un progetto su Corrente, Workfront registra automaticamente una previsione del progetto. Questa &quot;istantanea&quot; del progetto fornisce informazioni cronologiche sulle modifiche apportate nel tempo al piano del progetto. Ad esempio, è possibile confrontare il piano di progetto originale con il piano corrente quando si mostra alla leadership il modo in cui lo spostamento delle priorità o lo scorrimento dell&#39;ambito ha influito sulle scadenze del progetto.
 
 </br>
 </br>
 
 **Best practice**
 
-Controlla tutte le opzioni nella sezione Casi aziendali delle preferenze del progetto di sistema.
+Seleziona tutte le opzioni nella sezione Casi aziendali delle preferenze di progetto del sistema.
 
 **Ecco perché**
 
-Abilita tutte e cinque le opzioni per consentire ai project manager, ai pianificatori e agli altri di includere una di queste sezioni nel business case su un progetto. Se le opzioni non sono abilitate, non vengono visualizzate nella finestra del business case. Gli utenti possono lasciare vuoti uno qualsiasi dei campi se non è necessario per quel particolare progetto, ma non possono abilitare un campo a livello di progetto. Queste opzioni possono essere abilitate solo a livello globale in Configurazione.
+Abilitare tutte e cinque le opzioni per consentire ai project manager, ai planner e ad altri di includere una qualsiasi di queste sezioni nel business case di un progetto. Se le opzioni non sono abilitate, non vengono visualizzate nella finestra del caso di business. Gli utenti possono lasciare vuoto uno qualsiasi dei campi se non è necessario per quel particolare progetto, ma non possono abilitare un campo a livello di progetto. Queste opzioni possono essere abilitate solo a livello globale in Configurazione.
 
 </br>
 </br>
 
 **Best practice**
 
-Nelle preferenze relative ai problemi, selezionare l&#39;opzione Aggiorna automaticamente lo stato del problema risolvibile quando cambia lo stato dell&#39;oggetto di risoluzione.
+Nelle preferenze relative ai problemi, selezionare l&#39;opzione Aggiorna automaticamente lo stato dei problemi risolvibili quando lo stato dell&#39;oggetto risolutivo cambia.
 
 **Ecco perché**
 
-Quando un problema viene convertito in un progetto, questa impostazione di preferenza &quot;collega&quot; gli stati dei due elementi. L’aggiornamento dello stato del progetto (l’oggetto di risoluzione) aggiorna automaticamente lo stato del problema. Ciò significa che il richiedente può vedere l’avanzamento della richiesta, anche se non dispone delle autorizzazioni necessarie per visualizzare l’intero progetto in Workfront.
+Quando un problema viene convertito in un progetto, questa preferenza &quot;collega&quot; gli stati dei due elementi. L’aggiornamento dello stato del progetto (l’oggetto di risoluzione) aggiornerà automaticamente lo stato del problema. Ciò significa che il richiedente può visualizzare l’avanzamento della propria richiesta, anche se non dispone delle autorizzazioni necessarie per visualizzare l’intero progetto in Workfront.

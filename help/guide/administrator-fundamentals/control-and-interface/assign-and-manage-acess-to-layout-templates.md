@@ -1,13 +1,13 @@
 ---
 title: Assegnare e gestire l’accesso ai modelli di layout
-description: In questo video, scopri come assegnare modelli di layout agli utenti e controllare chi può gestire l’accesso.
+description: Questo video spiega come assegnare modelli di layout agli utenti e controllare chi può gestire l’accesso.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Passare alle assegnazioni
+* Passa ad assegnazioni
 * Assegnare modelli di layout a utenti, gruppi o team
 * Controllare chi può gestire l’accesso
 

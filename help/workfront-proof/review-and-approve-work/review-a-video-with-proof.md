@@ -1,6 +1,6 @@
 ---
-title: Rivedi un video con le prove
-description: Scopri come regolare le impostazioni del visualizzatore e aggiungere commenti con marca temporale a un video utilizzando la funzione di correzione in [!DNL  Workfront].
+title: Rivedi un video con la bozza
+description: Scopri come regolare le impostazioni del visualizzatore e aggiungere commenti con marca temporale a un video utilizzando gli strumenti di correzione in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,17 +8,17 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335144.png
-kt: 8847
+jira: KT-8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Rivedi un video con le prove
+# Rivedi un video con la bozza
 
 Questo video illustra come:
 

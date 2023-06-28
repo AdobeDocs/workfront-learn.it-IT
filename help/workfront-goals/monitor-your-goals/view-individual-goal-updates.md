@@ -1,49 +1,49 @@
 ---
-title: Visualizza gli aggiornamenti dei singoli obiettivi in [!DNL Workfront Goals]
-description: Scopri come visualizzare i singoli obiettivi nel [!UICONTROL Impulso] aggiorna il flusso in Obiettivi.
+title: Visualizzare gli aggiornamenti dei singoli obiettivi in [!DNL Workfront Goals]
+description: Scopri come visualizzare i singoli obiettivi in [!UICONTROL Pulse] flusso di aggiornamento in [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8928
+jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 2%
 
 ---
 
-# Visualizzare gli aggiornamenti dei singoli obiettivi
+# Visualizzare i singoli aggiornamenti degli obiettivi
 
 Questo video illustra come:
 
-* Visualizzare i singoli obiettivi nel [!UICONTROL Impulso] flusso di aggiornamento
+* Visualizza i tuoi obiettivi individuali in [!UICONTROL Pulse] flusso di aggiornamento
 
 >[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on)
 
 ## Filtrare le informazioni nel flusso Pulse
 
-Si può notare che a volte si ottengono troppe informazioni nel [!UICONTROL Impulso] trasmettere o forse non le informazioni giuste. Filtra le informazioni nel feed per vedere ciò che desideri o necessario.
+Talvolta potresti notare di ricevere troppe informazioni nel [!UICONTROL Pulse] trasmettere o meno le informazioni corrette. Filtra le informazioni nel feed per visualizzare solo ciò che desideri o di cui hai bisogno.
 
-1. Fai clic su [!UICONTROL **Impulso**] nel pannello a sinistra.
-1. Fai clic sul pulsante [!UICONTROL **Filtro**] nell&#39;angolo in alto a destra.
-1. Seleziona un’opzione per filtrare. Il filtro Tutto viene applicato per impostazione predefinita e visualizza tutti gli obiettivi del sistema. Puoi effettuare una delle seguenti operazioni:
+1. Clic [!UICONTROL **Pulse**] nel pannello a sinistra.
+1. Fai clic su [!UICONTROL **Filtro**] nell’angolo in alto a destra.
+1. Seleziona un&#39;opzione in base alla quale filtrare. Il filtro Tutti viene applicato per impostazione predefinita e visualizza tutti gli obiettivi nel sistema. È possibile effettuare una delle seguenti operazioni:
 
-   * Seleziona uno dei filtri predefiniti, elencati nella sezione [!UICONTROL Salvato] sezione del pannello dei filtri, per visualizzare gli obiettivi dei proprietari (ad es. [!UICONTROL Tutto], [!UICONTROL Personale], [!UICONTROL I miei team], [!UICONTROL I miei gruppi]e [!UICONTROL Azienda]).
-   * Passa il puntatore del mouse sul nome di un filtro, quindi fai clic sul pulsante **Modifica** accanto al nome del file, puoi personalizzarlo e aggiungere nomi specifici di utenti, team, gruppi o nome della tua organizzazione.
-   * Fai clic su [!UICONTROL **Nuovo filtro**] per creare un nuovo filtro, seleziona dall’elenco delle opzioni da personalizzare e filtrare in base a [!UICONTROL Punto], [!UICONTROL Stato], [!UICONTROL Avanzamento]e/o [!UICONTROL Proprietario].
+   * Seleziona uno dei filtri predefiniti elencati sotto [!UICONTROL Salvato] sezione del pannello filtri, per visualizzare gli obiettivi per i proprietari (ad esempio, [!UICONTROL Tutti], [!UICONTROL Personale], [!UICONTROL I miei team], [!UICONTROL I miei gruppi], e [!UICONTROL Azienda]).
+   * Passa il puntatore del mouse sul nome di un filtro, quindi fai clic sul pulsante **Modifica** accanto al nome per personalizzarlo e aggiungere nomi specifici di utenti, team, gruppi o il nome della tua organizzazione.
+   * Clic [!UICONTROL **Nuovo filtro**] per creare un nuovo filtro, seleziona dall’elenco di opzioni da personalizzare e filtrare per [!UICONTROL Periodo], [!UICONTROL Stato], [!UICONTROL Avanzamento], e/o [!UICONTROL Proprietario].
 
    ![Un&#39;immagine del [!UICONTROL Filtri] pannello in [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
-**Nota:** La selezione del filtro viene mantenuta e le informazioni presenti in altre sezioni di [!DNL Goals] viene visualizzato in base a queste informazioni. Puoi individuare e filtrare gli obiettivi in varie sezioni del [!DNL Goals] area [!DNL Workfront]:
+**Nota:** La selezione dei filtri viene mantenuta e le informazioni in altre sezioni di [!DNL Goals] viene visualizzato in base a queste informazioni. Puoi individuare e filtrare gli obiettivi in varie sezioni della sezione [!DNL Goals] area in [!DNL Workfront]:
 
 * [!UICONTROL Elenco obiettivi]
 * [!UICONTROL Grafi]
 * [!UICONTROL Pulse]
-* [!UICONTROL Allineamento obiettivo]. In questa sezione puoi visualizzare temporaneamente gli obiettivi che non corrispondono al filtro applicato, in modo da ottenere un quadro completo di tutti gli obiettivi allineati. Fai clic sul pulsante [!UICONTROL **Mostra/Mostra**] se il filtro selezionato contiene obiettivi nascosti.
+* [!UICONTROL Allineamento obiettivo]. In questa sezione puoi visualizzare temporaneamente gli obiettivi che non corrispondono al filtro applicato, in modo da ottenere l’immagine completa di tutti gli obiettivi allineati. Fai clic su [!UICONTROL **Mostra/Mostra**] opzione se il filtro selezionato nasconde obiettivi.
 
-   ![](assets/19-workfront-goals-filter-show-it.png)
+  ![](assets/19-workfront-goals-filter-show-it.png)

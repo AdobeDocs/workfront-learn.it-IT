@@ -1,24 +1,24 @@
 ---
-title: Introduzione alle code di richiesta
-description: In questo video, scopri come sono strutturate le code di richiesta e come inviare una richiesta.
+title: Introduzione alle code di richieste
+description: Questo video spiega come sono strutturate le code di richieste e come inviare una richiesta.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: User
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Introduzione alle code di richiesta
+# Introduzione alle code di richieste
 
-In questo video imparerai:
+Questo video illustra:
 
-* Come inviare una richiesta tramite una coda di richiesta
-* Struttura delle code di richiesta
+* Come inviare una richiesta tramite una coda di richieste
+* Struttura delle code di richieste
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)

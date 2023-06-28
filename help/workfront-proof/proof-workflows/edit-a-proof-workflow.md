@@ -1,6 +1,6 @@
 ---
-title: Modificare un flusso di lavoro di bozza
-description: Scopri come aggiornare una scadenza della bozza, aggiungere utenti a un flusso di lavoro esistente e passare un flusso di lavoro esistente a un flusso di lavoro automatizzato in [!DNL  Workfront].
+title: Modificare un flusso di lavoro per la bozza
+description: Scopri come aggiornare una scadenza della bozza, aggiungere utenti a un flusso di lavoro esistente e passare a un flusso di lavoro automatizzato in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,34 +8,34 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335138.png
-kt: 8838
+jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# Modificare un flusso di lavoro di bozza
+# Modificare un flusso di lavoro per la bozza
 
 Questo video illustra come:
 
-* Aggiornare la scadenza della prova
-* Aggiungi utenti a un flusso di lavoro esistente
-* Passa un flusso di lavoro esistente a un flusso di lavoro automatizzato
+* Aggiornare la scadenza della bozza
+* Aggiungere utenti a un flusso di lavoro esistente
+* Passare da un workflow esistente a un workflow automatizzato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
-## Il tuo turno
+## Tocca a te
 
 >[!IMPORTANT]
 >
->Non dimenticare di ricordare a tutti i colleghi assegnati a un flusso di lavoro di prova che stai lavorando con le bozze nell’ambito del tuo training Workfront.
+>Non dimenticare di ricordare ai colleghi assegnati a un flusso di lavoro per la bozza che stai lavorando con le bozze come parte del tuo corso di formazione Workfront.
 
-1. Trova una prova che hai caricato su Workfront. Utilizzare la finestra Flusso di lavoro di correzione per effettuare le seguenti operazioni: invia la scadenza entro un giorno e modifica un revisore in un Revisore e approvatore.
-1. Assicurati che alla bozza sia assegnato un flusso di lavoro automatizzato, quindi aggiungi un modello alla bozza.
+1. Trova una prova che hai caricato su Workfront. Utilizzare la finestra Flusso di lavoro bozze per effettuare le seguenti operazioni: è possibile posticipare la scadenza di un giorno e cambiare un revisore in revisore e approvatore.
+1. Assicurati che alla bozza sia assegnato un flusso di lavoro automatico, quindi aggiungi un modello alla bozza.
 
 
 

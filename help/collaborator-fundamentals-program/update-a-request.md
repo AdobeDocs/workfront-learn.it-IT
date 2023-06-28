@@ -1,12 +1,12 @@
 ---
 title: Come aggiornare una richiesta
-description: Scopri come trovare le richieste inviate ed effettuare un aggiornamento su tali richieste.
+description: Scopri come trovare le richieste inviate e aggiornarle.
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8807
+jira: KT-8807
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Questo video illustra come:
 
-* Trova richieste inviate
+* Trovare le richieste inviate
 * Aggiornare una richiesta
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)

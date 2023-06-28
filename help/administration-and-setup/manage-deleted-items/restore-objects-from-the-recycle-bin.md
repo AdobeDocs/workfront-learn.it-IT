@@ -1,5 +1,5 @@
 ---
-title: Ripristina oggetti dal Cestino
+title: Ripristina oggetti dal cestino
 description: Scopri come trovare e ripristinare i progetti, le attività o i problemi eliminati dal Cestino.
 feature: System Setup and Administration
 activity: deploy
@@ -8,42 +8,42 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10100.jpeg
-kt: 10100
+jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-# Ripristinare gli oggetti dal Cestino
+# Ripristina oggetti dal Cestino
 
-Il lavoro del progetto attraversa molti cambiamenti. Si potrebbe eliminare qualcosa, solo per capire 30 minuti dopo che l&#39;attività era necessaria o il documento era vitale per il problema che si sta cercando di risolvere.
+Il lavoro del progetto subisce molte modifiche. Si potrebbe cancellare qualcosa, solo per rendersi conto 30 minuti dopo che l&#39;attività era necessaria o il documento era vitale per il problema che si sta cercando di risolvere.
 
-Con il Cestino, quando l’oggetto viene eliminato, Workfront lo inserisce nel per un massimo di 30 giorni. L’amministratore di sistema può ripristinare l’oggetto nella posizione originale in Workfront, insieme a tutte le informazioni (aggiornamenti, ore registrate, documenti, ecc.).
+Con il Cestino, quando l’oggetto viene eliminato, Workfront lo inserisce nel per un massimo di 30 giorni. L’amministratore di sistema può ripristinare la posizione originale dell’oggetto in Workfront, insieme a tutte le informazioni (aggiornamenti, ore registrate, documenti, ecc.).
 
 ## Ripristinare un oggetto
 
-1. Seleziona la **Configurazione** nella zona **Menu principale**.
-1. Fai clic su **Cestino** nel pannello a sinistra.
-1. Seleziona **Eliminato di recente**.
+1. Seleziona la **Configurazione** area nel **Menu principale**.
+1. Clic **Cestino** nel pannello a sinistra.
+1. Seleziona **Eliminati di recente**.
 
-![Sezione del Cestino eliminato di recente nell&#39;area di installazione](assets/admin-fund-recycle-bin-1.png)
+![Sezione eliminata di recente del Cestino nell’area Configura](assets/admin-fund-recycle-bin-1.png)
 
-Ogni oggetto ripristinabile ha una scheda per facilitare la ricerca del particolare elemento da ripristinare.
+Ogni oggetto ripristinabile dispone di una scheda per facilitare la ricerca dell&#39;elemento da ripristinare.
 
-1. Fare clic sulla scheda dell’oggetto desiderato.
+1. Fare clic sulla scheda dell&#39;oggetto desiderato.
 1. Selezionare la casella accanto agli oggetti da ripristinare.
-1. Fai clic sul pulsante **Ripristina** pulsante .
+1. Fai clic su **Ripristina** pulsante.
 
-![Articoli selezionati nel Cestino](assets/admin-fund-recycle-bin-2.png)
+![Elementi selezionati nel Cestino](assets/admin-fund-recycle-bin-2.png)
 
-Gli oggetti che vengono ripristinati verranno brevemente visualizzati in un [!UICONTROL In corso] sezione . Una volta aggiornata la schermata, gli oggetti non vengono più visualizzati sullo schermo perché sono stati ripristinati. Gli elementi vengono visualizzati nella posizione in cui si trovavano in precedenza [!DNL Workfront], che puoi verificare nel [!UICONTROL Ripristinato di recente] schermo.
+Gli oggetti da ripristinare compariranno brevemente in un [!UICONTROL In corso] sezione. Dopo l&#39;aggiornamento dello schermo, gli oggetti non vengono più visualizzati perché sono stati ripristinati. Gli elementi vengono visualizzati nel punto in cui erano precedentemente presenti [!DNL Workfront], che puoi verificare sulla [!UICONTROL Ripristinati di recente] schermo.
 
-![Sezione del Cestino ripristinata di recente nell&#39;area di installazione](assets/admin-fund-recycle-bin-3.png)
+![Sezione ripristinata di recente del Cestino nell’area Configura](assets/admin-fund-recycle-bin-3.png)
 
-Gli amministratori dei gruppi possono ripristinare un progetto associato al gruppo che gestiscono, insieme a tutte le attività, i problemi o i documenti associati al progetto.
+Gli amministratori di gruppi possono ripristinare un progetto associato al gruppo che gestiscono, insieme ad attività, problemi o documenti associati al progetto.
 
 <!---
 learn more URL

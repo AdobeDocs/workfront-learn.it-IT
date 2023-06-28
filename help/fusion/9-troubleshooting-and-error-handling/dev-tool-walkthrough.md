@@ -1,45 +1,45 @@
 ---
-title: Procedura dettagliata sullo strumento di sviluppo
-description: Scopri come installare e utilizzare le diverse aree nel [!DNL Adobe Workfront Fusion Dev Tool] per immergerti in modo più approfondito nei trucchi di progettazione di scenari avanzati.
+title: Procedura dettagliata dello strumento di sviluppo
+description: Scopri come installare e utilizzare le diverse aree in [!DNL Adobe Workfront Fusion Dev Tool] per approfondire i trucchi avanzati di progettazione degli scenari.
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9062
+jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Procedura dettagliata sullo strumento di sviluppo
+# Procedura dettagliata dello strumento di sviluppo
 
-Installa e utilizza le diverse aree di Workfront Dev Tool per approfondire le richieste/risposte effettuate e i trucchi per la progettazione di scenari avanzati.
+Installa e utilizza le diverse aree di Workfront Dev Tool per approfondire richieste/risposte e trucchi avanzati di progettazione degli scenari.
 
-![Immagine di uno scenario di fusione e dello strumento di sviluppo](assets/troubleshooting-and-error-handling-1.png)
+![Immagine di uno scenario Fusion e dello strumento di sviluppo](assets/troubleshooting-and-error-handling-1.png)
 
-## Procedura dettagliata sullo strumento di sviluppo
+## Procedura dettagliata dello strumento di sviluppo
 
-Workfront consiglia di guardare il video dettagliato sull&#39;esercizio prima di cercare di ricreare l&#39;esercizio nel proprio ambiente.
+Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per istruzioni dettagliate su come completare la procedura dettagliata, consulta [Procedura dettagliata sullo strumento di sviluppo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata dello strumento di sviluppo](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) esercizio fisico.
 
 
-## Scarica lo strumento Dev
+## Download dello strumento di sviluppo
 
-Lo strumento di sviluppo dispone di una serie di funzioni avanzate che migliorano la capacità di comprendere e risolvere gli scenari. Scarica il documento &quot;workfront-fusion-devtool.zip&quot; che si trova nella cartella File di esercizio di fusione nell&#39;unità di prova.
+Lo strumento di sviluppo dispone di una serie di funzioni avanzate che migliorano la capacità di comprendere e risolvere gli scenari. Scarica il documento &quot;workfront-fusion-devtool.zip&quot; presente nella cartella dei file di esercizio di Fusion nell’unità di prova.
 
 
 
-## Vuoi saperne di più? Si consiglia quanto segue:
+## Vuoi saperne di più? Consigliamo quanto segue:
 
 [Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

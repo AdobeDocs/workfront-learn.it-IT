@@ -1,6 +1,6 @@
 ---
-title: Certificazioni complete
-description: Scopri come identificare le approvazioni incomplete e risolverle in modo da poter chiudere il progetto in [!DNL  Workfront].
+title: Completare le approvazioni
+description: Scopri come identificare e risolvere le approvazioni incomplete per chiudere il progetto in [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,27 +8,27 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10134
+jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-# Certificazioni complete
+# Completare le approvazioni
 
-Le approvazioni di attività e problemi fanno parte di molti flussi di lavoro. Tuttavia, le approvazioni non risolte possono impedire l’impostazione dello stato del progetto su Completato.
+Le approvazioni di attività e problemi fanno parte di molti flussi di lavoro. Tuttavia, le approvazioni non risolte possono impedire di impostare lo stato del progetto su Completato.
 
-Sulla [!UICONTROL Attività] seleziona una sezione del progetto [!UICONTROL Visualizza] che include [!UICONTROL Stato] colonna. Un rapido sguardo in basso in quella colonna mostrerà se c&#39;è un&#39;approvazione incompleta su un&#39;attività con &quot;[!UICONTROL -approvazione in sospeso]&quot; dopo il nome dello stato.
+Il giorno [!UICONTROL Attività] del progetto, seleziona una [!UICONTROL Visualizza] che include [!UICONTROL Stato] colonna. Una rapida occhiata giù quella colonna mostrerà se c&#39;è un&#39;approvazione incompleta su un&#39;attività con il &quot;[!UICONTROL -approvazione in sospeso]&quot; dopo il nome dello stato.
 
-![Progetto con approvazione non completa](assets/planner-fund-approval-pending.png)
+![Progetto con approvazione incompleta](assets/planner-fund-approval-pending.png)
 
-Puoi scegliere cosa fare:
+Puoi scegliere tra diverse opzioni:
 
-* **Completare l&#39;omologazione —** Ciò può significare ricordare ad altri l&#39;approvazione in sospeso. Esegui questa operazione con un aggiornamento tramite [!DNL Workfront]. A seconda del [!DNL Workfront] autorizzazioni, potresti essere in grado di completare l&#39;approvazione da solo.
-* **Rimuovere l&#39;omologazione —** Se l’approvazione non è necessaria, potrebbe essere più semplice eliminarla. La tua capacità di farlo dipende dalla tua [!DNL Workfront] autorizzazioni.
-* **Cambia lo stato —** Seleziona uno stato a cui non è stata allegata un&#39;approvazione. Assicurati che lo stato sia uguale a Completa.
+* **Completa l&#39;approvazione —** Ciò potrebbe significare ricordare ad altri la mancata approvazione. Esegui questa operazione con un aggiornamento tramite [!DNL Workfront]. A seconda del [!DNL Workfront] autorizzazioni, potresti essere in grado di completare l’approvazione autonomamente.
+* **Rimuovi l&#39;approvazione —** Se l&#39;approvazione non è necessaria, potrebbe essere più semplice eliminarla. La tua capacità di farlo dipende dalla tua [!DNL Workfront] autorizzazioni.
+* **Cambia stato —** Seleziona uno stato a cui non è allegata un&#39;approvazione. Assicurati solo che lo stato sia Completo.
 
-Se la tua organizzazione utilizza i problemi per tenere traccia dei problemi, degli ordini di modifica o di altri eventi durante i progetti, segui gli stessi passaggi in [!UICONTROL Problemi] della sezione del progetto.
+Se l&#39;organizzazione utilizza i problemi per tenere traccia di problemi, ordini di modifica o altri eventi durante i progetti, eseguire le stesse operazioni in [!UICONTROL Problemi] del progetto.

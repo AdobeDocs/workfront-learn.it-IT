@@ -1,25 +1,25 @@
 ---
-title: Personalizzare gli elenchi di rapporti con i modelli di layout
-description: In questo video, scopri come aggiungere e rimuovere filtri, visualizzazioni e gruppi dagli elenchi di reporting con un modello di layout.
+title: Personalizzare gli elenchi di reporting con i modelli di layout
+description: Questo video spiega come aggiungere e rimuovere filtri, viste e gruppi dagli elenchi di reporting con un modello di layout.
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Personalizzare gli elenchi di rapporti con i modelli di layout
+# Personalizzare gli elenchi di reporting con i modelli di layout
 
 Questo video illustra come:
 
-* Passare alle impostazioni dell’elenco dei rapporti in un modello di layout
+* Passare alle impostazioni dell&#39;elenco dei report in un modello di layout
 * Rimuovere filtri, visualizzazioni e raggruppamenti
-* Aggiungere filtri, visualizzazioni e raggruppamenti
+* Aggiungere filtri, viste e raggruppamenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)

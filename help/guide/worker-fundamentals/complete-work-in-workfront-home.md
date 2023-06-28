@@ -1,12 +1,12 @@
 ---
 title: workfront-dam/brand-connect-user in Home
-description: In questo video, scopri come comunicare l’avanzamento del lavoro con lo stato e filtrare l’elenco di lavoro per vedere il lavoro completato.
+description: In questo video, scopri come comunicare l’avanzamento del lavoro con lo stato e filtrare Elenco lavori per visualizzare il lavoro completato.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 # workfront-dam/brand-connect-user in Home
 
-In questo video imparerai:
+Questo video illustra:
 
-* Come comunicare l&#39;avanzamento del lavoro con lo stato
+* Come comunicare lo stato di avanzamento del lavoro
 * Perché lo stato è importante
-* Come filtrare l’elenco di lavoro per visualizzare il lavoro completato
+* Come filtrare l’Elenco lavori per visualizzare il lavoro completato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)

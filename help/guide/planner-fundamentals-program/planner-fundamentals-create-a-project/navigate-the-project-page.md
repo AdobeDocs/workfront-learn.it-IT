@@ -1,21 +1,21 @@
 ---
-title: Passa alla pagina del progetto
-description: In questo video, scopri come visualizzare i dettagli del progetto, quali informazioni vengono visualizzate nell’elenco delle attività, dove caricare i documenti e come visualizzare la cronologia degli aggiornamenti
+title: Passare alla pagina del progetto
+description: In questo video, scopri come visualizzare i dettagli del progetto, quali informazioni vengono visualizzate nell’elenco delle attività, dove caricare i documenti, come visualizzare la cronologia degli aggiornamenti xx
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Passa alla pagina del progetto
+# Passare alla pagina del progetto
 
-In questo video imparerai:
+Questo video illustra:
 
 * Come visualizzare i dettagli del progetto
 * Informazioni visualizzate nell&#39;elenco delle attività

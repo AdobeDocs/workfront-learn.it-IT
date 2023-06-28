@@ -1,54 +1,54 @@
 ---
-title: Best practice - Obiettivi di Workfront
-description: Esplorare i consigli sulle best practice degli esperti di Adobe Workfront sull’impostazione, la gestione e l’utilizzo degli obiettivi di Workfront.
+title: Best practice - Obiettivi Workfront
+description: Esplora i consigli sulle best practice forniti dagli esperti Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo degli obiettivi di Workfront.
 feature: Workfront Goals
 role: Admin, Leader, User
 level: Beginner
-kt: 10933
+jira: KT-10933
 exl-id: 08c65fae-2077-4b37-b051-bc39d978a923
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-# Best practice - Obiettivi di Workfront
+# Best practice - Obiettivi Workfront
 
-## Qual è una &quot;best practice&quot; di Adobe Workfront?
+## Cos’è una &quot;best practice&quot; di Adobe Workfront?
 
-Le migliori pratiche sono linee guida che rappresentano un&#39;azione efficace ed efficiente; sono facilmente adottati da te e dagli utenti della tua azienda; e può essere replicato correttamente in tutta l’organizzazione.
+Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
 
-Quando si esaminano queste raccomandazioni, tenere presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello contenente tutte le best practice per l’argomento. Questo ti consente di rivedere le raccomandazioni senza immergerti nei dettagli del &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
-Perché queste best practice? area, disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sui motivi per cui vengono considerate un processo, uno strumento, ecc., dovresti considerare l’implementazione con la tua istanza Workfront.
+La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
 
-## Best practice per gli obiettivi di Workfront
+## Best practice per gli obiettivi Workfront
 
 * Inizia con 3-5 obiettivi a livello aziendale al massimo.
 
-* Assegna l’ultimo obiettivo nella gerarchia a un singolo collaboratore.
+* Assegna l&#39;ultimo obiettivo nella gerarchia a un singolo collaboratore.
 
-* Stabilisci una cadenza per la frequenza con cui rivedrai e modificherai gli obiettivi.
+* Stabilisci una cadenza per la frequenza con cui rivederai e regolerai gli obiettivi.
 
-* Per iniziare, crea dei filtri per ciascun gruppo.
+* Inizia creando filtri per ogni gruppo.
 
-* Allinea gli obiettivi gli uni agli altri per definire chiaramente la strategia della tua organizzazione al fine di conteggiare ogni obiettivo.
+* Allinea gli obiettivi tra loro per definire chiaramente la strategia dell’organizzazione in modo da conteggiare ogni obiettivo.
 
-* Collabora all’interno dell’organizzazione esaminando gli aggiornamenti dell’obiettivo e i commenti nella sezione Pulse degli obiettivi di Adobe Workfront .
+* Collabora all’interno dell’organizzazione esaminando gli aggiornamenti e i commenti agli obiettivi nella sezione Adobe Workfront Goals Pulse.
 
 </br>
 </br>
 
-## Perché queste best practice sono?
+## Perché si tratta di procedure ottimali?
 
 **Best practice**
 
@@ -58,24 +58,24 @@ Inizia con 3-5 obiettivi a livello aziendale al massimo.
 
 **Ecco perché**
 
-La tenga semplice. Prima di configurare il sistema, individua 3-5 obiettivi a livello aziendale. Questo ti permetterà non solo di semplificare lo strumento Obiettivi, ma anche di aiutarti a identificare facilmente quali sono le tue priorità più importanti per l&#39;azienda e a determinare gli obiettivi che sosterranno tali priorità.
+Semplificala. Prima di configurare il sistema, individua 3-5 obiettivi a livello aziendale. Questo non solo ti consentirà di entrare facilmente nello strumento Obiettivi, ma ti aiuterà anche a identificare facilmente quali sono le tue attuali priorità più importanti per l’azienda e a determinare gli obiettivi che supporteranno tali priorità.
 
 </br>
 </br>
 
 **Best practice**
 
-Assegna l’ultimo obiettivo nella gerarchia a un singolo collaboratore.
+Assegna l&#39;ultimo obiettivo nella gerarchia a un singolo collaboratore.
 
 
 
 **Ecco perché**
 
-Questo crea una responsabilità personale verso il raggiungimento dell&#39;obiettivo generale dell&#39;azienda.
+Questo crea una responsabilità personale verso il raggiungimento dell&#39;obiettivo aziendale generale.
 
 
 
-Anche se è possibile creare una gerarchia complessa quando si allineano gli obiettivi, la gerarchia di obiettivo effettiva indica che i singoli collaboratori sono all&#39;ultimo livello di ogni ramo di allineamento dell&#39;obiettivo. Ciò significa che possono aggiornare i progressi sui propri obiettivi, che quindi aggiornano il progresso complessivo del team o dell’obiettivo del gruppo.
+Anche se è possibile creare una gerarchia complessa quando si allineano gli obiettivi, la vera gerarchia degli obiettivi significa che sono presenti singoli collaboratori all&#39;ultimo livello di ogni ramo di allineamento degli obiettivi. Ciò significa che può aggiornare l’avanzamento sui propri obiettivi, che quindi aggiorna l’avanzamento generale del team o dell’obiettivo del gruppo.
 
 </br>
 </br>
@@ -83,13 +83,13 @@ Anche se è possibile creare una gerarchia complessa quando si allineano gli obi
 
 **Best practice**
 
-Stabilisci una cadenza per la frequenza con cui rivedrai e modificherai gli obiettivi.
+Stabilisci una cadenza per la frequenza con cui rivederai e regolerai gli obiettivi.
 
 
 
 **Ecco perché**
 
-Avere una cadenza prestabilita per rivedere gli obiettivi e valutare la traiettoria di business per il futuro può aiutare il tuo team a rimanere sulla buona strada e davvero allineato con la visione dell&#39;azienda.
+Disporre di una cadenza prestabilita per rivedere gli obiettivi prefissati e valutare la traiettoria aziendale per il futuro può aiutare il tuo team a rimanere sulla strada giusta e ad allinearsi con la visione dell&#39;azienda.
 
 
 </br>
@@ -97,10 +97,10 @@ Avere una cadenza prestabilita per rivedere gli obiettivi e valutare la traietto
 
 **Best practice**
 
-Per iniziare, crea dei filtri per ciascun gruppo.
+Inizia creando filtri per ogni gruppo.
 
 
 
 **Ecco perché**
 
-Questo aiuterà a ridurre le informazioni necessarie a voi e al vostro team per capire cosa occorre fare ed elimina le informazioni in eccesso che, per il momento, possono essere schiaccianti.
+In questo modo sarà possibile limitare le informazioni necessarie a voi e al vostro team per comprendere cosa è necessario fare ed eliminare le informazioni in eccesso che, per il momento, possono essere travolgenti.

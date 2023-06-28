@@ -1,6 +1,6 @@
 ---
-title: Rivedi un sito web con le prove
-description: Scopri come aprire una bozza di sito web statica o interattiva in [!DNL  Workfront] e fare commenti.
+title: Rivedi un sito web con la bozza
+description: Scopri come aprire una bozza statica o interattiva di un sito web in [!DNL  Workfront] e fare commenti.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,23 +8,23 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335143.png
-kt: 8846
+jira: KT-8846
 exl-id: dcc8c441-3c5c-41e9-8cf2-031d3814a1ae
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Rivedi un sito web con le prove
+# Rivedi un sito web con la bozza
 
 Questo video illustra come:
 
-* Aprire una bozza del sito web
-* Commenti su un sito web statico
-* Commenti su un sito web interattivo
+* Apri una bozza del sito web
+* Creare commenti in una bozza statica di un sito Web
+* Creare commenti in un sito Web interattivo
 
 >[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on)
 
