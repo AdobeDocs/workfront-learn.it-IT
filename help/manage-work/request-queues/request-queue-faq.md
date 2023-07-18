@@ -5,12 +5,13 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 1%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
@@ -38,10 +39,18 @@ Consulta questo articolo per ulteriori informazioni: [Converti i problemi](https
 
 È possibile utilizzare [!UICONTROL Ricerca] nella barra di navigazione o trovarlo elencato nella [!UICONTROL Progetti] area.
 
+Se apri una richiesta dalla coda di richieste, puoi fare clic sul nome del progetto nell’area delle breadcrumb.
+
 **Posso trasferire le informazioni da un modulo personalizzato di richiesta a un progetto?**
 
 Sì. Ciò comporta la creazione di un modulo personalizzato e la selezione di entrambi [!UICONTROL Problema] e [!UICONTROL Progetto] tipi di oggetto.
 
 **Visualizzazione di un report di progetto o attività. Come posso trovare la richiesta da cui ha avuto origine questo oggetto?**
 
-Puoi sfruttare **[!UICONTROL Iniziatore problema convertito]** origine campo per aggiungere tali informazioni ai report di progetto e attività.
+Puoi accedere ai campi nella sezione **[!UICONTROL Problema convertito]** e **[!UICONTROL Iniziatore problema convertito]** origini dei campi per aggiungere tali informazioni ai report di progetto e attività.
+
+**Qual è il modo migliore per filtrare le code di richieste in un rapporto?**
+
+Se il filtro del progetto include **Coda>>È pubblico>>Uguale a>>Nessuno** il report mostrerà solo i progetti che sono **NOT** code di richieste.
+
+Se il filtro del progetto include **Queue>>È pubblico>>Non uguale a>>Nessuno** il report mostrerà solo i progetti che **SONO** code di richieste.
