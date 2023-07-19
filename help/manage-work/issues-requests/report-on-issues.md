@@ -10,14 +10,16 @@ role: User
 level: Intermediate
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e8ce1414dc1873a725e75da3acb626af7e231a73
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '292'
 ht-degree: 2%
 
 ---
 
 # Report sui problemi
+
+Scopri come centralizzare i problemi creando un rapporto.
 
 ## Centralizzare i problemi creando un rapporto
 
