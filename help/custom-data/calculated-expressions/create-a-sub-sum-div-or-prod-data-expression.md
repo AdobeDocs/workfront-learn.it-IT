@@ -1,7 +1,7 @@
 ---
 title: Creare un'espressione di dati SUB, SUM, DIV o PROD
 description: Scopri come utilizzare e creare le espressioni matematiche di base nel campo calcolato di un Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%

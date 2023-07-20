@@ -1,7 +1,7 @@
 ---
 title: Creare espressioni ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS
 description: Scopri come utilizzare e creare le espressioni ADD in un campo calcolato in Adobe [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Di seguito sono riportate alcune espressioni ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEA
 
 **L&#39;operazione avrebbe dovuto essere eseguita da**
 
-Il cliente desiderava sapere quando l&#39;attività avrebbe dovuto essere completata in base alla data di inizio effettiva e alla durata pianificata. La data di completamento prevista non funzionerà in questo caso perché può spostarsi se l&#39;attività è in ritardo e la data di completamento pianificata non aiuta se ci sono ritardi nelle attività precedenti.
+Il cliente desiderava sapere quando l&#39;attività avrebbe dovuto essere completata in base alla data di inizio effettiva e alla durata pianificata. La data di completamento prevista non funzionerà in questo caso perché può essere spostata se l&#39;attività è in ritardo e la data di completamento pianificata non aiuta se ci sono ritardi nelle attività precedenti.
 
 L’espressione creata era ADDDAYS({actualStartDate},{durationMinutes}/480)
 

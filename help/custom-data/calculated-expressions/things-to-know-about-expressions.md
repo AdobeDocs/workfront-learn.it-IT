@@ -1,7 +1,7 @@
 ---
 title: Informazioni sulle espressioni di campo calcolato
 description: Dai un’occhiata a un elenco di concetti utili per l’utilizzo dei campi calcolati personalizzati in [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Tuttavia, l’espressione deve essere scritta come tutte le lettere maiuscole af
 
 ## Le ore vengono memorizzate in minuti
 
-Le ore nel database di Workfront vengono memorizzate in minuti. Se fai riferimento a campi come Ore pianificate o Ore effettive, dividi per 60 per mostrare il tempo in ore e non in minuti.
+Le ore nel database di Workfront vengono memorizzate in minuti. Se si fa riferimento a campi come Ore pianificate o Ore effettive, dividere per 60 per mostrare il tempo in ore e non in minuti.
 
 ## La spaziatura non influisce sulle espressioni
 
@@ -44,7 +44,7 @@ Il modo consigliato per scrivere le espressioni prevede una spaziatura minima o 
 
 Tuttavia, se la spaziatura consente di vedere cosa sta succedendo, è possibile aggiungerla alle espressioni. Gli spazi aggiuntivi non devono impedire all’espressione di raccogliere o calcolare un valore in [!DNL Workfront].
 
-* IF (ISBLANK ({description}), &quot;Nessuna descrizione&quot; , &quot;Ha descrizione&quot; )
+* SE (ISBLANK ({description}), &quot;Nessuna Descrizione&quot; , &quot;Ha Descrizione&quot; )
 
 ![Espressioni con spaziatura tra i campi](assets/T2K03.png)
 
@@ -69,7 +69,7 @@ Le espressioni possono essere aggiornate utilizzando l&#39;opzione Ricalcola esp
 Desideri visualizzare il numero di giorni in cui un problema è stato aperto. Creare un campo calcolato denominato &quot;Days Open&quot; con l&#39;espressione DATEDIFF.
 
 * Nome Campo = Giorni Aperti
-* Espressione = DATEDIFF({entryDate},$$TODAY)
+* Espressione = DATEDIFF({entryDate},$$OGGI)
 
 Una volta salvato, il numero di giorni tra la creazione del problema o l’immissione in Workfront e la data odierna può essere visualizzato nella pagina dei dettagli di un oggetto o in una visualizzazione di rapporto.
 
@@ -107,7 +107,7 @@ Tuttavia, se si dispone di un campo calcolato nel modulo A e dello stesso campo 
 
 Quando un campo personalizzato calcolato viene selezionato dalla libreria dei campi e aggiunto a un modulo personalizzato, il campo viene aggiunto ma il calcolo è vuoto. Questo accade perché il calcolo potrebbe fare riferimento a campi che non esistono per un altro tipo di oggetto.
 
-Ad esempio, è stato creato un campo calcolato, &quot;Giorni per il completamento&quot;, per determinare il tempo necessario per completare un&#39;attività in un progetto.
+È stato ad esempio creato un campo calcolato &quot;Giorni per il completamento&quot; per determinare il tempo necessario per completare un&#39;attività in un progetto.
 
 * WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
@@ -121,4 +121,4 @@ A seconda delle esigenze, i campi calcolati nei moduli personalizzati possono es
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

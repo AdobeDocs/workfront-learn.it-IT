@@ -1,14 +1,14 @@
 ---
 title: Risposte alle domande su Forms personalizzato
 description: Risposte alle domande frequenti sui moduli personalizzati.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 jira: KT-10058
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 1%
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Domande comuni sui moduli personalizzati
 
-**Posso cambiare il tipo di visualizzazione di un campo dopo averlo creato? È possibile, ad esempio, passare da un menu a discesa a caselle di controllo?**
+**È possibile cambiare il tipo di visualizzazione di un campo dopo averlo creato? È possibile, ad esempio, passare da un menu a discesa a caselle di controllo?**
 
 Sì. Il tipo di visualizzazione può essere cambiato e può essere simile a quello del paragrafo, a discesa o a caselle di controllo o pulsanti di scelta, ecc. Per ulteriori informazioni sulla modifica del tipo di visualizzazione, consulta l’articolo Creare un modulo personalizzato.
 
