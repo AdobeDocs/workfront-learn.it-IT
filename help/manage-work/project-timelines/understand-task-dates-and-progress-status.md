@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ Questo video illustra come:
 * Utilizzare lo stato di avanzamento per tenere traccia dell&#39;avanzamento del lavoro
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Come già detto nel video, è importante che le persone cambino lo stato da **[!UICONTROL Nuovo]** a **[!UICONTROL In corso]** quando iniziano un&#39;attività in modo che [!UICONTROL Data d&#39;Inizio Reale] sarà corretto. Tuttavia, se si dimentica di eseguire questa operazione all&#39;avvio, è possibile tornare indietro e modificare il [!UICONTROL Data d&#39;Inizio Reale] in qualsiasi momento.
+
 
 <!---
 Task progress status overview
