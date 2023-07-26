@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 0%
 >
 >Prerequisiti:
 >
->* Comprendere gli elementi di reporting
->* Comprendere i componenti di reporting
->* Creare una visualizzazione di base
+>* [Comprendere gli elementi di reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Comprendere i componenti di reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
@@ -231,16 +231,23 @@ type=iterate
 
 ![Immagine della schermata che mostra la vista Assegnazioni e ruoli](assets/assignments-roles-and-percent-view.png)
 
-## Attività: predecessori e successori di progetti incrociati
+## Attività: predecessori e successori tra progetti
 
 ### Filtro attività (facoltativo)
 
-**Mostra tutte le attività con almeno un predecessore di progetto incrociato**
+**Mostra tutte le attività con almeno un predecessore per più progetti o almeno un successore per più progetti nei progetti correnti**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Attività: mostra i nomi dei predecessori e il predecessore del progetto in
@@ -301,7 +308,7 @@ valueformat=HTML
 width=90
 ```
 
-### Attività: mostra la percentuale di completamento del progetto del predecessore di un progetto incrociato
+### Attività: mostra la percentuale di completamento del progetto del predecessore di un altro progetto
 
 ```
 displayname=Predecessor project percent complete
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![Immagine della schermata che mostra la vista Precedenti e successori di progetti incrociati](assets/cross-project-predecessors-and-successors.png)
+![Immagine della schermata che mostra la vista predecessori e successori tra progetti](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Attività: iterazione che mostra tutte le persone assegnate e chi le ha assegnate
