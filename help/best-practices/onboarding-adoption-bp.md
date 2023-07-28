@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -147,7 +147,22 @@ Definisci standard o aspettative per gli utenti e assicurati che i leader suppor
 
 **Ecco perché**
 
-È importante che gli utenti abbiano chiare aspettative in modo che possano sapere qual è l’obiettivo con Workfront e in che modo sono in grado di soddisfare tali aspettative. È altrettanto importante che sappiano che la leadership è dietro a questi standard.
+È importante che gli utenti abbiano chiare aspettative in modo che sappiano qual è l’obiettivo con Workfront e a che punto sono nel soddisfare tali aspettative. È altrettanto importante che sappiano che la leadership è dietro a questi standard.
 
 
 Assicurati che la leadership invii comunicazioni in cui dichiari il proprio supporto.
+
+</br>
+</br>
+
+
+**Best practice**
+
+Crea e implementa un sondaggio sull’adozione per comprendere meglio dove stanno affrontando le sfide e dove stanno vedendo il valore
+
+**Ecco perché**
+
+I nostri clienti di maggior successo hanno sviluppato una cadenza regolare per la raccolta dei commenti e dei suggerimenti, al fine di capire quali potrebbero essere gli ostacoli a una migliore adozione della soluzione Workfront. La raccolta dei dati di feedback consentirà agli amministratori di trovare le risorse giuste per apportare miglioramenti. La presente Guida ai sondaggi sull’adozione descrive le fasi di esecuzione, misurazione, pianificazione e revisione di un sondaggio sugli utenti di Workfront.
+
+[Scarica il sondaggio Workfront Guide to Adoption](../assets/adoption-survey.pdf)
+
