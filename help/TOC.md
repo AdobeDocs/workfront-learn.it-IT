@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2405'
+source-wordcount: '2410'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [Gestisci colonne bacheca](boards/manage-board-columns.md)
       + [Aggiungere schede a una bacheca](boards/add-cards-to-a-board.md)
       + [Gestire le schede su una bacheca](boards/manage-cards-on-a-board.md)
+      + [Personalizzare le schede su una bacheca](boards/customize-cards-on-a-board.md)
       + [Aggiungere e gestire i membri del gruppo per una bacheca](boards/add-and-manage-team-members-for-a-board.md)
       + [Aggiungere e modificare le impostazioni di colonna su una bacheca](boards/add-and-edit-column-settings-on-a-board.md)
       + [Aggiungere e gestire i tag per le schede](boards/add-and-manage-tags-for-cards.md)
