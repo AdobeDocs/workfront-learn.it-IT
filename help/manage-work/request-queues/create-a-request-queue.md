@@ -11,9 +11,9 @@ thumbnail: 335221.jpeg
 jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 0%
 Questo video illustra come:
 
 * Creare una coda di richieste creando prima un progetto
-* Configurare una coda di richieste
 * Configurare i dettagli della coda richieste
+* Attiva la coda
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
@@ -34,14 +34,10 @@ Dedichiamo un minuto alla verifica delle informazioni appena presentate.
 
 **Domanda:** Quale dei seguenti elementi deve essere presente affinché una coda di richieste possa essere pubblicata? (selezionare tutte le opzioni applicabili)
 
-1. Stato progetto = corrente
+1. Stato progetto = Attuale
 1. È selezionato &quot;Problema&quot; dal tipo di richiesta
 1. &quot;Pubblica come coda di richieste di aiuto&quot; è selezionato
 1. Stato progetto = Attuale o Pianificazione
 
-**Risposta:** 1) Lo stato del progetto è corrente e 3) è selezionato &quot;Pubblica come coda di richieste di aiuto&quot;
-
-**Domanda:** Le richieste possono essere effettuate tramite e-mail. True o false?
-
-**Risposta:** Vero
+**Risposta:** 1) Stato del progetto = Attuale e 3) È selezionato &quot;Pubblica come coda di richieste di aiuto&quot;
 
