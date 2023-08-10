@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ Questo video illustra come:
 
 Il [!UICONTROL Opzioni] possono essere nascosti dall&#39;amministratore di sistema se si desidera utilizzare i valori predefiniti impostati. Se il [!UICONTROL Opzioni] La sezione non viene visualizzata, in questo caso il significato delle opzioni:
 
-**Mantieni il problema originale e collegane la risoluzione a questo progetto.**
+**Mantieni il problema originale e collegane la risoluzione a questo progetto**
 
 Se questa opzione è selezionata, il problema originale verrà contrassegnato come risolto al completamento del progetto. Se questa opzione è **non** Se questa opzione è selezionata, il problema originale verrà eliminato al momento della creazione del progetto.
 
 **Consenti a (nome utente) di accedere a questo progetto**
 
-Se questa opzione è selezionata, alla persona che ha effettuato la richiesta (o per conto di chi è stata effettuata la richiesta) verranno automaticamente assegnati i diritti di accesso al nuovo progetto una volta creato. Se questa opzione è **non** selezionato, non riceveranno alcun diritto.
+Se questa opzione è selezionata, alla persona che ha effettuato la richiesta (o per conto di chi è stata effettuata la richiesta) verranno automaticamente assegnati i diritti di accesso al nuovo progetto una volta creato. Se questa opzione è **non** selezionato, non riceveranno automaticamente alcun diritto.
 
 ![Immagine della schermata di un progetto che mostra le opzioni di conversione](assets/conversion-options.png)
 
