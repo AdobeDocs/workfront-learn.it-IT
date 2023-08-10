@@ -4,24 +4,32 @@ description: Scopri come utilizzare le dashboard, [!UICONTROL Home], il [!UICONT
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Richieste Find
 
-Il luogo in cui si trovano le richieste può variare, quindi contatta il tuo [!DNL  Workfront] team per scoprire come gestirai l’assunzione delle richieste. Alcuni luoghi in [!DNL Workfront] le richieste disponibili sono:
+Questo video illustra come trovare le richieste a cui sei assegnato, le richieste che hai creato e le richieste che gestisci.
 
-* **Dashboard:** Molti [!DNL Workfront] i clienti scrivono rapporti personalizzati che visualizzano le richieste in arrivo, tengono traccia delle richieste convertite in progetti e altro ancora. Questi singoli rapporti vengono assemblati in una dashboard, in modo che tutto possa essere visualizzato facilmente e rapidamente. [!DNL Workfront] consiglia questo metodo di gestione delle richieste, in quanto può essere personalizzato in base alle esigenze della tua organizzazione.
-* **[!UICONTROL Home]:** Le richieste vengono etichettate come un problema, in quanto è così che il back-end di [!DNL Workfront] gestisce una richiesta effettuata tramite una coda di richieste.
-* **[!UICONTROL Area Richieste]**: Il [!UICONTROL Inviato] pagina mostra, per impostazione predefinita, le richieste a cui hai accesso ancora aperte o non risolte. Modificare il [!UICONTROL Filtro] per visualizzare tutte le richieste inviate a cui hai accesso, solo le tue richieste o solo le richieste aperte. Per visualizzare rapidamente i dettagli di una richiesta, selezionala nell’elenco e apri il pannello di riepilogo.
-* **[!UICONTROL Team] pagina:** Quando le richieste vengono instradate a un team, vengono visualizzate nel [!UICONTROL Team] pagina in [!UICONTROL Richieste team] sezione. A questo punto, i membri del team possono assegnare il lavoro in modo autonomo oppure un team lead può assegnare il lavoro.
+Scopri come trovare queste richieste nei seguenti luoghi:
+
+* Workfront [!UICONTROL Home]
+* Il [!UICONTROL Richieste] area
+* Il [!UICONTROL Team] pagina
+* In un dashboard personalizzato
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+Per informazioni su come creare rapporti personalizzati e inserirli in un dashboard, consulta la sezione [Corso di base sulla creazione di rapporti](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)

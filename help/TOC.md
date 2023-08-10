@@ -3,7 +3,7 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 2%
@@ -138,18 +138,12 @@ ht-degree: 2%
       + [Gestisci lavoro non pianificato](manage-work/issues-requests/handle-unplanned-work.md)
       + [Fai una richiesta](manage-work/issues-requests/make-a-request.md)
       + [Richieste Find](manage-work/issues-requests/find-requests.md)
-      + [Gestire le richieste](manage-work/issues-requests/manage-incoming-requests.md)
       + [Gestire le assegnazioni dei problemi](manage-work/issues-requests/manage-issue-assignments.md)
       + [Aggiornare una richiesta](manage-work/issues-requests/update-a-request.md)
-      + [Creare un progetto da una richiesta](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Convertire i problemi in altri elementi di lavoro](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Convertire un problema/richiesta in un progetto](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Convertire un problema/richiesta in un’attività](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Rivedere e approvare il lavoro digitale](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Report sui problemi](manage-work/issues-requests/report-on-issues.md)
-
-   + Portfolio {#portfolios}
-      + [Panoramica dei portfolio](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Introduzione al Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Assegnare priorità e gestire il lavoro con i portfolio](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Code di richieste {#request-queues}
       + [Comprendere le code di richieste](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 2%
       + [Creare una coda di richieste](manage-work/request-queues/create-a-request-queue.md)
       + [Creare un flusso di richieste](manage-work/request-queues/create-a-request-flow.md)
       + [Risposte alle domande comuni sulle code di richieste](manage-work/request-queues/request-queue-faq.md)
+
+   + Portfolio {#portfolios}
+      + [Panoramica dei portfolio](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Introduzione al Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Assegnare priorità e gestire il lavoro con i portfolio](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processi di approvazione e percorsi milestone {#approval-processes-and-milestone-paths}
       + [Creare un processo di approvazione per singolo utilizzo](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
