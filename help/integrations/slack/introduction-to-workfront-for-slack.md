@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 01a1f3c4b41798cebe4239de69067bce437cb8a0
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -24,3 +24,8 @@ In questo video:
 * Introduzione a ciò che imparerai dalle altre [!DNL Workfront] per [!DNL Slack] video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Per informazioni su come configurare [!UICONTROL Workfront per Slack], vedi [Adobe Workfront per Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+
