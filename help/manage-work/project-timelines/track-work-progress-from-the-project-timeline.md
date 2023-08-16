@@ -7,12 +7,13 @@ feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-16T00:00:00Z
 level: Intermediate
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -23,14 +24,20 @@ Assicurarsi che le attività stiano procedendo nel modo desiderato per raggiunge
 
 ## Percentuale completata
 
-La percentuale di completamento di ogni attività viene talvolta utilizzata per misurare l&#39;avanzamento del lavoro. È importante notare che... questo campo deve essere regolato manualmente, in quanto rappresenta la stima dell’assegnatario della distanza.
+La percentuale di completamento di ogni attività di lavoro viene talvolta utilizzata per misurare l&#39;avanzamento del lavoro. È importante notare che... questo campo deve essere regolato manualmente, in quanto è la stima dell&#39;assegnatario di quanto sono lunghi.
+
+>[!TIP]
+>
+>Sebbene sia necessario aggiornare manualmente la percentuale di completamento delle attività di lavoro, la percentuale di completamento di un&#39;attività padre viene calcolata da Workfront in base alla percentuale di completamento e alla durata o alle ore pianificate di ogni attività figlio. Ciò significa che sarà possibile ottenere una maggiore precisione percentuale di completamento se si suddividono attività di grandi dimensioni in sottoattività più piccole.
+
 
 ![Elenco attività progetto visualizzato [!UICONTROL Percentuale completamento] colonna](assets/planner-fund-task-percent-complete.png)
 
-Esistono due casi in cui la percentuale di completamento cambia automaticamente:
+Esistono tre casi in cui la percentuale di completamento cambia automaticamente:
 
-Quando l&#39;attività [!UICONTROL Stato] è impostato su Completato, la percentuale di completamento diventa 100.
-Se l&#39;attività [!UICONTROL Stato] torna a Nuovo, la percentuale di completamento viene reimpostata su 0.
+* Quando l&#39;attività [!UICONTROL Stato] è impostato su Completato, la percentuale di completamento diventa 100.
+* Se l&#39;attività [!UICONTROL Stato] torna a Nuovo, la percentuale di completamento viene reimpostata su 0.
+* In un task padre quando la percentuale di completamento di un task figlio cambia.
 
 ## Stato
 
@@ -42,8 +49,10 @@ Durante la revisione del progetto, esaminare le assegnazioni delle attività. Fo
 
 ## Vincolo attività
 
-A volte i vincoli delle attività vengono modificati e non se ne rende conto. I vincoli possono influenzare il comportamento della timeline e puoi controllare che siano impostati nel modo desiderato.
+A volte i vincoli delle attività vengono modificati e non se ne rende conto. I vincoli possono influire sul comportamento della linea temporale, pertanto è necessario assicurarsi che siano impostati nel modo desiderato.
 
 ![Elenco attività progetto con colonna vincolo attività](assets/planner-fund-task-constraint.png)
 
 Creare una visualizzazione personalizzata che includa [!UICONTROL Vincolo attività] per visualizzare queste informazioni nell&#39;elenco delle attività. Se il progetto è stato pianificato da una data di inizio, si desidera che le attività abbiano [!UICONTROL Il Prima Possibile] ([!UICONTROL ASAP]).
+
+Per ulteriori dettagli sui vincoli delle attività, vedere [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).

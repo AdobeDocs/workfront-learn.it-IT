@@ -8,27 +8,30 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # Completare le approvazioni
 
-Le approvazioni di attività e problemi fanno parte di molti flussi di lavoro. Tuttavia, le approvazioni non risolte possono impedire di impostare lo stato del progetto su Completato.
+Le approvazioni di attività e problemi fanno parte di molti flussi di lavoro. Tuttavia, le approvazioni non risolte impediranno di impostare lo stato del progetto su Completato.
 
-Il giorno [!UICONTROL Attività] del progetto, seleziona una [!UICONTROL Visualizza] che include [!UICONTROL Stato] colonna. Una rapida occhiata giù quella colonna mostrerà se c&#39;è un&#39;approvazione incompleta su un&#39;attività con il &quot;[!UICONTROL -approvazione in sospeso]&quot; dopo il nome dello stato.
+Il giorno [!UICONTROL Attività] del progetto, seleziona una [!UICONTROL Visualizza] che include [!UICONTROL Stato] colonna. Una rapida occhiata giù quella colonna mostrerà se c&#39;è un&#39;approvazione incompleta su un&#39;attività con il &quot;[!UICONTROL - In attesa di approvazione]&quot; dopo il nome dello stato.
 
-![Progetto con approvazione incompleta](assets/planner-fund-approval-pending.png)
+![Progetto che mostra un’approvazione incompleta](assets/approval-pending.png)
 
 Puoi scegliere tra diverse opzioni:
 
-* **Completa l&#39;approvazione —** Ciò potrebbe significare ricordare ad altri la mancata approvazione. Esegui questa operazione con un aggiornamento tramite [!DNL Workfront]. A seconda del [!DNL Workfront] autorizzazioni, potresti essere in grado di completare l’approvazione autonomamente.
+* **Completa l&#39;approvazione —** Ciò potrebbe significare ricordare ad altri la mancata approvazione. Per visualizzare gli utenti assegnati come approvatori, aprire l&#39;attività e fare clic sulla scheda Approvazioni.
 * **Rimuovi l&#39;approvazione —** Se l&#39;approvazione non è necessaria, potrebbe essere più semplice eliminarla. La tua capacità di farlo dipende dalla tua [!DNL Workfront] autorizzazioni.
-* **Cambia stato —** Seleziona uno stato a cui non è allegata un&#39;approvazione. Assicurati solo che lo stato sia Completo.
+* **Cambia stato —** Se l&#39;approvazione non è necessaria, puoi selezionare uno stato a cui non è allegata alcuna approvazione. Assicurati solo che lo stato sia Completo.
+
+![Progetto con gli approvatori delle attività](assets/task-approvers.png)
 
 Se l&#39;organizzazione utilizza i problemi per tenere traccia di problemi, ordini di modifica o altri eventi durante i progetti, eseguire le stesse operazioni in [!UICONTROL Problemi] del progetto.

@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,9 @@ La finestra dei dettagli consente di apportare modifiche alle impostazioni del n
 >
 >Per creare un progetto utilizzando questo metodo, è necessario accedere all’area Modelli di Workfront. Se non riesci ad accedere ai modelli, puoi comunque utilizzare un modello per creare un progetto dall’area Progetti o durante la conversione di un problema/attività.
 
-**Suggerimento**: se utilizzi frequentemente un modello, impostalo come preferito! Il modello viene visualizzato nel menu Nuovo progetto, oltre a essere visualizzato nel menu Preferiti e recenti nella barra di navigazione.
+>[!TIP]
+>
+>Se utilizzi frequentemente un modello, impostalo come preferito. Il modello viene visualizzato nel menu Nuovo progetto, oltre a essere visualizzato nel menu Preferiti nella barra di navigazione.
+
 
 ![Nuovi modelli preferiti per i progetti](assets/direct-template-03.png)
