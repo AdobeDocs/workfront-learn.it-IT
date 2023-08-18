@@ -1,58 +1,60 @@
 ---
-title: Panoramica dei portafogli
-description: Scopri in cosa sono i portfolio [!DNL Workfront] e come possono aiutarti a dare priorità ai progetti e a confrontarli tra loro.
+title: Panoramica dei portfolio
+description: Scopri cosa sono i portfolio in Workfront e come possono aiutarti a dare la priorità ai progetti e a confrontarli tra loro.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
+last-substantial-update: 2023-08-18T00:00:00Z
+jira: KT-13837
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
 
-# Panoramica dei portafogli
+# Panoramica dei portfolio
 
-I manager spesso hanno il compito difficile di capire quali progetti potrebbero aiutare la loro azienda a raggiungere i suoi obiettivi. Ciò significa valutare un progetto attuale o potenziale sulla base di criteri importanti per tali obiettivi. Questi criteri possono includere ad esempio il numero di risorse necessarie, il costo del progetto rispetto a quello che esso comporta e/o il numero di rischi associati. Con queste informazioni, i responsabili possono decidere quali progetti devono essere realizzati prima e quali possono essere messi in secondo piano.
+I manager spesso hanno il difficile compito di capire quali progetti potrebbero aiutare la loro azienda a raggiungere i suoi obiettivi. Ciò significa valutare un progetto attuale o potenziale sulla base di criteri importanti per tali obiettivi. Questi criteri possono includere elementi quali il numero di risorse necessarie, il costo del progetto rispetto a quello che comporterà e la comprensione dei rischi implicati. Con queste informazioni, i manager possono decidere quali progetti eseguire e quando.
 
-Pensare e pianificare i progetti non è un compito troppo difficile, ma è un processo a cui la maggior parte dei manager è abituata. La vera lotta è confrontare i progetti tra loro. Sfidare in un lungo elenco dettagliato di progetti richiede molto tempo. È qui che i portfolio entrano [!DNL  Workfront] può aiutare.
+Pensare e pianificare i progetti non è un compito eccessivamente difficile, è un processo a cui la maggior parte dei manager sono abituati. La vera lotta è quella di confrontare i progetti tra loro. Sfogliare un elenco lungo e dettagliato di progetti richiede molto tempo. I portfolio in Workfront possono essere d&#39;aiuto in questo senso.
 
-## Che cos&#39;è un portafoglio?
+## Che cos’è un portfolio?
 
-Un portfolio è una raccolta di progetti che vengono completati per le stesse risorse, budget, pianificazione e priorità. Ad esempio, un’agenzia di marketing può utilizzare un portfolio per raggruppare tutti i progetti per un particolare cliente.
+Un portfolio è una raccolta di progetti che vengono completati per le stesse risorse, budget, pianificazione e priorità. Ad esempio, un’agenzia di marketing potrebbe utilizzare un portfolio per raggruppare tutti i progetti di un particolare cliente.
 
-Passa a **[!UICONTROL Portfoli]** dalla sezione [!UICONTROL Menu principale], quindi fai clic sul nome di un portfolio per aprirlo.
+Accedi a **[!UICONTROL Portfoli]** sezione dalla sezione [!UICONTROL Menu principale], quindi fai clic sul nome di un portfolio per aprirlo.
 
 È possibile utilizzare **[!UICONTROL Nuovo progetto]** per aggiungere facilmente un progetto esistente al portfolio. Oppure puoi creare un nuovo progetto direttamente nel portfolio.
 
-![Immagine del menu a discesa per [!UICONTROL Nuovo progetto] pulsante](assets/01-portfolio-management3.png)
+![Un&#39;immagine del menu a discesa per [!UICONTROL Nuovo progetto] pulsante](assets/01-portfolio-management3.png)
 
-Una volta aggiunto il portfolio, puoi utilizzare le informazioni di riepilogo nell’intestazione della pagina per ottenere una visione di alto livello del contributo positivo o negativo della raccolta di progetti agli obiettivi generali.
+Una volta aggiunti i progetti al portfolio, puoi utilizzare le informazioni di riepilogo nell’intestazione della pagina per ottenere una visione di alto livello del modo in cui questa raccolta di progetti contribuisce, positivamente o negativamente, agli obiettivi generali del portfolio.
 
-![Immagine delle informazioni di riepilogo del portfolio nell’intestazione della pagina](assets/02-portfolio-management1.png)
+![Immagine delle informazioni di riepilogo del portfolio nell&#39;intestazione della pagina](assets/02-portfolio-management1.png)
 
-Puoi anche utilizzare lo strumento di ottimizzazione del portfolio per assegnare priorità ai progetti che supportano gli obiettivi strategici generali.
+Puoi utilizzare lo strumento di ottimizzazione del portfolio (alias [!UICONTROL Ottimizzatore Portfolio]) per assegnare la priorità ai progetti in base a valore netto, allineamento, costi, rischi e ROI.
 
-![Un’immagine che mostra come assegnare priorità ai progetti in un portfolio](assets/03-portfolio-management2.png)
+![Un’immagine che mostra come assegnare le priorità ai progetti in un portfolio](assets/03-portfolio-management2.png)
 
 ## Accesso ai portfolio
 
-Per utilizzare i portfolio, è necessario che ti sia assegnata una licenza Plan in [!DNL Workfront] e dispongono di un livello di accesso assegnato che ti dà le autorizzazioni per lavorare con i portfolio.
+Per lavorare con i portfolio, devi disporre di una licenza Pianificazione in Workfront e di un livello di accesso che ti dia le autorizzazioni per lavorare con i portfolio.
 
-Quando viene creato un portfolio, solo il creatore o il manager del portfolio ne ha accesso. Puoi dare accesso al portfolio condividendolo. Ciò consente anche l&#39;accesso ai programmi e ai progetti creati all&#39;interno del portafoglio.
+Quando viene creato un portfolio, solo il creatore o il manager del portfolio vi ha accesso. Puoi consentire ad altri utenti di accedere al portfolio condividendolo. Ciò consente anche di accedere a tutti i programmi e progetti all&#39;interno del portfolio.
 
-Apri il portfolio e fai clic sul menu a tre punti, quindi seleziona **[!UICONTROL Condivisione]**. Aggiungi i singoli utenti, i team, i ruoli di lavoro, i gruppi o le aziende a cui è necessario accedere. Quindi, determina il tipo di accesso che ciascuno deve avere: gestire o visualizzare.
+Apri il portfolio e fai clic sul menu a tre punti, quindi seleziona **[!UICONTROL Condivisione]**. Aggiungi i singoli utenti, i team, le mansioni, i gruppi o le aziende a cui deve essere consentito l’accesso. Quindi, determina il tipo di accesso che ciascuno deve avere: gestire o visualizzare.
 
-![Un&#39;immagine del [!UICONTROL Condivisione] in un [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+![Un&#39;immagine del [!UICONTROL Condivisione] opzione in un [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
 
 <!--
 Pro-tips graphic
-If a user can’t access a specific portfolio, make sure it’s shared with them. The Workfront access level determines that a user can access portfolios in general, but sharing makes sure they can see specific portfolios. 
+If a user can't access a specific portfolio, make sure it's shared with them. The Workfront access level determines that a user can access portfolios in general, but sharing makes sure they can see specific portfolios. 
 -->
 
 <!--
