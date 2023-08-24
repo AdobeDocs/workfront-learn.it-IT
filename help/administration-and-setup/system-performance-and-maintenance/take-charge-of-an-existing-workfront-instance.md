@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ Nell’elenco di controllo Istanza ereditata, esaminerai una serie completa di d
 
 L’elenco di controllo è stato creato sia come blueprint di Workfront che come foglio di calcolo Excel scaricabile. È consigliabile utilizzare la blueprint per gestire e documentare il lavoro direttamente in Workfront.
 
-Sia la blueprint che il foglio di calcolo sono organizzati per argomento, anziché per timeline, in modo da poter procedere nel modo più logico per te e per la tua organizzazione. . Le durate fornite sono solo un esempio e è necessario regolarle in base alle esigenze specifiche. Questo non deve essere fatto tutto in una sola seduta!
+Sia la blueprint che il foglio di calcolo sono organizzati per argomento, anziché per timeline, in modo da poter procedere nel modo più logico per te e per la tua organizzazione. Le durate fornite sono solo un esempio e è necessario regolarle in base alle esigenze specifiche. Questo non deve essere fatto tutto in una sola seduta!
 
 Laddove possibile, ti invitiamo a collaborare con altri nella tua organizzazione per rivedere e documentare questi elementi e a mantenere la documentazione aggiornata in caso di modifiche importanti. I futuri amministratori nella tua istanza ti ringrazieranno.
 
-* Per scaricare la blueprint, passa al menu principale nella tua istanza di Workfront e seleziona Blueprint. Trova la blueprint intitolata &quot;Nozioni di base sull’istanza ereditata&quot; | Elenco di controllo&quot; e fare clic su Installa. Scegli l’ambiente di produzione o sandbox e continua a configurare. Ulteriori informazioni sull&#39;installazione e la configurazione dei blueprint sono disponibili [qui](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>Per scaricare la blueprint</b>, passa al menu principale nella tua istanza di Workfront e seleziona Blueprint. Trova la blueprint intitolata &quot;Nozioni di base sull’istanza ereditata&quot; | Elenco di controllo&quot; e fare clic su Installa. Scegli l’ambiente di produzione o sandbox e continua a configurare. Ulteriori informazioni sull&#39;installazione e la configurazione dei blueprint sono disponibili [qui](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Per scaricare l&#39;elenco di controllo di Excel, fare clic su [qui](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Per scaricare Excel</b> elenco di controllo, fai clic su [qui](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Che si utilizzi la blueprint o l’elenco di controllo Excel, questo processo è suddiviso in 3 fasi chiave: individuazione, controllo e documentazione. Le descrizioni e i risultati ideali sono elencati di seguito.
 
