@@ -10,9 +10,9 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,24 @@ ht-degree: 0%
 
 La cosa meravigliosa di Workfront è che è così personalizzabile. La cosa difficile di Workfront è che è così personalizzabile. Se sei un nuovo sistema, o un nuovo gruppo, o un amministratore che sostituisce un’istanza di Workfront esistente, può essere difficile capire come sia stata configurata e configurata originariamente.
 
-Tuttavia, tramite l’elenco di controllo delle istanze ereditate, puoi imparare tutto ciò che devi sapere sull’istanza.\
-<br>
-</br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Scarica l’elenco di controllo delle istanze ereditate </span>
-</a>
+Tuttavia, tramite l’elenco di controllo delle istanze ereditate, puoi imparare tutto ciò che devi sapere sull’istanza.
 
-![Immagine elenco di controllo istanza ereditata](assets/wf-inherited-instance-imagel.jpg)
+![Immagine elenco di controllo istanza ereditata](assets/wf-inherited-instance-image.png)
+<br></br>
 
-In questo elenco di controllo esaminerai un set completo di domande, risorse e collegamenti per comprendere chiaramente come è stato configurato.
+Nell’elenco di controllo Istanza ereditata, esaminerai una serie completa di domande, risorse e collegamenti per comprendere chiaramente come è stata configurata.
 
-Inoltre, sono state delineate tre fasi chiave che verranno esaminate: individuazione, controllo e documentazione con le durate consigliate. Questi possono essere regolati in base alle tue esigenze specifiche e non devono essere eseguiti tutti in una sola seduta!
+L’elenco di controllo è stato creato sia come blueprint di Workfront che come foglio di calcolo Excel scaricabile. È consigliabile utilizzare la blueprint per gestire e documentare il lavoro direttamente in Workfront.
 
-Le schede nel foglio di calcolo sono organizzate per argomento anziché per cronologia, in modo da poter avanzare nel documento nel modo più appropriato per te e per la tua organizzazione.
+Sia la blueprint che il foglio di calcolo sono organizzati per argomento, anziché per timeline, in modo da poter procedere nel modo più logico per te e per la tua organizzazione. . Le durate fornite sono solo un esempio e è necessario regolarle in base alle esigenze specifiche. Questo non deve essere fatto tutto in una sola seduta!
 
-Laddove possibile, ti invitiamo a collaborare con altri nella tua organizzazione per rivedere e documentare questi elementi e a mantenere questo documento aggiornato in caso di modifiche importanti. I futuri amministratori nella tua istanza ti ringrazieranno.
+Laddove possibile, ti invitiamo a collaborare con altri nella tua organizzazione per rivedere e documentare questi elementi e a mantenere la documentazione aggiornata in caso di modifiche importanti. I futuri amministratori nella tua istanza ti ringrazieranno.
 
+* Per scaricare la blueprint, passa al menu principale nella tua istanza di Workfront e seleziona Blueprint. Trova la blueprint intitolata &quot;Nozioni di base sull’istanza ereditata&quot; | Elenco di controllo&quot; e fare clic su Installa. Scegli l’ambiente di produzione o sandbox e continua a configurare. Ulteriori informazioni sull&#39;installazione e la configurazione dei blueprint sono disponibili [qui](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Per scaricare l&#39;elenco di controllo di Excel, fare clic su [qui](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Che si utilizzi la blueprint o l’elenco di controllo Excel, questo processo è suddiviso in 3 fasi chiave: individuazione, controllo e documentazione. Le descrizioni e i risultati ideali sono elencati di seguito.
 
 <br>
 </br>
@@ -97,6 +98,7 @@ Passando attraverso ogni fase e con l’aiuto dell’elenco di controllo Istanza
 </br>
 
 Ulteriori informazioni sono disponibili qui di seguito:
+* [Webinar: suggerimenti per acquisire un’istanza ereditata](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Definizione degli obiettivi per l’implementazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Post sul blog: Sponsorizzazione esecutiva e valore per la leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Post di blog: introduzione ai KPI di Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
