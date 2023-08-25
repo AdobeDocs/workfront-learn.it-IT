@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Il [!UICONTROL Nuova bozza] L’e-mail contiene anche informazioni essenziali su
 * Il numero di versione consente di sapere quale versione della bozza verrà esaminata.
 * E, soprattutto, la scadenza viene visualizzata in due posizioni nell’e-mail, proprio sopra la sezione dei dettagli della bozza e nella barra grigia per la fase del flusso di lavoro di cui fai parte.
 
-Quando sei pronto per iniziare la tua recensione, tutto quello che devi fare è fare clic sul blu [!UICONTROL Vai alla bozza] e il file si apre automaticamente in [!DNL Workfront’s] visualizzatore di bozze.
+Quando sei pronto per iniziare la tua recensione, tutto quello che devi fare è fare clic sul blu [!UICONTROL Vai alla bozza] e il file si apre automaticamente nel [!DNL Workfront] visualizzatore di bozze.
 
 ### Apri una bozza da [!UICONTROL Home]
 
