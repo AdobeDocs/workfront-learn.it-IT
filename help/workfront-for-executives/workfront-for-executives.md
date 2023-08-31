@@ -13,14 +13,21 @@ hidefromtoc: true
 jira: KT-null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '500'
 ht-degree: 1%
 
 ---
 
 # Workfront per utenti direzionali
+
+In qualità di dirigente, Adobe Workfront può:
+
+* Tieniti informato sullo svolgimento del lavoro che ti preoccupa **rapporti e dashboard**
+* Offri un modo semplice per **comunicare con le parti interessate del progetto utilizzando gli aggiornamenti**
+* Offri un modo semplice per **effettuare una richiesta di lavoro**
+* Offri un modo semplice per vedere **elementi in attesa della tua approvazione**
 
 ## Report e dashboard
 
@@ -40,7 +47,7 @@ Fai clic su Dashboard dall’icona del menu principale nell’angolo superiore d
 
 I leader possono accedere alle diverse dashboard disponibili dalla navigazione nel pannello a sinistra.
 
-![Immagine dell&#39;opzione Dashboard nel menu principale](assets/workfront-4-executives-2.png)
+![Immagine della pagina Dashboard](assets/workfront-4-executives-2.png)
 
 * **Tutti i dashboard**: visualizza le dashboard create da te o da altri utenti e per le quali disponi almeno delle autorizzazioni di visualizzazione.
 * **I miei dashboard**: visualizza le dashboard create.
@@ -54,6 +61,13 @@ I report in Workfront possono aiutare a responsabilizzare i dipendenti. La chiav
 
 Esempio di rapporti in un dashboard in Workfront
 
+## Comunicazione con le parti interessate al progetto tramite aggiornamenti
+
+Comunicare con il team del progetto all’interno del progetto stesso in modo che tutte le comunicazioni del progetto siano facilmente accessibili.
+
+![Immagine della pagina Aggiornamenti](assets/workfront-4-executives-4.png)
+
+
 ## Fai una richiesta
 
 In molte organizzazioni, il primo passo per avviare un nuovo progetto, sviluppare un nuovo prodotto o creare un risultato finale è effettuare una richiesta in Workfront. Puoi tenere traccia dell’avanzamento della richiesta e fornire informazioni aggiuntive quando necessario.
@@ -65,3 +79,10 @@ Questo video illustra come:
 * Visualizzare le richieste inviate
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+
+## Elementi in attesa della tua approvazione
+
+In entrata [!UICONTROL Home] puoi trovare facilmente gli elementi in attesa della tua approvazione.
+
+![Immagine della home page](assets/workfront-4-executives-5.png)
+
