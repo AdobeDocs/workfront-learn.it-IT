@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,24 @@ Questo video illustra come:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## Creare un modello con blueprint
+## Modelli creati con [!UICONTROL Blueprint]
 
-Gli amministratori di sistema possono utilizzare i blueprint per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
-
-Sebbene sia possibile utilizzare i modelli di progetto creati con i blueprint durante la creazione di progetti, non è possibile applicare una blueprint direttamente durante la creazione di un nuovo progetto, ad esempio per convertire un’attività o una richiesta in un progetto. Una distinzione chiave tra blueprint e modello di progetto è che un blueprint viene utilizzato per creare un modello, mentre un modello di progetto viene utilizzato per creare un progetto.
+Gli amministratori di sistema possono utilizzare [!UICONTROL Blueprint] per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
 
 ![Blueprint nel menu principale](assets/pt-blueprints-01.png)
 
-Per installare una blueprint negli ambienti di produzione o sandbox, seleziona Blueprint nel menu principale. Sfoglia il catalogo o utilizza l’opzione Filtra per tipo presente nel menu di filtraggio a destra per individuare e installare la blueprint più adatta al tuo progetto. Se necessario, configura i dettagli del modello di progetto, ad esempio la mappatura dei ruoli della blueprint ai ruoli dell’organizzazione, prima di installare la blueprint. Dopo aver installato la blueprint, puoi apportare modifiche al nuovo modello in base alle esigenze della tua organizzazione.
+In qualità di planner, puoi sfogliare l’elenco dei blueprint disponibili in Workfront. Non è possibile applicare una blueprint direttamente durante la creazione di un nuovo progetto (ad esempio, quando si converte un’attività o una richiesta in un progetto). Una distinzione chiave tra blueprint e modello di progetto è che un blueprint viene utilizzato per creare un modello, mentre un modello di progetto viene utilizzato per creare un progetto. Per poter creare il modello corrispondente, il blueprint deve essere installato da un amministratore di sistema.
+
+Se trovi una blueprint interessante, puoi fare clic su **[!UICONTROL Dettagli]** per saperne di più.
+
+![Elenco dei blueprint](assets/pt-blueprints-02.png)
+
+Il [!UICONTROL Dettagli] nella schermata vengono fornite ulteriori informazioni sul blueprint, inclusa la cronologia di installazione se il blueprint è stato installato.
+
+![Dettagli sull’utilizzo di una blueprint](assets/pt-blueprints-03.png)
+
+Se il blueprint è stato installato, puoi fare clic su **[!UICONTROL Vedi i dettagli]** per ottenere i collegamenti al modello creato e a qualsiasi altro oggetto creato per supportare il modello.
+
+![Dettagli sull’installazione di una blueprint](assets/pt-blueprints-04.png)
+
+Se il blueprint non è ancora stato installato, puoi richiederlo all’amministratore di sistema.
