@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '2416'
+source-wordcount: '2422'
 ht-degree: 2%
 
 ---
@@ -211,10 +211,6 @@ ht-degree: 2%
       + [Creare dashboard](reporting/basic-reporting/create-dashboards.md)
       + [Inviare e condividere i rapporti](reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Comprendere le impostazioni dei rapporti](reporting/basic-reporting/report-settings.md)
-      + [Interfaccia del calendario](reporting/basic-reporting/tour-of-the-interface.md)
-      + [Creare un calendario personalizzato](reporting/basic-reporting/creating-custom-calendars.md)
-      + [Informazioni sulle opzioni aggiuntive del calendario](reporting/basic-reporting/additional-calendar-options.md)
-      + [Tocca a te creare un calendario](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Reportistica intermedia {#intermediate-reporting}
       + [Creare filtri con caratteri jolly basati sull&#39;utente](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -233,6 +229,12 @@ ht-degree: 2%
       + [Reporting avanzato - Parte 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Reporting avanzato - Parte 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Reporting avanzato - Parte 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
+   + Report calendario {#calendar-reports}
+      + [Interfaccia dei report del calendario](reporting/basic-reporting/tour-of-the-interface.md)
+      + [Creare un rapporto calendario personalizzato](reporting/basic-reporting/creating-custom-calendars.md)
+      + [Comprendere le opzioni aggiuntive per i rapporti sul calendario](reporting/basic-reporting/additional-calendar-options.md)
+      + [Tocca a te creare un rapporto sul calendario](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Funzionalità di analisi avanzate {#enhanced-analytics}
       + [Un momento con Product: [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
@@ -562,10 +564,10 @@ ht-degree: 2%
 
    + Utente di Brand Connect {#brand-connect}
       + [Comprendere [!UICONTROL Brand Connect] come utente](workfront-dam/brand-connect-user/brand-connect-introduction.md)
+      + [Comprendere la navigazione e la ricerca come utente](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [Comprendere [!UICONTROL Brand Connect] notifiche](workfront-dam/brand-connect-user/brand-connect-notifications.md)
       + [Comprendere il download e la condivisione come utente](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
       + [Comprendere lightbox come utente](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-      + [Comprendere la navigazione e la ricerca come utente](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [Utilizzare le risorse come utente](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}

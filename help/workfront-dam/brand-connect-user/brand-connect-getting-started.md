@@ -1,5 +1,5 @@
 ---
-title: Connessione marchio in [!UICONTROL DAM WORKFRONT] Spiegazione
+title: Comprendere la navigazione e la ricerca come utente
 description: Informazioni su Brand Connect [!UICONTROL DAM WORKFRONT] è e come navigarlo.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Brand Connect: guida introduttiva
+# Brand Connect: comprendere la navigazione e la ricerca come utente
 
 Questo video illustra:
 
@@ -55,7 +55,7 @@ Per trovare una frase esatta, racchiuderla tra virgolette. Tutte le parole saran
 
 ### Operatore negativo
 
-Se si desidera escludere una parola dai risultati della ricerca, inserire un segno meno (-) davanti alla parola. Assicurati che non vi sia uno spazio tra il segno meno e la parola. Ad esempio, per escludere le risorse i cui metadati contengono la parola &quot;tower&quot;, la ricerca potrebbe essere impostata come Paris -tower.
+Se si desidera escludere una parola dai risultati della ricerca, inserire un segno meno (-) davanti alla parola. Assicurarsi che non vi sia uno spazio tra il segno meno e la parola. Ad esempio, per escludere le risorse i cui metadati contengono la parola &quot;tower&quot;, la ricerca potrebbe essere impostata come Paris -tower.
 
 ### Operatore campo vuoto
 
@@ -65,8 +65,8 @@ Per trovare le risorse prive di informazioni in un campo di metadati specifico, 
 
 Le linee guida per i marchi sono un insieme di regole che spiegano come funziona il marchio della tua organizzazione. Queste linee guida, chiamate anche standard del marchio, guide di stile, manuali di marchio o guide di identità del marchio, possono includere:
 
-* Panoramica della storia, della visione, della personalità e del tono della voce del tuo marchio.
-* I comportamenti o i comportamenti di utilizzo del logo aziendale.
+* Panoramica della storia, della visione, della personalità e del tono di voce del tuo marchio.
+* La necessità o meno di utilizzare il logo aziendale.
 * Esempi di font approvati per la stampa e il Web.
 * Raggruppamenti dei colori primari e secondari della società.
 * Esempi di stile di immagine e foto che funzionano bene con il marchio.
