@@ -1,6 +1,6 @@
 ---
 title: Workfront per utenti direzionali
-description: Scopri come accedere a rapporti e dashboard, effettuare richieste e rivederle.
+description: Scopri come Workfront può aiutarti a gestire il lavoro nella tua organizzazione.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,17 +10,19 @@ team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: true
 hidefromtoc: true
-jira: KT-null
+jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
+source-git-commit: e272158326592cdb50195a00668b9cb60e4cb659
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
 # Workfront per utenti direzionali
+
+Scopri come Workfront può aiutarti a gestire il lavoro nella tua organizzazione.
 
 In qualità di dirigente, Adobe Workfront può:
 
