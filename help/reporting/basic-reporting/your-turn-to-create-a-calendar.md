@@ -1,5 +1,5 @@
 ---
-title: Tocca a te creare un calendario
+title: Tocca a te creare un rapporto sul calendario
 description: Scopri come creare un calendario del cliente con le attività e i problemi incompleti.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 1%
 
 ---
 
-# Tocca a te creare un calendario
+# Tocca a te creare un rapporto sul calendario
 
 In questa attività ti occuperai della creazione del tuo calendario.
 
