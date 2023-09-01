@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2426'
 ht-degree: 2%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 2%
       + [Applica milestone](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Creare e gestire modelli di progetto {#create-and-manage-project-templates}
-      + [Creare un modello di progetto](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Creare un modello di progetto e scoprire i blueprint](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Creare un progetto direttamente da un modello](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Condividere un modello di progetto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copia un progetto esistente](manage-work/manage-projects/copy-an-existing-project.md)

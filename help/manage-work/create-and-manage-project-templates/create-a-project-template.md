@@ -1,6 +1,6 @@
 ---
-title: Creare un modello di progetto
-description: Scopri come creare un modello di progetto da zero e da un modello esistente.
+title: Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
+description: Scopri come creare un modello di progetto da zero o da un modello esistente [!UICONTROL Blueprint] può offrirti l’accesso a un mondo di utili modelli di progetto creati da esperti Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,17 +8,22 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
-# Creare un modello di progetto
+# Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
+
+Scopri come creare un modello di progetto da zero o da un modello esistente [!UICONTROL Blueprint] può offrirti l’accesso a un mondo di utili modelli di progetto creati da esperti Workfront.
+
+## Creare un modello di progetto
 
 Questo video illustra come:
 
@@ -29,11 +34,11 @@ Questo video illustra come:
 
 ## Modelli creati con [!UICONTROL Blueprint]
 
-Gli amministratori di sistema possono utilizzare [!UICONTROL Blueprint] per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
+Gli utenti di Workfront possono utilizzare [!UICONTROL Blueprint] per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
 
 ![Blueprint nel menu principale](assets/pt-blueprints-01.png)
 
-In qualità di planner, puoi sfogliare l’elenco dei blueprint disponibili in Workfront. Non è possibile applicare una blueprint direttamente durante la creazione di un nuovo progetto (ad esempio, quando si converte un’attività o una richiesta in un progetto). Una distinzione chiave tra blueprint e modello di progetto è che un blueprint viene utilizzato per creare un modello, mentre un modello di progetto viene utilizzato per creare un progetto. Per poter creare il modello corrispondente, il blueprint deve essere installato da un amministratore di sistema.
+Qualsiasi utente con licenza può sfogliare l’elenco dei blueprint disponibili in Workfront. Non è possibile applicare una blueprint direttamente durante la creazione di un nuovo progetto (ad esempio, quando si converte un’attività o una richiesta in un progetto). Una differenza fondamentale tra una blueprint e un modello di progetto è che viene utilizzato un blueprint per creare un modello, mentre un modello viene utilizzato per creare un progetto. **Per poter creare il modello corrispondente, il blueprint deve essere installato da un amministratore di sistema.**
 
 Se trovi una blueprint interessante, puoi fare clic su **[!UICONTROL Dettagli]** per saperne di più.
 
