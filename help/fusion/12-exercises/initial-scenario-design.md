@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,12 @@ ht-degree: 0%
 # Progettazione scenario iniziale
 
 Scopri alcuni suggerimenti di base per la navigazione quando accedi a Workfront Fusion per la prima volta, nonché per la creazione del primo scenario.
+
+## Prerequisiti
+
+1. Questo esercizio richiede un&#39;unità di prova Workfront. Puoi richiederne uno compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome della società a wfttstdr@adobe.com.
+1. Gli esercizi di fusione presuppongono che tu abbia guardato il video della procedura dettagliata che corrisponde all’esercizio. In questo caso è [Procedura dettagliata sulla progettazione dello scenario iniziale](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+
 
 ## Panoramica dell’esercizio
 
@@ -48,7 +54,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
    ![Immagine progettazione scenario iniziale 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Inserisci l’URL dell’istanza di Workfront, quindi fai clic su Avanti.
+1. Inserisci l’URL di **istanza Workfront**, quindi fare clic su Avanti.
 
    ![Immagine progettazione scenario iniziale 5](../12-exercises/assets/initial-scenario-design-5.png)
 

@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -45,11 +45,18 @@ Per visualizzare il file combinato non è richiesto altro. Fai clic su [!UICONTR
 
 ![Immagine del visualizzatore bozze con una bozza multipagina visibile.](assets/combine-proofs-2.png)
 
+## E la combinazione di file video?
+
+Spiacenti, non è possibile combinare file Rich Media quando nell’elenco sono presenti file Rich Media come video, animazioni e URL interattivi.
+
+![Immagine del messaggio di errore che indica che non è possibile combinare file video.](assets/combine-proofs-2.png)
+
+
 ## Tocca a te
 
 >[!IMPORTANT]
 >
->Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte del tuo corso di formazione su Workfront.
+>Ricorda ai tuoi colleghi che stai per inviare loro una bozza come parte del tuo corso di formazione su Workfront.
 
 
 Trova tre o quattro file (PDF, file di testo, ecc.) sul computer.

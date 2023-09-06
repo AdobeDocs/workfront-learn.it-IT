@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: cbeb3387107da639899ab22e4372200356551154
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 Prima di iniziare a rivedere una bozza, assicurati di sapere cosa ci si aspetta da te. Qual è il tuo ruolo nel flusso di lavoro di verifica? Rivedere la bozza, approvarla o entrambe?
 
-In qualità di editor di copie, potresti essere interessato a esaminare la bozza per individuare errori grammaticali ed errori di ortografia. I team di marketing e creativi possono concentrarsi sulla progettazione della risorsa e assicurarsi che venga seguito il branding aziendale. I team legali possono garantire che la formulazione di un contratto di servizi sia ineccepibile. Inoltre, un project manager può assicurarsi che il contenuto rivisto soddisfi le finalità e gli obiettivi del progetto a cui è associato.
+In qualità di editor di copie, potresti essere interessato a esaminare la bozza per individuare errori grammaticali ed errori di ortografia. I team di marketing e creativi possono concentrarsi sulla progettazione della risorsa e assicurarsi che venga seguito il branding aziendale. I team legali possono garantire che la formulazione di un contratto di servizi sia ineccepibile. Un project manager può inoltre assicurarsi che il contenuto esaminato soddisfi le finalità e gli obiettivi del progetto a cui è associato.
 
-Potrebbe essere richiesto di approvare anche la bozza. L’approvazione di una bozza significa che stai dicendo, &quot;questo lavoro è a posto e pronto&quot;. Oppure potreste dover dire: &quot;Questo lavoro richiede delle modifiche, rimandatelo indietro per le revisioni.&quot;
+Potrebbe essere richiesto di approvare anche la bozza. L&#39;approvazione di una bozza significa che stai dicendo, &quot;questo lavoro è a posto e pronto&quot;. Oppure potreste dover dire: &quot;Questo lavoro richiede delle modifiche, rimandatelo indietro per le revisioni.&quot;
 
-Una volta ottenute le informazioni necessarie, puoi iniziare a rivedere una bozza.
+Una volta ottenute le informazioni necessarie, puoi iniziare a esaminare una bozza.
 
 ## Ricevi una bozza da rivedere
 
@@ -39,19 +39,19 @@ Tieni presente che questo collegamento alla bozza è per te specifico. Se condiv
 Il [!UICONTROL Nuova bozza] L’e-mail contiene anche informazioni essenziali sulla bozza:
 
 * Il nome della bozza è l’oggetto dell’e-mail.
-* L’anteprima consente di vedere rapidamente cosa rivederai.
+* L&#39;anteprima consente di vedere rapidamente ciò che verrà esaminato.
 * Il numero di versione consente di sapere quale versione della bozza verrà esaminata.
-* E, soprattutto, la scadenza viene visualizzata in due posizioni nell’e-mail, proprio sopra la sezione dei dettagli della bozza e nella barra grigia per la fase del flusso di lavoro di cui fai parte.
+* E, soprattutto, la scadenza viene visualizzata in due punti nell’e-mail, proprio sopra la sezione dei dettagli della bozza e nella barra grigia per la fase del flusso di lavoro di cui fai parte.
 
 Quando sei pronto per iniziare la tua recensione, tutto quello che devi fare è fare clic sul blu [!UICONTROL Vai alla bozza] e il file si apre automaticamente nel [!DNL Workfront] visualizzatore di bozze.
 
 ### Apri una bozza da [!UICONTROL Home]
 
-Se lavori in [!DNL Workfront] e ti è stato chiesto di approvare una bozza, troverai un’assegnazione nella sezione [!UICONTROL Elenco lavori] di [!DNL Workfront] [!UICONTROL Home]. È utile selezionare solo [!UICONTROL Approvazioni] dal [!UICONTROL Filtro]quindi puoi concentrarti su quel tipo di lavoro.
+Se lavori in [!DNL Workfront] e a cui è stato chiesto di approvare una bozza, troverai un’assegnazione nella sezione [!UICONTROL Elenco lavori] di [!DNL Workfront] [!UICONTROL Home]. È utile selezionare solo [!UICONTROL Approvazioni] dal [!UICONTROL Filtro]quindi puoi concentrarti su quel tipo di lavoro.
 
 ![Immagine di [!DNL Workfront] [!UICONTROL Home] con [!UICONTROL Approvazioni] filtro attivato e una bozza selezionata dall’elenco.](assets/open-proof-from-home.png)
 
-È importante notare che le bozze vengono visualizzate in [!DNL Workfront] [!UICONTROL Home] solo se ti è stato assegnato il compito di approvarlo. Se ti è stato appena chiesto di rivedere solo la bozza, questa non verrà visualizzata in [!DNL Workfront] [!UICONTROL Home] quando selezioni [!UICONTROL Approvazioni]dall’elenco dei filtri.
+È importante notare che le bozze vengono visualizzate in [!DNL Workfront] [!UICONTROL Home] solo se hai il compito di approvarlo. Se ti è stato appena chiesto di rivedere solo la bozza, questa non verrà visualizzata in [!DNL Workfront] [!UICONTROL Home] quando selezioni [!UICONTROL Approvazioni]dall’elenco dei filtri.
 
 Seleziona l’approvazione della bozza in [!UICONTROL Elenco lavori], quindi fare clic su [!UICONTROL Vai alla bozza] per aprirlo nel visualizzatore di bozze.
 
@@ -69,6 +69,16 @@ Se lavori normalmente con progetti, attività o problemi in [!DNL Workfront], è
 2. Clic [!UICONTROL Documenti] nel menu del pannello sinistro della pagina dell’elemento.
 3. Trova la bozza in [!UICONTROL Documenti] elenco.
 4. Fai clic su [!UICONTROL Apri bozza] per aprire il visualizzatore di bozze.
+
+## Come approvare una bozza
+
+Dopo aver aperto una bozza verrà visualizzata una **Decidi** in alto, accanto a **Aggiungi commento**. Se non sei un approvatore per questa bozza, questo pulsante non viene visualizzato.
+
+![Immagine del primo pulsante Scegli.](assets/make-decision-1.png)
+
+Quando sei pronto a prendere una decisione, fai clic su **Decidi** per visualizzare le opzioni di decisione. Seleziona la scelta, quindi fai clic sull’altra **Decidi** qui sotto.
+
+![Un’immagine del secondo pulsante Prendi decisione.](assets/make-decision-2.png)
 
 ## Rivedere e approvare una bozza
 
