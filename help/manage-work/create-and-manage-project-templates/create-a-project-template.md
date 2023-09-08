@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
+source-git-commit: 507f4b74d990dfe13ea2e167e90663142fa13e9d
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
 
-Scopri come creare un modello di progetto da zero o da un modello esistente [!UICONTROL Blueprint] può offrirti l’accesso a un mondo di utili modelli di progetto creati da esperti Workfront.
+Scopri come creare un modello di progetto da zero o da un progetto esistente [!UICONTROL Blueprint] può offrirti l’accesso a un mondo di utili modelli di progetto creati da esperti Workfront.
 
 ## Creare un modello di progetto
 
