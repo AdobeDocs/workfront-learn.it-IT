@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -36,5 +36,5 @@ Questo video illustra come creare un processo di approvazione a utente singolo s
 >
 >Puoi impostare un’approvazione per singolo utilizzo su progetti e problemi nello stesso modo descritto per le attività nel video.
 >
->Se si desidera impostare approvazioni automatiche dei problemi, queste possono essere eseguite solo utilizzando un processo di approvazione globale dei problemi e applicate in un argomento della coda. Consulta [Creare una coda di richieste](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) per informazioni su come eseguire questa operazione.
+>Se si desidera impostare approvazioni automatiche dei problemi, queste possono essere eseguite solo utilizzando un processo di approvazione globale dei problemi e applicate in un argomento della coda. Consulta [Creare una coda di richieste](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) per informazioni su come eseguire questa operazione.
 
