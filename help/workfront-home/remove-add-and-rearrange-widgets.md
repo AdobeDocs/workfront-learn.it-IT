@@ -10,7 +10,7 @@ last-substantial-update: 2023-09-25T00:00:00Z
 jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
-source-git-commit: 1febdaea4c66540db39882404293ecd3fe9015e9
+source-git-commit: 72d187e0d0ba2bf09af518e0977faedd0885f50f
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -24,4 +24,7 @@ Scopri come rimuovere, aggiungere e ridisporre i widget nella home page.
 >[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on)
 
 
->[!NOTE] Ulteriori informazioni su ciascun widget sono disponibili sul [Introduzione alla nuova home in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) articolo.
+>[!NOTE]
+>
+> Ulteriori informazioni su ciascun widget sono disponibili nella sezione [Introduzione alla nuova home in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) articolo.
+
