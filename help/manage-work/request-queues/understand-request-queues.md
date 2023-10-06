@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Questo video illustra:
 
 Quando inizi a compilare un modulo di richiesta, [!DNL Workfront] salva automaticamente una bozza dopo aver compilato il [!UICONTROL Oggetto] campo. Ciò significa che non perderai dati se devi allontanarti dal [!UICONTROL Richieste] per eseguire un’altra operazione o se devi sospendere nel mezzo della richiesta per raccogliere ulteriori informazioni.
 
-Nella parte superiore della finestra viene visualizzata un’indicazione del salvataggio della bozza. [!DNL Workfront] salva una bozza della richiesta, anche se i campi obbligatori non sono ancora stati compilati.
+Nella parte superiore della finestra viene visualizzata un&#39;indicazione del salvataggio della bozza. [!DNL Workfront] salva una bozza della richiesta, anche se i campi obbligatori non sono ancora stati compilati.
 
 ![immagine di una bozza di richiesta in fase di creazione](assets/queue-mgt-make-a-request-draft-1.png)
 
