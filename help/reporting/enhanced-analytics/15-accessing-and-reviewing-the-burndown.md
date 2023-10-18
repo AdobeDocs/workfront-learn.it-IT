@@ -1,6 +1,6 @@
 ---
-title: Informazioni sull’accesso e la revisione del grafico a burn-down in [!UICONTROL Analisi avanzata]
-description: Scopri come accedere al grafico di burndown e comprendere la relazione tra le ore rimanenti, le condizioni del progetto e la velocità del progetto in Workfront.
+title: Informazioni sull'accesso e la revisione del grafico a dispersione
+description: Scopri come accedere al grafico a dispersione e comprendere la relazione tra le ore rimanenti, le condizioni del progetto e la velocità del progetto in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# Informazioni sull’accesso e la revisione del burn-down in [!UICONTROL Analisi avanzata]
+# Informazioni sull’accesso e la revisione del burn-down
 
 Questo video illustra:
 

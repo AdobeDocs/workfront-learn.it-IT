@@ -1,5 +1,5 @@
 ---
-title: Imposta mappatura metadati per [!UICONTROL DAM WORKFRONT]
+title: Impostare la mappatura dei metadati
 description: Scopri come impostare la mappatura dei metadati per [!UICONTROL DAM WORKFRONT].
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: Admin
 level: Intermediate
 jira: KT-10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
 
-# Mappatura metadati
+# Impostare la mappatura dei metadati
 
 [!DNL Workfront]Le informazioni relative a una risorsa possono essere trasferite da [!DNL Workfront] in [!UICONTROL DAM WORKFRONT] con la risorsa. L’opzione di mappatura dei metadati nel [!DNL Workfront] [!UICONTROL Configurazione] consente questo trasferimento di informazioni.
 

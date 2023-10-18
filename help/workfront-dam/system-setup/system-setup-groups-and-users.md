@@ -1,5 +1,5 @@
 ---
-title: Informazioni su gruppi e utenti in [!UICONTROL DAM WORKFRONT]
+title: Configurare gruppi e utenti
 description: Scopri come creare cartelle, gruppi e utenti in [!UICONTROL DAM WORKFRONT]. Comprendere i tipi di ruolo utente e concedere autorizzazioni alle cartelle.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-# Configurazione del sistema: gruppi e utenti
+# Configurare gruppi e utenti
 
 Questo video illustra come:
 
@@ -32,11 +32,11 @@ Questo video illustra come:
 
 ## Revisione di gruppi e utenti
 
-Durante la configurazione [!UICONTROL DAM WORKFRONT] è importante considerare il ruolo che gli utenti e i gruppi svolgono nel quadro generale.
+Durante la configurazione [!UICONTROL DAM WORKFRONT] è importante considerare il ruolo degli utenti e dei gruppi nel quadro generale.
 
 I gruppi controllano l’accesso alle cartelle di risorse in [!UICONTROL DAM WORKFRONT]. Le impostazioni del gruppo controllano anche le operazioni che gli utenti possono eseguire con le risorse (visualizzazione, download, modifica, ecc.) hanno l&#39;autorizzazione di accesso.
 
-Durante la creazione di gruppi, è fondamentale tenere presente a quali cartelle di risorse i membri di tale gruppo avranno bisogno di accedere in [!UICONTROL DAM WORKFRONT].
+Durante la creazione di gruppi, è fondamentale tenere presente le cartelle di risorse a cui i membri di quel gruppo dovranno accedere in [!UICONTROL DAM WORKFRONT].
 
 Gli utenti sono gli utenti che hanno effettuato l’accesso a [!UICONTROL DAM WORKFRONT]. Un utente non può accedere a nulla in [!UICONTROL DAM WORKFRONT] a meno che non siano assegnati a un gruppo. Gli utenti possono appartenere a più gruppi, a seconda delle loro esigenze.
 

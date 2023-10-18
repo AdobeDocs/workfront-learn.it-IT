@@ -1,6 +1,6 @@
 ---
-title: Comprendere il grafico dell’attività per team in [!UICONTROL Analisi avanzata]
-description: Il grafico Attività per team consente di comprendere in che modo i team principali dell’organizzazione trascorrono il loro tempo in Workfront.
+title: Grafico dell’attività per team
+description: Grafico Attività per team in [!UICONTROL Analisi avanzata] consente di comprendere in che modo i team della home page dell’organizzazione trascorrono il loro tempo in Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-# Comprendere il grafico dell’attività per team in [!UICONTROL Analisi avanzata]
+# Grafico dell’attività per team
 
 Il grafico Attività per team consente di comprendere in che modo i team principali dell’organizzazione trascorrono il loro tempo in Workfront. Gli utenti di Workfront possono appartenere a più team, ma possono appartenere a un solo team principale. I team utilizzati nei grafici Persone sono composti solo da utenti che dispongono di tale team designato come team principale.
 

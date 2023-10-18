@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
-# Comprendere le azioni in [!UICONTROL Analisi avanzata] - passa il puntatore del mouse, fai clic e trascina e fai clic su in
+# Comprendere le azioni: passa il mouse, fai clic e trascina e fai clic su in
 
 Questo video illustra:
 

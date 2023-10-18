@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 4%
 
 ---
 
-# Comprendere i grafici lavoro e persone in [!UICONTROL Analisi avanzata]
+# Comprendere i grafici lavoro e persone
 
 I grafici di lavoro mostrano l&#39;attività dal punto di vista del progetto e dell&#39;attività, mentre i grafici Persone mostrano l&#39;attività dal punto di vista di un team principale.
 
@@ -27,7 +27,7 @@ Seleziona il tipo di grafici Analytics da visualizzare (Lavoro o Persone) dal me
 
 ![Immagine che mostra come trovare [!UICONTROL Analytics] funzionalità in [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Quando apri i grafici Lavoro, per impostazione predefinita visualizzerai:
+Quando si passa ai diagrammi di lavoro, per impostazione predefinita vengono visualizzati i seguenti elementi:
 
 1. Statistiche KPI
 1. Piano di volo

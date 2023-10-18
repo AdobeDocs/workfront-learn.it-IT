@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Sono disponibili i seguenti widget:
 
 ## Aggiungi una barra di ricerca
 
-Se si progetta una pagina home personalizzata per l’organizzazione [!UICONTROL Brand Connect], gli utenti devono fare clic su nella [!UICONTROL Risorse] per eseguire una ricerca.
+Se si progetta una home page personalizzata per l&#39;organizzazione [!UICONTROL Brand Connect], gli utenti devono fare clic su nella [!UICONTROL Risorse] per eseguire una ricerca.
 
 Tuttavia, gli amministratori di sistema possono creare una barra di ricerca utilizzando il widget HTML e questo tag HTML:
 

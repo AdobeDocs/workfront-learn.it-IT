@@ -1,6 +1,6 @@
 ---
-title: Rivedi le attività in corso in [!UICONTROL Analisi avanzata]
-description: Scopri come accedere alla tabella Attività in volo e come vedere rapidamente quali attività non sono state completate in un progetto, il tutto in Workfront.
+title: Rivedi le attività in corso
+description: Scopri come accedere al grafico Attività in volo e come vedere rapidamente quali attività non sono state completate in un progetto, il tutto in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-# Rivedi le attività in corso in [!UICONTROL Analisi avanzata]
+# Rivedi le attività in corso
 
 Questo video illustra:
 

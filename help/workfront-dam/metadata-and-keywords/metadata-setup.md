@@ -1,5 +1,5 @@
 ---
-title: Come impostare i metadati in [!UICONTROL DAM WORKFRONT]
+title: Configurare i metadati
 description: Scopri come creare uno schema di metadati, comprendere i diversi tipi di metadati, utilizzare i campi di metadati esistenti e altro ancora in [!UICONTROL DAM WORKFRONT].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
 
-# Metadati e parole chiave: impostazione metadati
+# Configurare i metadati
 
 Questo video illustra come:
 
@@ -38,7 +38,7 @@ Di seguito sono riportate alcune best practice per iniziare a utilizzare i metad
 * Aggiungi i termini di utilizzo per le risorse gestite con diritti per evitare utilizzi impropri.
 * Aggiungi i metadati alle risorse non appena li carichi.
 * Implementa menu a discesa predefiniti per i dati di uso comune per evitare incoerenze.
-* Educare i collaboratori responsabili dell’aggiunta di metadati alla strategia dei metadati della tua organizzazione.
+* Forma i collaboratori responsabili dell’aggiunta di metadati alla strategia per i metadati della tua organizzazione.
 * Comunica i requisiti dei metadati ai fornitori esterni (ad esempio, &quot;Le foto devono essere inviate con i termini di utilizzo, il credito e i metadati della posizione già aggiunti&quot;).
 * Esegui controlli regolari per garantire che i metadati vengano aggiunti correttamente.
 

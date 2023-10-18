@@ -1,5 +1,5 @@
 ---
-title: Definire una visione e una strategia
+title: Stabilisci una visione e una strategia per la tua organizzazione
 description: Scopri come articolare il "cosa" e il "perché" durante la fase di pianificazione, gli obiettivi di esempio e l’ambito di influenza.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
 
-# Definire una visione e una strategia
+# Stabilisci una visione e una strategia per la tua organizzazione
 
 Questo video illustra:
 
@@ -37,7 +37,7 @@ Una cadenza tradizionale per un ciclo di pianificazione a lungo termine/a breve 
 
 Considera questi concetti durante la determinazione della cadenza appropriata per la tua organizzazione.
 
-* Nell’attuale contesto imprenditoriale, i fattori interni ed esterni sono più volatili e cambiano spesso. Per affrontare questi fattori in modo strategico, gli adeguamenti e le revisioni degli obiettivi a breve termine dovrebbero essere effettuati almeno ogni tre mesi.
+* Nell&#39;attuale ambiente aziendale, i fattori interni ed esterni sono più volatili e cambiano spesso. Per affrontare questi fattori in modo strategico, gli adeguamenti e le revisioni degli obiettivi a breve termine dovrebbero essere effettuati almeno ogni tre mesi.
 
 * Ogni revisione deve includere il tempo necessario per riflettere sui risultati e sulle attività passati e valutare la traiettoria aziendale per il futuro. Chiedi a te stesso e ai tuoi team...siamo ancora sulla buona strada?
 

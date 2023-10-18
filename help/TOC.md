@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2436'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 2%
       + [Comprendere i componenti di reporting](reporting/basic-reporting/reporting-components.md)
       + [Creare un raggruppamento di base](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Creare una visualizzazione di base](reporting/basic-reporting/create-a-basic-view.md)
-      + [Aggiungere formattazione condizionale di base](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [Aggiungere formattazione condizionale di base a una visualizzazione](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Creare un filtro di base](reporting/basic-reporting/create-a-basic-filter.md)
       + [Creare un’attività filtro di base](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Creare un rapporto semplice](reporting/basic-reporting/create-a-simple-report.md)
@@ -340,10 +340,10 @@ ht-degree: 2%
       + [Utilizzare i plug-in di Adobe Workfront per l’integrazione con Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configurazione in corso](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Configurazione dell’integrazione](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Mappatura dei metadati](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [Invio di documenti e collegamento di risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [Cronologia versioni](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [Gestione della cronologia delle versioni](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Migliora il tuo flusso di lavoro con l’integrazione con G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -396,7 +396,7 @@ ht-degree: 2%
       + [Modelli di instradamento comuni](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Procedura dettagliata sui modelli di instradamento](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [Set-it e get-it](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
-      + [Procedura dettagliata per ottenere/impostare le variabili](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Procedura dettagliata Get/Set variables](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
    + Iterazione e aggregazione {#iteration-and-aggregation}
       + [Introduzione agli iteratori](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
@@ -465,7 +465,7 @@ ht-degree: 2%
       + [Aaggregazione](fusion/12-exercises/aggregation.md)
       + [Aggregazione avanzata](fusion/12-exercises/advanced-aggregation.md)
       + [Cronologia di esecuzione](fusion/12-exercises/execution-history.md)
-      + [Esplorazione di esecuzioni, cicli e bundle](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Esplorazione di cicli di esecuzione e bundle](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Funzione switch](fusion/12-exercises/switch-function.md)
       + [Modulo switch](fusion/12-exercises/switch-module.md)
       + [Webhook](fusion/12-exercises/webhooks.md)
@@ -493,8 +493,8 @@ ht-degree: 2%
       + [Impostazioni per utenti bozza](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + Caricare bozze {#upload-proofs}
-      + [Che cos’è una versione di prova?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Chi carica le versioni della bozza?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Che cos’è una versione di prova](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [Chi carica le versioni della bozza](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertire un documento in una bozza](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Visualizzare e confrontare le versioni di una bozza](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Carica una versione di bozza](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 2%
       + [Configurare i metadati](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Personalizzazione di Brand Connect {#brand-connect-customization}
-      + [Cos’è [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Cos’è [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [Stabilire le impostazioni di sistema in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Aggiungere pagine personalizzate in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Creare linee guida per il brand in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

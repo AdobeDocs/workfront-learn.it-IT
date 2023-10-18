@@ -1,5 +1,5 @@
 ---
-title: Creare gli obiettivi in [!DNL Workfront Goals]
+title: Creare gli obiettivi
 description: Scopri come creare gli obiettivi in [!DNL Workfront Goals] utilizzando tre opzioni diverse.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '886'
+source-wordcount: '884'
 ht-degree: 0%
 
 ---
 
-# Creare gli obiettivi in [!DNL Workfront Goals]
+# Creare gli obiettivi
 
 In entrata [!DNL Workfront Goals], i dirigenti e i team di leadership aziendale possono vedere i progressi dell&#39;intera organizzazione a ogni livello, fino al singolo utente. [!DNL Workfront Goals] fornisce la visibilità necessaria per ottenere informazioni chiave fruibili al fine di promuovere le priorità più importanti, identificare gli obiettivi a rischio, diagnosticare i problemi in tempo reale e correggere in modo proattivo il corso.
 

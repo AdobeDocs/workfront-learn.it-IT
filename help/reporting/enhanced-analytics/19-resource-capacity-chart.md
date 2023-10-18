@@ -1,6 +1,6 @@
 ---
-title: Comprendere il grafico della capacità delle risorse in [!UICONTROL Analisi avanzata]
-description: Scopri in che modo il grafico Capacità risorse mostra il numero di ore pianificate assegnate a un team principale entro il periodo di tempo filtrato rispetto al totale delle ore disponibili del team.
+title: Comprendere il grafico della capacità delle risorse
+description: Scopri il grafico della capacità delle risorse in [!UICONTROL Analisi avanzata] mostra il numero di ore pianificate assegnate a un team principale entro il periodo di tempo filtrato rispetto al totale delle ore disponibili del team.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Comprendere il grafico della capacità delle risorse in [!UICONTROL Analisi avanzata]
+# Comprendere il grafico della capacità delle risorse
 
 Il grafico Capacità risorse mostra il numero di ore pianificate assegnate a un team principale nel periodo di tempo filtrato rispetto al totale delle ore disponibili del team.
 

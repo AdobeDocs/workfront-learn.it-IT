@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 4%
+source-wordcount: '280'
+ht-degree: 5%
 
 ---
 
-# Introduzione ad Adobe Workfront [!UICONTROL Analisi avanzata]
+# Introduzione a [!UICONTROL Analisi avanzata]
 
 Le funzioni di analisi avanzate consentono di vedere l&#39;avanzamento dei team e dei progetti in Workfront e gli eventi dei progetti passati, utili per pianificare i progetti futuri.
 

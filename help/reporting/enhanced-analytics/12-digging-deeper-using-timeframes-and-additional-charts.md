@@ -1,6 +1,6 @@
 ---
-title: Approfondisci l’utilizzo degli intervalli di tempo e dei grafici aggiuntivi in [!UICONTROL Analisi avanzata]
-description: Scopri come analizzare in profondità un progetto nel grafico del piano di volo per visualizzare il grafico Burndown e il grafico Attività in volo in Workfront.
+title: Approfondisci l’utilizzo di intervalli di tempo e grafici aggiuntivi
+description: Scopri come approfondire un progetto nel grafico del piano di volo per visualizzare il grafico Burndown e il grafico Attività in volo in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# Approfondisci l’utilizzo degli intervalli di tempo e dei grafici aggiuntivi in [!UICONTROL Analisi avanzata]
+# Approfondisci l’utilizzo di intervalli di tempo e grafici aggiuntivi
 
 Questo video illustra:
 

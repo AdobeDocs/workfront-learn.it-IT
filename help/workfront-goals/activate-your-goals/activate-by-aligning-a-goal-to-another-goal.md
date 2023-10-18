@@ -1,5 +1,5 @@
 ---
-title: Attivare un obiettivo allineandolo a un altro
+title: Attiva allineando un obiettivo a un altro
 description: Scopri come attivare un obiettivo in [!DNL Workfront Goals] allineandolo a un altro obiettivo.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-# Attivare allineando un obiettivo a un altro in [!DNL Workfront Goals]
+# Attiva allineando un obiettivo a un altro
 
 Quando allinei due obiettivi, uno diventerà l’obiettivo principale e l’altro un obiettivo secondario. Un obiettivo principale può avere più obiettivi secondari, ma un obiettivo secondario può essere allineato solo a un obiettivo principale.
 

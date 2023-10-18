@@ -1,5 +1,5 @@
 ---
-title: Comprendere i KPI in [!UICONTROL Analisi avanzata]
+title: Comprendere i KPI
 description: Scopri come ottenere valore dai dati dei KPI su ciò che accade nel presente e sulle tendenze del passato.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Comprendere i KPI in [!UICONTROL Analisi avanzata]
+# Comprendere i KPI
 
 Questo video illustra:
 

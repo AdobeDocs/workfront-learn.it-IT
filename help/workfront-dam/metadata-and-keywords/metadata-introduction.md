@@ -1,5 +1,5 @@
 ---
-title: Metadati e parole chiave in [!UICONTROL DAM WORKFRONT]
+title: Comprendere i metadati
 description: Scopri cosa verrà trattato in [!UICONTROL DAM WORKFRONT] Corso Amministratore, Parte 2 Metadati e parole chiave.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-# Metadati e parole chiave: introduzione al corso
+# Comprendere i metadati
 
 I metadati sono tutti i dati utilizzati per descrivere una risorsa. I campi metadati hanno un nome e gli utenti possono modificare o modificare le informazioni in molti di questi campi. Alcuni campi di metadati sono compilati dall’applicazione o dal dispositivo da cui proviene la risorsa e non possono essere modificati.
 

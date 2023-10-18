@@ -1,5 +1,5 @@
 ---
-title: Comprendere le visualizzazioni delle ore e della durata pianificate in [!UICONTROL Analisi avanzata]
+title: Comprendere le visualizzazioni ore e durata pianificate
 description: Nei grafici Burndown e Mappa ad albero progetto, è possibile visualizzare le informazioni in base alle ore o alla durata pianificate.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Comprendere le visualizzazioni delle ore e della durata pianificate in [!UICONTROL Analisi avanzata]
+# Comprendere le visualizzazioni ore e durata pianificate
 
 Nei grafici Burndown e Mappa ad albero progetto, puoi visualizzare le informazioni per ore o durata pianificate, a seconda di ciò che ritieni più preciso per il tuo ambiente Workfront.
 

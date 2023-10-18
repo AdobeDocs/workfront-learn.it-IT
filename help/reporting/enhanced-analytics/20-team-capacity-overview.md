@@ -1,6 +1,6 @@
 ---
-title: Comprendere la capacità del team in [!UICONTROL Analisi avanzata]
-description: Scopri come il grafico della capacità del team mostra quando un team principale è stato sovrassegnato o sottoassegnato.
+title: Comprendere la capacità del team
+description: Scopri il grafico della capacità del team in [!UICONTROL Analisi avanzata] mostra quando un team della home page è stato sovrassegnato o sottoassegnato.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-# Comprendere la capacità del team in [!UICONTROL Analisi avanzata]
+# Comprendere la capacità del team
 
 Il grafico Capacità team mostra quando un team principale è stato sovrassegnato o sottoassegnato. Il grafico mostra il volume di lavoro assegnato al team principale in un determinato giorno e assegna un colore blu più scuro quando si stanno avvicinando al esaurimento o non sono in discussione. Un colore più chiaro e trasparente indica che il carico di lavoro è più bilanciato.
 

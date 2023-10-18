@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
 
-# Comprendere i filtri in [!UICONTROL Analisi avanzata]
+# Comprendere i filtri
 
 Questo video illustra:
 
@@ -39,5 +39,5 @@ I grafici Persone sono basati sui team a casa. Mostrano l’attività e la capac
 
 * Nei grafici Lavoro, solo il **primi 50 progetti** sono visibili. Passa la pagina per visualizzare altri gruppi di 50. Tuttavia, i quattro KPI calcolano rispetto a tutti i progetti all’interno dell’intervallo di date. Se l’elenco dei progetti è più grande di 50 e desideri visualizzare l’intero elenco contemporaneamente, continua ad aggiungere filtri per ottenere il sottoinsieme corretto di progetti.
 * I risultati della ricerca iniziano a comparire dopo aver digitato almeno **tre lettere** del termine di ricerca.
-* È possibile **aggiungi ogni filtro una sola volta**. Ad esempio, una volta aggiunto Condizione e selezionata una Condizione specifica, non puoi aggiungere nuovamente il campo Condizione per scegliere un’altra opzione. È necessario rimuovere il filtro e aggiungerlo nuovamente con tutti i criteri. L’eccezione è rappresentata dal filtro Modulo personalizzato.
+* È possibile **aggiungi ogni filtro una sola volta**. Ad esempio, dopo aver aggiunto Condizione e selezionato una condizione specifica, non è possibile aggiungere nuovamente il campo Condizione per scegliere un&#39;altra opzione. È necessario rimuovere il filtro e aggiungerlo nuovamente con tutti i criteri. L’eccezione è rappresentata dal filtro Modulo personalizzato.
 * Per rimuovere un filtro, fai clic sulla X accanto a esso nella parte superiore della finestra.

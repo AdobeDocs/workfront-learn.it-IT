@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Comprendere gli intervalli di date e gli intervalli temporali in [!UICONTROL Analisi avanzata]
+# Comprendere gli intervalli di date e gli intervalli temporali
 
 Quando si visualizza [!DNL Enhanced analytics] grafici, intervalli di date vengono specificati utilizzando il widget calendario. Gli intervalli di tempo vengono creati all&#39;interno di un grafico quando si fa clic e si trascina con il mouse per definire un&#39;area specifica, in modo da poter ingrandire e ottenere informazioni più dettagliate durante tale intervallo di tempo.
 
@@ -27,7 +27,7 @@ Fai clic su una data qualsiasi nel calendario per indicare una data nell’inter
 
 ![Immagine di selezione di un intervallo di date tramite il widget del calendario](assets/section-1-3.png)
 
-I grafici in [!DNL Analytics] per impostazione predefinita, mostra i dati per gli ultimi 60 giorni e i successivi 15 giorni. Puoi selezionare un nuovo intervallo di date e applicarlo a tutti i grafici mentre utilizzi [!DNL Analytics].
+I grafici in [!DNL Analytics] per impostazione predefinita, mostra i dati per gli ultimi 60 giorni e i successivi 15 giorni. È possibile selezionare un nuovo intervallo di date e applicarlo a tutti i grafici mentre si utilizza [!DNL Analytics].
 
 Quando aggiorni la pagina, esci o esci da Workfront, l’intervallo di date viene reimpostato sul valore predefinito.
 
