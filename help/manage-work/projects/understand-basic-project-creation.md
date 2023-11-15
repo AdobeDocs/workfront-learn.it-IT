@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 22%
@@ -36,4 +36,4 @@ Ottieni [!DNL  Workfront] I progetti possono essere avviati e avviati rapidament
 1. Predecessori
 1. Assegnazioni
 
-Una volta impostato tutto, imposta lo stato del progetto su Corrente per rendere il progetto attivo. Con l’avanzare del progetto, vorrai tenere traccia del lavoro che viene svolto, dei problemi che sorgono, delle domande a cui è necessario dare risposta e di altro ancora. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
+Una volta impostato tutto, imposta lo stato del progetto su Corrente per rendere il progetto attivo. Con l&#39;avanzare del progetto, potrai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande che richiedono risposte e molto altro ancora. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
