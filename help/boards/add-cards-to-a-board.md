@@ -10,9 +10,9 @@ role: User, Leader
 level: Beginner
 exl-id: 86bdeadc-ab72-4936-bc3a-45079d7a4ce1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come aggiungere schede a una bacheca nuova o da un elemento di lavoro preesistente.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617)
+>[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on)
