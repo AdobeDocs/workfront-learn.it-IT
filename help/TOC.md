@@ -3,10 +3,10 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2436'
-ht-degree: 2%
+source-wordcount: '2375'
+ht-degree: 1%
 
 ---
 
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + Dati personalizzati {#custom-data}
-   + Moduli personalizzati {#custom-forms}
+   + Forms personalizzato {#custom-forms}
       + [Creare e condividere un modulo personalizzato](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [Condividere campi personalizzati](custom-data/custom-forms/share-custom-fields.md)
       + [Modificare un modulo personalizzato](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Allegare un modulo personalizzato a un oggetto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Aggiungere interruzioni di sezione e logiche a un modulo personalizzato](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Esportare un modulo personalizzato come PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Espressioni calcolate {#calculated-expressions}
@@ -151,7 +152,7 @@ ht-degree: 2%
       + [Creare un flusso di richieste](manage-work/request-queues/create-a-request-flow.md)
       + [Risposte alle domande comuni sulle code di richieste](manage-work/request-queues/request-queue-faq.md)
 
-   + Portfolio {#portfolios}
+   + Portfoli {#portfolios}
       + [Panoramica dei portfolio](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Comprendere la [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Utilizza il [!UICONTROL Ottimizzatore Portfolio] per assegnare priorità e gestire il lavoro](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -195,7 +196,7 @@ ht-degree: 2%
       + [Predecessori avanzati](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Reporting {#reporting}
++ Generazione rapporti {#reporting}
    + Reporting di base {#basic-reporting}
       + [Comprendere gli elementi di reporting](reporting/basic-reporting/reporting-elements.md)
       + [Comprendere i componenti di reporting](reporting/basic-reporting/reporting-components.md)
@@ -236,7 +237,7 @@ ht-degree: 2%
       + [Comprendere le opzioni aggiuntive per i rapporti sul calendario](reporting/basic-reporting/additional-calendar-options.md)
       + [Tocca a te creare un rapporto sul calendario](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Funzionalità di analisi avanzate {#enhanced-analytics}
+   + Analisi avanzata {#enhanced-analytics}
       + [Un momento con Product: [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Introduzione a [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Aggiungi [!UICONTROL analisi] ai modelli di layout](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -268,7 +269,7 @@ ht-degree: 2%
       + [Impostazioni di gestione delle risorse per gli utenti](manage-resources/resource-management/settings-for-users.md)
       + [Impostazioni gestione risorse, Bilanciatore dei carichi di lavoro e Rapporto utilizzo](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + Bilanciamento del carico di lavoro {#workload-balancer}
+   + Bilanciatore dei carichi di lavoro {#workload-balancer}
       + [Trovare il Bilanciatore dei carichi di lavoro](manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Filtrare il Bilanciatore dei carichi di lavoro](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Visualizzare le allocazioni utente nel Bilanciatore dei carichi di lavoro](manage-resources/workload-balancer/view-user-allocations.md)
@@ -300,7 +301,7 @@ ht-degree: 2%
       + [Aggiornare e copiare piani](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [Pubblicare uno scenario](manage-resources/scenario-planner/publish-a-scenario.md)
 
-+ Workfront Goals {#workfront-goals}
++ Obiettivi Workfront {#workfront-goals}
    + Stabilisci una visione per la tua organizzazione {#establish-a-vision-and-strategy}
       + [Comprendere la visione alla base degli obiettivi di Workfront](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Comprendere il funzionamento degli obiettivi di Workfront](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
@@ -474,7 +475,7 @@ ht-degree: 2%
       + [Utilizzo di JSON](fusion/12-exercises/working-with-json.md)
       + [Strumento di sviluppo](fusion/12-exercises/devtool.md)
 
-+ Workfront Proof {#workfront-proof}
++ Bozza Workfront {#workfront-proof}
    + [Scopri i vantaggi delle prove](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [Differenza tra un documento e una bozza](workfront-proof/document-vs-proof.md)
    + [Spiegazione dei visualizzatori di bozze](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [Gestire i commenti della bozza](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Tracciamento avanzamento bozza](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ DAM WORKFRONT {#workfront-dam-program}
    + Configurazione del sistema {#system-setup}
       + [Comprendere [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Informazioni sulle impostazioni di sistema](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -587,7 +588,7 @@ ht-degree: 2%
 + Agile {#agile}
 
    + Scrum {#scrum}
-      + [Creare un team agile Scum](agile/create-a-scrum-agile-team.md)
+      + [Creare un team agile Scrum](agile/create-a-scrum-agile-team.md)
       + [Gestire il lavoro come team Scrum](agile/manage-work-scrum-team.md)
       + [Pulitura del backlog](agile/gooming-the-backlog.md)
       + [Pianificare e creare un&#39;iterazione](agile/plan-and-create-an-iteration.md)
@@ -597,7 +598,7 @@ ht-degree: 2%
       + [Creare un team Kanban](agile/create-a-kanban-team.md)
       + [Gestire il lavoro come team Kanban](agile/manage-work-kanban-team.md)
 
-   + Bacheche  {#boards}
+   + Schede  {#boards}
       + [Trovare e creare una bacheca di base](boards/find-and-create-a-basic-board.md)
       + [Gestisci colonne bacheca](boards/manage-board-columns.md)
       + [Aggiungere schede a una bacheca](boards/add-cards-to-a-board.md)
@@ -612,7 +613,7 @@ ht-degree: 2%
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [Ottimizzatore di portfolio e business case](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [Comunicazione](best-practices/communication-bp.md)
-   + [Moduli personalizzati](best-practices/custom-forms-bp.md)
+   + [Moduli personalizzati nel mio gruppo](best-practices/custom-forms-bp.md)
    + [Rapporti personalizzati](best-practices/custom-reports-bp.md)
    + [Dashboard](best-practices/dashboards-bp.md)
    + [Documenti](best-practices/documents-bp.md)
@@ -626,7 +627,7 @@ ht-degree: 2%
    + [Anteprima sandbox](best-practices/preview-sandbox-bp.md)
    + [Preferenze per progetto, attività e problema](best-practices/project-task-issue-preferences-bp.md)
    + [Modelli di progetto](best-practices/project-templates-bp.md)
-   + [Workfront Proof](best-practices/proofing-bp.md)
+   + [Bozza Workfront](best-practices/proofing-bp.md)
    + [Coda richieste](best-practices/request-queues-bp.md)
    + [Pianificazione risorse](best-practices/resource-planner-bp.md)
    + [Gruppi di risorse](best-practices/resource-pools-bp.md)
@@ -639,7 +640,7 @@ ht-degree: 2%
    + [Schede orario e orario di accesso](best-practices/timesheets-logging-time-bp.md)
    + [Utilizzo](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
-   + [Bilanciamento del carico di lavoro](best-practices/workload-balancer-bp.md)
+   + [Bilanciatore dei carichi di lavoro](best-practices/workload-balancer-bp.md)
 
 
 
