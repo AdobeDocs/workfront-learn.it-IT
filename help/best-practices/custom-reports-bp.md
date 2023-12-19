@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
 La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
@@ -57,7 +57,7 @@ La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l�
 
 Riduci il numero di rapporti da generare ed espandi l’utilizzo dei rapporti creati, includendo prompt, in particolare sui rapporti eseguiti di frequente.
 
-Le richieste consentono di aggiungere filtri &quot;nel momento&quot; a un report senza modificare le impostazioni dei filtri del report. Ad esempio, è disponibile un report che consente di trovare le attività di un determinato stato assegnate a un team specifico. Aggiungere richieste a questo report &quot;di base&quot; che consentono di limitare l&#39;intervallo di tempo delle scadenze delle attività, visualizzare solo le attività a cui sono allegati documenti o individuare le attività a cui è allegato un particolare modulo personalizzato.
+Le richieste consentono di aggiungere filtri &quot;nel momento&quot; a un report senza modificare le impostazioni dei filtri del report. Ad esempio, è disponibile un report che consente di trovare le attività di un determinato stato assegnate a un team specifico. Aggiungere richieste a questo report &quot;di base&quot; che consentono di limitare l&#39;intervallo di tempo delle date di scadenza delle attività, visualizzare solo le attività a cui sono allegati documenti o individuare le attività a cui è allegato un particolare modulo personalizzato.
 
 
 **Nota**: alcuni utenti potrebbero trovare i prompt confusi. In tal caso, più rapporti con titoli chiari potrebbero essere una soluzione migliore per loro.
@@ -79,17 +79,6 @@ Questa funzione consente non solo di risparmiare tempo, ma anche di garantire ch
 
 **Best practice**
 
-Utilizza la funzionalità di reporting predefinita quando possibile, anziché la modalità testo.
-
-**Ecco perché**
-
-In questo modo le configurazioni di reporting vengono mantenute il più semplici possibile per garantire che siano scalabili e supportabili da te e dagli altri.
-
-</br>
-</br>
-
-**Best practice**
-
 Utilizza i caratteri jolly basati sugli utenti per creare rapporti dinamici in modo che l’utente che visualizza il rapporto possa visualizzare informazioni pertinenti per loro.
 
 **Ecco perché**
@@ -99,10 +88,12 @@ I caratteri jolly basati sugli utenti rendono i rapporti più flessibili, consen
 </br>
 </br>
 
+Per istruzioni su come utilizzare i caratteri jolly basati sugli utenti nei rapporti, vedi [Creare filtri con caratteri jolly basati sull&#39;utente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+
 **Best practice**
 
 Crea viste che consentono la modifica in linea.
 
 **Ecco perché**
 
-Con la modifica in linea, gli utenti possono modificare le informazioni di un elemento direttamente da un rapporto o da un elenco. Si tratta di un risparmio di tempo perché gli utenti non devono aprire l’oggetto per apportare modifiche o effettuare rimbalzi da un oggetto all’altro durante l’aggiornamento di più elementi. Assicurati che gli utenti sappiano che la modifica in linea è comoda e rapida (due cose che contribuiscono all’adozione da parte degli utenti di Workfront).
+Con la modifica in linea, gli utenti possono modificare le informazioni di un elemento direttamente da un rapporto o da un elenco. Si tratta di un risparmio di tempo perché gli utenti non devono aprire l&#39;oggetto per apportare modifiche o rimbalzare da un oggetto all&#39;altro durante l&#39;aggiornamento di più elementi. Assicurati che gli utenti sappiano che la modifica in linea è comoda e rapida (due cose che contribuiscono all’adozione da parte degli utenti di Workfront).
