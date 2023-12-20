@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Le istruzioni dettagliate sono incluse di seguito.
 ![Immagine dello schermo per creare un nuovo filtro](assets/basic-filter-activity-1.png)
 
 1. Accedi a [!UICONTROL Progetti] area da [!UICONTROL Menu principale]. Qui viene visualizzato un elenco di progetti.
-1. Fai clic su **[!UICONTROL Filtro]** menu e seleziona [!UICONTROL Filtri legacy]
+1. Fai clic su **[!UICONTROL Filtro]** menu e seleziona [!UICONTROL Filtri legacy].
 1. Seleziona **[!UICONTROL Nuovo filtro]**.
 1. Denomina il filtro &quot;Tutti i progetti nel portfolio Marketing&quot;.
 1. Clic **[!UICONTROL Aggiungi regola filtro]**.
@@ -39,7 +39,7 @@ Le istruzioni dettagliate sono incluse di seguito.
 1. Lascia [!UICONTROL Uguale] dell&#39;operatore.
 1. Digita &quot;[!UICONTROL marketing]&quot; in [!UICONTROL Inizia a digitare il nome] campo.
 1. Seleziona [!UICONTROL Portfolio marketing] supponendo di avere un portfolio con lo stesso nome su cui desideri filtrare. Se non utilizzare semplicemente la funzione di completamento automatico per trovare il portfolio desiderato.
-1. Clic **[!UICONTROL Salva filtro]**
+1. Clic **[!UICONTROL Salva filtro]**.
 
 ## Attività 2 - Progetti di cui sono proprietario alla chiusura di questo mese
 
@@ -54,7 +54,7 @@ Le istruzioni dettagliate sono incluse di seguito.
 ![Immagine dello schermo per creare un nuovo filtro](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. Accedi a [!UICONTROL Progetti] area da [!UICONTROL Menu principale]. Qui viene visualizzato un elenco di progetti.
-1. Fai clic su **[!UICONTROL Filtro]** menu e seleziona [!UICONTROL Filtri legacy]
+1. Fai clic su **[!UICONTROL Filtro]** menu e seleziona [!UICONTROL Filtri legacy].
 1. Seleziona **[!UICONTROL Nuovo filtro]**.
 1. Denomina il filtro &quot;Progetti di cui sono proprietario durante questo mese&quot;.
 1. Clic **[!UICONTROL Aggiungi regola filtro]**.
@@ -69,4 +69,4 @@ Le istruzioni dettagliate sono incluse di seguito.
 1. Clic [!UICONTROL Aggiungi regola filtro] di nuovo.
 1. In [!UICONTROL Inizia a digitare il nome del campo] tipo di campo &quot;scheduled&quot; (pianificato), quindi seleziona [!UICONTROL Data di completamento Pianificata] sotto [!UICONTROL Progetto] origine del campo.
 1. Modificare il [!UICONTROL Uguale] operatore a [!UICONTROL Questo mese].
-1. Clic **[!UICONTROL Salva filtro]**
+1. Clic **[!UICONTROL Salva filtro]**.

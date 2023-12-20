@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Riduci il numero di report personalizzati creati sfruttando filtri, viste e ragg
 
 La creazione di rapporti di utilizzo una tantum per ogni segmento di dati che si desidera visualizzare richiede molto tempo e rende il sistema Workfront più complesso.
 
-Per istruzioni su come creare report con prompt, vedere il capitolo &quot;Come impostare e utilizzare i prompt dei report&quot; in [Comprendere le impostazioni dei rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Per istruzioni sulla creazione di report con prompt, vedere il capitolo &quot;Come impostare e utilizzare i prompt dei report&quot; nel [Comprendere le impostazioni dei rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
 
 Per istruzioni su come creare rapporti con prompt personalizzati, consulta [Creare prompt personalizzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
