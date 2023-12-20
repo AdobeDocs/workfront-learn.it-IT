@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,6 @@ La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l�
 * È consigliabile utilizzare i prompt dei report per limitare i risultati di un report, anziché creare più report simili o creare strutture di filtro complesse in un report.
 
 * Accelera la creazione di rapporti copiando un rapporto esistente simile da cui creare il nuovo rapporto.
-
-* Utilizza la funzionalità di reporting predefinita quando possibile, anziché la modalità testo.
 
 * Utilizza i caratteri jolly basati sugli utenti per creare rapporti dinamici in modo che l’utente che visualizza il rapporto possa visualizzare informazioni pertinenti per loro.
 
@@ -88,7 +86,7 @@ I caratteri jolly basati sugli utenti rendono i rapporti più flessibili, consen
 </br>
 </br>
 
-Per istruzioni su come utilizzare i caratteri jolly basati sugli utenti nei rapporti, vedi [Creare filtri con caratteri jolly basati sull&#39;utente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Per istruzioni su come utilizzare i caratteri jolly basati sugli utenti nei rapporti, vedi [Creare filtri con caratteri jolly basati sull&#39;utente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Best practice**
 

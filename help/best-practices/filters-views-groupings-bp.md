@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
 La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
@@ -53,6 +53,10 @@ Riduci il numero di report personalizzati creati sfruttando filtri, viste e ragg
 
 La creazione di rapporti di utilizzo una tantum per ogni segmento di dati che si desidera visualizzare richiede molto tempo e rende il sistema Workfront più complesso.
 
+Per istruzioni su come creare report con prompt, vedere il capitolo &quot;Come impostare e utilizzare i prompt dei report&quot; in [Comprendere le impostazioni dei rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+
+Per istruzioni su come creare rapporti con prompt personalizzati, consulta [Creare prompt personalizzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
+
 </br>
 </br>
 
@@ -62,7 +66,9 @@ Utilizzare i controlli elenco nei modelli di layout per nascondere filtri, visua
 
 **Ecco perché**
 
-Meno è di più. Quando si nascondono opzioni di filtro, visualizzazione e raggruppamento di elenchi che non sono rilevanti per i flussi di lavoro giornalieri degli utenti, gli elenchi vengono limitati in modo da facilitare agli utenti la ricerca di ciò di cui hanno bisogno più rapidamente.
+Meno è di più. Quando si nascondono opzioni di filtro, visualizzazione e raggruppamento di elenchi che non sono rilevanti per i flussi di lavoro giornalieri degli utenti, gli elenchi vengono limitati in modo da facilitare agli utenti la ricerca più rapida delle informazioni di cui hanno bisogno.
+
+Per istruzioni su come nascondere filtri, viste o raggruppamenti con i modelli di layout, vedi [Personalizzare gli elenchi di reporting con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
 </br>
 </br>
@@ -77,6 +83,8 @@ Se hai creato filtri, viste e raggruppamenti che visualizzano informazioni speci
 
 La personalizzazione delle informazioni che si desidera rendere visibili agli utenti tramite i modelli di layout consente inoltre di risparmiare tempo agli amministratori di sistema e di gruppo, in quanto non dovranno condividere ogni filtro, visualizzazione o opzione di raggruppamento singolarmente.
 
+Per istruzioni su come condividere filtri, viste o raggruppamenti con i modelli di layout, consulta [Personalizzare gli elenchi di reporting con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
+
 </br>
 </br>
 
@@ -86,6 +94,6 @@ Quando si creano filtri per lo stato di un progetto, di un&#39;attività o di un
 
 **Ecco perché**
 
-Utilizzando (object)>>Equivale a, si includono tutti gli stati personalizzati a cui è assegnato lo stato specifico nel campo Equivale a nelle impostazioni dello stato. Mentre l&#39;impostazione del filtro come (oggetto)>>Stato > Uguale richiede la selezione di statuti specifici per il filtro. Questo potrebbe rappresentare un problema di manutenzione se devi tenere conto di questi nuovi stati in vari filtri. Ogni filtro deve essere aperto e aggiornato con il nuovo stato.
+Se si utilizza (object)>>Equivale a, nelle impostazioni dello stato verranno inclusi tutti gli stati personalizzati a cui è assegnato lo stato specifico nel campo Equivale a. Mentre l&#39;impostazione del filtro come (oggetto)>>Stato > Uguale richiede la selezione di statuti specifici per il filtro. Questo potrebbe rappresentare un problema di manutenzione se devi tenere conto di questi nuovi stati in vari filtri. Ogni filtro deve essere aperto e aggiornato con il nuovo stato.
 
 Ad esempio, per visualizzare tutti i progetti correnti, puoi impostare il filtro su Leggi progetto>>Stato > Uguale > Corrente. Tuttavia, se qualcuno aggiunge uno stato personalizzato denominato Attivo e lo identifica a Corrente, tale filtro non troverà i progetti con lo stato Attivo. Tuttavia, se si utilizza Progetto>>Stato equivale a > Uguale a > Corrente, il filtro trova gli oggetti con lo stato Corrente o Attivo perché entrambi hanno Corrente nel campo Equivale a.
