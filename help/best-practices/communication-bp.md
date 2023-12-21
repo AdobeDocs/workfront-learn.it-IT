@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
+source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -49,9 +49,9 @@ Utilizza i flussi di lavoro per determinare le notifiche necessarie.
 
 Esaminando i flussi di lavoro in modo dettagliato è più facile identificare i punti di comunicazione e assicurarsi che siano abilitate le notifiche corrette. In questo modo le notifiche vengono preparate in base al funzionamento dell’organizzazione, evitando spam o interruzioni delle comunicazioni.
 
-Per istruzioni su come impostare le notifiche degli eventi, consulta [Impostare le notifiche degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+Per istruzioni su come impostare le notifiche degli eventi, consulta [Impostare le notifiche degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-Per istruzioni su come gestire le notifiche degli eventi, consulta [Gestire le notifiche in-app ed e-mail degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
+Per istruzioni su come gestire le notifiche degli eventi, consulta [Gestire le notifiche in-app ed e-mail degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
