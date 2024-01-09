@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,8 @@ Rivedere e aggiornare regolarmente i modelli di progetto.
 
 Quando i processi e i team cambiano, è necessario aggiornare i modelli di progetto. Stabilisci una cadenza regolare, ad esempio trimestrale, per verificare e vedere quali modelli non vengono utilizzati attivamente. Puoi disattivarli in modo che rimangano in Workfront ma non vengano visualizzati negli elenchi di selezione dei modelli.
 
+Per istruzioni su come disattivare un modello di progetto, vedi [Disattivare un modello di progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ Quando crei un modello da un progetto esistente, a meno che non si scelga l’op
 
 Tutti questi utenti verranno elencati come parte del team del progetto, nelle sezioni Persone e pianificazione del progetto. Di conseguenza, verranno propagati a tutti i progetti creati da tale modello. Questo potrebbe causare confusione all’utente, perché come parte del team di progetto, riceve le notifiche sull’attività sul progetto, visualizza il progetto nell’elenco Progetti a cui sono iscritto e ottiene le autorizzazioni per il progetto e le relative attività, problemi e documenti.
 
-
+Per istruzioni su come modificare il team di progetto in un modello di progetto, vedi [Modificare il team di progetto in un modello di progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

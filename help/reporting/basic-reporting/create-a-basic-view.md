@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '826'
 ht-degree: 1%
 
 ---
@@ -134,7 +134,7 @@ Modificare il [!UICONTROL Formato campo] il [!UICONTROL Inizia il] e [!UICONTROL
 
 Chiunque gestisca i modelli di progetto apprezzerà la visualizzazione dello stato attivo (Vero o Falso) di ciascun modello in un elenco. Ancora meglio: il campo è modificabile in linea!
 
-Crea una visualizzazione del modello di progetto denominata &quot;Stato attivo del modello di progetto&quot; con le colonne seguenti:
+Crea una vista del modello di progetto denominata &quot;Standard+stato attivo&quot; con le colonne seguenti:
 
 * [!UICONTROL Nome]
 * [!UICONTROL Proprietario]
