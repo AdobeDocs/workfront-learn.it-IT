@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '2374'
+source-wordcount: '2386'
 ht-degree: 1%
 
 ---
@@ -169,6 +169,8 @@ ht-degree: 1%
       + [Creare un progetto direttamente da un modello](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Condividere un modello di progetto](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Copia un progetto esistente](manage-work/manage-projects/copy-an-existing-project.md)
+      + [Disattivare un modello di progetto](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+      + [Modificare il team di progetto in un modello di progetto](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Timeline del progetto {#project-timelines}
       + [Comprendere le tempistiche dei progetti](manage-work/project-timelines/understand-project-timelines.md)

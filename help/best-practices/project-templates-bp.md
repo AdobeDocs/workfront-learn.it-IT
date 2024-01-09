@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '1614'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 ## Navigazione in questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
 
 La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
@@ -56,7 +56,7 @@ La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l�
 
 * Quando si modifica l&#39;opzione Pianifica da in un modello, esaminare e aggiornare i vincoli dell&#39;operazione.
 
-* Controlla il team del progetto sul modello e rimuovi gli utenti che non saranno associati al progetto.
+* Controlla il team di progetto nel modello e rimuovi gli utenti che non saranno associati al progetto.
 
 </br>
 </br>
@@ -108,6 +108,8 @@ Utilizzare la condivisione di progetti in un modello di progetto per concedere a
 
 L&#39;accesso a progetti specifici è concesso attraverso il progetto stesso. Se lo stesso gruppo di persone ha sempre bisogno di accedere ai progetti creati con un modello specifico, aggiungili nell’opzione Condivisione progetto del modello. Non solo è possibile controllare l’accesso ai progetti non appena vengono creati, ma questo semplifica gli sforzi di scalabilità se le autorizzazioni devono essere modificate in futuro.
 
+Per istruzioni su come condividere i progetti creati utilizzando un modello, consulta il capitolo &quot;Come condividere i progetti creati utilizzando un modello&quot; in [Condividere un modello di progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+
 **Nota**: la condivisione dei modelli consente di accedere al modello stesso. Per creare progetti con il modello, l’utente deve disporre almeno delle autorizzazioni di visualizzazione.
 
 </br>
@@ -121,7 +123,7 @@ Assegna mansioni o team alle attività, non singoli utenti.
 
 Quando un singolo utente cambia posizione o lascia l’organizzazione, dovrai aggiornare manualmente i modelli di progetto che includono tale persona. Questa operazione richiede tempo da parte degli amministratori di sistema o di gruppo o dei project manager.
 
-Se si utilizzano i ruoli o i team nei modelli, le modifiche all&#39;assegnazione del personale non avranno un effetto diretto sui modelli di progetto, in quanto a chiunque sia stato assegnato tale ruolo o tale team potrebbe essere assegnato il lavoro. Questo aiuta a garantire che il lavoro non scivoli attraverso le fessure. Le assegnazioni dei ruoli semplificano anche l’assegnazione del lavoro ai singoli utenti, in quanto Workfront può mostrarti un elenco di persone assegnate a quel ruolo.
+Se si utilizzano i ruoli o i team nei modelli, le modifiche all&#39;assegnazione del personale non avranno un effetto diretto sui modelli di progetto, in quanto a chiunque sia stato assegnato tale ruolo o tale team potrebbe essere assegnato il lavoro. Questo aiuta a garantire che il lavoro non scivoli attraverso le crepe. Le assegnazioni dei ruoli semplificano anche l’assegnazione del lavoro ai singoli utenti, in quanto Workfront può mostrarti un elenco di persone assegnate a quel ruolo.
 
 Inoltre, le mansioni vengono utilizzate dagli strumenti di pianificazione delle risorse di Workfront per consentire di calcolare le risorse necessarie e pianificare il lavoro futuro.
 
@@ -146,7 +148,7 @@ Utilizzare la descrizione dell&#39;attività per acquisire i piccoli passaggi de
 
 **Ecco perché**
 
-Se più attività in una riga vengono assegnate alla stessa mansione/individuo, ciò indica che tali attività possono essere combinate. Se a un utente sono state assegnate troppe attività, il lavoro da completare potrebbe essergli utile e influire sull’adozione di Workfront.
+Se più attività in una riga vengono assegnate allo stesso ruolo/individuo, ciò indica che tali attività possono essere combinate. Se a un utente vengono assegnate troppe attività, il lavoro da completare potrebbe influire sull’adozione di Workfront.
 
 </br>
 </br>
@@ -157,9 +159,9 @@ Assicurati che le attività modello includano le durate delle attività, le ore 
 
 **Ecco perché**
 
-Questi tre elementi, durate, ore pianificate e predecessori, sono gli elementi costitutivi della cronologia del progetto. Questi sono fondamentali per sapere quanto tempo e quando sarà necessario lavorare. Gli strumenti di gestione delle risorse di Workfront durano e pianificano le ore, oltre alle assegnazioni di mansioni, per calcolare la capacità delle risorse, la disponibilità e altro ancora.
+Queste tre cose (durate, ore pianificate e predecessori) sono gli elementi costitutivi della timeline del progetto. Questi sono fondamentali per sapere quanto tempo e quando sarà necessario lavorare. Gli strumenti di gestione delle risorse di Workfront utilizzano le durate e le ore pianificate, oltre alle assegnazioni di mansioni, per calcolare la capacità, la disponibilità e altro ancora delle risorse.
 
-Se non sai come stimare le durate o le ore pianificate per la prima volta, rivolgiti al team di progetto per definire alcune stime iniziali. Dopo aver utilizzato il modello, incontra nuovamente il team del progetto per determinare dove è possibile apportare modifiche per rendere il modello più accurato. Se gli utenti registrano il tempo in Workfront, puoi confrontare le ore pianificate di un progetto con le ore effettive per vedere dove sono necessari gli adeguamenti.
+Se non sai come stimare le durate o le ore pianificate per la prima volta, rivolgiti al team di progetto per definire alcune stime iniziali. Dopo aver utilizzato il modello, incontra nuovamente il team del progetto per determinare dove è possibile apportare modifiche per rendere il modello più accurato. Se gli utenti registrano il tempo in Workfront, puoi confrontare le ore pianificate di un progetto con le ore effettive per vedere dove sono necessari adeguamenti.
 
 
 </br>
@@ -175,6 +177,8 @@ Assicurati che le informazioni standard per tutti i progetti siano inserite nel 
 
 Allega i moduli personalizzati del progetto che corrispondono ai moduli personalizzati della richiesta per richiamare le informazioni inviate quando si converte la richiesta in un progetto utilizzando il modello.
 
+Per istruzioni su come allegare un modulo personalizzato a un oggetto, ad esempio un modello di progetto, vedere [Allegare un modulo personalizzato a un oggetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
+
 </br>
 </br>
 
@@ -184,7 +188,7 @@ Rivedere e aggiornare regolarmente i modelli di progetto.
 
 **Ecco perché**
 
-Quando i processi e i team cambiano, è necessario aggiornare i modelli di progetto. Stabilisci una cadenza regolare, ad esempio trimestrale, per verificare e vedere quali modelli non vengono utilizzati attivamente. Puoi disattivarli, in modo che siano ancora in Workfront ma non vengano visualizzati negli elenchi di selezione dei modelli.
+Quando i processi e i team cambiano, è necessario aggiornare i modelli di progetto. Stabilisci una cadenza regolare, ad esempio trimestrale, per verificare e vedere quali modelli non vengono utilizzati attivamente. Puoi disattivarli in modo che rimangano in Workfront ma non vengano visualizzati negli elenchi di selezione dei modelli.
 
 </br>
 </br>
@@ -220,22 +224,25 @@ Oltre alle impostazioni delle attività, come la durata e le ore pianificate, di
 
 **Best practice**
 
-Quando si modifica l&#39;opzione Pianifica da in un modello, esaminare e aggiornare i vincoli dell&#39;operazione.
+Quando si modifica l&#39;opzione Modalità di pianificazione in un modello, esaminare e aggiornare i vincoli delle attività.
 
 **Ecco perché**
 
-La combinazione di vincoli di attività diversi in un progetto può causare calcoli di date pianificati imprevisti e confusi. Ad esempio, se per l&#39;opzione Pianifica da è selezionata l&#39;opzione Data inizio, per impostazione predefinita alle attività create nel progetto viene assegnato il vincolo Attività il più presto possibile. Se in seguito si cambia l&#39;opzione Pianifica da a Data completamento, per impostazione predefinita tutte le attività create presentano un vincolo Attività il più tardi possibile. Una combinazione non intenzionale di attività con ciascuno di questi vincoli può causare confusione nelle date pianificate nella sequenza temporale del progetto.
+La combinazione di vincoli di attività diversi in un progetto può causare calcoli di date pianificati imprevisti e confusi. Ad esempio, se per l&#39;opzione Modalità di programmazione è selezionata l&#39;opzione Data inizio, per impostazione predefinita alle attività create nel progetto viene assegnato il vincolo Attività il più presto possibile. Se successivamente si modifica l&#39;opzione Modalità pianificazione in Data completamento, per impostazione predefinita tutte le attività create presentano il vincolo Attività il più tardi possibile. Una combinazione non intenzionale di attività con ciascuno di questi vincoli può causare confusione nelle date pianificate nella sequenza temporale del progetto.
 
+Per comprendere meglio i vincoli delle attività e come utilizzarli, vedi [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
 
 </br>
 </br>
 
 **Best practice**
 
-Controlla il team del progetto sul modello e rimuovi gli utenti che non lavoreranno con il progetto.
+Controlla il team di progetto nel modello e rimuovi gli utenti che non lavoreranno con il progetto.
 
 **Ecco perché**
 
-Quando crei un modello da un progetto esistente, vengono visualizzate le persone a cui sono state assegnate attività/problemi nel progetto. Quando si lavora con il modello, è possibile rimuovere le persone a cui era stato precedentemente assegnato un lavoro o modificare un&#39;assegnazione creata personalmente sul modello.
+Quando crei un modello da un progetto esistente, a meno che non si scelga l’opzione Cancella assegnazioni durante la creazione, Workfront richiama le persone a cui sono state assegnate attività/problemi sul progetto nella sezione Persone. Quando si lavora con il modello, è possibile rimuovere queste persone a cui è stato precedentemente assegnato un lavoro o modificare un&#39;assegnazione creata personalmente sul modello.
 
-Tutti questi utenti verranno elencati come parte del team del progetto, nelle sezioni Persone e pianificazione del progetto. Di conseguenza, verranno propagati a tutti i progetti creati da tale modello. Questo potrebbe causare confusione nell’utente, perché come parte del team di progetto, riceve le notifiche sull’attività sul progetto, visualizza il progetto nell’elenco Progetti a cui appartengo e ottiene le autorizzazioni per il progetto e le relative attività, problemi e documenti.
+Tutti questi utenti verranno elencati come parte del team del progetto, nelle sezioni Persone e pianificazione del progetto. Di conseguenza, verranno propagati a tutti i progetti creati da tale modello. Questo potrebbe causare confusione all’utente, perché come parte del team di progetto, riceve le notifiche sull’attività sul progetto, visualizza il progetto nell’elenco Progetti a cui sono iscritto e ottiene le autorizzazioni per il progetto e le relative attività, problemi e documenti.
+
+

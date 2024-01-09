@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 6%
+source-wordcount: '827'
+ht-degree: 1%
 
 ---
 
@@ -38,10 +38,10 @@ Creare una visualizzazione delle attività denominata &quot;Visualizzazione stat
 * [!UICONTROL Nome attività]
 * [!UICONTROL Assegnazioni]
 * [!UICONTROL Durata]
-* [!UICONTROL Percentuale completato]
+* [!UICONTROL Percentuale completamento]
 * [!UICONTROL Stato]
-* [!UICONTROL Stato di Avanzamento]
-* [!UICONTROL Le icone di Stato]
+* [!UICONTROL Stato di avanzamento]
+* [!UICONTROL Icone di stato]
 
 ## Risposta attività 1
 
@@ -69,11 +69,11 @@ Creare una visualizzazione delle attività denominata &quot;Vista Milestone&quot
 * [!UICONTROL Nome attività]
 * [!UICONTROL Assegnazioni]
 * [!UICONTROL Durata]
-* [!UICONTROL Ore pian.]
+* [!UICONTROL Ore Pian]
 * [!UICONTROL Milestone: Name]
 * [!UICONTROL Inizia il]
 * [!UICONTROL Scade il]
-* [!UICONTROL Percentuale completato]
+* [!UICONTROL Percentuale completamento]
 
 
 ## Risposta attività 2
@@ -98,13 +98,13 @@ Creare una vista delle attività denominata &quot;Visualizzazione tipi di durata
 * [!UICONTROL Assegnazioni]
 * [!UICONTROL Durata]
 * [!UICONTROL Durata Pianificata]
-* [!UICONTROL Ore pian.]
+* [!UICONTROL Ore Pian]
 * [!UICONTROL Predecessori]
 * [!UICONTROL Inizia il]
 * [!UICONTROL Scade il]
-* [!UICONTROL Tipo di Durata]
+* [!UICONTROL Tipo di durata]
 * [!UICONTROL Vincolo attività]
-* [!UICONTROL Data Vincolata]
+* [!UICONTROL Data vincolo]
 
 Modificare il [!UICONTROL Formato campo] il [!UICONTROL Inizia il] e [!UICONTROL Scade il] colonne per visualizzare sia la data che l&#39;ora.
 
@@ -129,3 +129,29 @@ Modificare il [!UICONTROL Formato campo] il [!UICONTROL Inizia il] e [!UICONTROL
 1. Seleziona la [!UICONTROL Scade il] , quindi fai clic su [!UICONTROL Opzioni avanzate].
 1. Sotto [!UICONTROL Formato campo] menu a discesa seleziona [!UICONTROL &quot;10/17/60 03.00&quot;].
 1. Fai clic su **[!UICONTROL Salva]**.
+
+## Attività 4: creare una visualizzazione dello stato attivo del modello di progetto
+
+Chiunque gestisca i modelli di progetto apprezzerà la visualizzazione dello stato attivo (Vero o Falso) di ciascun modello in un elenco. Ancora meglio: il campo è modificabile in linea!
+
+Crea una visualizzazione del modello di progetto denominata &quot;Stato attivo del modello di progetto&quot; con le colonne seguenti:
+
+* [!UICONTROL Nome]
+* [!UICONTROL Proprietario]
+* [!UICONTROL Durata]
+* [!UICONTROL Ore pianificate]
+* [!UICONTROL Costo Pianificato]
+* [!UICONTROL Flag]
+* [!UICONTROL Nome gruppo]
+* [!UICONTROL È attivo]
+
+
+## Risposta all&#39;attività 4
+
+![Immagine della schermata che mostra la visualizzazione dello stato attivo di un modello di progetto](assets/view-activity-4.png)
+
+1. In un elenco di modelli di progetto, vai a **[!UICONTROL Visualizza]** menu a discesa e selezionare **[!UICONTROL Nuova visualizzazione]**.
+1. Denomina la visualizzazione &quot;Standard+stato attivo&quot;.
+1. Clic **[!UICONTROL Aggiungi colonna]**.
+1. In [!UICONTROL Mostra in questa colonna] , digita &quot;is&quot; e seleziona &quot;Is Active&quot; sotto il [!UICONTROL Modello] origine del campo.
+1. Clic **[!UICONTROL Salva visualizzazione]**.
