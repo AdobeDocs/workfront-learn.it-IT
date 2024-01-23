@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
+source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
 workflow-type: tm+mt
-source-wordcount: '2383'
+source-wordcount: '2386'
 ht-degree: 1%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 1%
 + Dati personalizzati {#custom-data}
    + Forms personalizzato {#custom-forms}
       + [Creare e condividere un modulo personalizzato](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+      + [Condividere campi personalizzati](custom-data/custom-forms/share-custom-fields.md)
       + [Modificare un modulo personalizzato](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Allegare un modulo personalizzato a un oggetto](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Aggiungere interruzioni di sezione e logiche a un modulo personalizzato](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
