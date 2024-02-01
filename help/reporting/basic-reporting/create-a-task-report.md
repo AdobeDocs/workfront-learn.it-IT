@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '794'
 ht-degree: 6%
 
 ---
@@ -101,7 +101,7 @@ Includi richieste per:
 
 ## Attività 2: creare un rapporto sui feedback del team di amministrazione
 
-Questo è un report di problemi che visualizza tutti i problemi di una coda di richieste di feedback creata per gli amministratori di sistema. Puoi vedere come creare questa coda di richieste nella **Creare una coda di richieste di feedback dell’amministratore di sistema** esercitazione.
+Questo è un report di problemi che visualizza tutti i problemi di una coda di richieste di feedback creata per gli amministratori di sistema. Puoi vedere come creare questa coda di richieste nella [Creare una coda di richieste di feedback dell’amministratore di sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) esercitazione.
 
 Questo report utilizza anche un modulo personalizzato. Per informazioni su come creare un modulo personalizzato, vedi [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) esercitazione.
 
@@ -159,7 +159,8 @@ Puoi filtrare in base all’ID del progetto della coda richieste in cui si trova
    ![Immagine della schermata per creare le colonne del report sui problemi](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problema] > [!UICONTROL Nome]
-   * [!UICONTROL Contatto principale] > [!UICONTROL Nome] Nota: viene visualizzato con &quot;Proprietario:Nome&quot; come etichetta di colonna. Per cambiare questa impostazione in &quot;Riportato da&quot;, fai clic su Opzioni avanzate e digita &quot;Riportato da&quot; nel **Etichetta colonna personalizzata** campo.
+   * [!UICONTROL Contatto principale] > [!UICONTROL Nome]
+      * Nota: viene visualizzato con &quot;Proprietario:Nome&quot; come etichetta di colonna. Per cambiare questa impostazione in &quot;Riportato da&quot;, fai clic su Opzioni avanzate e digita &quot;Riportato da&quot; nel **Etichetta colonna personalizzata** campo.
    * [!UICONTROL Problema] > [!UICONTROL Tipo di processo]
    * [!UICONTROL Problema] > [!UICONTROL Nome processo]
    * [!UICONTROL Problema] > [!UICONTROL Livello processo]
