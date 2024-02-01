@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
+source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2385'
 ht-degree: 1%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 1%
       + [Informazioni sulle impostazioni per una richiesta di flusso](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Creare una coda di richieste](manage-work/request-queues/create-a-request-queue.md)
       + [Creare un flusso di richieste](manage-work/request-queues/create-a-request-flow.md)
+      + [Creare una coda di richieste di feedback dell’amministratore di sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Risposte alle domande comuni sulle code di richieste](manage-work/request-queues/request-queue-faq.md)
 
    + Portfoli {#portfolios}
