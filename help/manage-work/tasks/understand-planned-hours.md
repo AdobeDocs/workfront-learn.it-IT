@@ -1,6 +1,6 @@
 ---
-title: Comprendere le ore pianificate
-description: Scopri cosa sono le ore pianificate in [!DNL  Workfront], l'importanza delle ore pianificate per il progetto e come aggiungere ore pianificate alle attività.
+title: Informazioni sulle ore pianificate
+description: Scopri cosa si intende per “ore pianificate” in  [!DNL  Workfront], l’importanza delle ore pianificate per un progetto e come aggiungere ore pianificate alle attività.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -11,19 +11,19 @@ team: Technical Marketing
 jira: KT-8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
-# Comprendere le ore pianificate
+# Informazioni sulle ore pianificate
 
-Questo video illustra come:
+In questo video scoprirai:
 
-* Quali ore pianificate sono in [!DNL  Workfront]
-* Perché le ore pianificate sono importanti per il progetto
+* Cosa sono le “ore pianificate” in [!DNL  Workfront]
+* Perché le ore pianificate sono importanti per un progetto
 * Come aggiungere ore pianificate alle attività
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
