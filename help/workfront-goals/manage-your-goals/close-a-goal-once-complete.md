@@ -1,5 +1,5 @@
 ---
-title: Chiudi un obiettivo una volta completato
+title: Chiudere un obiettivo una volta completato
 description: Scopri come chiudere un obiettivo in [!DNL Goals].
 activity: use
 feature: Workfront Goals
@@ -11,16 +11,16 @@ jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Chiudi un obiettivo una volta completato
+# Chiudere un obiettivo una volta completato
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Chiudi un obiettivo per indicare quando l’obiettivo è completato o quando non ci stai più lavorando né hai intenzione di farlo nell’immediato futuro
+* Chiudere un obiettivo per indicare quando l’obiettivo è completato o quando non ci stai più lavorando, né hai intenzione di farlo nell’immediato futuro
 
 >[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)
