@@ -1,6 +1,6 @@
 ---
 title: Reporting avanzato - Parte 1
-description: Comprendere una revisione della creazione di rapporti, un’introduzione alla [!UICONTROL API Explorer] e modalità testo e uno studio approfondito dei filtri in modalità testo.
+description: Panoramica della creazione di rapporti, introduzione a [!UICONTROL API Explorer] e modalità testo, e approfondimento sui filtri in modalità testo.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -12,19 +12,19 @@ jira: KT-11196
 exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Reporting avanzato - Parte 1
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Revisione della creazione del rapporto
-* Come utilizzare API Explorer e modalità testo
-* Studio approfondito dei filtri in modalità testo
+* Una panoramica della creazione dei rapporti
+* Come utilizzare API Explorer e la modalità testo
+* Un approfondimento sui filtri in modalità testo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12&learn=on)
 
