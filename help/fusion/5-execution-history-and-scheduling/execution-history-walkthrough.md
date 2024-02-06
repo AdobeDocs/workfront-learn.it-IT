@@ -1,6 +1,6 @@
 ---
-title: Procedura dettagliata sulla cronologia dell’esecuzione
-description: Scopri come rivedere la cronologia di esecuzione di uno scenario per capire cosa è successo quando in [!DNL Adobe Workfront Fusion].
+title: Procedura dettagliata sulla cronologia di esecuzione
+description: Scopri come rivedere la cronologia di esecuzione di uno scenario per capire cosa è successo e quando in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,55 +11,55 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Procedura dettagliata sulla cronologia dell’esecuzione
+# Procedura dettagliata sulla cronologia di esecuzione
 
-Rivedi la cronologia delle esecuzioni per lo scenario &quot;Using the mighty filter&quot; (Utilizzo del filtro potente) per capire cosa è successo quando si sono verificate le esecuzioni e come erano strutturate quando sono state eseguite.
+Rivedi la cronologia delle esecuzioni per lo scenario “Utilizzo del filtro potente” per capire cosa è successo quando si sono verificate le esecuzioni e come erano strutturate quando sono state eseguite.
 
 ![Immagine della cronologia di esecuzione in uno scenario Fusion](assets/execution-history-and-scheduling-1.png)
 
-## Procedura dettagliata sulla cronologia dell’esecuzione
+## Procedura dettagliata sulla cronologia di esecuzione
 
-Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
+Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata sulla cronologia dell’esecuzione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate sul completamento della procedura, passa all’esercizio [Procedura dettagliata per cronologia di esecuzione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=it).
 
-## Ricerca full-text nella scheda cronologia
+## Ricerca full-text nella scheda della cronologia
 
 La ricerca full-text è disponibile nella scheda della cronologia di uno scenario, che consente di cercare tutti i dati elaborati nello scenario.
 
-![Un’immagine della ricerca della cronologia di esecuzione](assets/execution-history-and-scheduling-2.png)
+![Immagine della ricerca nella cronologia di esecuzione](assets/execution-history-and-scheduling-2.png)
 
-Invece di aprire ogni esecuzione per cercare i dati, la ricerca full-text esegue ricerche in tutte le esecuzioni all’interno di un singolo scenario. I risultati della ricerca forniscono un elenco delle esecuzioni in cui sono stati trovati i dati. Per ulteriori informazioni, puoi fare clic su qualsiasi esecuzione.
+Invece di aprire ogni esecuzione per cercare dati, la ricerca full-text esegue la ricerca in tutte le esecuzioni all’interno di uno scenario singolo. I risultati della ricerca forniscono un elenco delle esecuzioni in cui sono stati trovati i dati. Per ulteriori informazioni, puoi fare clic su qualsiasi esecuzione.
 
 ![Immagine di una ricerca nella cronologia di esecuzione](assets/execution-history-and-scheduling-3.png)
 
-I risultati della ricerca contengono alcune utili icone nell&#39;immagine seguente.
+I risultati della ricerca contengono alcune icone utili riportate nell’immagine seguente.
 
-A - Stato dell&#39;esecuzione.
+A : stato dell’esecuzione.
 
-B - Indica se i dati si trovavano nell&#39;input o nell&#39;output del modulo in cui sono stati trovati.
+B: indica se i dati si trovavano nell’input o nell’output del modulo in cui sono stati trovati.
 
-C - L&#39;ID di esecuzione.
+C - ID di esecuzione.
 
-D - Copia l&#39;ID di esecuzione.
+D: copia l’ID di esecuzione.
 
-![Immagine dei risultati della ricerca nella cronologia di esecuzione](assets/execution-history-and-scheduling-4.png)
+![Immagine dei risultati di una ricerca nella cronologia di esecuzione](assets/execution-history-and-scheduling-4.png)
 
-Quando fai clic su un’esecuzione, Workfront Fusion carica l’esecuzione e il modulo in cui è stato trovato il risultato della ricerca. E apre il controllo di esecuzione sul modulo che contiene i dati di ricerca.
+Quando fai clic su un’esecuzione, Workfront Fusion carica l’esecuzione e il modulo in cui è stato trovato il risultato della ricerca. Inoltre, apre il controllo di esecuzione sul modulo che contiene i dati di ricerca.
 
 ![Immagine di un collegamento alla cronologia di esecuzione](assets/execution-history-and-scheduling-5.png)
 
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
