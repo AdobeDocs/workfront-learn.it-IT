@@ -1,6 +1,6 @@
 ---
 title: Condividere un progetto
-description: Scopri come condividere un progetto in modo che le parti interessate e gli altri interessati possano avere visibilità sul lavoro che viene svolto utilizzando [!DNL  Workfront].
+description: Scopri come condividere un progetto in modo che le parti interessate e gli altri utenti interessati possano avere visibilità sul lavoro che viene svolto utilizzando  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,15 +12,15 @@ last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '74'
+ht-degree: 100%
 
 ---
 
 # Condividere un progetto
 
-Questo video illustra:
+In questo video scoprirai:
 
 * Funzionamento della condivisione automatica in Workfront
 * Come condividere un progetto con una persona
