@@ -1,6 +1,6 @@
 ---
-title: Procedura dettagliata per l'amministrazione
-description: Scopri come passare da un’organizzazione all’altra o da un team e come aggiungere utenti al sistema in [!DNL Adobe Workfront Fusion].
+title: Procedura dettagliata per l’amministrazione
+description: Scopri come passare da un’organizzazione o un team a un altro e come aggiungere utenti al sistema in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,28 +11,28 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Procedura dettagliata per l&#39;amministrazione
+# Procedura dettagliata per l’amministrazione
 
-Scopri come passare da un’organizzazione o un team all’altro e come aggiungere utenti al sistema.
+Scopri come passare da un’organizzazione o un team a un altro e come aggiungere utenti al sistema.
 
 ![Immagine di uno scenario con gestione degli errori](assets/workfront-fusion-administration-1.png)
 
-## Procedura dettagliata per l&#39;amministrazione
+## Procedura dettagliata per l’amministrazione
 
 Questo video illustra:
 
 * Come navigare tra organizzazioni e team
 * Come creare i team
-* Invitare utenti in un&#39;organizzazione e in un team
+* Come invitare utenti in un’organizzazione e in un team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
