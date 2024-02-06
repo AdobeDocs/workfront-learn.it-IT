@@ -1,6 +1,6 @@
 ---
-title: Che cos'è un modello di workflow automatizzato?
-description: Scopri cos’è un modello di flusso di lavoro per la verifica automatizzata e come gli utenti della bozza possono trarre vantaggio dai modelli. Inizia a pianificare i modelli da creare.
+title: Che cos’è un modello del flusso di lavoro automatizzato?
+description: Scopri che cos’è un modello del flusso di lavoro di bozza automatizzato e in che modo gli utenti delle bozze possono trarre vantaggio dai modelli. Iniziare a pianificare i modelli da creare.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Che cos&#39;è un modello di workflow automatizzato?
+# Che cos’è un modello del flusso di lavoro automatizzato?
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Che cos’è un modello di flusso di lavoro automatico
-* Come gli utenti delle bozze possono beneficiare dei modelli di flusso di lavoro
+* Che cos’è un modello di flusso di lavoro automatizzato
+* In che modo gli utenti delle bozze possono beneficiare dei modelli di flusso di lavoro
 * Come iniziare a pianificare i modelli da creare
 
 >[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on)
