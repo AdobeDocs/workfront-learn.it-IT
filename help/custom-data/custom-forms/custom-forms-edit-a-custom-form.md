@@ -11,9 +11,9 @@ thumbnail: editcustomform.png
 jira: KT-10057
 exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 È possibile modificare le informazioni di un modulo personalizzato dopo che il modulo è stato allegato a un oggetto.
 
-1. Passare all&#39;oggetto per il quale si desidera modificare le informazioni nel modulo personalizzato.
-1. Clic [Tipo di oggetto] **[!UICONTROL Dettagli]** nel pannello a sinistra.
-1. Espandere il modulo personalizzato facendo clic sulla freccia accanto al nome.
-1. Fai clic su un singolo campo nel modulo personalizzato per passare alla modalità di modifica su quel campo. Puoi anche fare clic sul pulsante [!UICONTROL Modifica] nell’angolo in alto a destra per modificare tutti i moduli personalizzati o le relative sezioni.
-1. Digitare le informazioni in un singolo campo personalizzato, anche se i campi obbligatori in altri moduli personalizzati sull&#39;oggetto non sono ancora stati compilati.
-1. Clic **[!UICONTROL Salva modifiche]**.
+1. Passare all’oggetto per il quale desideri modificare le informazioni nel modulo personalizzato.
+1. Fai clic su [Tipo di oggetto] **[!UICONTROL Dettagli]** nel pannello a sinistra.
+1. Espandi il modulo personalizzato facendo clic sulla freccia accanto al nome.
+1. Fai clic su un singolo campo nel modulo personalizzato per accedere alla modalità di modifica su quel campo. Puoi anche fare clic sul pulsante [!UICONTROL Modifica] nell’angolo in alto a destra per modificare tutti i moduli personalizzati o le relative sezioni.
+1. Digita le informazioni in un singolo campo personalizzato, anche se i campi obbligatori in altri moduli personalizzati sull’oggetto non sono ancora stati compilati.
+1. Fai clic su **[!UICONTROL Salva modifiche]**.
 
 ![Finestra Dettagli attività con un modulo personalizzato in fase di modifica](assets/custom-forms-edit-a-custom-form.jpg)
