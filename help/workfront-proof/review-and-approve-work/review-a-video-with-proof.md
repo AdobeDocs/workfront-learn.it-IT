@@ -1,6 +1,6 @@
 ---
-title: Rivedi un video con la bozza
-description: Scopri come regolare le impostazioni del visualizzatore e aggiungere commenti con marca temporale a un video utilizzando gli strumenti di correzione in [!DNL  Workfront].
+title: Rivedere un video con la bozza
+description: Scopri come regolare le impostazioni del visualizzatore e aggiungere commenti con marca temporale a un video utilizzando gli strumenti di bozza in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,15 +12,15 @@ jira: KT-8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Rivedi un video con la bozza
+# Rivedere un video con la bozza
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Aggiungere commenti con marca temporale a un video
 * Regolare le impostazioni del visualizzatore
