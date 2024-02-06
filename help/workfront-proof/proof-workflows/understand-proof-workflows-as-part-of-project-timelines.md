@@ -1,6 +1,6 @@
 ---
-title: Flussi di lavoro di bozza come parte delle timeline del progetto
-description: Scopri i consigli per combinare un processo di revisione e approvazione con una tempistica del progetto in [!DNL  Workfront].
+title: Flussi di lavoro di bozza nelle timeline dei progetti
+description: Scopri i consigli per combinare un processo di revisione e approvazione con la timeline di un progetto in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8825
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Flussi di lavoro di bozza come parte delle timeline del progetto
+# Flussi di lavoro di bozza nelle timeline dei progetti
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Recommendations per combinare un processo di revisione e approvazione con una sequenza temporale del progetto
+* Consigli per combinare un processo di revisione e approvazione con la timeline di un progetto
 
 >[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
