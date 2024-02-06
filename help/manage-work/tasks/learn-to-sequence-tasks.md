@@ -1,6 +1,6 @@
 ---
-title: Scopri come ordinare le attività
-description: Scopri cos’è un predecessore e come sequenziano le attività in un progetto. Poi scopri come utilizzare le durate e i predecessori per creare una timeline.
+title: Scoprire come ordinare le attività
+description: Scopri cos’è un predecessore e come i predecessori sequenziano le attività in un progetto. Quindi scopri come utilizzare le durate e i predecessori per creare una timeline.
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -12,18 +12,18 @@ jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
-# Scopri come ordinare le attività
+# Scoprire come ordinare le attività
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Contenuto di un predecessore [!DNL  Workfront]
-* Sequenza delle attività in un progetto da parte dei predecessori
+* Che cos’è un predecessore in [!DNL  Workfront]
+* Come i predecessori sequenziano le attività in un progetto
 * Come utilizzare le durate e i predecessori per creare una timeline
 * Come modificare o inserire i predecessori
 
