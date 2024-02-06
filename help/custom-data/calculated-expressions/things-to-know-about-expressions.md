@@ -1,6 +1,6 @@
 ---
-title: Informazioni sulle espressioni di campo calcolato
-description: Dai un’occhiata a un elenco di concetti utili per l’utilizzo dei campi calcolati personalizzati in [!DNL Workfront].
+title: Aspetti da prendere in considerazione sulle espressioni di campo calcolato
+description: Dai un’occhiata a un elenco di concetti utili per l’utilizzo dei campi calcolati personalizzati in  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -10,13 +10,13 @@ team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '959'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informazioni sulle espressioni di campo calcolato
+# Aspetti da prendere in considerazione sulle espressioni di campo calcolato
 
 Di seguito è riportato un elenco di concetti utili per l’utilizzo dei campi calcolati personalizzati in Workfront.
 
@@ -26,7 +26,7 @@ Quando si tratta di nomi di espressioni, il carattere maiuscolo/minuscolo è imp
 
 ![Messaggio di errore senza maiuscole nel nome dell’espressione](assets/T2K01.png)
 
-Tuttavia, l’espressione deve essere scritta come tutte le lettere maiuscole affinché il sistema possa riconoscerla e salvare il campo.
+Tuttavia, l’espressione deve essere scritta con tutte le lettere maiuscole affinché il sistema possa riconoscerla e salvare il campo.
 
 
 
@@ -38,23 +38,23 @@ Le ore nel database di Workfront vengono memorizzate in minuti. Se si fa riferim
 
 Il modo consigliato per scrivere le espressioni prevede una spaziatura minima o nulla tra ciascuna espressione.
 
-* IF(ISBLANK({description}),&quot;Nessuna descrizione&quot;,&quot;Ha descrizione&quot;)
+* IF(ISBLANK({description}),“Nessuna descrizione”, “Ha descrizione”)
 
 ![Espressioni senza spaziatura tra i campi](assets/T2K02.png)
 
 Tuttavia, se la spaziatura consente di vedere cosa sta succedendo, è possibile aggiungerla alle espressioni. Gli spazi aggiuntivi non devono impedire all’espressione di raccogliere o calcolare un valore in [!DNL Workfront].
 
-* SE (ISBLANK ({description}), &quot;Nessuna Descrizione&quot; , &quot;Ha Descrizione&quot; )
+* IF (ISBLANK ({description}), “Nessuna descrizione” , “Ha descrizione”)
 
 ![Espressioni con spaziatura tra i campi](assets/T2K03.png)
 
-Le uniche cose che non possono avere spazi tra di loro sono i campi e le parentesi graffe. In caso contrario, verrà visualizzato un messaggio di errore e non sarà possibile salvare il campo o il modulo personalizzato.
+Gli unici elementi che non possono avere spazi tra loro sono i campi e le parentesi graffe. In caso contrario, verrà visualizzato un messaggio di errore e non sarà possibile salvare il campo o il modulo personalizzato.
 
 ![Errore relativo alla spaziatura tra il nome del campo e la parentesi graffa](assets/T2K04.png)
 
 ## Le virgolette devono essere diritte
 
-Quando si utilizzano le virgolette in un&#39;espressione, assicurarsi che siano rette (&quot;). Se le virgolette sono curve (&quot;), [!DNL Workfront] Il sistema continuerà a visualizzare il messaggio &quot;Espressione personalizzata non valida&quot;.
+Quando utilizzi le virgolette in un’espressione, assicurati che siano diritte (&quot;). Se le virgolette sono curve (“), Il sistema [!DNL Workfront] continuerà a visualizzare il messaggio “Espressione personalizzata non valida”.
 
 ![Errore con virgolette curve](assets/T2K05.png)
 
@@ -64,33 +64,33 @@ Questo è un aspetto importante dei campi calcolati da comprendere.
 
 Le informazioni visualizzate in un campo calcolato rimarranno invariate e diventeranno obsolete a meno che il modulo personalizzato non venga ricalcolato.
 
-Le espressioni possono essere aggiornate utilizzando l&#39;opzione Ricalcola espressioni nel menu Altro di un oggetto.
+Le espressioni possono essere aggiornate utilizzando l’opzione Ricalcola espressioni nel menu Altro di un oggetto.
 
-Desideri visualizzare il numero di giorni in cui un problema è stato aperto. Creare un campo calcolato denominato &quot;Days Open&quot; con l&#39;espressione DATEDIFF.
+Desideri visualizzare il numero di giorni in cui un problema è stato aperto. Creare un campo calcolato denominato &quot;Giorni aperti&quot; con l&#39;espressione DATEDIFF.
 
 * Nome Campo = Giorni Aperti
-* Espressione = DATEDIFF({entryDate},$$OGGI)
+* Espressione = DATEDIFF({entryDate},$$TODAY)
 
 Una volta salvato, il numero di giorni tra la creazione del problema o l’immissione in Workfront e la data odierna può essere visualizzato nella pagina dei dettagli di un oggetto o in una visualizzazione di rapporto.
 
-Il giorno successivo, quando visualizzerai la stessa pagina dei dettagli o la stessa visualizzazione del rapporto, prevedi che tale numero venga incrementato di uno. Se il numero è 5 oggi, dovrebbe essere 6 domani. Il giorno successivo dovrebbe essere 7, poi 8, ecc.
+Il giorno successivo, quando visualizzerai la stessa pagina dei dettagli o la stessa visualizzazione del rapporto, prevedi che tale numero venga incrementato di uno. Se oggi il numero è 5, domani dovrebbe essere 6. Il giorno successivo dovrebbe essere 7, poi 8, ecc.
 
-Tuttavia, il campo continuerà a essere 5 ogni giorno. Il campo deve essere &quot;rieseguito&quot; o ricalcolato per aggiornare le informazioni.
+Tuttavia, il campo continuerà a essere 5 ogni giorno. Il campo deve essere “rieseguito” o ricalcolato per aggiornare le informazioni.
 
-Per aggiornare un campo utilizzando l&#39;opzione Ricalcola espressioni:
+Per aggiornare un campo utilizzando l’opzione Ricalcola espressioni:
 
-* Fare clic sul nome dell&#39;oggetto per aprirlo.
-* Fare clic sul menu Altro.
-* Selezionare Ricalcola espressioni dall&#39;elenco.
+* Fai clic sul nome dell’oggetto per aprirlo.
+* Fai clic sul menu Altro.
+* Selezionare Ricalcola espressioni dall’elenco.
 
-![Opzione Ricalcola espressione nell&#39;oggetto](assets/T2K06.png)
+![Opzione Ricalcola espressione nell’oggetto](assets/T2K06.png)
 
-È inoltre possibile ricalcolare più espressioni contemporaneamente utilizzando la funzione di &quot;modifica in serie&quot; in un elenco o in un report. Si supponga di aver creato un report contenente un elenco di problemi con il calcolo Giorni aperti visualizzato in una colonna. Se si desidera ricalcolare tutti i problemi contemporaneamente:
+È inoltre possibile ricalcolare più espressioni contemporaneamente utilizzando la funzione di “modifica in serie” in un elenco o in un report. Supponiamo di aver creato un report che mostra un elenco di problemi con il calcolo dei giorni di apertura visualizzati in una colonna. Se desideri ricalcolare tutti i problemi contemporaneamente:
 
 * Seleziona tutti i problemi nel rapporto.
 * Seleziona l’opzione di modifica per modificare in blocco tutti i problemi selezionati.
-* Fai clic sull’etichetta Forms personalizzato a sinistra per scorrere verso il basso fino alla sezione Moduli personalizzati.
-* Seleziona la casella Ricalcola espressioni personalizzate nella parte inferiore della sezione Forms personalizzate.
+* Fai clic sull’etichetta Moduli personalizzati a sinistra per scorrere verso il basso fino alla sezione Moduli personalizzati.
+* Seleziona la casella Ricalcola espressioni personalizzate nella parte inferiore della sezione Moduli personalizzati.
 * Fai clic su Salva modifiche.
 
 ![Opzione Ricalcola espressione per più oggetti](assets/T2K07.png)
@@ -103,17 +103,17 @@ La schermata si aggiorna per mostrare le informazioni aggiornate nel campo calco
 
 Non appena un campo calcolato viene salvato in un modulo personalizzato e il modulo personalizzato viene salvato, il campo calcolato viene aggiunto alla Libreria campi in modo che possa essere utilizzato in altri moduli personalizzati.
 
-Tuttavia, se si dispone di un campo calcolato nel modulo A e dello stesso campo calcolato nel modulo B, il pensiero iniziale è che i calcoli sono esattamente gli stessi. Non sempre è così. Il campo calcolato nel modulo A potrebbe essere calcolato in modo completamente diverso nel modulo B.
+Tuttavia, se si dispone di un campo calcolato nel modulo A e dello stesso campo calcolato nel modulo B, l’idea iniziale è che i calcoli siano esattamente gli stessi. Non è sempre così. Il campo calcolato nel modulo A potrebbe essere calcolato in modo completamente diverso nel modulo B.
 
 Quando un campo personalizzato calcolato viene selezionato dalla libreria dei campi e aggiunto a un modulo personalizzato, il campo viene aggiunto ma il calcolo è vuoto. Questo accade perché il calcolo potrebbe fare riferimento a campi che non esistono per un altro tipo di oggetto.
 
-È stato ad esempio creato un campo calcolato &quot;Giorni per il completamento&quot; per determinare il tempo necessario per completare un&#39;attività in un progetto.
+Ad esempio è stato creato un campo calcolato “Giorni per il completamento” per determinare il tempo necessario per completare un’attività in un progetto.
 
 * WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
-Si desidera fare la stessa cosa per un&#39;iterazione. È possibile utilizzare la stessa espressione, ma i campi disponibili per un oggetto attività non sono sempre disponibili per un oggetto iterazione. Quindi [!DNL Workfront] consente di generare il calcolo con i campi oggetto corretti.
+Vuoi fare la stessa cosa per un’iterazione. Puoi usare la stessa espressione; tuttavia, i campi disponibili per un oggetto attività non sono sempre disponibili per un oggetto iterazione. Quindi [!DNL Workfront] consente di generare il calcolo con i campi oggetto corretti.
 
-**Suggerimento**: durante la creazione di campi personalizzati, copia l’espressione calcolata dalla casella Calcolo nel campo Istruzioni. Questo campo non viene cancellato quando un campo personalizzato calcolato viene aggiunto al modulo personalizzato dalla Libreria campi.
+**Suggerimento**: copia l’espressione calcolata dalla casella Calcolo nel campo Istruzioni durante la creazione di campi personalizzati. Questo campo non viene cancellato quando un campo personalizzato calcolato viene aggiunto al modulo personalizzato dalla Libreria campi.
 
 A seconda delle esigenze, i campi calcolati nei moduli personalizzati possono essere molto semplici o molto complessi. Le espressioni possono incorporare o nidificare altre espressioni e valori per fornire il livello di dettaglio necessario per ottenere un quadro migliore di ciò che accade nel lavoro svolto nell’organizzazione.
 
