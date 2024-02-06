@@ -1,6 +1,6 @@
 ---
-title: Procedura dettagliata sulla mappatura di base
-description: Modifica alcuni campi del progetto nello scenario creato in precedenza utilizzando le formule del pannello di mappatura in [!DNL Adobe Workfront Fusion].
+title: Procedura dettagliata oltre la mappatura di base
+description: Modifica alcuni campi del progetto nello scenario creato in precedenza utilizzando le formule del pannello di mappatura in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,48 +11,48 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Procedura dettagliata sulla mappatura di base
+# Procedura dettagliata oltre la mappatura di base
 
-Modificare il nome del progetto, la data di inizio pianificata e la priorità dalla &quot;Progettazione scenario iniziale&quot; creata nella prima procedura dettagliata utilizzando le formule del pannello di mappatura.
+Modifica il nome del progetto, la data di inizio pianificata e la priorità dalla “Progettazione dello scenario iniziale” creata nella prima procedura dettagliata utilizzando le formule del pannello di mappatura.
 
 ![Immagine dello scenario Fusion](assets/understand-the-basics-1.png)
 
-## Procedura dettagliata sulla mappatura di base
+## Procedura dettagliata oltre la mappatura di base
 
-Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
+Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata sulla mappatura di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) esercizio fisico.
+>Per istruzioni passo dopo passo sul completamento della procedura dettagliata, passa all’esercizio [Procedura dettagliata oltre la mappatura di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=it).
 
 ## Tocca a te
 
 >[!NOTE]
 >
->Gli esercizi pratici e le sfide sono facoltativi e non sono necessari per completare la formazione su Fusion.
+>Gli esercizi pratici e le sfide sono facoltativi e non necessari per completare la formazione su Fusion.
 
-Questo esercizio di esercitazione si basa su quanto appreso nella procedura dettagliata, ma la soluzione non viene fornita.
+Questa esercitazione si basa su quanto appreso nella procedura dettagliata, ma è priva di soluzione.
 
-Creare un clone della procedura dettagliata &quot;Oltre la mappatura di base&quot; appena completata. Continuerai a utilizzare lo scenario nella procedura dettagliata successiva, quindi non desideri modificarlo con questo esercizio.
+Crea un clone della procedura dettagliata “Oltre la mappatura di base” appena completata. Continuerai a utilizzare lo scenario nella procedura dettagliata successiva, quindi non andrai a modificarlo con questo esercizio.
 
-Creare un&#39;attività in ogni progetto creato durante la procedura dettagliata precedente.
+Crea un’attività in ogni progetto creato come parte della procedura dettagliata precedente.
 
-* Utilizzare &quot;Pianificazione iniziale per un progetto (colore progetto)&quot; come nome dell&#39;attività.
-* Impostare la data di inizio pianificata in modo che corrisponda alla data di inizio pianificata del progetto.
-* Impostare la durata su 3 giorni e il tipo di durata su Assegnazione calcolata.
-* Imposta le ore pianificate al 10% del livello di affidabilità in ore.
-* Impostare il vincolo attività su Il più presto possibile.
+* Utilizza “Pianificazione iniziale per un progetto (colore progetto)” come nome dell’attività.
+* Imposta la data di inizio pianificata in modo che corrisponda alla data di inizio pianificata del progetto.
+* Imposta la durata su 3 giorni e il tipo di durata su Assegnazione calcolata.
+* Imposta le ore pianificate al 10% del valore di affidabilità in ore.
+* Imposta il Vincolo attività su Il prima possibile.
 
-**Sfida:** Se il colore del progetto è rosso, assegnare l&#39;attività a Rick Kuvec. Se il colore del progetto è Giallo, assegnare l&#39;attività a Mary Smith. Se il colore del progetto è Verde, assegnare l&#39;attività a Ida Blankenship.
+**Sfida:** se il colore del progetto è rosso, assegna l’attività a Rick Kuvec. Se il colore del progetto è giallo, assegna l’attività a Mary Smith. Se il colore del progetto è verde, assegna l’attività a Ida Blankenship.
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
