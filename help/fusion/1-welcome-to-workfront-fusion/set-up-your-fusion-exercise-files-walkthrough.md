@@ -1,6 +1,6 @@
 ---
 title: Configurare i file degli esercizi di Workfront Fusion
-description: Scopri come scaricare i file degli esercizi e caricarli in una cartella in Workfront, in [!DNL Adobe Workfront Fusion].
+description: Scopri come scaricare i file degli esercizi e caricarli in una cartella in Workfront in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Configurare i file degli esercizi di Workfront Fusion
 
-Scopri come impostare i file dell’esercizio di Fusion.
+Scopri come impostare i file degli esercizi di Fusion.
 
-1. Scarica il file [File di esercizi di fusione](/help/assets/fusion-exercise-files.zip).
+1. Scarica i [File degli esercizi di Fusion](/help/assets/fusion-exercise-files.zip).
 
 1. Guarda il video per scoprire come caricare questi file in una cartella in Workfront.
 
