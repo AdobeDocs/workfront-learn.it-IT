@@ -1,5 +1,5 @@
 ---
-title: Comprendere le opzioni aggiuntive per i rapporti sul calendario
+title: Informazioni sulle opzioni aggiuntive per i rapporti calendario
 description: Scopri come copiare, modificare, condividere ed eliminare un calendario.
 activity: use
 feature: Reports and Dashboards
@@ -12,22 +12,22 @@ thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Comprendere le opzioni aggiuntive per i rapporti sul calendario
+# Informazioni sulle opzioni aggiuntive per i rapporti calendario
 
-Un report calendario è un report dinamico che visualizza il lavoro e l&#39;indisponibilità in una visualizzazione calendario. È possibile visualizzare le informazioni sulla data in un report calendario per i seguenti oggetti:
+Un Rapporto calendario è un rapporto dinamico che presenta, in una vista di tipo calendario, sia il lavoro da svolgere sia quando un utente non è disponibile (ferie). In un Rapporto calendario puoi visualizzare le informazioni sulla data per i seguenti oggetti:
 
 * Attività
 * Progetti
 * Problemi
 * Indisponibilità
 
-Questo video illustra come:
+In questo video imparerai come:
 
 * Copiare un calendario
 * Modificare un raggruppamento di calendari
