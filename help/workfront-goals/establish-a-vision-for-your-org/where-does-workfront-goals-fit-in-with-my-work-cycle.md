@@ -1,6 +1,6 @@
 ---
-title: Comprendere come [!UICONTROL Obiettivi Workfront] adatta al ciclo di lavoro
-description: Scopri le 6 fasi di un tipico ciclo di vita lavorativa e i principali elementi di base della "fase strategica" del ciclo di vita lavorativa.
+title: Comprendere in che modo [!UICONTROL obiettivi Workfront] si inserisce nel ciclo di lavoro
+description: Scopri le 6 fasi di un tipico ciclo di vita lavorativa e i principali elementi di base della rispettiva “fase strategica”.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendere come [!UICONTROL Obiettivi Workfront] adatta al ciclo di lavoro
+# Comprendere in che modo [!UICONTROL obiettivi Workfront] si inserisce nel ciclo di lavoro
 
-Questo video illustra:
+In questo video scoprirai:
 
 * Le 6 fasi di un tipico ciclo di vita lavorativa
-* Elementi di base della &quot;fase strategica&quot; del ciclo di vita lavorativa
+* Elementi di base della “fase strategica” del ciclo di vita lavorativa
 
 >[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
@@ -30,8 +30,8 @@ Questo video illustra:
 Your turn graphic
 -->
 
-Dedica un minuto a riflettere sulle seguenti domande presentate nel video. Abbassate alcuni pensieri iniziali come risposta. Utilizza queste domande per guidare le discussioni che hai con i tuoi team. Tu cos&#39;hai imparato?
+Dedica un minuto a riflettere sulle seguenti domande presentate nel video. Annota alcuni pensieri iniziali come risposta. Utilizza queste domande per guidare le discussioni che hai con i tuoi team. Che cos’hai imparato?
 
 1. Cosa stiamo cercando di ottenere?
 1. Come misureremo il successo?
-1. Quali sono le diverse opzioni per raggiungere tali obiettivi? Quali sono le opzioni migliori, date le nostre limitazioni?
+1. Quali sono le diverse opzioni per raggiungere tali obiettivi? Quali sono le opzioni migliori, dati i nostri vincoli?
