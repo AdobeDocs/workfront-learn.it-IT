@@ -1,6 +1,6 @@
 ---
-title: Come assegnare le priorità al lavoro in [!UICONTROL Home]
-description: Scopri come contrassegnare gli elementi nel [!UICONTROL Elenco lavori] come assegnazioni di priorità nella home page. Quindi filtra l’elenco per visualizzare il lavoro con priorità in [!DNL  Workfront].
+title: Come assegnare le priorità al lavoro nella [!UICONTROL Home]
+description: Scopri come contrassegnare gli elementi nell’[!UICONTROL Elenco di lavoro] come assegnazioni prioritarie nella pagina Home. Quindi filtrare l’elenco per visualizzare il lavoro con priorità in  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Assegna priorità al lavoro in [!DNL Workfront] [!UICONTROL Home]
+# Assegnare priorità al lavoro nella [!UICONTROL Home] di [!DNL Workfront]
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Contrassegna lavoro come assegnazioni di priorità
-* Filtra il [!UICONTROL Elenco lavori] per visualizzare solo il lavoro prioritario
+* Contrassegnare il lavoro come assegnazioni di priorità
+* Filtrare l’[!UICONTROL Elenco di lavoro] per visualizzare solo il lavoro prioritario
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)
