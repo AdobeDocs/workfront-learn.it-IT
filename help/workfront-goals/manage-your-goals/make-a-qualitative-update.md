@@ -1,6 +1,6 @@
 ---
-title: Eseguire un aggiornamento qualitativo in [!DNL Workfront Goals]
-description: Scopri come effettuare un aggiornamento qualitativo, o scritto, in [!DNL Goals].
+title: Effettuare un aggiornamento qualitativo in  [!DNL Workfront Goals]
+description: Scopri come effettuare un aggiornamento qualitativo o scritto in [!DNL Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Effettua un aggiornamento qualitativo
+# Effettuare un aggiornamento qualitativo
 
-Aggiornamenti qualitativi o scritti possono essere apportati in più aree di [!DNL Workfront Goals]. È possibile aggiungere commenti agli obiettivi nel [!UICONTROL Dettagli obiettivo] pannello, il [!UICONTROL Check-in] sezione o [!UICONTROL Pulse] sezione. Anche se il processo per aggiungere commenti agli obiettivi è simile in queste aree, ci sono differenze nella possibilità di modificare, eliminare o reagire a un commento quando si utilizza un’area rispetto a un’altra. Quando si immette un commento in una di queste aree, il commento è visibile in tutte le aree in cui vengono visualizzati i commenti dell&#39;obiettivo.
+Gli aggiornamenti qualitativi o scritti possono essere effettuati in più aree di [!DNL Workfront Goals]. Puoi aggiungere commenti agli obiettivi nel pannello [!UICONTROL Dettagli obiettivo], nella sezione [!UICONTROL Check-in], oppure in quella [!UICONTROL Pulse]. Sebbene il processo per aggiungere commenti agli obiettivi sia simile in queste aree, esistono differenze nella possibilità di modificare, eliminare o reagire a un commento quando si utilizza un’area rispetto a un’altra. Quando si immette un commento in una di queste aree, il commento è visibile in tutte le aree in cui vengono visualizzati i commenti dell’obiettivo.
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Effettuare un aggiornamento qualitativo o scritto
 
