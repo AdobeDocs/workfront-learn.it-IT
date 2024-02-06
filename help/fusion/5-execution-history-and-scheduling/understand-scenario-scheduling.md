@@ -1,6 +1,6 @@
 ---
-title: Informazioni sulla pianificazione degli scenari
-description: Scopri cosa sono la pianificazione degli scenari, i cicli e le esecuzioni in [!DNL Adobe Workfront Fusion].
+title: Comprendere la pianificazione degli scenari
+description: Scopri che cosa sono la pianificazione degli scenari, i cicli e le esecuzioni in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,15 +12,15 @@ last-substantial-update: 2024-01-24T00:00:00Z
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
 doc-type: video
 source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informazioni sulla pianificazione degli scenari
+# Comprendere la pianificazione degli scenari
 
-Questo video illustra:
+In questo video scoprirai:
 
 * Quali sono le opzioni di pianificazione, ciclo ed esecuzione di scenari in Workfront Fusion
 
