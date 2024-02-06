@@ -12,19 +12,19 @@ last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '90'
+ht-degree: 100%
 
 ---
 
 # Comprendere la comunicazione del progetto
 
-Questo video illustra come comunicare con tutte le parti interessate al progetto utilizzando:
+Questo video illustra come comunicare con tutti gli stakeholder del progetto utilizzando:
 
-* Buona pianificazione del progetto
+* Una buona pianificazione del progetto
 * Aggiornamenti
-* Stato attività e percentuale di completamento
+* Lo stato attività e percentuale di completamento
 * Problemi
 * Report
 
@@ -32,6 +32,6 @@ Questo video illustra come comunicare con tutte le parti interessate al progetto
 
 >[!TIP]
 >
->Per creare il rapporto Ricerca nota mostrato nel video, vedi l’attività nella sezione [Creare un rapporto di attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) esercitazione.
+>Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=it).
 >
->Per aggiungere il rapporto Ricerca nota al pannello del progetto, vedi l’attività in [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) esercitazione.
+>Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=it).
