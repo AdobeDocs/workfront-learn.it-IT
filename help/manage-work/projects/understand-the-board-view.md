@@ -1,6 +1,6 @@
 ---
-title: Comprendere la [!UICONTROL Scheda madre] visualizza
-description: Scopri come utilizzare il [!UICONTROL Scheda madre] nella pagina di destinazione del progetto.
+title: Comprendere la vista [!UICONTROL Bacheca]
+description: Scopri come utilizzare la vista [!UICONTROL Bacheca] nella pagina di destinazione del progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,19 +10,20 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-03T00:00:00Z
 jira: KT-13743
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
-workflow-type: tm+mt
+exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendere la [!UICONTROL Scheda madre] visualizza
+# Comprendere la vista [!UICONTROL Bacheca]
 
 Questo video illustra:
 
-* Dove trovare [!UICONTROL Scheda madre] visualizza
-* Come utilizzare il [!UICONTROL Scheda madre] visualizza
+* Dove trovare la vista [!UICONTROL Bacheca]
+* Come utilizzare la vista [!UICONTROL Bacheca]
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on)
