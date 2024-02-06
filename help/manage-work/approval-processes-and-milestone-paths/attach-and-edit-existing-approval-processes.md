@@ -1,6 +1,6 @@
 ---
-title: Allega e modifica i processi di approvazione esistenti
-description: Scopri come utilizzare e modificare i processi di approvazione esistenti per progetti, attività o problemi in [!DNL  Workfront].
+title: Allegare e modificare i processi di approvazione esistenti
+description: Scopri come utilizzare e modificare i processi di approvazione esistenti per progetti, attività o problemi in  [!DNL  Workfront].
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg
@@ -12,15 +12,15 @@ jira: KT-8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# Allega e modifica i processi di approvazione esistenti
+# Allegare e modificare i processi di approvazione esistenti
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Usa un processo di approvazione esistente
 * Modificare un processo di approvazione esistente per un progetto, attività o problema specifico
