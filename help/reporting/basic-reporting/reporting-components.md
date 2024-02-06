@@ -12,17 +12,17 @@ jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Comprendere i componenti di reporting
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Componenti chiave della generazione rapporti di Workfront
+* Componenti chiave del reporting di Workfront
 * Come vengono utilizzati questi componenti in un elemento di reporting
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
@@ -33,8 +33,8 @@ Questo video illustra:
 
 **A - Origine campo**
 
-Le opzioni di origine del campo dipendono dal tipo di oggetto selezionato. Spesso, l’origine del campo è l’elemento in Workfront a cui appartiene un’informazione specifica (o il nome del campo). A volte l’origine del campo è identica al tipo di oggetto.
-L&#39;origine del campo determina i nomi dei campi disponibili.
+Le opzioni dell’origine campo dipendono dal tipo di oggetto selezionato. Spesso, l’origine del campo è l’elemento in Workfront a cui appartiene un’informazione specifica (o il nome del campo). A volte l’origine del campo è la stessa del tipo di oggetto.
+L’origine del campo determina i nomi dei campi disponibili.
 
 Esempi: [!UICONTROL Progetto], [!UICONTROL Attività], [!UICONTROL Problema], [!UICONTROL Assegnato a]
 
@@ -46,7 +46,7 @@ Possono essere campi Workfront compilati, campi di un modulo personalizzato o in
 
 I nomi dei campi determinano le opzioni dei campi dei valori.
 
-Esempi: [!UICONTROL Stato di avanzamento], [!UICONTROL Descrizione], [!UICONTROL Data di completamento Pianificata], Campi modulo personalizzati
+Esempi: [!UICONTROL Stato di avanzamento], [!UICONTROL Descrizione], [!UICONTROL Data di completamento pianificata], Campi modulo personalizzati
 
 **C - Qualificatori del filtro**
 
@@ -58,15 +58,15 @@ Esempi: Equal, Contains, Null, Less than
 
 **D - Valore**
 
-Il valore è l&#39;informazione immessa nel campo specificato dal nome del campo.
+Il valore è l’informazione immessa nel campo specificato dal nome del campo.
 
-Le opzioni relative al valore sono determinate dall&#39;origine del campo e dal nome del campo.
+Le opzioni relative al valore sono determinate dall’origine del campo e dal nome del campo.
 
 Nel valore è possibile utilizzare caratteri jolly per utenti e date, nonché testo in formato libero.
 
-Esempi: Nuovo, Corrente, $$TODAYbw, Descrizione
+Esempi: Nuovo, Attuale, $$TODAYbw, Descrizione
 
 >[!TIP]
 >
->Per informazioni su nomi di campo specifici in Workfront, consulta la [Glossario della terminologia di Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Per informazioni su nomi di campo specifici in Workfront, consulta il [Glossario della terminologia di Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=it).
 
