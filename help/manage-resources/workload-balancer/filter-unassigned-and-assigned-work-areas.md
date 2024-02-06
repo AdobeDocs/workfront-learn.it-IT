@@ -12,15 +12,15 @@ jira: KT-8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Filtrare le aree Lavoro non assegnato e Lavoro assegnato
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Regolare gli intervalli di tempo per le aree Lavoro assegnato e Lavoro non assegnato
 * Filtrare l’elenco di utenti nell’area Lavoro assegnato
