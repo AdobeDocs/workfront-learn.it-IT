@@ -1,6 +1,6 @@
 ---
-title: Contrassegna lavoro assegnato come completato in [!UICONTROL Home]
-description: Scopri come modificare lo stato di un’attività o di un problema assegnato per indicarne il completamento tramite [!UICONTROL Elenco lavori]. Quindi filtra l’elenco per visualizzare solo il lavoro completato.
+title: Contrassegnare il lavoro assegnato come completato nella [!UICONTROL Home]
+description: Scopri come modificare lo stato di un'attività o di un problema assegnato per indicarne il completamento tramite l’[!UICONTROL Elenco di lavoro]. Quindi filtra l’elenco per visualizzare solo il lavoro completato.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Utilizzare lo stato per indicare il completamento del lavoro in [!DNL Workfront] [!UICONTROL Home]
+# Utilizzare lo stato per indicare il completamento del lavoro nella [!DNL Workfront] [!UICONTROL Home]
 
-Questo video illustra:
+In questo video scoprirai:
 
 * Come comunicare lo stato di avanzamento del lavoro
 * Perché lo stato è importante in [!DNL  Workfront]
-* Come filtrare il [!UICONTROL Elenco lavori] per visualizzare il lavoro completato
+* Come filtrare l’[!UICONTROL Elenco di lavoro] per visualizzare il lavoro completato
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
 
 
 ## Altri due modi per indicare il completamento del lavoro
 
-* Modificare il [!UICONTROL Stato] menu a discesa per completare.
-* Aggiornare il [!UICONTROL percentuale di completamento] al 100%. Lo stato viene modificato automaticamente in Completo.
+* Modificare il menu a discesa [!UICONTROL Stato] in Completato.
+* Aggiornare la[!UICONTROL  percentuale di completamento] al 100 per cento. Lo stato viene modificato automaticamente in Completato.
 
 <!---
 learn more URLs
