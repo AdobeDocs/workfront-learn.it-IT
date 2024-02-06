@@ -10,13 +10,13 @@ team: Technical Marketing
 jira: KT-8961
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Introduzione al corso Processi di approvazione
+# Introduzione al corso sui processi di approvazione
 
 Questo video illustra come i processi di approvazione possono semplificare e automatizzare il processo di revisione del lavoro.
 
