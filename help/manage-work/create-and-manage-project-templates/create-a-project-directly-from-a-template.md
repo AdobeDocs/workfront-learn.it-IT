@@ -11,15 +11,15 @@ level: Beginner
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '164'
+ht-degree: 100%
 
 ---
 
 # Creare un progetto direttamente da un modello
 
-Se lavori su un modello e devi creare un progetto utilizzando tale modello, fai clic sul menu a 3 punti accanto al nome del modello. Quindi seleziona Crea progetto.
+Se lavori su un modello e devi creare un progetto utilizzandolo, fai clic sul menu a 3 punti accanto al nome del modello. Quindi seleziona Crea progetto.
 
 ![Opzione Crea progetto nel menu](assets/direct-template-01.png)
 
@@ -33,7 +33,7 @@ La finestra dei dettagli consente di apportare modifiche alle impostazioni del n
 
 >[!TIP]
 >
->Se utilizzi frequentemente un modello, impostalo come preferito. Il modello viene visualizzato nel menu Nuovo progetto, oltre a essere visualizzato nel menu Preferiti nella barra di navigazione.
+>Se esiste un modello che usi frequentemente, aggiungilo ai preferiti! Il modello viene visualizzato nel menu Nuovo progetto, oltre a essere visualizzato nel menu Preferiti nella barra di navigazione.
 
 
 ![Nuovi modelli preferiti per i progetti](assets/direct-template-03.png)
