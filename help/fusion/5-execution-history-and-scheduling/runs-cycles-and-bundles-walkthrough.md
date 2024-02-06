@@ -1,6 +1,6 @@
 ---
 title: Procedura dettagliata su esecuzioni, cicli e bundle
-description: Scopri come utilizzare diverse configurazioni di scenario per esplorare utilizzando esecuzioni e cicli in [!DNL Adobe Workfront Fusion].
+description: Scopri come utilizzare diverse configurazioni di scenario per esplorare utilizzando esecuzioni e cicli in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -25,15 +25,15 @@ Esercitati con diverse configurazioni di scenari per esplorare utilizzando esecu
 
 ## Procedura dettagliata su esecuzioni, cicli e bundle
 
-Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
+Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Esplorazione di esecuzioni, cicli e bundle procedura dettagliata](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=en) esercizio fisico.
+>Per istruzioni sul completamento della procedura dettagliata, consulta l’esercizio [Esplorazione di esecuzioni, cicli e bundle ed esercizio sulla procedura dettagliata](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=it).
 
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
