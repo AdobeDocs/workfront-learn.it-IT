@@ -1,6 +1,6 @@
 ---
 title: Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
-description: Scopri come creare un modello di progetto da zero o da un progetto esistente [!UICONTROL Blueprint] può offrirti l’accesso a un mondo di utili modelli di progetto creati da esperti Workfront.
+description: Impara a creare un modello di progetto da zero e da un progetto esistente e comprendi come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,19 +13,19 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '345'
+ht-degree: 100%
 
 ---
 
-# Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
+# Creare un modello di progetto e informazioni sui [!UICONTROL Blueprint]
 
-Scopri come creare un modello di progetto da zero o da un progetto esistente [!UICONTROL Blueprint] può offrirti l’accesso a un mondo di utili modelli di progetto creati da esperti Workfront.
+Impara a creare un modello di progetto da zero e da un progetto esistente e capisci come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
 
 ## Creare un modello di progetto
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Creare un modello da zero
 * Creare un modello da un progetto esistente
@@ -34,22 +34,22 @@ Questo video illustra come:
 
 ## Modelli creati con [!UICONTROL Blueprint]
 
-Gli utenti di Workfront possono utilizzare [!UICONTROL Blueprint] per creare modelli di progetto. Questa funzione, disponibile nel menu principale, consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
+Gli utenti di Workfront possono utilizzare [!UICONTROL Blueprint] per contribuire a creare modelli di progetto. Questa funzionalità, situata nel menu principale, ti consente di accedere a modelli predefiniti e pronti all’uso destinati a un reparto e a un livello di maturità specifico. Questi modelli forniscono agli utenti un vantaggio nella creazione ripetibile dei progetti e aiutano a mantenere la coerenza tra progetti con un ambito simile.
 
 ![Blueprint nel menu principale](assets/pt-blueprints-01.png)
 
-Qualsiasi utente con licenza può sfogliare l’elenco dei blueprint disponibili in Workfront. Non è possibile applicare una blueprint direttamente durante la creazione di un nuovo progetto (ad esempio, quando si converte un’attività o una richiesta in un progetto). Una differenza fondamentale tra una blueprint e un modello di progetto è che viene utilizzato un blueprint per creare un modello, mentre un modello viene utilizzato per creare un progetto. **Per poter creare il modello corrispondente, il blueprint deve essere installato da un amministratore di sistema.**
+Qualsiasi utente con licenza può sfogliare l’elenco dei blueprint disponibili in Workfront. Non è possibile applicare un blueprint direttamente durante la creazione di un nuovo progetto (ad esempio convertendo un’attività o una richiesta in un progetto). Una differenza fondamentale tra un progetto e un modello di progetto è che un progetto viene utilizzato per creare un modello, mentre un modello viene utilizzato per creare un progetto. **Per poter creare il modello corrispondente, il blueprint deve essere installato da un amministratore di sistema.**
 
-Se trovi una blueprint interessante, puoi fare clic su **[!UICONTROL Dettagli]** per saperne di più.
+Se trovi un progetto che sembra interessante, puoi fare clic su **[!UICONTROL Dettagli]** per ottenere ulteriori informazioni.
 
 ![Elenco dei blueprint](assets/pt-blueprints-02.png)
 
-Il [!UICONTROL Dettagli] nella schermata vengono fornite ulteriori informazioni sul blueprint, inclusa la cronologia di installazione se il blueprint è stato installato.
+La schermata [!UICONTROL Dettagli] spiega di più sul blueprint, inclusa la cronologia dell’installazione se il blueprint è stato installato.
 
-![Dettagli sull’utilizzo di una blueprint](assets/pt-blueprints-03.png)
+![Dettagli sull’utilizzo di un blueprint](assets/pt-blueprints-03.png)
 
-Se il blueprint è stato installato, puoi fare clic su **[!UICONTROL Vedi i dettagli]** per ottenere i collegamenti al modello creato e a qualsiasi altro oggetto creato per supportare il modello.
+Se il blueprint è stato installato, è possibile fare clic su **[!UICONTROL Visualizza dettagli]** per ottenere collegamenti al modello creato e a qualsiasi altro oggetto creato per supportare il modello.
 
-![Dettagli sull’installazione di una blueprint](assets/pt-blueprints-04.png)
+![Dettagli sull’installazione di un blueprint](assets/pt-blueprints-04.png)
 
 Se il blueprint non è ancora stato installato, puoi richiederlo all’amministratore di sistema.
