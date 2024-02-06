@@ -1,5 +1,5 @@
 ---
-title: 'Best practice: pianificazione e gestione della sequenza temporale'
+title: Best practice- Pianificazione e gestione della timeline
 description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo delle timeline di progetto in Workfront.
 feature: Get Started with Workfront
 role: Admin, Leader, User
@@ -7,42 +7,42 @@ level: Beginner
 jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1110'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best practice: pianificazione e gestione della sequenza temporale
+# Best practice- Pianificazione e gestione della timeline
 
-## Cos’è una &quot;best practice&quot; di Adobe Workfront?
+## Che cos’è una “best practice” di Adobe Workfront?
 
-Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
+Le best practice sono linee guida che rappresentano una linea d’azione efficace ed efficiente; sono facilmente adottabili da te e dagli utenti della tua azienda; e possono essere replicate con successo in tutta l’organizzazione.
 
-Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali mentre altre potrebbero essere più specifiche per un dato argomento. Utilizza queste best practice come una base comune per le impostazioni e l’utilizzo del sistema Workfront.
 
-## Navigazione in questa pagina
+## Esplorazione di questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
+La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
 
-## Best practice per la pianificazione e la gestione della sequenza temporale
+## Best practice per la pianificazione e la gestione della timeline
 
 * Tutti i progetti completati devono avere uno stato che indica che sono completati.
 
-* Durante la copia di un progetto, impostare lo stato del nuovo progetto su Planning.
+* Durante la copia di un progetto, imposta lo stato del nuovo progetto su Pianificazione.
 
-* Chiedere agli utenti di registrare il tempo effettivo trascorso sulle attività in modo da poter confrontare le ore effettive con quelle pianificate.
+* Chiedi agli utenti di registrare il tempo effettivo trascorso sulle attività in modo da poter confrontare le ore effettive con quelle pianificate.
 
-* Se possibile, utilizza le durate delle attività e i predecessori per generare e aggiornare la sequenza temporale di un progetto, anziché selezionare date di inizio e completamento specifiche.
+* Se possibile, utilizza le durate delle attività e i predecessori per generare e aggiornare la timeline di un progetto, anziché selezionare date di inizio e completamento specifiche.
 
-* Chiedere agli utenti di aggiornare lo stato delle attività, la percentuale di completamento e le ore effettive ogni giorno (o ogni settimana in base a una pianificazione prestabilita).
+* Chiedi agli utenti di aggiornare lo stato delle attività, la percentuale di completamento e le ore effettive ogni giorno (o ogni settimana in base a una pianificazione prestabilita).
 
-* Impostare lo stato del progetto su Planning durante l&#39;aggiornamento del piano di progetto per impedire l&#39;invio automatico delle notifiche quando vengono apportate modifiche.
+* Imposta lo stato del progetto su Pianificazione durante l’aggiornamento del piano di progetto per impedire l’invio automatico delle notifiche quando vengono apportate modifiche.
 
 * Rimuovi dal team del progetto gli utenti ai quali non è stato assegnato un lavoro nel progetto.
 
@@ -53,7 +53,7 @@ La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l�
 </br>
 
 
-## Perché si tratta di procedure ottimali?
+## Perché queste sono best practice?
 
 **Best practice**
 
@@ -62,7 +62,7 @@ Tutti i progetti completati devono avere uno stato che indica che sono completat
 
 **Ecco perché**
 
-Assicurati che tutti i progetti completati abbiano lo stato Complete (o equivalente) per mantenere pulita e corrente l’istanza di Workfront. Mantenendo aggiornati gli stati dei progetti e chiudendoli, gli utenti possono facilmente capire quale lavoro è già stato svolto, in modo da potersi concentrare sulle priorità attive. Inoltre, assicura che i dati dei rapporti su progetti, attività, risorse, ecc. siano accurati.
+Assicurati che tutti i progetti completati abbiano lo stato Completato (o equivalente) per mantenere pulita e corrente l’istanza di Workfront. Mantenendo aggiornati gli stati dei progetti e chiudendoli, gli utenti possono facilmente capire quale lavoro è già stato svolto, in modo da potersi concentrare sulle priorità attive. Inoltre, assicura che i dati dei rapporti su progetti, attività, risorse, ecc. siano accurati.
 
 
 </br>
@@ -70,18 +70,18 @@ Assicurati che tutti i progetti completati abbiano lo stato Complete (o equivale
 
 **Best practice**
 
-Durante la copia di un progetto, impostare lo stato del nuovo progetto su Planning.
+Durante la copia di un progetto, imposta lo stato del nuovo progetto su Pianificazione.
 
 **Ecco perché**
 
-Lo stato Pianificazione (o equivalente) impedisce a Workfront di inviare notifiche su assegnazioni, modifiche alla sequenza temporale e così via prima che il progetto sia pronto. Quando copi un progetto, viene visualizzata una finestra di dialogo con le opzioni del progetto; modifica lo stato qui, mentre regola altre opzioni in modo che i dati non vengano copiati dal progetto originale alla versione copiata.
+Lo stato Pianificazione (o equivalente) impedisce a Workfront di inviare notifiche su assegnazioni, modifiche alla timeline e così via prima che il progetto sia pronto. Quando copi un progetto, viene visualizzata una finestra di dialogo con le opzioni del progetto; modifica lo stato qui, mentre regola altre opzioni in modo che i dati non vengano copiati dal progetto originale alla versione copiata.
 
 </br>
 </br>
 
 **Best practice**
 
-Chiedere agli utenti di registrare il tempo effettivo trascorso sulle attività in modo da poter confrontare le ore effettive con quelle pianificate.
+Chiedi agli utenti di registrare il tempo effettivo trascorso sulle attività in modo da poter confrontare le ore effettive con quelle pianificate.
 
 
 **Ecco perché**
@@ -93,13 +93,13 @@ Tenendo conto della durata del lavoro delle attività è possibile aggiornare i 
 
 **Best practice**
 
-Se possibile, utilizza le durate delle attività e i predecessori per generare e aggiornare la sequenza temporale di un progetto, anziché selezionare date di inizio e completamento specifiche.
+Se possibile, utilizza le durate delle attività e i predecessori per generare e aggiornare la timeline di un progetto, anziché selezionare date di inizio e completamento specifiche.
 
 **Ecco perché**
 
-L&#39;utilizzo di durate e predecessori insieme a vincoli di attività flessibili (il più presto possibile e il più tardi possibile) consente di apportare modifiche automatiche alla data della sequenza temporale che &quot;si sovrappongono&quot; al piano del progetto. Quando ad esempio la durata di un&#39;attività aumenta di un giorno, viene modificata la data di completamento pianificata dell&#39;attività, che a sua volta determina la modifica delle date di completamento delle attività seguenti.
+L’utilizzo di durate e predecessori insieme a vincoli di attività flessibili (Il più presto possibile e Il più tardi possibile) consente di apportare modifiche automatiche alla data della sequenza temporale che “si sovrappongono” al piano del progetto. Quando ad esempio la durata di un’attività aumenta di un giorno, viene modificata la data di completamento pianificata dell’attività, che a sua volta determina la modifica delle date di completamento delle attività seguenti.
 
-Se si selezionano date di inizio e di completamento specifiche per le attività, il vincolo dell&#39;attività viene modificato in un vincolo che &quot;blocca&quot; la data (Deve iniziare il, Deve finire il, Date fisse), il che significa che è necessario eseguire manualmente alcuni aggiornamenti delle date della sequenza temporale.
+Se si selezionano date di inizio e di completamento specifiche per le attività, il vincolo dell’attività viene modificato in un vincolo che “blocca” la data (Deve iniziare il, Deve finire il, Date fisse), il che significa che è necessario eseguire manualmente alcuni aggiornamenti delle date della timeline.
 
 </br>
 </br>
@@ -107,7 +107,7 @@ Se si selezionano date di inizio e di completamento specifiche per le attività,
 
 **Best practice**
 
-Chiedere agli utenti di aggiornare lo stato delle attività, la percentuale di completamento e le ore effettive ogni giorno (o ogni settimana in base a una pianificazione prestabilita).
+Chiedi agli utenti di aggiornare lo stato delle attività, la percentuale di completamento e le ore effettive ogni giorno (o ogni settimana in base a una pianificazione prestabilita).
 
 **Ecco perché**
 
@@ -121,7 +121,7 @@ Lo stato dell’attività consente inoltre di informare gli utenti quando un lav
 
 **Best practice**
 
-Impostare lo stato del progetto su Planning durante l&#39;aggiornamento del piano di progetto per impedire l&#39;invio automatico delle notifiche quando vengono apportate modifiche.
+Imposta lo stato del progetto su Pianificazione durante l’aggiornamento del piano di progetto per impedire l’invio automatico delle notifiche quando vengono apportate modifiche.
 
 **Ecco perché**
 
@@ -139,7 +139,7 @@ Rimuovi dal team del progetto gli utenti ai quali non è stato assegnato un lavo
 
 **Ecco perché**
 
-Quando si assegna a un utente un&#39;attività o un problema relativo a un progetto, l&#39;utente viene aggiunto all&#39;elenco dei team del progetto nelle sezioni Pianificazione e Persone. Tuttavia, rimangono nell&#39;elenco dei team del progetto anche se sono stati rimossi dall&#39;assegnazione. Questo potrebbe causare confusione nell’utente, perché come parte del team di progetto, riceve le notifiche sull’attività nel progetto e visualizza il progetto nell’elenco Progetti che mi interessano.
+Quando si assegna a un utente un’attività o un problema relativo a un progetto, l’utente viene aggiunto all’elenco dei team del progetto nelle sezioni Pianificazione e Persone. Tuttavia, rimane nell’elenco dei team del progetto anche se è stato rimosso dall’assegnazione. Questo potrebbe causare confusione nell’utente, perché come parte del team di progetto, riceve le notifiche sull’attività nel progetto e visualizza il progetto nell’elenco Progetti che mi interessano.
 
 
 Inoltre, i membri del team di progetto ottengono le autorizzazioni per il progetto e le relative attività, problemi e documenti. Questo può comportare l’accesso degli utenti a elementi in Workfront di cui non hanno bisogno o che non dovrebbero avere.
@@ -153,4 +153,4 @@ Posiziona Project Metrics (Metriche del progetto) nella parte superiore del menu
 
 **Ecco perché**
 
-La maggior parte dei leader, dei dirigenti e degli altri utenti che non gestiscono progetti o non adempiono alle assegnazioni delle attività apprezzerebbe vedere questo livello di metriche del progetto alla prima apertura del progetto. Utilizza un modello di layout per spostare Project Metrics (Metriche del progetto) nella parte superiore del menu del pannello a sinistra in una pagina di progetto, per renderlo più visibile e più facile da accedere per gli utenti.
+La maggior parte dei leader, dei dirigenti e degli altri utenti che non gestiscono progetti o eseguono assegnazioni di attività apprezzerebbe vedere questo livello di metriche del progetto alla prima apertura del progetto. Utilizza un modello di layout per spostare Project Metrics (Metriche del progetto) nella parte superiore del menu del pannello a sinistra in una pagina di progetto, per renderlo più visibile e più facile da accedere per gli utenti.
