@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 A volte, invece di utilizzare un modello per creare un progetto, è sufficiente copiare un progetto per un altro utilizzo occasionale. A questo scopo, è necessario disporre di una licenza Pianificazione, con accesso Modifica e Crea ai progetti.
 
-Passa al progetto da copiare e fai clic sul menu a tre punti accanto al nome del progetto. Quindi seleziona Copia.
+Passa al progetto che desideri copiare e fai clic sul menu a 3 punti accanto al nome del progetto. Quindi seleziona Copia.
 
 ![Cr](assets/copy-existing-01.png)
 
@@ -29,4 +29,4 @@ La finestra Copia progetto consente di modificare il titolo e lo stato, nonché 
 
 ![Cr](assets/copy-existing-02.png)
 
-Se si seleziona Cancella assegnazioni o si imposta lo stato su Planning, il progetto copiato non invierà le notifiche di assegnazione dei task subito dopo la copia.
+Se si seleziona Cancella assegnazioni o si imposta lo stato su Pianificazione, il progetto copiato non invierà le notifiche di assegnazione delle attività subito dopo la copia.
