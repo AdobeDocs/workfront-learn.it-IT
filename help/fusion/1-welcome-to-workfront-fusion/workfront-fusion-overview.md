@@ -1,6 +1,6 @@
 ---
 title: Panoramica del corso di formazione su Workfront Fusion
-description: Scopri il manuale delle attività di Adobe Workfront Fusion e come ottenere un account Workfront Test Drive.
+description: Scopri il manuale delle attività di Adobe Workfront Fusion e come ottenere un account di unita di prova di Workfront.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,52 +10,52 @@ level: Beginner
 jira: KT-11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Panoramica del corso di formazione su Workfront Fusion
 
-Ogni sezione di Workfront Fusion contiene più esercitazioni, ognuna delle quali presenta i concetti da comprendere prima di passare all’esercitazione successiva. Un esercizio di procedura dettagliata consente di padroneggiare la maggior parte dei concetti.
+Ciascuna sezione di Workfront Fusion contiene più tutorial, ciascuno dei quali presenta i concetti che dovrai comprendere prima di passare al tutorial successivo. Un esercizio di procedura dettagliata consente di padroneggiare la maggior parte dei concetti.
 
-Nei video viene illustrato come completare ogni esercizio di procedura dettagliata, che in genere determina la creazione di un nuovo scenario di Workfront Fusion. Potrai quindi completare l’esercizio nel tuo ambiente Workfront Fusion, aggiungendo alla tua raccolta di scenari.
+I video mostrano come completare ogni esercizio della procedura dettagliata, che in genere porta alla creazione di un nuovo scenario di Workfront Fusion. Potrai quindi completare l’esercizio nel tuo ambiente Workfront Fusion, aggiungendo alla tua raccolta di scenari.
 
-In alcune esercitazioni, creerai un nuovo scenario da zero. In altre esercitazioni, inizierai creando una copia di uno scenario creato in precedenza.
+In alcuni tutorial creerai un nuovo scenario da zero. In altri tutorial, inizierai creando una copia di uno scenario creato in precedenza.
 
 >[!IMPORTANT]
 >
->Assicurati di completare ogni esercitazione in sequenza in modo da avere gli scenari giusti disponibili quando devi effettuare una copia.
+>Assicurati di completare ogni tutorial in sequenza in modo da avere gli scenari giusti disponibili quando devi effettuare una copia.
 
 ## Risorse di formazione e accesso a Workfront Fusion
 
-### Richiedi un&#39;unità di prova Workfront
+### Richiedi un’unità di prova Workfront
 
-Per completare gli esercizi nei percorsi di apprendimento di Workfront Fusion, è necessaria un’unità di test di Workfront. Se disponi già di un&#39;unità di test, ne consigliamo una nuova per questo corso di formazione.
+Per completare gli esercizi nei percorsi di apprendimento di Workfront Fusion, avrai bisogno di un’unità di prova di Workfront. Se disponi già di un’unità di prova, ne consigliamo una nuova per questo corso di formazione.
 
-Richiedere un ambiente di esercitazione compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome della società a wfttstdr@adobe.com.
+Richiedi un ambiente di esercitazione compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome della società a wfttstdr@adobe.com.
 
-### Accesso a Workfront Fusion per l&#39;esercitazione
+### Accesso a Workfront Fusion per l’esercitazione
 
-Workfront non offre unità di prova Workfront Fusion. Per esercitarti mentre completi le esercitazioni, richiedi l’accesso a Workfront Fusion all’amministratore Workfront Fusion della tua organizzazione.
+Workfront non offre unità di prova di Workfront Fusion. Per esercitarti mentre completi le esercitazioni, richiedi l’accesso a Workfront Fusion all’amministratore Workfront Fusion della tua organizzazione.
 
-### Istruzioni dettagliate sul completamento degli esercizi di procedura dettagliata
+### Istruzioni dettagliate sul completamento degli esercizi della procedura dettagliata
 
-Sono disponibili istruzioni dettagliate sul completamento degli esercizi di procedura dettagliata. È possibile accedervi dalla barra di navigazione a sinistra in Fusion > Esercizi oppure utilizzare il collegamento disponibile nella parte inferiore di un&#39;esercitazione dettagliata.
+Sono disponibili istruzioni dettagliate su come completare gli esercizi della procedura dettagliata. È possibile accedervi dalla barra di navigazione a sinistra in Fusion > Esercizi oppure utilizzando il collegamento disponibile nella parte inferiore di un’esercitazione dettagliata.
 
 ### Esercitazioni pratiche facoltative
 
-Esercitazioni pratiche e sfide vengono fornite seguendo alcuni degli esercizi di procedura dettagliata.
+Esercitazioni pratiche e sfide vengono fornite seguendo alcuni degli esercizi della procedura dettagliata.
 
-Esistono diversi modi per risolvere gli esercizi di esercitazione. L’obiettivo è sfidarti a tentare di raggiungere un obiettivo di scenario senza dover seguire i passaggi o la &quot;risposta giusta&quot;, perché questo è ciò che dovrai fare quando crei uno scenario presso la tua azienda.
+Esistono diversi modi per risolvere le esercitazioni pratiche. L’obiettivo è sfidarti a tentare di raggiungere un obiettivo di scenario senza dover seguire i passaggi o la “risposta giusta,” perché questo è ciò che dovrai fare quando crei uno scenario presso la tua azienda.
 
-L&#39;esercizio di esercitazione è correlato all&#39;attività della procedura dettagliata.
+L’esercizio di pratica è correlato all’attività della procedura dettagliata.
 
 Le sfide sono per coloro che vogliono provare qualcosa che coinvolge altri concetti che hanno imparato.
 
 ### Come ottenere assistenza
 
-Le istruzioni dettagliate sono fornite per aiutarti a superare gli esercizi di procedura dettagliata.
+Le istruzioni dettagliate sono fornite per aiutarti a superare gli esercizi della procedura dettagliata.
 
-È inoltre disponibile un [Community di Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) dove puoi pubblicare le domande.
+È inoltre disponibile una [Community di Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) dove puoi pubblicare le domande.
