@@ -1,6 +1,6 @@
 ---
 title: Creare un rapporto semplice
-description: Scopri come creare un semplice rapporto utilizzando un filtro, una visualizzazione e un raggruppamento esistenti in Workfront.
+description: Scopri come creare un rapporto semplice utilizzando un filtro, una vista e un raggruppamento esistenti in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,48 +12,48 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Creare un rapporto semplice
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Creare un report semplice utilizzando un filtro, una visualizzazione e un raggruppamento esistenti
+* Creare un rapporto semplice utilizzando un filtro, una vista e un raggruppamento esistenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Attività: creare un semplice rapporto attività
+## Attività: creare un rapporto semplice sulle attività
 
-Si desidera tenere traccia di tutte le attività attive in un unico rapporto. Creare un report di attività denominato &quot;Le mie attività correnti&quot; utilizzando quanto segue:
+Vuoi tenere traccia di tutte le tue attività attive in un unico rapporto. Crea un rapporto sulle attività denominato “Le mie attività correnti” utilizzando quanto segue:
 
-* Colonne (visualizzazione) = Standard
+* Colonne (Vista) = Standard
 * Raggruppamenti = Progetto
-* Filter = Le Mie Attività Correnti
-* Descrizione = Attività incomplete su progetti correnti di cui sono il proprietario dell&#39;attività, raggruppate per progetto.
+* Filtro = Le mie attività correnti
+* Descrizione = Attività incomplete sui progetti correnti in cui sono proprietario dell’attività, raggruppate per progetto.
 
 ## Risposta
 
-1. Vai a **[!UICONTROL Menu principale]** e seleziona **[!UICONTROL Rapporti]**.
-1. Fai clic su **[!UICONTROL Nuovo rapporto]** menu a discesa e selezionare **[!UICONTROL Report attività]**.
-1. In entrata [!UICONTROL Colonne (visualizzazione)], fare clic su **[!UICONTROL Applicare una vista esistente]** menu e seleziona **[!UICONTROL Standard]**.
+1. Vai al **[!UICONTROL Menu principale]** e seleziona **[!UICONTROL Rapporti]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Rapporto attività]**.
+1. In [!UICONTROL Colonne (Vista)], fai clic sul menu **[!UICONTROL Applica una vista esistente]** e seleziona **[!UICONTROL Standard]**.
 
-   ![Immagine della schermata per la creazione di colonne in un report attività](assets/simple-task-report-columns.png)
+   ![Immagine della schermata per creare colonne in un rapporto sulle attività](assets/simple-task-report-columns.png)
 
-1. In **[!UICONTROL Raggruppamenti]** , fare clic sulla scheda **[!UICONTROL Applicare un raggruppamento esistente]** menu e seleziona **[!UICONTROL Progetto]**.
+1. Nella scheda **[!UICONTROL Raggruppamenti]**, fai clic sul menu **[!UICONTROL Applica un raggruppamento esistente]** e seleziona **[!UICONTROL Progetto]**.
 
-   ![Immagine della schermata per la creazione di raggruppamenti in un report attività](assets/simple-task-report-groupings.png)
+   ![Immagine della schermata per creare raggruppamenti in un rapporto di attività](assets/simple-task-report-groupings.png)
 
-1. In **[!UICONTROL Filtri]** , fare clic sulla scheda **[!UICONTROL Applicare un filtro esistente]** e selezionare Le mie attività correnti.
+1. Nella scheda **[!UICONTROL Filtri]**, fai clic sul menu **[!UICONTROL Applica un filtro esistente]** e seleziona Le mie attività correnti.
 
-   ![Immagine della schermata per la creazione di filtri in un report attività](assets/simple-task-report-filters.png)
+   ![Immagine della schermata per creare filtri in un rapporto sulle attività](assets/simple-task-report-filters.png)
 
-1. Apri **[!UICONTROL Impostazioni dei rapporti]** e assegna al rapporto il nome &quot;Le mie attività correnti&quot;.
-1. Nel campo Descrizione, immettere &quot;Attività incomplete su progetti correnti di cui sono il proprietario dell&#39;attività, raggruppate per progetto&quot;.
+1. Apri **[!UICONTROL Impostazioni rapporto]** e assegna al rapporto il nome “Le mie attività correnti”.
+1. Nel campo Descrizione, inserisci “Attività incomplete su progetti correnti in cui sono proprietario dell’attività, raggruppate per progetto”.
 
-   ![Immagine della schermata delle impostazioni del rapporto in un rapporto attività](assets/simple-task-report-report-settings.png)
+   ![Immagine della schermata delle impostazioni del rapporto in un rapporto delle attività](assets/simple-task-report-report-settings.png)
 
-1. Salva e chiudi il report.
+1. Salva e chiudi il rapporto.
