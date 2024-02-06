@@ -1,6 +1,6 @@
 ---
-title: Collaborare al lavoro con I miei aggiornamenti
-description: Accedere agli elementi di lavoro assegnati mediante la pagina My Updates (I miei aggiornamenti).
+title: Collaborare sul lavoro con gli Aggiornamenti personali
+description: Accedere agli elementi di lavoro assegnati mediante la pagina Aggiornamenti personali.
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,19 +12,19 @@ jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Collaborare al lavoro con I miei aggiornamenti
+# Collaborare sul lavoro con gli Aggiornamenti personali
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Accedi agli elementi di lavoro che ti sono stati chiesti di rivedere utilizzando la pagina I miei aggiornamenti
-* Completa la revisione delle richieste di approvazione
-* Utilizza la sezione Riferimenti per visualizzare gli aggiornamenti inclusi in
-* Rispondi agli aggiornamenti
+* Accedere agli elementi di lavoro da rivedere tramite la pagina Aggiornamenti personali
+* Completare la revisione delle richieste di approvazione
+* Utilizzare la sezione Menzioni per visualizzare gli aggiornamenti che sono stati inclusi in
+* Rispondere agli aggiornamenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)
