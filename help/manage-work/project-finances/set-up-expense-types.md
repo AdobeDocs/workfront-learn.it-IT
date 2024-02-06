@@ -1,5 +1,5 @@
 ---
-title: Imposta i tipi di spesa
+title: Impostare i tipi di spesa
 description: Scopri come utilizzare i tipi di spesa predefiniti per l’inserimento delle spese e come creare nuovi tipi di spesa.
 activity: use
 team: Technical Marketing
@@ -11,17 +11,17 @@ level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Imposta i tipi di spesa
+# Impostare i tipi di spesa
 
-Spese in [!DNL Workfront] rappresenta i costi non manodopera associati ai progetti e ad altri lavori. Le spese possono essere, ad esempio, spese di viaggio per visitare un cliente o l’acquisto di forniture necessarie per completare un servizio fotografico. Queste spese devono essere registrate all’interno del progetto, in modo che i costi pianificati e i costi effettivi possano essere calcolati e indicati per qualsiasi progetto.
+Le spese in [!DNL Workfront] rappresentano i costi non di manodopera associati a progetti e altri lavori. Le spese potrebbero essere, ad esempio, le spese di viaggio durante la visita a un cliente o l’acquisto di forniture necessarie per completare un servizio fotografico. Queste spese devono essere registrate all’interno del progetto, in modo che i costi pianificati e i costi effettivi possano essere calcolati e indicati per qualsiasi progetto.
 
-[!DNL Workfront] dispone di tipi di spesa predefiniti che possono essere utilizzati per l’inserimento delle spese. Non è possibile eliminare o modificare i valori predefiniti, ma è possibile aggiungerne di nuovi.
+[!DNL Workfront] dispone di tipi di spesa predefiniti che possono essere utilizzati quando si inseriscono le spese. Non è possibile eliminare o modificare i valori predefiniti, ma è possibile aggiungerne di nuovi.
 
 * Pubblicità
 * Consulenza
@@ -32,24 +32,24 @@ Spese in [!DNL Workfront] rappresenta i costi non manodopera associati ai proget
 * Spedizione
 * Viaggi
 
-Un amministratore di sistema può aggiungere i tipi di spesa necessari per la propria organizzazione. Questi ulteriori tipi di spesa possono essere modificati, nascosti o eliminati per supportare i rapporti finanziari necessari nell&#39;organizzazione.
+Un amministratore di sistema può aggiungere i tipi di spesa necessari per la propria organizzazione. Questi ulteriori tipi di spesa possono essere modificati, nascosti o eliminati per supportare i rapporti finanziari necessari nell’organizzazione.
 
-I project manager, i dirigenti e altri utenti possono generare note spese raggruppando le singole spese per tipo, se necessario, per attività, progetti, programmi o portafogli in [!DNL Workfront]. I dati finanziari del progetto diventano molto più gestibili utilizzando i tipi di spesa.
+I project manager, i dirigenti e altri possono generare note spese (raggruppando le singole spese per tipo, se lo si desidera) per attività, progetti, programmi o portfolio all’interno di [!DNL Workfront]. I dati finanziari del progetto diventano molto più gestibili utilizzando i tipi di spesa.
 
 ## Creare un tipo di spesa
 
-**Seleziona [!UICONTROL Configurazione] dal menu principale**
+Dal menu principale **,** seleziona [!UICONTROL Configurazione].
 
-1. Clic **[!UICONTROL Tipi di spesa]** nel menu del pannello sinistro.
-1. Fai clic su **[!UICONTROL Nuovo tipo di spesa]** pulsante.
+1. Fai clic su **[!UICONTROL Tipi di spesa]** nel menu del pannello sinistro.
+1. Fai clic sul pulsante **[!UICONTROL Nuovo tipo di spesa]**.
 1. Denomina il tipo di spesa.
 1. Se necessario, aggiungi una descrizione.
-1. Fai clic su **[!UICONTROL Salva]** pulsante.
+1. Fai clic sul pulsante **[!UICONTROL Salva]**.
 
-![Immagine della creazione di un nuovo elemento [!UICONTROL Tipo di Spesa]](assets/setting-up-finances-6.png)
+![Immagine della creazione di un nuovo [!UICONTROL Tipo di spesa]](assets/setting-up-finances-6.png)
 
 ## Utilizzo dei tipi di spesa
 
-Le opzioni di spesa vengono visualizzate nel **[!UICONTROL Tipo di Spesa]** quando gli utenti creano una spesa per un progetto o un’attività in [!DNL Workfront].
+Le opzioni di spesa vengono visualizzate nel menu a discesa **[!UICONTROL Tipo di spesa]** quando gli utenti creano una spesa per un progetto o un’attività in [!DNL Workfront].
 
-![Immagine dell&#39;aggiunta di una nuova spesa](assets/setting-up-finances-7.png)
+![Immagine dell’aggiunta di una nuova spesa](assets/setting-up-finances-7.png)
