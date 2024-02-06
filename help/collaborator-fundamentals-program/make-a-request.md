@@ -1,42 +1,42 @@
 ---
 title: Come effettuare una richiesta
-description: Scopri come trovare il [!UICONTROL Richieste] e invia una richiesta. Poi scopri come visualizzare le richieste inviate e le bozze.
+description: Scopri come trovare l’area [!UICONTROL Richieste] e fare una richiesta. Quindi scopri come visualizzare le richieste inviate e le relative bozze.
 activity: use
 type: Tutorial
 team: Technical Marketing
 jira: KT-8806
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Fai una richiesta
+# Effettuare una richiesta
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Passa all’area della richiesta
-* Fai una richiesta
+* Passare all’area richieste
+* Effettuare una richiesta
 * Visualizzare le richieste inviate
 * Trovare una bozza di una richiesta
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
 
-## Accedere ai percorsi della coda di richieste in modo rapido e semplice
+## Accedere ai percorsi della coda richieste in modo rapido e semplice
 
-Quando si fa clic su in [!UICONTROL Tipo di richiesta] , gli ultimi tre percorsi di richiesta inviati di recente vengono visualizzati automaticamente nella parte superiore dell’elenco. Seleziona un’opzione per archiviare un’altra richiesta nella stessa coda.
+Quando fai clic sul campo [!UICONTROL Tipo di richiesta], gli ultimi tre percorsi di richiesta inviati di recente verranno visualizzati automaticamente nella parte superiore dell’elenco. Seleziona un’opzione per inviare un’altra richiesta alla stessa coda.
 
 ![Menu Tipo di richiesta che mostra l’elenco dei percorsi di richiesta recenti](assets/collaborator-fundamentals-1.png)
 
-Nella parte inferiore dell’elenco sono presenti tutte le code di richieste a cui hai accesso. Se non sai quale coda utilizzare per la richiesta, utilizza la ricerca per parola chiave per trovare rapidamente e facilmente quella necessaria.
+Nella parte inferiore dell’elenco ci sono tutte le code di richieste a cui hai accesso. Se non sei sicuro di quale coda utilizzare per la tua richiesta, utilizza la ricerca per parole chiave per trovare velocemente e facilmente quella di cui hai bisogno.
 
-Quando si digitano le parole chiave, [!DNL Workfront] visualizza le corrispondenze in modo da poter trovare il percorso della coda richieste che soddisfa le tue esigenze. Ad esempio, per richiedere un post di social media, inizia a digitare &quot;social media&quot; in [!UICONTROL Tipo di richiesta] e l’elenco viene aggiornato in modo dinamico per mostrare tutte le corrispondenze.
+Mentre digiti le parole chiave, [!DNL Workfront] visualizza le corrispondenze in modo da poter trovare il percorso della coda di richiesta adatto alle tue esigenze. Ad esempio, per effettuare una richiesta per un post sui social media, inizia a digitare “social media” nel campo [!UICONTROL Tipo di richiesta] e l’elenco si aggiorna dinamicamente per mostrare eventuali corrispondenze.
 
-![Menu Tipo di richiesta con una parola digitata nel campo per visualizzare i percorsi di richiesta recenti](assets/collaborator-fundamentals-2.png)
+![Menu Tipo di richiesta con una parola digitata nel campo per mostrare i percorsi di richiesta recenti](assets/collaborator-fundamentals-2.png)
 
-Selezionare l&#39;opzione desiderata, compilare il modulo di richiesta e inviare la richiesta.
+Seleziona l’opzione desiderata, compila il modulo di richiesta e invialo.
 
 <!---
 Learn more
