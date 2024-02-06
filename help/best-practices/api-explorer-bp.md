@@ -1,31 +1,31 @@
 ---
 title: Best practice - API Explorer
-description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo di API Explorer di Workfront.
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito all’impostazione, alla gestione e all’utilizzo dell’API Explorer di Workfront.
 feature: Workfront API
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Best practice - API Explorer
 
-## Cos’è una &quot;best practice&quot; di Adobe Workfront?
+## Che cos’è una “best practice” di Adobe Workfront?
 
-Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
+Le best practice sono linee guida che rappresentano una linea d’azione efficace ed efficiente; sono facilmente adottabili da te e dagli utenti della tua azienda; e possono essere replicate con successo in tutta l’organizzazione.
 
-Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali mentre altre potrebbero essere più specifiche per un dato argomento. Utilizza queste best practice come una base comune per le impostazioni e l’utilizzo del sistema Workfront.
 
-## Navigazione in questa pagina
+## Esplorazione di questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
+La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
@@ -41,7 +41,7 @@ La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l�
 </br>
 </br>
 
-## Perché si tratta di procedure ottimali?
+## Perché queste sono best practice?
 
 **Best practice**
 
@@ -73,4 +73,4 @@ Aggiungi il campo ID oggetto ai report utilizzati dall’amministratore di siste
 
 **Ecco perché**
 
-Quando si utilizzano API o altre integrazioni, gli amministratori di sistema spesso devono fare riferimento agli oggetti in Workfront per il numero ID. Includi il campo ID nelle visualizzazioni per gli oggetti su cui lavori (progetti, attività, problemi, modelli, moduli personalizzati, ecc.) per semplificare l&#39;accesso e la copia.
+Quando si utilizzano API o altre integrazioni, gli amministratori di sistema spesso devono fare riferimento agli oggetti in Workfront per il numero ID. Includi il campo ID nelle visualizzazioni per gli oggetti su cui lavori (progetti, attività, problemi, modelli, moduli personalizzati, ecc.) per semplificare l’accesso e la copia.
