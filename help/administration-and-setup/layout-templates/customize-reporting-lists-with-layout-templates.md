@@ -1,6 +1,6 @@
 ---
-title: Personalizzare gli elenchi di reporting tramite i modelli di layout
-description: Scopri come utilizzare i modelli di layout per aggiungere e rimuovere filtri, viste e gruppi dagli elenchi di reporting.
+title: Personalizzare gli elenchi di reporting tramite i modelli layout
+description: Scopri come utilizzare i modelli layout per aggiungere e rimuovere filtri, visualizzazioni e gruppi dagli elenchi di reporting.
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,45 +12,45 @@ jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personalizzare gli elenchi di reporting con i modelli di layout
+# Personalizza gli elenchi di reporting con i modelli layout
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Passare alle impostazioni dell&#39;elenco dei report in un modello di layout
+* passare alle impostazioni dell’elenco dei rapporti in un modello layout
 * Rimuovere filtri, visualizzazioni e raggruppamenti
-* Aggiungere filtri, viste e raggruppamenti
+* Aggiungere filtri, visualizzazioni e raggruppamenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)
 
-## Imposta valori predefiniti elenco
+## Impostare le impostazioni predefinite dell’elenco
 
-L&#39;impostazione di filtri, visualizzazioni e/o raggruppamenti predefiniti consente agli utenti di accedere più rapidamente a informazioni vitali, in grado di accelerare il lavoro.
+L’impostazione di filtri, visualizzazioni e/o raggruppamenti predefiniti per gli utenti offre loro un accesso più rapido a informazioni vitali che possono far avanzare il lavoro più velocemente.
 
-In qualità di amministratore di sistema o di gruppo, puoi determinare quali utenti visualizzano inizialmente quando visualizzano un elenco di progetti, attività, problemi e così via, impostando un filtro, una visualizzazione e/o un raggruppamento predefiniti tramite un modello di layout.
+Come amministratore di sistema o di gruppo, puoi determinare cosa gli utenti vedono inizialmente quando consultano un elenco di progetti, attività, problemi, ecc., impostando filtri, visualizzazioni e/o raggruppamenti predefiniti tramite un modello layout.
 
-![Modello di layout [!UICONTROL Elenchi] finestra](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+Finestra [!UICONTROL Elenchi] ![Modello layout](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
->Anche se è possibile impostare un filtro, una vista e/o un raggruppamento predefiniti, il sistema è fisso e mostrerà qualsiasi filtro, vista e/o raggruppamento utilizzati l’ultima volta dall’utente.
+>Anche se è possibile impostare filtri, visualizzazioni e/o raggruppamenti predefiniti, il sistema è fisso e mostrerà qualsiasi filtro, visualizzazione e/o raggruppamento utilizzati l’ultima volta dall’utente.
 
 
-Se si desidera impostare un elenco predefinito, è possibile:
+Se desideri impostare un elenco predefinito, puoi:
 
-* Passa il puntatore del mouse su un&#39;opzione già elencata e fai clic su [!UICONTROL Imposta come predefinito].
+* passare il mouse su un’opzione già elencata e fare clic su [!UICONTROL Imposta come predefinito].
 
-![Modello di layout [!UICONTROL Elenchi] finestra con [!UICONTROL Imposta come predefinito] visibile](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+Finestra [!UICONTROL Elenchi] ![Modello layout con l’opzione [!UICONTROL Imposta come predefinito] visibile](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
-* Oppure aggiungi un filtro, una visualizzazione o un raggruppamento personalizzato e spunta la casella accanto a [!UICONTROL Imposta predefinito].
+* Oppure puoi aggiungere un filtro, una visualizzazione o un raggruppamento personalizzato e selezionare la casella accanto a [!UICONTROL Imposta predefinito].
 
-![[!UICONTROL Aggiungi una visualizzazione esistente] finestra](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+Finestra ![[!UICONTROL Aggiungi una visualizzazione esistente]](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-Al termine, visualizzerai [!UICONTROL Predefinito] tag.
+Al termine, vedrai il tag [!UICONTROL Predefinito].
 
-![[!UICONTROL Predefinito] tag accanto all’opzione elenco](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+Tag ![[!UICONTROL Predefinito] accanto all’opzione dell’elenco](assets/admin-fund-layout-template-default-lists-1-4.JPG)
