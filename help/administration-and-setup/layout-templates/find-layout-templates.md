@@ -12,17 +12,17 @@ jira: KT-8759
 exl-id: eee9988f-2e60-4e1f-b1bf-c6e82a9ba19c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Trovare e creare modelli di layout
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Trova modelli di layout in [!UICONTROL Configurazione] area
-* Inizia a creare modelli di layout in Workfront.
+* Trovare i modelli di layout nell’area [!UICONTROL Configurazione]
+* Iniziare a creare modelli di layout in Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)
