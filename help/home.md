@@ -1,17 +1,17 @@
 ---
-title: Tutorials Workfront
-description: Una libreria di video di formazione e articoli progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Included è una raccolta di best practice, esercitazioni curate e altre risorse che aiuteranno sia voi che la vostra organizzazione ad avere successo con Workfront.
+title: Tutorial su Workfront
+description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.  È inclusa una raccolta di best practice, con esercizi selezionati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Tutorials Workfront {#overview}
+# Tutorial su Workfront {#overview}
 
-Una libreria di video di formazione e articoli progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.  Included è una raccolta di best practice, esercitazioni curate e altre risorse che aiuteranno sia voi che la vostra organizzazione ad avere successo con Workfront.
+Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.  È inclusa una raccolta di best practice, con esercizi selezionati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
@@ -24,13 +24,13 @@ See other user landing pages to get ideas.
 
 <div id="whats-new-section">
 
-## Cosa c&#39;è di nuovo?
+## Novità
 
-Scopri gli ultimi aggiornamenti apportati alle esercitazioni per ogni versione del prodotto Workfront. Ecco cosa è stato aggiornato con l’ultima versione:
+Esplora gli ultimi aggiornamenti apportati ai tutorial per ogni versione del prodotto Workfront. Ecco cosa è stato aggiornato con l’ultima versione:
 
-* L’icona dei preferiti e dei recenti era separata nella navigazione superiore in Workfront. Una breve sintesi di ciascuno è disponibile nella sezione <a href="/help/manage-work/projects/find-projects.md">Trova progetti</a> esercitazione.
+* Nella navigazione in alto di Workfront, le icone dei preferiti e dei recenti erano separate. Un breve riepilogo di ciascuna è disponibile nel tutorial <a href="/help/manage-work/projects/find-projects.md">Trova Progetti</a>.
 
-* Configurare un modulo personalizzato per l’utilizzo con più tipi di oggetto. Scopri come in <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">creare e condividere un modulo personalizzato</a> esercitazione.
+* Configurare un modulo personalizzato per lavorare con più tipi di oggetto. Scopri come nel tutorial <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">Creare e condividere un modulo personalizzato</a>.
 
 </div>
 
@@ -43,7 +43,7 @@ Scopri gli ultimi aggiornamenti apportati alle esercitazioni per ogni versione d
 
 <div id="staff-picks-section">
 
-## Scatole dello staff
+## Scelte del personale
 
 <table style="margin-top: 0 !important">
   <tr>
@@ -60,10 +60,10 @@ Scopri gli ultimi aggiornamenti apportati alle esercitazioni per ogni versione d
     </td>
    <td>
       <a href="/help/manage-work/issues-requests/make-a-request.md">
-      <img alt="Fai una richiesta" src="./assets/nrequest_01.png"/>
+      <img alt="Effettuare una richiesta" src="./assets/nrequest_01.png"/>
       </a>
       <div>
-         <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Fai una richiesta</strong></a>
+         <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Effettuare una richiesta</strong></a>
       </div>
       <p>
          <em>Scopri come effettuare, visualizzare e modificare le richieste.</em>
@@ -77,7 +77,7 @@ Scopri gli ultimi aggiornamenti apportati alle esercitazioni per ogni versione d
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Creare un rapporto semplice</strong></a>
       </div>
       <p>
-         <em>Scopri come creare un semplice rapporto personalizzato.</em>
+         <em>Scopri come creare un rapporto personalizzato semplice.</em>
       </p>
     </td>
   </tr>
