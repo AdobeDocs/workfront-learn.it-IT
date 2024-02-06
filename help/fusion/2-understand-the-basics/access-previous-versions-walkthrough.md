@@ -1,6 +1,6 @@
 ---
-title: Accesso alle versioni precedenti
-description: Scopri come ripristinare le versioni precedenti dopo aver apportato modifiche allo scenario e averle salvate in [!DNL Adobe Workfront Fusion].
+title: Accedere alla procedura dettagliata per le versioni precedenti
+description: Scopri come ripristinare le versioni precedenti dopo aver apportato modifiche allo scenario e averle salvate in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,52 +11,52 @@ jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Accesso alle versioni precedenti
+# Accedere alla procedura dettagliata per le versioni precedenti
 
 In questo video:
 
 * Scopri come ripristinare le versioni precedenti dopo aver apportato modifiche allo scenario e salvato più volte.
 
-## Accesso alle versioni precedenti
+## Accedere alla procedura dettagliata per le versioni precedenti
 
-Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
+Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Dopo aver salvato lo scenario, è disponibile una nuova versione nel menu con tre punti, qualora fosse necessario accedervi in futuro. Le versioni degli scenari salvate in precedenza sono disponibili solo per 60 giorni. Se hai bisogno di accedere alle versioni precedenti oltre i 60 giorni per scopi di audit, Workfront consiglia di salvare una blueprint dello scenario e archiviarla in una posizione concordata.
+>Dopo aver salvato lo scenario, una nuova versione sarà disponibile nel menu a tre punti nel caso in cui dovessi accedervi in futuro. Le versioni degli scenari salvati in precedenza sono disponibili solo per 60 giorni. Se hai bisogno di accedere alle versioni precedenti oltre i 60 giorni per scopi di audit, Workfront consiglia di salvare una blueprint dello scenario e archiviarla in una posizione concordata.
 
 >[!TIP]
 >
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Accesso alle versioni precedenti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate sul completamento della procedura dettagliata, consulta l’esercizio [Accedere alla procedura dettagliata per le versioni precedenti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=it).
 
-## Aggiungi alla terminologia
+## Aggiungere alla terminologia
 
 ![Immagine di un record di orologio e di un modulo webhook personalizzato](assets/understand-the-basics-3.png)
 
 ### Moduli trigger
 
-I moduli di attivazione possono essere utilizzati solo come primo modulo e possono restituire zero, uno o più bundle. Questi verranno elaborati singolarmente nei moduli successivi, a meno che non siano aggregati.
+I moduli trigger possono essere utilizzati solo come primo modulo e possono restituire zero, uno o più bundle. Questi verranno elaborati singolarmente nei moduli successivi, a meno che non siano aggregati.
 
-**Trigger di polling (clock su trigger)**- Funzionalità speciali per tenere traccia dell&#39;ultimo record elaborato.
+**Trigger di polling (clock su trigger)**: funzionalità speciali per tenere traccia dell’ultimo record elaborato.
 
-**Trigger istantaneo (fulmine sul trigger)**- Attivato immediatamente in base al webhook.
+**Trigger istantaneo (fulmine sul trigger)**: attivato immediatamente in base al webhook.
 
 ![Immagine di un record di creazione e di un modulo di ricerca](assets/understand-the-basics-4.png)
 
-### Azioni e moduli di ricerca
+### Moduli di azioni e ricerca
 
-**Azione**- Utilizzato per eseguire operazioni CRUD (Create, Read, Update, Delete)
+**Azione**: utilizzato per eseguire operazioni CRUD (Create, Read, Update, Delete, ossia: Crea, Leggi, Aggiorna, Elimina)
 
-**Ricerche**- Consente di cercare zero, uno o più record e di restituirli come bundle, che verranno elaborati singolarmente nei moduli successivi, a meno che non siano aggregati.
+**Ricerche**: utilizzare per cercare zero, uno o più record e restituirli come bundle, che verranno elaborati singolarmente nei moduli successivi, a meno che non siano aggregati.
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
