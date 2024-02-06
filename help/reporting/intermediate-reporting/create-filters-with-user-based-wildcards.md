@@ -1,6 +1,6 @@
 ---
-title: Creare filtri con caratteri jolly basati sull'utente
-description: Scopri come utilizzare i caratteri jolly basati sugli utenti e come creare un filtro basato sull’utente connesso.
+title: Creare filtri con caratteri jolly basati sull’utente
+description: Scopri come utilizzare i caratteri jolly basati sull’utente e come creare un filtro basato sull’utente che ha effettuato l’accesso.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -12,46 +12,46 @@ jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Creare filtri con caratteri jolly basati sull&#39;utente
+# Creare filtri con caratteri jolly basati sull’utente
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Perché utilizzare i caratteri jolly
-* Creare un filtro con un carattere jolly basato sull&#39;utente
+* comprendere a cosa servono i caratteri jolly
+* Creare un filtro con un carattere jolly basato sull’utente
 
 >[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilizza l’origine e il nome del campo Utenti assegnazione >> ID quando crei filtri che esaminano le informazioni sull’assegnazione di un’attività o di un problema.  Questa opzione esamina tutti gli utenti assegnati all’attività o al problema, non solo il &quot;proprietario&quot; o l’assegnatario principale.
+>Utilizza il nome e l’origine del campo Utenti dell’assegnazione >> ID durante la creazione di filtri che esaminano le informazioni sulle assegnazioni di attività o problemi.  Questa opzione esamina tutti gli utenti a cui è stata assegnata l’attività o il problema, non solo il “proprietario” o l’assegnatario principale.
 
 >[!TIP]
 >
->Usa $$USER.ID (invece del tuo nome) anche quando crei dei filtri per te stesso. In questo modo, se qualcuno visualizza un filtro che stai utilizzando e dice &quot;condividi con me&quot;, il filtro è già configurato in modo che ogni persona che lo utilizza visualizzi le proprie informazioni.
+>Utilizza $$USER.ID (invece del tuo nome) anche quando crei filtri per te stesso. In questo modo, se qualcuno visualizza un filtro che stai utilizzando e chiede di condividerlo, il filtro è già configurato in modo che ogni persona che lo utilizza visualizzi le proprie informazioni.
 
 >[!TIP]
 >
->Quando si utilizzano caratteri jolly basati sull&#39;utente, è sempre necessario utilizzare il qualificatore di filtro Equal.
+>È sempre necessario utilizzare il qualificatore del filtro Uguale quando si utilizzano caratteri jolly basati sull’utente.
 
 ## Attività
 
-Questa settimana hai un po’ di tempo in più, quindi vuoi vedere se c’è qualcuno nel tuo team che potrebbe usare un po’ di assistenza per le sue assegnazioni. Crea un filtro attività per trovare le attività in scadenza questa settimana che non sono state completate.
+Questa settimana, disponi di più tempo, quindi desideri vedere se c’è qualcuno nel tuo team a cui potrebbe servire aiuto nelle assegnazioni. Crea un filtro attività per trovare le attività in scadenza questa settimana che non sono state completate.
 
 ## Risposta
 
-Sei fantastico per aiutare i tuoi compagni di squadra! Con il filtro impostato come nell’immagine seguente, troverai le attività:
+Complimenti per l’aiuto che vuoi offrire agli altri membri del team! Con il filtro impostato come nell’immagine seguente, troverai le attività:
 
-* Che non sono stati completati (il che significa che non hanno un [!UICONTROL Completa] stato o stato che equivale a [!UICONTROL Completa]);
-* che si trovano in progetti con [!UICONTROL Corrente] stato (dopo tutto, non desideri trovare attività per progetti che non sono ancora stati avviati);
-* Assegnate a un utente del team principale, come definito dalle impostazioni del team Workfront;
-* E che hanno una data di completamento di questa settimana (questa regola utilizzava il filtro data predefinito per definire &quot;questa settimana&quot;).
+* che non sono state completate (il che significa che non hanno uno stato [!UICONTROL Completato] o uno stato che equivale a [!UICONTROL Completato]);
+* che fanno parte di progetti con stato [!UICONTROL Attuale] (dopo tutto, non vuoi trovare attività per progetti che non sono ancora stati avviati);
+* che vengono assegnate a qualcuno del team predefinito, come definito dalle impostazioni del team di Workfront;
+* e che hanno una data di completamento di questa settimana (questa regola utilizzava il filtro della data predefinito per definire “questa settimana”).
 
-![Immagine della schermata per creare un filtro attività con un carattere jolly basato sull&#39;utente](assets/user-wildcard-exercise-answer.png)
+![Immagine della schermata per creare un filtro attività con un carattere jolly basato sull’utente](assets/user-wildcard-exercise-answer.png)
 
-Per limitare ulteriormente l’elenco, potrebbe essere necessario aggiungere altri filtri. Ad esempio, potrebbe essere utile aggiungere una regola di filtro che analizzi un programma o un portfolio specifico da cui lavora il team.
+Potrebbe essere necessario aggiungere alcuni filtri aggiuntivi desideri limitare ulteriormente l’elenco. Ad esempio, potresti voler aggiungere una regola di filtro che esamini un programma o un portfolio specifico su cui lavora il team.
