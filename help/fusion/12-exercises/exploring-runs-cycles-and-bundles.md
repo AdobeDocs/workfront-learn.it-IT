@@ -11,9 +11,9 @@ jira: KT-11050
 thumbnail: KT1101.png
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -25,44 +25,44 @@ Comprendi il comportamento di esecuzioni, cicli e bundle utilizzando la cronolog
 
 Esercitati con diverse configurazioni di scenari per esplorare utilizzando esecuzioni e cicli.
 
-![Esplorazione di cicli di esecuzione e bundle Immagine 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+![Immagine 1 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 ## Passaggi da seguire
 
-1. Clonare lo scenario denominato &quot;Condivisione di variabili tra percorsi di routing&quot;. Assegna al nuovo scenario il nome &quot;Condivisione di variabili tra percorsi di routing - Test dei cicli&quot;.
-1. Rimuovi il modulo Invia un’e-mail, poiché non è necessario per questo test.
+1. Clona lo scenario denominato “Sharing variables between routing paths” (Condivisione di variabili tra percorsi di routing). Assegna al nuovo scenario il nome “Sharing variables between routing paths - Cycles test” (Condivisione di variabili tra percorsi di routing - Test cicli).
+1. Rimuovi il modulo Send an email (Invia un’e-mail), poiché non è necessario per questo test.
 
-   **Imposta lo scenario per elaborare 3 cicli per esecuzione. Elabora 5 progetti in ogni ciclo.**
+   **Configura lo scenario per elaborare 3 cicli per esecuzione. Elabora 5 progetti in ogni ciclo.**
 
-1. Fai clic sul modulo di attivazione e modifica il campo Massimo in 5, in modo da elaborare solo 5 progetti in ogni ciclo.
+1. Fai clic sul modulo di attivazione e modifica il campo Maximal (Massimo) in 5, in modo da elaborare solo 5 progetti in ogni ciclo.
 1. Nei criteri di ricerca, rimuovi il secondo filtro che limita la ricerca a un singolo progetto.
-1. Fare clic su OK.
+1. Fai clic su OK.
 
-1. Nella barra degli strumenti di Fusion, apri le impostazioni Scenario e modifica il campo Numero massimo di cicli da 1 a 3.
-1. Fare clic su OK.
+1. Nella barra degli strumenti di Fusion, apri le impostazioni Scenario e modifica il campo Max number of cycles (Numero massimo di cicli) da 1 a 3.
+1. Fai clic su OK.
 
-   ![Esplorazione di cicli di esecuzione e bundle Immagine 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+   ![Immagine 1 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 
    **Pianifica l’esecuzione dello scenario ogni minuto.**
 
-1. Fai clic sull’icona dell’orologio dal modulo trigger e modifica il campo Minutes (Minuti) in 1 minuto.
+1. Fai clic sull’icona dell’orologio dal modulo trigger e modifica il campo Minutes (Minuti) su 1 minuto.
 
-   ![Esplorazione di cicli di esecuzione e bundle Immagine 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
+   ![Immagine 2 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
-1. Quindi, impostare su On l&#39;opzione Pianificazione sotto il pulsante Esegui una volta. Salva lo scenario.
+1. Successivamente, premi l’interruttore Pianificazione sotto il pulsante Run once (Esegui una volta) per attivarlo. Salva lo scenario.
 
-   ![Esplorazione di cicli di esecuzione e bundle Immagine 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
+   ![Immagine 3 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
-1. Vai alla Cronologia di esecuzione per lo scenario e osserva come viene visualizzato un nuovo record della cronologia nel minuto successivo. Potrebbe essere necessario aggiornare la pagina.
+1. Vai alla Cronologia delle esecuzioni per lo scenario e osserva come viene visualizzato un nuovo record della cronologia entro il minuto successivo. Potrebbe essere necessario aggiornare la pagina.
 
-   ![Esplorazione di cicli di esecuzione e bundle Immagine 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
+   ![Immagine 1 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
 
-1. Fare clic sul pulsante Dettagli di un&#39;esecuzione. Fai clic sul registro semplice nel pannello a destra, in modo simile a quanto hai fatto nella sezione relativa alla cronologia di esecuzione del corso di formazione su Workfront Fusion.
+1. Fai clic sul pulsante dei dettagli di un’esecuzione. Fai clic sul registro semplice nel pannello a destra, in modo simile a quanto fatto nella sezione relativa alla cronologia di esecuzione del corso di formazione su Workfront Fusion.
 1. I record delle operazioni elaborate vengono suddivisi in cicli.
 
-   ![Esplorazione di cicli di esecuzione e bundle Immagine 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
+   ![Immagine 5 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
 
-1. Un menu a discesa in alto a destra della finestra consente di selezionare ogni volta uno qualsiasi dei 3 cicli impostati per l&#39;esecuzione.
+1. Un menu a discesa in alto a destra della finestra consente di selezionare ogni volta uno dei 3 cicli impostati per l’esecuzione.
 
-   ![Esplorazione di cicli di esecuzione e bundle Immagine 6](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
+   ![Immagine 6 di Esplorazione di esecuzioni, cicli e bundle](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
