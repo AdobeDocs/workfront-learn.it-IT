@@ -11,17 +11,17 @@ jira: KT-8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Approccio dall&#39;alto verso il basso. Convertire le attività e i risultati esistenti (lavoro) in obiettivi figlio.
+# Approccio dall’alto verso il basso. Convertire le attività e i risultati esistenti (lavoro) in obiettivi secondari.
 
-Il secondo modo per allineare gli obiettivi consiste nel convertire un risultato o un’attività esistente di un obiettivo in un nuovo obiettivo. Il risultato/attività convertito diventa l’obiettivo secondario dell’obiettivo originale. Un approccio top-down potrebbe essere utilizzato quando l’ambito di lavoro per l’attività/risultato è più grande di quanto pianificato e dovrebbe essere incluso all’interno del proprio obiettivo secondario che ha attività e risultati aggiuntivi. Questo è un modo per mettere in serie gli obiettivi e distribuire il lavoro per rendere l&#39;obiettivo più misurabile e raggiungibile.
+Il secondo modo per allineare gli obiettivi è convertire un risultato o un’attività esistente di un obiettivo in un nuovo obiettivo. Il risultato/attività convertito diventa l’obiettivo secondario dell’obiettivo originale. Un approccio discendente potrebbe essere utilizzato quando l’ambito di lavoro per l’attività/risultato è più ampio di quanto pianificato e dovrebbe essere compreso all’interno del proprio obiettivo secondario che prevede attività e risultati aggiuntivi. Questo è un modo per collegare a cascata gli obiettivi e distribuire il lavoro per rendere l’obiettivo più misurabile e raggiungibile.
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Convertire un’attività in un obiettivo allineato
 
