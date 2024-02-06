@@ -11,31 +11,31 @@ thumbnail: 10099.jpeg
 jira: KT-10099
 exl-id: 163c3421-37c1-4160-92be-ec27e353ada4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '218'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Cosa sono i modelli di layout?
 
-Workfront dispone di molti buoni strumenti per aiutarti a svolgere il lavoro. Ma troppo bene può essere travolgente.
+Workfront dispone di diversi ottimi strumenti per aiutarti nello svolgimento del lavoro. Ma a volte il troppo “stroppia”.
 
 ![Home e menu principale](assets/what-are-layout-templates-01.png)
 
-I modelli di layout consentono agli amministratori di sistema e agli amministratori di gruppi di personalizzare l’esperienza dell’utente e consentono a tali utenti di concentrarsi su ciò che ritengono importante.
+I modelli di layout consentono agli amministratori di sistema e di gruppo di personalizzare l’esperienza utente e agli utenti di concentrarsi su ciò che ritengono importante.
 
-![Menu principale e Home](assets/what-are-layout-templates-02.png)
+![Home e menu principale](assets/what-are-layout-templates-02.png)
 
-Ad esempio, la maggior parte dell’organizzazione non registra il tempo. Tuttavia, il team di consulenti fattura i clienti, quindi devono registrare il tempo per garantire una fatturazione accurata. Con un modello di layout, le schede orario possono essere nascoste per chi non ne ha bisogno e mostrate a chi lo fa.
+Ad esempio, la maggior parte dell’organizzazione non registra le ore. Tuttavia, il team di consulenti emette fatture per la clientela, quindi deve registrare le ore per garantire una fatturazione precisa. Con un un modello di layout, le schede orario possono essere nascoste per chi non ne ha bisogno e mostrate per chi ne ha.
 
 ![Home e menu principale](assets/what-are-layout-templates-03.png)
 
 ![Home e menu principale](assets/what-are-layout-templates-04.png)
 
 
-## Prima della generazione
+## Prima della creazione
 
 Workfront consiglia di parlare con gli utenti prima di creare un modello di layout. Il coinvolgimento di coloro che utilizzeranno il modello di layout, come gli amministratori di gruppo, renderà molto più semplice il posizionamento delle informazioni e degli strumenti giusti davanti alle persone giuste.
 
-E non aver paura di apportare modifiche dopo la creazione di un modello. Continua a ricevere feedback su ciò di cui hanno bisogno, che desiderano visualizzare e accedere. Ricorda che i modelli di layout hanno lo scopo di creare un’esperienza pulita e semplice per i tuoi utenti.
+E non avere paura di apportare modifiche dopo la creazione di un modello. Continua a ricevere feedback sugli elementi di cui hanno bisogno, che desiderano visualizzare e a cui vogliono accedere. Ricorda che i modelli di layout hanno lo scopo di creare un’esperienza chiara e semplice per i tuoi utenti.
