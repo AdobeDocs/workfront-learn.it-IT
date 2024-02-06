@@ -1,6 +1,6 @@
 ---
-title: Informazioni sulle impostazioni per una richiesta di flusso
-description: Scopri come viene elaborato il flusso di richieste in [!DNL  Workfront] funziona. Creare quindi regole di routing, gruppi di argomenti e argomenti della coda.
+title: Impostazioni per una richiesta di flusso
+description: Scopri come viene elaborato il processo di flusso di richiesta nei lavori di  [!DNL  Workfront] . Crea quindi regole di indirizzamento, gruppi di argomenti e argomenti della coda.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8959
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Informazioni sulle impostazioni per una richiesta di flusso
+# Impostazioni per una richiesta di flusso
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Processo del flusso di richieste specifico per la gestione delle code
-* Come creare e utilizzare regole di instradamento, gruppi di argomenti e argomenti della coda
+* Il processo del flusso di richiesta specifico per la gestione delle code
+* Come creare e utilizzare regole di indirizzamento, i gruppi di argomenti e gli argomenti della coda
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
