@@ -1,6 +1,6 @@
 ---
-title: Aggiornare i progressi su risultati e attività in [!DNL Workfront Goals]
-description: Scopri come aggiornare l’avanzamento dei risultati e delle attività in [!DNL Workfront Goals].
+title: Aggiornare i progressi su risultati e attività in  [!DNL Workfront Goals]
+description: Scopri come aggiornare l’avanzamento dei risultati e delle attività in  [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Aggiornare i progressi su risultati e attività
+# Aggiornare l’avanzamento per risultati e attività
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Aggiornare i progressi su risultati e attività
+* Aggiornare l’avanzamento per risultati e attività
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)
