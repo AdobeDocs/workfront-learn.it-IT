@@ -1,6 +1,6 @@
 ---
-title: Applica milestone
-description: Scopri come applicare percorsi milestone a un [!DNL  Workfront] progettare e associare le attività chiave come fasi cardine all’interno del progetto.
+title: Applicare le milestone
+description: Scopri come applicare percorsi milestone a un progetto di  [!DNL  Workfront]  e associare le attività chiave come fasi cardine all’interno del progetto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -13,23 +13,23 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Applica milestone
+# Applicare le milestone
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Applicare un percorso milestone a un progetto
-* Aggiungere un&#39;attività cardine a un&#39;attività
+* Aggiungere un’attività cardine a un’attività
 * Best practice per l’applicazione delle milestone
 
 >[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
 
