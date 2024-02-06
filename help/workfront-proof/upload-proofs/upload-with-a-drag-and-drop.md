@@ -1,6 +1,6 @@
 ---
-title: Carica con trascinamento della selezione
-description: Scopri i vantaggi e le limitazioni del caricamento di file in [!DNL  Workfront] mediante trascinamento.
+title: Caricare mediante trascinamento
+description: Scopri i vantaggi e le limitazioni del caricamento di file in  [!DNL  Workfront]  utilizzando il trascinamento.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,20 +11,20 @@ thumbnail: upload-drag-and-drop.png
 jira: KT-10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Carica con trascinamento della selezione
+# Caricare mediante trascinamento
 
-Puoi caricare un file in [!DNL Workfront] mediante trascinamento della selezione [!UICONTROL Documenti] sezione. Questo è un modo rapido per caricare una bozza, ma non consente di assegnare un flusso di lavoro della bozza allo stesso tempo.
+Puoi caricare un file in [!DNL Workfront] mediante trascinamento direttamente nella sezione [!UICONTROL Documenti]. Questo è un modo rapido per caricare una bozza, ma non consente di assegnare un flusso di lavoro di bozza contemporaneamente.
 
-![Un&#39;immagine del [!UICONTROL Documenti] area in un [!DNL  Workfront] progetto con il cursore che passa sopra l&#39;elenco dei documenti e [!UICONTROL Trascinare i documenti qui] messaggio visibile.](assets/drag-and-drop-1.png)
+![Immagine dell’area [!UICONTROL Documenti] in un progetto di [!DNL  Workfront] con il cursore posizionato sull’elenco dei documenti e il messaggio visibile [!UICONTROL Trascina e rilascia i documenti qui].](assets/drag-and-drop-1.png)
 
-Per alcuni [!DNL Workfront] questo è il loro normale flusso di lavoro di bozza. Un designer creativo o un membro del team carica il file, ma spetta a un manager bozza o a un project manager assegnare il flusso di lavoro della bozza in modo che i destinatari appropriati possano rivedere il lavoro.
+Per alcuni clienti di [!DNL Workfront], questo è il normale flusso di lavoro di bozza. Un designer creativo o un membro del team carica il file, ma spetta al responsabile di bozza o al project manager assegnare il flusso di lavoro di bozza in modo che i destinatari appropriati possano rivedere il lavoro.
 
-È possibile, a seconda della [!DNL Workfront] impostazioni di sistema, che non venga generata una bozza durante il caricamento con trascinamento della selezione. In questo caso, devi generare la bozza e assegnare un flusso di lavoro utilizzando [!UICONTROL Genera bozza] opzione e selezione [!UICONTROL Avanzate]. Da qui puoi impostare il flusso di lavoro della bozza.
+È possibile, a seconda delle impostazioni di sistema di [!DNL Workfront], che una bozza non venga generata durante il caricamento tramite trascinamento. In tal caso, è necessario generare la bozza e assegnare un flusso di lavoro utilizzando l’opzione [!UICONTROL Genera bozza] e selezionando [!UICONTROL Avanzate]. Da lì, puoi impostare il flusso di lavoro di bozza.
 
-![Un&#39;immagine del [!UICONTROL Documenti] area in un [!DNL  Workfront] progetto con [!UICONTROL Genera bozza] evidenziato.](assets/drag-and-drop-2.png)
+![Immagine dell’area [!UICONTROL Documenti] in un progetto [!DNL  Workfront] con [!UICONTROL Genera bozza] evidenziato.](assets/drag-and-drop-2.png)
