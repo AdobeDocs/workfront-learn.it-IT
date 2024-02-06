@@ -10,15 +10,15 @@ level: Intermediate, Experienced
 jira: KT-8756
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 # Dove iniziare con l’organizzazione degli utenti
 
-Questo video illustra:
+In questo video scoprirai:
 
 * Aziende
 * Gruppi
@@ -30,8 +30,8 @@ Prima di iniziare, ecco alcuni termini chiave con cui acquisire familiarità dur
 
 | Azienda | Gruppo | Team |
 | --- | --- | --- |
-| <ul><li>Un&#39;attività commerciale, interna o esterna</li><li>Unità organizzazione Workfront più grande</li></ul> | <ul><li>Un dipartimento o una divisione</li><li>Seconda unità organizzativa Workfront più grande</li></ul> | <ul><li>Piccola raccolta di persone che lavorano insieme nelle attività quotidiane; team di lavoro</li><li>Può essere funzionale o interfunzionale</li><li>Unità organizzativa Workfront più piccola</li></ul> |
-| Esempi <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Esempi <ul><li>Finanz</li><li>Legale</li><li>Marketing</li><li>Operazioni</li></ul> | Esempi <ul><li>Ciclo paghe</li><li>Analisi</li><li>Pubblicazione</li><li>Produzione</li></ul> |
+| <ul><li>Un’attività commerciale, interna o esterna</li><li>Unità organizzativa Workfront più grande</li></ul> | <ul><li>Un dipartimento o una divisione</li><li>Seconda unità organizzativa Workfront più grande</li></ul> | <ul><li>Piccolo gruppo di persone che lavorano insieme nelle attività quotidiane; team di lavoro</li><li>Può essere funzionale o interfunzionale</li><li>Unità organizzativa Workfront più piccola</li></ul> |
+| Esempi <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Esempi <ul><li>Finanz</li><li>Legale</li><li>Marketing</li><li>Operazioni</li></ul> | Esempi <ul><li>Payroll</li><li>Analysis</li><li>Publishing</li><li>Production</li></ul> |
 
 
 
