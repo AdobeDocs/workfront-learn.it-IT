@@ -1,6 +1,6 @@
 ---
 title: Predecessori avanzati
-description: Scopri i tipi di dipendenza dei predecessori, i tipi di ritardo, i predecessori applicati, gli errori dei loop di dipendenza e alcune scelte rapide e best practice.
+description: Informazioni su tipi di dipendenza dei predecessori, tipi di attesa, predecessori applicati, errori del ciclo di dipendenza e alcune scelte rapide e best practice.
 feature: Work Management
 thumbnail: 3424287.jpg
 type: Tutorial
@@ -11,10 +11,11 @@ team: Technical Marketing
 last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
-source-git-commit: a3bb4728c12a24929bdaf2351074c1cfc08a4511
-workflow-type: tm+mt
+exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -24,21 +25,21 @@ ht-degree: 0%
 >
 >Prerequisiti:
 >
->* [Scopri come ordinare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
->* Oppure puoi già utilizzare i predecessori nei tuoi progetti
+>* [Scopri come ordinare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=it)
+>* Oppure sei già in grado di utilizzare i predecessori nei tuoi progetti
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Dipendenze attività
-* Tipi di lag
-* Predecessori forzati
+* Dipendenze delle attività
+* Tipi di attesa
+* Predecessori imposti
 * Errori del ciclo di dipendenza
 * Scelte rapide e best practice
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
-Per ulteriori informazioni sull&#39;utilizzo dei predecessori, vedere [Usa predecessori attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Per ulteriori informazioni sull’utilizzo dei predecessori, consulta [Utilizza i predecessori delle attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=it).
 
-Per ulteriori informazioni sui vincoli delle attività, vedere [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Per ulteriori informazioni sui vincoli delle attività, consulta [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=it).
 
-Per ulteriori informazioni sui predecessori tra progetti, consulta [Comprendere i predecessori tra progetti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Per ulteriori informazioni sui predecessori tra progetti, consulta [Comprendere i predecessori tra progetti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=it).
