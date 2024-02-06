@@ -1,6 +1,6 @@
 ---
 title: Qual è la metodologia Scrum?
-description: Scopri i vantaggi dell’utilizzo della metodologia agile scrum.
+description: Scopri i vantaggi dell’utilizzo della metodologia agile Scrum.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
@@ -10,95 +10,95 @@ hide: true
 hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Qual è la metodologia Scrum e come funziona?
+# Che cos’è la metodologia Scrum e come funziona?
 
-La metodologia Scrum comprende il modello di flessibilità, ma differisce da altre metodologie in quanto ha definito i ruoli per coloro che fanno parte del team, come ad esempio il proprietario del prodotto, il master Scum e così via. — e procedure definite per definire e completare il lavoro.
+La metodologia Scrum comprende il modello di flessibilità ma differisce dalle altre metodologie in quanto definisce determinati ruoli per coloro che fanno parte del team, come proprietario del prodotto, Scrum Master, ecc. e pratiche per definire e completare il lavoro.
 
 ## Panoramica del team Scrum
 
-Quando decidi se passare o meno a Scrum, dovrai esaminare la struttura dei tuoi team per vedere se possono facilmente essere trasferiti alla nuova metodologia. Un team Scrum ha tre tipi di membri: un proprietario del prodotto, un master scrum e i membri del team.
+Quando decidi se passare o meno a Scrum, dovrai esaminare la struttura dei team per vedere se possono passare facilmente alla nuova metodologia. Un team Scrum è composto da tre tipi di membri: un proprietario del prodotto, uno Scrum Master e i membri del team.
 
 ![Membri del team Scrum](assets/scrumteammembers-01.png)
 
 ### Proprietari del prodotto
 
-I proprietari del prodotto possiedono il prodotto e hanno la visione di cosa sia o sarà il prodotto. Sono una voce per il cliente e il principale motore delle decisioni aziendali e della definizione delle priorità delle funzioni dei prodotti.
+I proprietari del prodotto possiedono il prodotto e hanno la visione di ciò che il prodotto è o sarà. Sono la voce del cliente e il motore principale delle decisioni aziendali e della definizione delle priorità delle caratteristiche del prodotto.
 
 
-### Master Scrum
+### Scrum master
 
-I master Scrum aiutano il team a svolgere il lavoro trovando le risorse necessarie e creando consenso tra il team per svolgere il lavoro nel modo più efficiente possibile. Essi facilitano inoltre la comunicazione e il consenso in tutto il processo.
+Gli Scrum Master aiutano il team a portare a termine il lavoro trovando le risorse necessarie e creando consenso all’interno del team per svolgere il proprio lavoro nel modo più efficiente possibile. Facilitano inoltre la comunicazione e il consenso durante tutto il processo.
 
 
 ### Membri team
 
-Un team è in genere cross-functional e ha membri con numerose mansioni e competenze diverse. Sono responsabili della pianificazione, dell’esecuzione e della distribuzione degli incrementi di prodotto. I partecipanti possono essere fisicamente localizzati nello stesso luogo o accedere a strumenti che consentono una collaborazione rapida e semplice, sia tra di loro durante la giornata che nelle riunioni di stand-up quotidiane.
+Un team è solitamente interfunzionale e comprende membri con mansioni e competenze diverse. Sono responsabili della pianificazione, dell’esecuzione e della fornitura degli incrementi del prodotto. Trarranno beneficio dal trovarsi fisicamente nello stesso luogo o dall’avere accesso a strumenti che consentano una collaborazione rapida e semplice, sia tra loro durante il giorno che nelle riunioni quotidiane del team.
 
 
 ## Lavorare come team Scrum
 
-Dopo aver assemblato questi attori chiave, segui un nuovo stile di flusso di lavoro per svolgere il loro lavoro e consegnare un prodotto al cliente. Anche in questo caso, rispetto alla metodologia tradizionale o a cascata, non seguiranno più un processo lineare di elaborazione di un piano per un prodotto finale, passando poi attraverso i passaggi o le fasi necessarie per consegnare quel prodotto. Al contrario, i team Scrum generano prima un backlog.
+Una volta riuniti questi attori chiave, verrà seguito un nuovo stile di flusso di lavoro per portare a termine il lavoro e consegnare un prodotto al cliente. Ancora una volta, rispetto alla metodologia tradizionale o a cascata, non seguiranno più un processo lineare di elaborazione di un piano per un prodotto finale, per poi passare attraverso i passaggi o le fasi necessarie per consegnare quel prodotto. Piuttosto, i team Scrum creano per prima cosa un backlog.
 
 
 
 ### Creazione di un backlog
 
-Il team Scrum considera un elenco di funzioni prioritarie e di funzionalità desiderate, denominate storie. Devono chiedere al cliente e discutere in team di cosa vuole o di cosa ha bisogno dal sistema o dal prodotto che intende costruire.
+Il team Scrum esamina un elenco di caratteristiche prioritarie e funzionalità desiderate denominate storie. È necessario che il team chieda al cliente e discuta in qualità di team che cosa desidera/ciò di cui ha bisogno dal sistema o dal prodotto che sta per creare.
 
 
-Una volta create le storie più importanti, devono recuperare il loro arretrato. In quanto team, devono affrontare quattro passaggi principali.
+Una volta che le storie principali sono state create, il team deve gestire il backlog. Come team, deve passare attraverso quattro passaggi principali.
 
 
-* Suddividi le storie grandi in incrementi più piccoli discutendo cosa è necessario fare per ogni storia.
+* Suddividere le storie di grande entità in incrementi più piccoli discutendo cosa è necessario fare per ciascuna storia.
 
-* Dai priorità alle storie e decidi quali funzioni sviluppare per prime.
+* Dare la priorità alle storie e decidere quali funzionalità dovrebbero essere sviluppate per prime.
 
-* Chiarisce i requisiti e i criteri di accettazione per una storia da considerare completata.
+* Chiarire i requisiti e i criteri di accettazione affinché una storia possa essere considerata realizzata.
 
-* Stimare l&#39;impegno necessario per completare ogni storia e il backlog. Questo può essere fatto in ore o in punti. I punti vi permettono di raccontare quanto sia dura o complessa la storia invece di pianificare il tempo necessario per ogni componente della storia.
-
-
-### Pianificazione iterazione
-
-Una volta pulita e assegnata la priorità al backlog, è necessario pianificare l’iterazione. Molte organizzazioni utilizzano le parole &quot;sprint&quot; e &quot;iterazione&quot; in modo intercambiabile. Il team decide quali storie completare in base alle storie che sono considerate pronte. Il team effettua le assegnazioni e decide la durata dell’iterazione.
+* Stimare la quantità di impegno che il team deve spendere per completare ogni storia e il backlog. Questo può essere eseguito in ore o in punti. I punti consentono di dire quanto sia difficile o complessa la storia invece di pianificare il tempo richiesto per ciascun componente della storia.
 
 
+### Pianificazione dell’iterazione
 
-### Esecuzione dell&#39;iterazione
-
-Ora è il momento di eseguire l’iterazione. I membri del team iniziano a svolgere il proprio lavoro come farebbe un team tradizionale, ma ora incorporano una riunione rapida e quotidiana chiamata riunione di stand-up.
-
-I membri del team si presenteranno letteralmente in piedi per questo breve incontro e risponderanno a tre domande:
-
-* Cos&#39;ho fatto ieri?
-* Cosa farò oggi?
-* Quali sono i blocchi stradali che stanno affrontando per impedire la progressione delle loro assegnazioni?
-
-
-Queste riunioni mantengono tutti sulla stessa pagina e progrediscono rapidamente.
+Dopo aver organizzato e dato priorità al backlog, è il momento di pianificare l’iterazione. (Molte organizzazioni usano le parole “sprint” e “iterazione” in modo intercambiabile.) Il team decide quali storie completare in base a quelle considerate pronte per essere avviate. Il team effettua le assegnazioni e decide la durata dell’iterazione.
 
 
 
-## Utilizzo di un grafico Burndown e di uno storyboard per tenere traccia dell&#39;avanzamento
+### Esecuzione dell’iterazione
 
-Poiché un team risponde alle tre domande principali nelle proprie standup, è importante che monitori e tenga traccia dei progressi compiuti verso il completamento dell’iterazione. Questo consente loro di determinare se si muovono abbastanza rapidamente nelle loro storie per fornire tutte le funzioni in tempo alla fine dell’iterazione. Esistono due componenti per eseguire questa operazione nel processo Scrum.
+Ora è il momento di eseguire l’iterazione. I membri del team iniziano a svolgere il proprio lavoro come farebbe un team tradizionale, ma adesso includono un breve incontro quotidiano chiamato riunione di stand-up.
+
+I membri del team si alzeranno letteralmente in piedi per partecipare a questo breve incontro e risponderanno a tre domande:
+
+* Cosa ho portato a termine ieri?
+* Cosa porterò a termine oggi?
+* Quali sono gli ostacoli che sto incontrando e che stanno impededendo il progresso delle mie assegnazioni?
+
+
+Queste riunioni fanno sì che tutti siano sempre aggiornati e consentono un avanzamento rapido.
+
+
+
+## Utilizzo di un grafico di lavoro e di uno storyboard per tenere traccia del progresso
+
+Quando un team risponde alle tre domande principali durante gli stand-up, è importante monitorare e tenere traccia del progresso verso il completamento dell’iterazione. Ciò consente loro di determinare se si stanno muovendo abbastanza velocemente attraverso le loro storie per fornire tutte le funzionalità in tempo per la fine dell’iterazione. Esistono due componenti per eseguire questa operazione nel processo Scrum.
 
 
 ### Storyboard
 
-Utilizzando uno storyboard, i team spostano i propri brani attraverso le colonne di stato per mostrare quando gli elementi di lavoro sono nuovi, in corso o completati.
+Utilizzando uno storyboard, i team spostano le proprie storie attraverso le colonne di stato per mostrare quando gli elementi di lavoro sono Nuovi, In corso o Completati.
 
 ![Storyboard](assets/storyboard-01.png)
 
 
 ### Grafico burn-down
 
-Un grafico burndown può essere utilizzato per monitorare se il team sta completando le storie ad una velocità sufficiente. I grafici Burndown possono essere utilizzati per singole iterazioni o per l’intera versione del prodotto.
+È possibile utilizzare un grafico lavoro per monitorare se il team sta completando le storie a un ritmo sufficientemente rapido. I grafici lavoro possono essere utilizzati su singole iterazioni o sull’intera versione del prodotto.
 
 ![Grafico burn-down](assets/burndown-01.png)
