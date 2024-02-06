@@ -1,6 +1,6 @@
 ---
-title: Scopri come gestire le risorse in [!UICONTROL DAM WORKFRONT]
-description: Scopri come gestire le risorse in [!UICONTROL DAM WORKFRONT] per migliorare il workflow.
+title: Scopri come gestire le risorse in [!UICONTROL Workfront DAM]
+description: Scopri come gestire le risorse in [!UICONTROL Workfront DAM] per migliorare il flusso di lavoro.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,45 +11,45 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Collaboratore: gestione risorse
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Utilizzare il menu Modifica su una risorsa
+* Utilizzare il menu Modifica per una risorsa
 * Impostare una data di scadenza
-* Visualizza notifiche
-* Definire le singole impostazioni di notifica
-* Caricare una versione della risorsa
-* Crea una nuova cartella
+* Visualizzare le notifiche
+* Definire le impostazioni di notifica per singoli elementi
+* Caricare una versione di una risorsa
+* Creare una nuova cartella
 * Applicare un modello di metadati a una cartella
-* Stabilire le autorizzazioni per la cartella
+* Stabilire le autorizzazioni per una cartella
 
 >[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
 
 ## Funzionamento delle versioni delle risorse
 
-Una parte del flusso di lavoro può includere la gestione di più versioni (o arrotondamenti, bozze, iterazioni, o qualsiasi altro termine) di una risorsa. Puoi gestire tutte le versioni tramite [!UICONTROL DAM WORKFRONT].
+Un flusso di lavoro può includere la gestione di più versioni (o passate, bozze, iterazioni, o qualsiasi altro termine) di una risorsa. Puoi gestire tutte le versioni tramite [!UICONTROL Workfront DAM].
 
-Il sistema consente il controllo automatico della versione delle risorse quando un file con lo stesso nome di un file esistente viene caricato nella stessa cartella. Rivolgiti all’amministratore di sistema per verificare se questa funzionalità è stata attivata.
+Il sistema consente il controllo automatico delle versioni delle risorse quando un file con lo stesso nome di un file esistente viene caricato nella stessa cartella. Per verificare se questa funzionalità è stata attivata, rivolgiti all’amministratore di sistema.
 
-Se è attivato il controllo automatico della versione, la versione di una risorsa viene eseguita solo se viene caricata nella cartella che contiene la risorsa originale. Entrambe le risorse devono avere lo stesso nome file. Se la risorsa viene caricata in un’altra cartella, viene inserita come nuovo file.
-Se il controllo della versione non è attivato, un file con lo stesso nome di un file esistente viene caricato come nuovo file, indipendentemente dalla cartella in cui è inserito. Questo poteva comportare la presenza di due risorse con lo stesso nome nella stessa cartella.
+Se è stato attivato il controllo automatico delle versioni, la versione di una risorsa viene eseguita solo se viene caricata nella cartella che contiene la risorsa originale. Entrambe le risorse devono avere lo stesso nome file. Se la risorsa viene caricata in un’altra cartella, viene inserita come nuovo file.
+Se il controllo della versione non è attivato, un file con lo stesso nome di un file esistente viene caricato come nuovo file, indipendentemente dalla cartella in cui è inserito. Questo può comportare la presenza di due risorse con lo stesso nome nella stessa cartella.
 
 Puoi anche caricare manualmente le versioni di una risorsa specifica. Fai clic sull’icona di modifica della risorsa, quindi seleziona **[!UICONTROL Carica nuova versione]**.
 
-Se pubblichi una risorsa con le versioni di Brand Connect, l’utente di Brand Connect visualizza solo la versione più recente della risorsa.
+Se pubblichi in Brand Connect una risorsa con più versioni, l’utente di Brand Connect vede solo la versione più recente della risorsa.
 
-## Stato e scadenza della cartella e della risorsa
+## Stato e scadenza delle cartelle e delle risorse
 
-Gli stati sono un altro modo per gestire l’accesso a cartelle e risorse in [!UICONTROL DAM WORKFRONT]. Gli stati possono essere utilizzati per nascondere determinate risorse o cartelle da [!UICONTROL Brand Connect] utenti o di far scadere una risorsa o una cartella in modo che solo l’amministratore di sistema possa accedervi.
+Gli stati sono un altro modo per gestire l’accesso a cartelle e risorse in [!UICONTROL Workfront DAM]. Gli stati possono essere utilizzati per nascondere determinate risorse o cartelle agli utenti di [!UICONTROL Brand Connect] oppure per far scadere una risorsa o una cartella in modo che solo l’amministratore di sistema possa accedervi.
 
-* **[!UICONTROL Attivo]**- Utilizzato per risorse e cartelle. Risorse e cartelle con [!UICONTROL Attivo] sono visibili a tutti gli utenti con autorizzazioni e possono essere pubblicati in [!UICONTROL Brand Connect]. [!UICONTROL Attivo] è indicato da un punto verde su una risorsa o cartella.
-* **[!UICONTROL Inattivo]**- Utilizzato per risorse e cartelle. Risorse e cartelle con [!UICONTROL Inattivo] lo stato è visibile a [!UICONTROL DAM WORKFRONT] utenti ma non sono visibili nel [!UICONTROL Brand Connect]. [!UICONTROL Inattivo] è indicato da un punto rosso su una risorsa o cartella.
-* **[!UICONTROL Non scaduto]**- Utilizzato solo per le risorse. Questo è lo stato predefinito di tutte le risorse. Risorse non scadute che sono anche [!UICONTROL Attivo] sono visibili in [!UICONTROL Brand Connect].
-* **[!UICONTROL Scaduto]**- Utilizzato solo per le risorse. Risorse con [!UICONTROL Scaduto] lo stato non può essere scaricato da alcun utente ad eccezione dell&#39;amministratore di sistema. Le risorse scadute sono visibili o non visibili nel [!UICONTROL Brand Connect], a seconda delle configurazioni del sistema.
+* **[!UICONTROL Attivo:]** utilizzato per risorse e cartelle. Le risorse e le cartelle con stato [!UICONTROL Attivo] sono visibili a tutti gli utenti con autorizzazioni e possono essere pubblicate in [!UICONTROL Brand Connect]. [!UICONTROL Attivo] è indicato da un punto verde su una risorsa o cartella.
+* **[!UICONTROL Inattivo:]** utilizzato per risorse e cartelle. Le risorse e le cartelle con stato [!UICONTROL Inattivo] sono visibili agli utenti [!UICONTROL Workfront DAM] ma non sono visibili in [!UICONTROL Brand Connect]. [!UICONTROL Inattivo] è indicato da un punto rosso su una risorsa o cartella.
+* **[!UICONTROL Non scaduto:]** utilizzato solo per le risorse. Questo è lo stato predefinito di tutte le risorse. Le risorse non scadute che sono anche in stato [!UICONTROL Attivo] sono visibili in [!UICONTROL Brand Connect].
+* **[!UICONTROL Scaduto:]** utilizzato solo per le risorse. Le risorse con stato [!UICONTROL Scaduto] non possono essere scaricate da alcun utente, ad eccezione dell’amministratore di sistema. Le risorse scadute sono visibili o non visibili in [!UICONTROL Brand Connect], a seconda delle configurazioni del sistema.
