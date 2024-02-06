@@ -1,6 +1,6 @@
 ---
 title: Comprendere e gestire i tipi di durata e i vincoli delle attività
-description: Scopri i tipi di durata e i vincoli delle attività e come assicurarti di averli impostati correttamente nei tuoi progetti.
+description: Scopri cosa sono i tipi di durata e i vincoli delle attività e come assicurarti che siano impostati correttamente nei tuoi progetti.
 feature: Work Management
 thumbnail: 3420986.jpg
 type: Tutorial
@@ -11,10 +11,11 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
-source-git-commit: e91207d73b7a25f05a5b2cde0606b57291e695b0
-workflow-type: tm+mt
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -33,10 +34,8 @@ Questo video illustra le seguenti informazioni sui tipi di durata e i vincoli de
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-Per informazioni su come creare una vista Tipi di durata e Vincoli task, vedere l&#39;attività della vista Tipi di durata e Vincoli task in [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+Per informazioni su come creare una vista con tipi di durata e vincoli delle attività, consulta la relativa attività in [Creare una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
 
-Per informazioni dettagliate sui tipi di durata, consulta [Tipi di durata e durata attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
+Per informazioni dettagliate sui tipi di durata, consulta [Durata e tipi di attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=it).
 
-Per informazioni dettagliate sui vincoli delle attività, vedere [Vincoli attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).
-
-
+Per informazioni dettagliate sui vincoli delle attività, consulta [Vincoli delle attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=it).
