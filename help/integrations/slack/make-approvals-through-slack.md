@@ -1,6 +1,6 @@
 ---
-title: Approva tramite [!DNL Slack]
-description: Scopri come effettuare approvazioni tramite lo Slack
+title: Approvare tramite  [!DNL Slack]
+description: Scopri come effettuare approvazioni tramite Slack
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-8819
 exl-id: abe86ef4-8090-44ca-bf4b-115c14e95515
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '24'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Approva tramite [!DNL Slack]
+# Approvare tramite [!DNL Slack]
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Approva tramite [!DNL Slack]
+* Approvare tramite [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on)
