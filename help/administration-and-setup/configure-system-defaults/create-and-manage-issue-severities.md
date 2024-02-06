@@ -1,5 +1,5 @@
 ---
-title: Creare e gestire le gravità dei problemi
+title: Creare e gestire la gravità dei problemi
 description: Scopri come impostare e gestire la gravità dei problemi.
 feature: System Setup and Administration
 activity: deploy
@@ -10,23 +10,23 @@ level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Creare e gestire le gravità dei problemi
+# Creare e gestire la gravità dei problemi
 
 ## Introduzione alle gravità dei problemi
 
-Una gravità può essere utilizzata per indicare la gravità di un problema o come potrebbe influire sul lavoro svolto.
+Il livello di gravità può essere utilizzato per indicare la criticità di un problema o come potrebbe influire sullo svolgimento del lavoro.
 
-![[!UICONTROL Gravità] menu in [!UICONTROL Dettagli problema] finestra](assets/admin-fund-severity-issue-details.png)
+Menu ![[!UICONTROL Gravità] nella finestra [!UICONTROL Dettagli problema]](assets/admin-fund-severity-issue-details.png)
 
-Il [!UICONTROL Gravità] è accessibile nel [!UICONTROL Dettagli problema]. Può essere incluso anche nelle viste a colonne negli elenchi e nei rapporti personalizzati.
+Si può accedere al campo [!UICONTROL Gravità] in [!UICONTROL Dettagli problema]. Il campo può essere incluso anche nelle visualizzazioni a colonne negli elenchi e nei rapporti personalizzati.
 
-[!DNL Workfront] ha cinque gravità predefinite:
+[!DNL Workfront] ha cinque livelli di gravità predefiniti:
 
 * [!UICONTROL Cosmetico]
 * [!UICONTROL Causa Confusione]
@@ -38,34 +38,34 @@ Se necessario, gli amministratori di sistema possono rinominare le gravità pred
 
 Le gravità sono disponibili solo per i problemi in [!DNL Workfront].
 
-## Creare e gestire le gravità dei problemi
+## Creare e gestire la gravità dei problemi
 
 In qualità di amministratore di sistema, puoi creare nuove gravità, se necessario, per completare il flusso di lavoro del problema.
 
-![[!UICONTROL Gravità] pagina in [!UICONTROL Configurazione]](assets/admin-fund-severity-section.png)
+Pagina ![[!UICONTROL Gravità] in [!UICONTROL Configurazione]](assets/admin-fund-severity-section.png)
 
-1. Clic **[!UICONTROL Configurazione]** nel **[!UICONTROL Menu principale]**.
-1. Espandi **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
+1. Fai clic **[!UICONTROL Configurazione]** nel **[!UICONTROL Menu principale]**.
+1. Espandi la sezione **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
 1. Seleziona **[!UICONTROL Gravità]**.
-1. Clic **[!UICONTROL Aggiungi nuova gravità]**.
-1. Assegnare alla gravità un nome corrispondente all&#39;uso previsto.
-1. Il **[!UICONTROL Importanza]** number corrisponde alla gravità del problema. Il numero più alto corrisponde alla gravità più elevata. Il [!UICONTROL Importanza] il numero deve essere univoco.
-1. Seleziona un colore per la tua priorità. Viene utilizzato nei rapporti grafico e in altre posizioni in [!DNL Workfront].
-1. Designare una delle opzioni di gravità come **[!UICONTROL Gravità predefinita]**. Questo viene applicato automaticamente a tutti i nuovi problemi in Workfront.
-1. Includere una descrizione della gravità, ad esempio la modalità di utilizzo.
+1. Fai clic su **[!UICONTROL Aggiungi nuova gravità]**.
+1. Assegna alla gravità un nome corrispondente all’uso previsto.
+1. l numero di **[!UICONTROL Importanza]** indica la criticità del problema. Il numero più alto corrisponde alla gravità più alta. Il numero di [!UICONTROL Importanza] deve essere univoco.
+1. Seleziona un colore per la priorità. Il colore viene utilizzato nei rapporti grafici e in altre posizioni in [!DNL Workfront].
+1. Designa una delle opzioni di gravità come **[!UICONTROL Gravità predefinita]**. Questo valore verrà applicato automaticamente a tutti i nuovi problemi in Workfront.
+1. Includi una descrizione della gravità, ad esempio la modalità di utilizzo.
 1. Fai clic all’esterno dei campi da salvare.
 
-![[!UICONTROL Gravità] list](assets/admin-fund-severity-new.png)
+Elenco ![[!UICONTROL Gravità]](assets/admin-fund-severity-new.png)
 
 ### Modifica delle gravità
 
 Se una gravità non diventa più rilevante per i flussi di lavoro relativi ai problemi, può essere rinominata, nascosta o eliminata.
 
-Se una gravità non è più necessaria, [!DNL Workfront] consiglia di nascondere la gravità (fare clic sul pulsante [!UICONTROL Nascondi] nell&#39;area di configurazione). In questo modo l’opzione gravità viene rimossa dal menu a discesa del problema, ma viene mantenuta nei dati storici in modo che sia ancora disponibile a scopo di reporting.
+Se una gravità non è più necessaria, [!DNL Workfront] consiglia di nasconderla (facendo clic sulla casella [!UICONTROL Nascondi] accanto ad essa nell’area di configurazione). In questo modo l’opzione gravità viene rimossa dal menu a discesa del problema, ma viene mantenuta nei dati storici in modo che sia ancora disponibile a scopo di reporting.
 
-![[!UICONTROL Nascondi] colonna evidenziata su [!UICONTROL Gravità] pagina in [!UICONTROL Configurazione]](assets/admin-fund-severity-hide.png)
+Colonna ![[!UICONTROL Nascondi] evidenziata sulla pagina [!UICONTROL Gravità] in [!UICONTROL Configurazione]](assets/admin-fund-severity-hide.png)
 
-[!DNL Workfront] consiglia di **non** elimina una gravità utilizzata per i problemi passati. Quando si elimina una gravità, viene richiesto di sostituirne un&#39;altra. Questo può modificare i dati storici e influire sul reporting.
+[!DNL Workfront] consiglia di **non** eliminare una gravità che è stata utilizzata in problemi precedenti. Quando elimini una gravità, ti viene chiesto di sostituirla con un’altra. Questo potrebbe modificare i dati storici e influire sul reporting.
 
 ![Finestra Elimina gravità](assets/admin-fund-severity-delete.png)
 
