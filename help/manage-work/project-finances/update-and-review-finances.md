@@ -11,40 +11,40 @@ level: Intermediate
 jira: KT-10137
 exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Aggiornare e rivedere i dati finanziari
 
-Se l’organizzazione utilizza [!DNL Workfront] per tenere traccia delle informazioni finanziarie relative al progetto, l&#39;esame delle spese e la creazione di record di fatturazione possono essere parte del processo di chiusura di un progetto.
+Se l’organizzazione utilizza [!DNL Workfront] per tenere traccia delle informazioni finanziarie relative al progetto, la revisione delle spese e la creazione di record di fatturazione potrebbero far parte del processo di chiusura di un progetto.
 
 >[!NOTE]
 >
->Molti [!DNL Workfront] i clienti gestiscono le spese e i dati finanziari del progetto in un sistema di terze parti, anziché in [!DNL Workfront]. Pertanto, prima di chiudere un progetto, è possibile disporre di diversi processi o linee guida per l&#39;aggiornamento e la revisione delle informazioni finanziarie.
+>Molti clienti [!DNL Workfront] gestiscono le proprie spese e i dati finanziari del progetto in un sistema di terze parti, anziché in [!DNL Workfront]. Pertanto, prima di chiudere un progetto, potrebbe essere necessario di seguire diversi processi o linee guida per l’aggiornamento e la revisione delle informazioni finanziarie.
 
 
 ## Spese
 
-È possibile registrare le spese per singole attività o per il progetto stesso. Indipendentemente dall&#39;elemento su cui è stata eseguita la spesa, è possibile visualizzare tutte le spese in [!UICONTROL Spese] sezione del progetto stesso.
+Le spese possono essere registrate su singole attività o sul progetto stesso. Indipendentemente dall’elemento per il quale vengono registrate, è possibile visualizzare tutte le spese nella sezione [!UICONTROL Spese] del progetto stesso.
 
-![[!UICONTROL Spese] sezione di un progetto](assets/expense-section.png)
+![[!UICONTROL Sezione Spese] di un progetto](assets/expense-section.png)
 
-## Record fatturazione
+## Record di fatturazione
 
-I record fatturazione vengono utilizzati in [!DNL Workfront] per raccogliere le ore fatturabili, le spese fatturabili, le entrate fatturabili e gli importi fatturabili aggiuntivi in un unico record e importo. Spesso questi vengono esportati da [!DNL Workfront] in un sistema di fatturazione o contabilità di terze parti.
+I record di fatturazione vengono utilizzati in [!DNL Workfront] per raccogliere ore fatturabili, spese fatturabili, ricavi fatturabili e importi fatturabili aggiuntivi in un unico record e importo. Spesso questi vengono esportati da [!DNL Workfront] in un sistema di fatturazione o contabilità di terze parti.
 
-Devi avere accesso ai dati finanziari in [!DNL Workfront] per creare e visualizzare i record di fatturazione.
+Per creare e visualizzare i record di fatturazione, devi avere accesso ai dati finanziari in [!DNL Workfront].
 
 ## Dettagli finanziari
 
-Uno sguardo alla [!UICONTROL Finanza] informazioni in [!UICONTROL Dettagli progetto] consente di visualizzare i numeri effettivi per benefit, ricavi e costi.
+Uno sguardo alle informazioni sulla [!UICONTROL Finanza] nei [!UICONTROL Dettagli progetto] consente di visualizzare i numeri effettivi per benefici, entrate e costi.
 
-![Sezione Finanze di [!UICONTROL Dettagli progetto] finestra su un progetto](assets/finance-section-project-details.png)
+![Sezione Finanze della finestra [!UICONTROL Dettagli progetto] su un progetto](assets/finance-section-project-details.png)
 
-La maggior parte delle informazioni finanziarie [!UICONTROL Dettagli progetto] viene impostato durante la creazione del progetto e i numeri visualizzati in questo campo si basano su tali informazioni. Quindi, quando chiudi un progetto, non c’è davvero nulla da aggiornare o aggiungere nei dettagli finanziari.
+La maggior parte delle informazioni finanziarie contenute nei [!UICONTROL Dettagli progetto] viene impostata durante la creazione del progetto e i numeri che vedi qui si basano su tali informazioni. Quindi, quando chiudi un progetto, in pratica non è necessario aggiornare o aggiungere nulla nei dettagli finanziari.
 
 <!---
 learn more urls
