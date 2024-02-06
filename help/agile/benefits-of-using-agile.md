@@ -1,5 +1,5 @@
 ---
-title: Vantaggi dell’utilizzo di Agile
+title: Vantaggi dell’utilizzo della metodologia Agile
 description: Scopri i vantaggi di utilizzare una metodologia agile.
 feature: Agile
 role: Admin, Leader, User
@@ -10,30 +10,30 @@ hide: true
 hidefromtoc: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Vantaggi dell’utilizzo di Agile
+# Vantaggi dell’utilizzo della metodologia Agile
 
-## Possibilità di regolare e ruotare rapidamente
+## Possibilità di adattarsi e cambiare rapidamente
 
-Come suggerisce il nome, la metodologia Agile consente ai team di essere meglio equipaggiati per cambiare rapidamente direzione e focus. Le aziende che operano nel settore del software e del marketing sono particolarmente consapevoli della tendenza a cambiamenti nella domanda che si verificano di settimana in settimana. Agile consente ai team di rivalutare il lavoro che stanno facendo e di adattarsi in determinati incrementi per garantire che, con il cambiare del panorama del lavoro e del cliente, l’attenzione cambi anche per il team.
+Come suggerisce il nome, la metodologia Agile consente ai team di essere meglio preparati a cambiare rapidamente direzione e focus. Le società di software e marketing sono particolarmente consapevoli della tendenza ai cambiamenti nella domanda che avvengono di settimana in settimana. Una metodologia Agile consente ai team di rivalutare il lavoro che stanno svolgendo e di adattarsi a determinati incrementi nella domanda affinché, man mano che si verificano cambiamenti dal punto di vista del lavoro e del cliente, il focus del team possa adattarsi di conseguenza.
 
 ![Flusso di lavoro agile](assets/agile-work-stream.png)
 
-## Trasparenza nel lavoro di un gruppo
+## Trasparenza nel lavoro di un team
 
-I team agili utilizzano riunioni giornaliere denominate &quot;stand-up&quot; per assicurarsi che il team rimanga concentrato sull’elenco prioritario di funzioni o prodotti da sviluppare. Non provano più la confusione di non sapere su cosa stanno lavorando tutti gli altri membri del loro team. Tengono regolarmente sotto controllo ciò che il team ha realizzato dal giorno prima, qualsiasi problema o blocco che potrebbero avere che deve essere affrontato e cosa intendono lavorare in quel giorno.
-
-
-
-Grazie a questa trasparenza e a questa direzione unificata, tutti possono progredire più rapidamente.
+I team agili utilizzano riunioni quotidiane chiamate “stand-up” per assicurarsi che il team rimanga concentrato sull’elenco prioritario di funzionalità o prodotti da sviluppare. Non vivono più nell’incertezza di non sapere su cosa stanno lavorando tutti gli altri membri del team. Tengono regolarmente sotto controllo ciò che il team ha realizzato dal giorno precedente, eventuali problemi o ostacoli che potrebbero richiedere attenzione, e cosa prevedono di affrontare nella giornata in corso.
 
 
 
-## Feedback frequente
+Grazie a questa trasparenza e direzione unificata, tutti possono progredire più rapidamente.
 
-Il principale vantaggio finale dell’adozione di Agile sarebbe il ciclo di feedback incorporato alla fine di ogni iterazione (ricorda: un’iterazione è un periodo di tempo impostato in cui il team deve lavorare per completare risultati finali specifici). Il ciclo di feedback consente a un team di esaminare le ultime due settimane per determinare quali problemi sono stati rilevati, come il piano potrebbe cambiare in avanti, cosa serve ora al cliente se le esigenze precedenti sono cambiate e le lezioni apprese come team.
+
+
+## Feedback frequenti
+
+L’ultimo grande vantaggio dell’adozione di una metodologia Agile è rappresentato dal ciclo di feedback incorporato alla fine di ogni iterazione (per iterazione si intende la quantità di tempo che il team deve dedicare per arrivare a risultati specifici). Il ciclo di feedback consente a un team di esaminare le ultime due settimane per determinare quali problemi sono emersi, come il piano potrebbe cambiare in futuro, cosa serve ora al cliente se le esigenze precedenti sono cambiate, e quali lezioni sono state apprese come team.
