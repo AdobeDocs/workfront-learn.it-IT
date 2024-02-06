@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla cronologia di esecuzione
-description: Scopri in che modo la cronologia di esecuzione ti aiuta a supportare e risolvere i problemi in [!DNL Adobe Workfront Fusion].
+description: Scopri in che modo la cronologia di esecuzione è utile a supportare e risolvere i problemi in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9041
 exl-id: 31c10236-fc5f-4467-b6a1-23b85f6bd0f7
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
