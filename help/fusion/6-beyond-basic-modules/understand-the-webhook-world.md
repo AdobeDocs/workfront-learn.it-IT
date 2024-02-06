@@ -1,6 +1,6 @@
 ---
-title: Comprendere il mondo del webhook
-description: Scopri come utilizzare i webhook come attivatori e come creare code per i dati in arrivo con i webhook, il tutto in [!DNL Adobe Workfront Fusion].
+title: Comprendere il mondo dei webhook
+description: Scopri come utilizzare i webhook come trigger e come creare code per i dati in arrivo con i webhook, il tutto in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendere il mondo del webhook
+# Comprendere il mondo dei webhook
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Come utilizzare i webhook come attivatori
+* Come utilizzare i webhook come trigger
 * La differenza tra webhook reattivi e passivi
 * Come creare code per i dati in arrivo con i webhook
 
