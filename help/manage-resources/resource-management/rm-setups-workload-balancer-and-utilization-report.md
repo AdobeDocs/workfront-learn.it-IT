@@ -1,6 +1,6 @@
 ---
-title: Impostazioni gestione risorse, Bilanciatore dei carichi di lavoro e Utilizat... (I titoli non devono superare i 60 caratteri)
-description: Scopri come impostare i responsabili delle risorse con il giusto accesso e come visualizzare il rapporto sul bilanciamento del carico di lavoro e sull’utilizzo.
+title: Configurazioni di gestione delle risorse, Bilanciatore del carico di lavoro e Rapporto… (i titoli non devono contenere più di 60 caratteri)
+description: Scopri come configurare i manager risorse con l’accesso corretto e come visualizzare il bilanciatore del carico di lavoro e il rapporto sull’utilizzo.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,34 +11,34 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Impostazioni gestione risorse, Bilanciatore dei carichi di lavoro e Rapporto utilizzo
+# Configurazioni di gestione delle risorse, bilanciatore del carico di lavoro e rapporto sull’utilizzo
 
-[!DNL Workfront] offre dati, su più strumenti in [!DNL Workfront], per semplificare le decisioni sulle risorse e agevolare i processi. Per visualizzare cosa succede alle tue risorse, assicurati che i tuoi manager, gli utenti e i progetti siano configurati correttamente. Queste configurazioni sono utili anche se non prevedi di utilizzare tutti [!DNL Workfront’s] strumenti di gestione delle risorse.
+[!DNL Workfront] offre dati, attraverso più strumenti in [!DNL Workfront], per semplificare le decisioni sulle risorse e agevolare i processi. Per scoprire cosa stanno facendo le tue risorse, assicurati che i tuoi manager, utenti e progetti siano configurati correttamente. Queste configurazioni sono utili anche se non prevedi di utilizzare tutti gli strumenti di gestione delle risorse di [!DNL Workfront’s].
 
-In questa sezione imparerai:
+In questa sezione scoprirai:
 
-* Impostare i responsabili risorse con il diritto di accesso
-* Come visualizzare il Bilanciatore dei carichi di lavoro e il rapporto sull’utilizzo
+* Come impostare i manager risorse con l’accesso corretto
+* Come visualizzare il bilanciatore del carico di lavoro e il rapporto sull’utilizzo
 
-## Impostazioni gestione risorse
+## Configurazioni di gestione delle risorse
 
-Iniziamo assicurandoci che le persone giuste abbiano accesso alle risorse della tua organizzazione e possano amministrarle.
+Per iniziare, assicurati che le persone giuste abbiano accesso alle risorse della tua organizzazione e possano gestirle.
 
-&lt;!Download the guide for step-by-step instructions.&gt;
+&lt;!Scarica la guida per istruzioni dettagliate.&gt;
 
-![La gestione delle risorse imposta un solo pager](assets/rm_setup01.png)
+![Pagina introduttiva delle impostazioni di gestione delle risorse](assets/rm_setup01.png)
 
 
-## Bilanciatore dei carichi di lavoro e rapporto sull’utilizzo
+## Bilanciatore del carico di lavoro e rapporto sull’utilizzo
 
-Insieme alla programmazione delle risorse e ai gruppi di risorse, gli utenti possono accedere a strumenti aggiuntivi, come il Bilanciatore dei carichi di lavoro e il rapporto sull’utilizzo, se dispongono dell’autorizzazione Modifica nel livello di accesso.
+Insieme alla Pianificazione risorse e ai Pool di risorse, gli utenti possono accedere a strumenti aggiuntivi, come il Bilanciatore del carico di lavoro e il rapporto sull’utilizzo, se dispongono dell’autorizzazione Modifica a livello di accesso.
 
 Non è necessaria alcuna altra impostazione per accedere o gestire le risorse tramite questi strumenti.
 
-![Bilanciatore dei carichi di lavoro con rapporto sull’utilizzo](assets/rm_setup02.png)
+![Bilanciatore del carico di lavoro con rapporto sull’utilizzo](assets/rm_setup02.png)
