@@ -1,6 +1,6 @@
 ---
-title: Carica una versione di bozza
-description: Scopri come caricare una nuova versione di una bozza e applicare un flusso di lavoro di verifica alla versione in [!DNL  Workfront].
+title: Caricare una versione di bozza
+description: Scopri come caricare una nuova versione di una bozza e applicare un flusso di lavoro di bozza alla versione in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,26 +12,26 @@ jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Carica una versione di bozza
+# Caricare una versione di bozza
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Carica una nuova versione di una bozza
-* Applicare un flusso di lavoro di verifica alla versione
+* Caricare una nuova versione di una bozza
+* Applicare un flusso di lavoro di bozza alla versione
 
 >[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on)
 
-## Carica una versione dal visualizzatore di bozze
+## Caricare una versione dal Proofing Viewer
 
-Se nel visualizzatore di bozze è aperta una bozza, puoi iniziare il caricamento di una versione direttamente dal menu della versione. Fai clic su [!UICONTROL Nuova versione] collegamento da instradare direttamente al &quot;[!UICONTROL carica una nuova versione]&quot; e completare il caricamento.
+Se hai una bozza aperta nel Proofing Viewer, puoi iniziare a caricare una versione direttamente dal menu della versione. Fai clic sul collegamento [!UICONTROL Nuova versione] da indirizzare direttamente alla pagina “[!UICONTROL caricare una nuova versione]” e completare il caricamento.
 
-![Un&#39;immagine del visualizzatore di bozze con il menu della versione espanso nell&#39;angolo superiore sinistro e [!UICONTROL Nuova versione] link evidenziato.](assets/upload-version-from-viewer.png)
+![Immagine del Proofing Viewer con il menu della versione esteso nell’angolo in alto a sinistra e il collegamento [!UICONTROL Nuova versione] evidenziato.](assets/upload-version-from-viewer.png)
 
 ## Tocca a te
 
@@ -39,7 +39,7 @@ Se nel visualizzatore di bozze è aperta una bozza, puoi iniziare il caricamento
 >
 >Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte del tuo corso di formazione su Workfront.
 
-Trova una prova che hai caricato in Workfront. Carica una nuova versione della bozza, assegna un nuovo modello di flusso di lavoro o apporta modifiche al flusso di lavoro esistente.
+Trova una bozza che hai caricato su Workfront. Carica una nuova versione di tale bozza, assegnando un nuovo modello di flusso di lavoro o apportando modifiche al flusso di lavoro esistente.
 
 <!--
 ### Learn more 
