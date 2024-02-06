@@ -1,6 +1,6 @@
 ---
-title: Aggiungere e gestire i membri del gruppo per una bacheca
-description: Scopri come aggiungere e rimuovere singoli utenti e team in una bacheca in modo che possano accedere alle informazioni della bacheca.
+title: Aggiungere e gestire i membri del gruppo di una bacheca
+description: Scopri come aggiungere e rimuovere singoli utenti e team da una bacheca in modo che possano accedere alle sue informazioni.
 feature: Agile
 activity: deploy
 type: Tutorial
@@ -11,14 +11,14 @@ level: Beginner
 exl-id: 2ed7d5b5-e795-42cb-8a36-af6e8801a3b5
 doc-type: video
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '52'
+ht-degree: 100%
 
 ---
 
-# Aggiungere e gestire i membri del gruppo per una bacheca
+# Aggiungere e gestire i membri del gruppo di una bacheca
 
-Scopri come aggiungere e rimuovere singoli utenti e team in una bacheca in modo che possano accedere alle informazioni della bacheca.
+Scopri come aggiungere e rimuovere singoli utenti e team da una bacheca in modo che possano accedere alle sue informazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on)
