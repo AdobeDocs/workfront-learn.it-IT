@@ -1,6 +1,6 @@
 ---
-title: Utilizza il [!UICONTROL Ottimizzatore Portfolio] per assegnare priorità e gestire il lavoro
-description: Scopri come utilizzare il [!UICONTROL Ottimizzatore Portfolio] per assegnare le priorità e gestire i progetti all’interno di un portfolio.
+title: Usa [!UICONTROL Ottimizzatore portfolio] per dare priorità e gestire il lavoro
+description: Scopri come utilizzare [!UICONTROL Ottimizzatore portfolio] per stabilire le priorità e gestire i progetti all’interno di un portfolio.
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,29 +12,29 @@ role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
 source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '885'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Utilizza il [!UICONTROL Ottimizzatore Portfolio] per assegnare priorità e gestire il lavoro
+# Usa [!UICONTROL Ottimizzatore portfolio] per dare priorità e gestire il lavoro
 
-Le informazioni inserite nel [!UICONTROL Business Case] per ogni progetto del tuo portfolio si aggrega al portfolio e si inserisce nell’intestazione del [!UICONTROL Ottimizzazione Portfolio] sezione.
+Le informazioni inserite nel [!UICONTROL Caso di business] per ogni progetto interno al tuo portfolio vengono spostate nel portfolio e nell’intestazione nella sezione [!UICONTROL Ottimizzazione portfolio].
 
-![Un&#39;immagine del [!UICONTROL Ottimizzatore Portfolio] area con informazioni provenienti dal [!UICONTROL Business Case]](assets/10-portfolio-management9.png)
+![Immagine dell’area [!UICONTROL Ottimizzatore portfolio] con informazioni provenienti dal [!UICONTROL Caso di business]](assets/10-portfolio-management9.png)
 
-Ora è il momento di usare queste informazioni per analizzare quali progetti dovrebbero essere messi sulla corsia preferenziale per la produzione e quali possono restare ai margini fino alla fase successiva. Il [!UICONTROL Ottimizzazione Portfolio] lo strumento sarà di grande aiuto con questo.
+Ora è il momento di utilizzare queste informazioni per analizzare quali progetti dovrebbero essere avviati rapidamente verso la produzione e quali possono rimanere in disparte fino al turno successivo. Lo strumento [!UICONTROL Ottimizzazione portfolio] ti aiuterà moltissimo in questo.
 
-Il [!UICONTROL Ottimizzatore Portfolio] può aiutarti pienamente se:
+L’[!UICONTROL Ottimizzatore portfolio] può assisterti pienamente se:
 
-* Il [!UICONTROL Business Case] è stato completato e inviato per tutti i progetti.
-* Fai clic su [!UICONTROL Invia] pulsante in [!UICONTROL Business Case] in modo che Workfront possa calcolare il punteggio di un progetto.
-* Viene fornito un budget per rappresentare il tetto finanziario totale dei progetti selezionati.
+* Il [!UICONTROL Caso di business] è stato completato e presentato per tutti i progetti.
+* Fai clic sul pulsante [!UICONTROL Invia] nel [!UICONTROL Caso di business] in modo che Workfront possa calcolare il punteggio per un progetto.
+* Fornisci un budget per rappresentare il limite finanziario totale dei progetti selezionati.
 
 ## Criteri di ottimizzazione
 
-Il [!UICONTROL Ottimizzatore Portfolio] utilizza un set standard di criteri per confrontare e assegnare priorità ai progetti.
+L’[!UICONTROL Ottimizzatore portfolio] utilizza una serie di criteri standard per confrontare e dare priorità ai progetti.
 
 Tali criteri sono:
 
@@ -44,57 +44,57 @@ Tali criteri sono:
 * un basso Rischio al Beneficio
 * ROI Alto
 
-Facendo clic sull&#39;icona Ottimizza viene aperto un set di barre di scorrimento, ciascuna associata a uno dei criteri. È possibile impostare i criteri di priorità più alta spostando il dispositivo di scorrimento verso destra o verso sinistra.
+Facendo clic sull’icona Ottimizza si aprirà una serie di barre di scorrimento, ciascuna associata a uno dei criteri. È possibile impostare quali criteri hanno una priorità più alta spostando il cursore verso destra o una priorità inferiore spingendo il cursore verso sinistra.
 
-![Un&#39;immagine del [!UICONTROL Ottimizzatore Portfolio] area con informazioni provenienti dal [!UICONTROL Business Case]](assets/11-portfolio-management10.png)
+![Immagine dell’area [!UICONTROL Ottimizzatore portfolio] con informazioni provenienti dal [!UICONTROL Caso di business]](assets/11-portfolio-management10.png)
 
-Utilizzando questi criteri, [!DNL Workfront] genera un punteggio di progetto compreso tra 1 e 100. I progetti con un numero più alto indicano che si allineano meglio con la direzione in cui desideri indirizzare il portfolio.
+L’uso di questi criteri [!DNL Workfront]genera un punteggio del progetto compreso tra 1 e 100. I progetti con un numero più alto indicano che si allineano meglio con la direzione in cui desideri indirizzare il portfolio.
 
-![Un&#39;immagine del [!UICONTROL Ottimizzatore Portfolio] area con informazioni sui punteggi del progetto](assets/12-portfolio-management14.png)
+![Immagine dell’area [!UICONTROL Ottimizzatore portfolio] con informazioni relative ai punteggi del progetto](assets/12-portfolio-management14.png)
 
 >[!NOTE]
 >
->Il [!UICONTROL Ottimizzatore Portfolio] non dà alcun punteggio al progetto, anche se tutte le sezioni del [!UICONTROL Business Case] vengono compilati, a meno che [!UICONTROL Business Case] è stato inviato al portfolio tramite [!DNL Workfront]. Invece di un punteggio, nella [!UICONTROL Punteggio] colonna del [!UICONTROL Ottimizzatore Portfolio]. Passa il puntatore del mouse sul simbolo di avvertenza per visualizzare ulteriori informazioni sul punteggio per il progetto.
+>L’[!UICONTROL Ottimizzatore portfolio] non assegnerà un punteggio al progetto, anche se tutte le sezioni del [!UICONTROL Caso di business] sono compilate, a meno che il [!UICONTROL Caso di business] sia stato inviato al portfolio tramite [!DNL Workfront]. Invece di un punteggio, nella colonna [!UICONTROL Punteggio] dell’[!UICONTROL Ottimizzatore portfolio] verrà visualizzato un simbolo di avvertenza. Passa il puntatore del mouse sul simbolo di avvertenza per vedere ulteriori informazioni relative al punteggio per il progetto.
 
-![Immagine di un simbolo di avvertenza nel [!UICONTROL Punteggio] colonna del [!UICONTROL Ottimizzatore Portfolio].](assets/13-portfolio-management12.png)
+![Immagine di un simbolo di avvertenza nella colonna del file [!UICONTROL Punteggio] dell’[!UICONTROL Ottimizzatore portfolio].](assets/13-portfolio-management12.png)
 
 ## Assegnazione di priorità ai progetti
 
-Ora che i progetti hanno ottenuto un punteggio, puoi riorganizzare l’elenco in modo rapido e semplice.
+Ora che i progetti sono stati valutati, puoi riorganizzare rapidamente e facilmente l’elenco.
 
-Facendo clic su [!UICONTROL Punteggio] nell’intestazione della colonna, i progetti vengono riordinati e elencati dal punteggio più alto a quello più basso oppure dal punteggio più basso a quello più alto. Per ordinare manualmente i progetti, fai clic sull’icona a forma di barra a sinistra del numero e rilascia i progetti nell’ordine desiderato.
+Facendo clic sulla colonna [!UICONTROL Punteggio] dell’intestazione, i progetti vengono riordinati ed elencati dal punteggio più alto a quello più basso o dal punteggio più basso a quello più alto. Puoi ordinare i progetti manualmente facendo clic sull’icona della barra a sinistra del numero e trascinando i progetti nell’ordine desiderato.
 
-Potresti non voler confrontare alcuni progetti del tuo elenco. Se non desideri visualizzarli nell&#39;elenco, deselezionali, quindi nascondili facendo scorrere l&#39;interruttore verso destra, in modo che lo sfondo del pulsante sia blu. Se desideri includere questi progetti, fai scorrere l’interruttore verso sinistra in modo che venga visualizzata la schermata grigia.
+Nell’elenco potrebbero essere presenti progetti che non desideri mettere a confronto. Per non visualizzarli nell’elenco, deselezionali prima, quindi nascondili facendo scorrere l’interruttore verso destra, in modo che lo sfondo del pulsante diventi blu. Se desideri includere questi progetti, fai scorrere l’interruttore verso sinistra in modo che venga visualizzato il grigio.
 
-![Immagine di un progetto non selezionato in [!UICONTROL Ottimizzatore Portfolio].](assets/14-portfolio-management13.png)
+![Immagine di un progetto non selezionato nell’[!UICONTROL Ottimizzatore portfolio].](assets/14-portfolio-management13.png)
 
-Questo consente di visualizzare solo i progetti che desideri confrontare tra loro. Con i progetti valutati, filtrati e ordinati, ora puoi prendere una decisione informata sulla necessità o meno di modificare i criteri in base ai quali vengono assegnati i progetti in ordine di priorità.
+Ciò ti consente di vedere solo i progetti che desideri mettere a confronto tra loro. Con i progetti valutati, filtrati e ordinati, ora puoi prendere una decisione informata sulla necessità o meno di modificare i criteri in base ai quali viene assegnata la priorità ai progetti.
 
-Ricorda: [!DNL Workfront] ha creato i portfolio e lo strumento di ottimizzazione per facilitare il processo di definizione delle priorità dei progetti. Tuttavia, non è necessario utilizzare i criteri suggeriti. Se tutto quello che lo strumento fa è fornire un vantaggio iniziale o una base da cui lavorare, va bene.
+Tieni presente che [!DNL Workfront] ha creato i portfoli e lo strumento di ottimizzazione per semplificare il processo di definizione delle priorità dei progetti. Tuttavia, non è necessario utilizzare i criteri suggeriti. Se la funzione complessiva dello strumento è offrire un vantaggio iniziale o una base da cui lavorare, va bene.
 
-Tuttavia, se i progetti sono in ordine di priorità e sei pronto a finalizzare la priorità in [!DNL Workfront], fare clic su **[!UICONTROL Imposta priorità]** nell&#39;angolo in alto a sinistra, il sistema numererà i progetti da 1 e utilizzerà quel numero per impostare [!UICONTROL Priorità Portfolio] in ciascun progetto.
+Se, tuttavia, i progetti sono in ordine di priorità e sei pronto per finalizzare la priorità in [!DNL Workfront], fai clic sul pulsante **[!UICONTROL Imposta priorità]** nell’angolo in alto a sinistra e il sistema numererà i progetti in ordine crescente dal numero 1 e utilizzerà quel numero per impostare il campo [!UICONTROL Priorità portfolio] in ciascun progetto.
 
-Per mantenere tali numeri, assicurati di fare clic sul pulsante **[!UICONTROL Salva]** nella parte inferiore.
+Per mantenere questi numeri in posizione, assicurati di fare clic sul pulsante in basso **[!UICONTROL Salva]**.
 
-![Un’immagine dell’utilizzo di [!UICONTROL Imposta priorità] per assegnare la priorità ai progetti in [!UICONTROL Ottimizzatore Portfolio].](assets/15-portfolio-management15.png)
+![Immagine di utilizzo del pulsante [!UICONTROL Imposta priorità] per dare priorità ai progetti nell’[!UICONTROL Ottimizzatore portfolio].](assets/15-portfolio-management15.png)
 
 <!-- 
 Pro-tips graphic
 -->
 
-* Puoi visualizzare la priorità dei progetti impostata tramite il [!UICONTROL Ottimizzatore Portfolio] nel [!UICONTROL Pianificazione risorse]. Fai clic su **[!UICONTROL Impostazioni]** e accendere il **[!UICONTROL Visualizza priorità Portfolio]** opzione. La schermata aggiorna e visualizza le priorità del portfolio nella colonna a sinistra. Fai clic su **[!UICONTROL Ordine]** nella parte superiore della colonna per allineare il [!UICONTROL Pianificazione risorse] con le priorità del portafoglio. Assicurati di salvare al termine.
+* È possibile visualizzare la priorità dei progetti impostata tramite l’[!UICONTROL Ottimizzatore portfolio] nella [!UICONTROL  Pianificazione risorse]. Fai clic sull’icona **[!UICONTROL Impostazioni]** e attiva l’opzione **[!UICONTROL Visualizza priorità portfolio]**. La schermata si aggiorna e visualizza le priorità del portfolio nella colonna a sinistra. Fai clic sull’opzione **[!UICONTROL Ordine]** nella parte superiore della colonna per allineare le priorità nella [!UICONTROL Pianificazione risorse] con le priorità del portfolio. Assicurati di salvare quando hai finito.
 
-  ![Un&#39;immagine del [!UICONTROL Priorità Portfolio] colonna nella [!UICONTROL Pianificazione risorse].](assets/16-portfolio-management17.png)
+  ![Immagine della colonna [!UICONTROL Priorità portfolio] in [!UICONTROL Pianificazione risorse].](assets/16-portfolio-management17.png)
 
 ## Gestione delle modifiche
 
-I Portfoli non sono certo una cura per tutti, ma possono alleviare il dolore di spostare le priorità. Ciò che un tempo richiedeva giorni ora poteva richiedere ore o anche un paio di minuti.
+I portfolio non sono certo una soluzione a tutto, ma possono rendere più semplici i cambiamenti di priorità. Ciò che una volta richiedeva giorni, ora potrebbe richiedere ore o anche un paio di minuti.
 
-Quando si aggiungono nuovi progetti a un portfolio, questi devono ancora essere analizzati e classificati per ordine di priorità. Utilizzando il [!UICONTROL Business Case] e il punteggio di ottimizzazione permette di confrontare facilmente i nuovi progetti con quelli richiesti, pianificati e correnti.
+Quando si aggiungono nuovi progetti a un portfolio, questi devono ancora essere analizzati e ordinati per priorità. Utilizzando il [!UICONTROL Caso di business] e il punteggio di ottimizzazione è possibile mettere a confronto facilmente i nuovi progetti con quelli richiesti, pianificati e correnti.
 
-![Immagine del progetto [!UICONTROL Stato] colonna nella [!UICONTROL Ottimizzatore Portfolio].](assets/17-project-management16.png)
+![Immagine della colonna [!UICONTROL Stato] del progetto in [!UICONTROL Ottimizzatore Portfolio].](assets/17-project-management16.png)
 
-Se durante il confronto noti che i nuovi progetti devono avere una priorità più alta, puoi riordinare l’elenco in base al punteggio di ottimizzazione oppure trascinarli e rilasciarli più in alto nell’elenco. Al termine, fai clic sul pulsante **[!UICONTROL Imposta priorità]** e il tuo lavoro è terminato.
+Se durante il confronto noti che i nuovi progetti devono avere una priorità più alta, puoi riordinare l’elenco in base al punteggio di ottimizzazione oppure trascinarli più in alto nell’elenco. Quando hai finito, fai semplicemente clic sul pulsante **[!UICONTROL Imposta priorità]**, salva e il lavoro è terminato.
 
 <!-- Learn more graphic and documentation article links
 
