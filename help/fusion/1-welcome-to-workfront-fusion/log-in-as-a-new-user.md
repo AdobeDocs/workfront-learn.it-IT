@@ -1,5 +1,5 @@
 ---
-title: Accedi come nuovo utente
+title: Accedere come nuovo utente
 description: Scopri come accedere come nuovo utente.
 activity: use
 team: Technical Marketing
@@ -10,28 +10,28 @@ level: Beginner
 jira: KT-11036
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Accedi come nuovo utente
+# Accedere come nuovo utente
 
-Quando si viene invitati come nuovo utente a un’istanza di Workfront Fusion, si ricevono due e-mail.
+Quando si viene invitati a un’istanza di Workfront Fusion come nuovo utente, si ricevono due e-mail.
 
-Un messaggio e-mail contiene una nota aggiunta dall’amministratore di Workfront Fusion al momento della creazione del profilo e dell’invito all’organizzazione. Nella parte inferiore dell’e-mail è [!UICONTROL Accetta Il Ruolo] pulsante. **Non fare ancora clic su questo pulsante.**
+Un&#39;e-mail contiene una nota aggiunta dall’amministratore di sistema di Workfront Fusion quando ha creato il profilo e ti ha invitato nell’organizzazione. Nella parte inferiore dell’e-mail si trova il pulsante [!UICONTROL Accetta il ruolo]. **Non fare ancora clic su questo pulsante.**
 
-![Immagine dell&#39;invito e-mail](assets/new-user-1.png)
+![Immagine dell’invito e-mail](assets/new-user-1.png)
 
-L&#39;altra e-mail contiene le credenziali di accesso.
+L’altra e-mail contiene le credenziali di accesso.
 
-![Immagine dell&#39;invito e-mail](assets/new-user-2.png)
+![Immagine dell’invito e-mail](assets/new-user-2.png)
 
 Per iniziare a utilizzare Workfront Fusion, fai clic su [!UICONTROL Accedi] nella seconda e-mail e accedi utilizzando la password fornita.
 
-Dopo aver effettuato l&#39;accesso per la prima volta, viene richiesto di modificare la password.
+Dopo aver effettuato l’accesso per la prima volta, ti verrà richiesto di modificare la password.
 
-Dopo aver effettuato l’accesso, torna all’altra e-mail e fai clic su [!UICONTROL Accetta Il Ruolo] pulsante.
+Dopo aver effettuato l’accesso, torna all’altra e-mail e fai clic sul pulsante [!UICONTROL Accetta il ruolo].
 
-Dopo aver eseguito questa operazione, torna a Workfront Fusion e aggiorna la pagina. Ora puoi visualizzare il team e le sezioni panoramica nel pannello a sinistra.
+Dopo aver eseguito questa operazione, torna a Workfront Fusion e aggiorna la pagina. Ora puoi visualizzare le sezioni Team e Panoramica nel pannello a sinistra.
