@@ -1,6 +1,6 @@
 ---
-title: Rivedi e rispondi ai commenti della bozza
-description: Scopri come visualizzare e rispondere ai commenti della bozza dal visualizzatore e dalla [!UICONTROL Aggiornamenti] sezione di [!DNL  Workfront].
+title: Rivedere e rispondere ai commenti della bozza
+description: Scopri come visualizzare e rispondere ai commenti della bozza dal Proof Viewer e dalla sezione [!UICONTROL Aggiornamenti] di  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Rivedi e rispondi ai commenti della bozza
+# Rivedere e rispondere ai commenti della bozza
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Visualizzare e rispondere ai commenti nel visualizzatore bozze
-* Visualizzare i commenti della bozza in [!UICONTROL Aggiornamenti] sezione
-* Rispondi a un commento della bozza da [!UICONTROL Aggiornamenti] sezione
+* Visualizzare e rispondere ai commenti nel Proofing Viewer
+* Visualizzare i commenti della bozza nella sezione [!UICONTROL Aggiornamenti]
+* Rispondere a un commento della bozza dalla sezione [!UICONTROL Aggiornamenti]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on)
