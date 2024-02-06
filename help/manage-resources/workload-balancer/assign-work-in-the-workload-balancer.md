@@ -1,5 +1,5 @@
 ---
-title: Assegna lavoro nel Bilanciatore dei carichi di lavoro
+title: Assegnare il lavoro nel Bilanciatore del carico di lavoro
 description: Scopri come visualizzare il pannello di riepilogo delle attività e come effettuare assegnazioni a un’attività non assegnata.
 feature: Resource Management
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8878
 exl-id: ec3dd98e-4944-4d6a-9936-be83c390fa2e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Assegna lavoro in [!DNL Workload Balancer]
+# Assegnare il lavoro nel [!DNL Workload Balancer]
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Visualizzare il pannello di riepilogo delle attività per visualizzare i dettagli di un&#39;attività
-* Assegnare un&#39;attività non assegnata
+* Visualizzare il pannello di riepilogo delle attività per consultare i dettagli di un’attività
+* Assegnare un’attività non assegnata
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on)
