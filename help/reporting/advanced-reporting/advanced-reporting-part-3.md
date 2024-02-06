@@ -1,6 +1,6 @@
 ---
-title: Reporting avanzato - Parte 3
-description: Comprendi uno studio approfondito dei raggruppamenti in modalità testo, degli aggregati calcolati e dei raggruppamenti calcolati.
+title: 'Reporting avanzato: parte 3'
+description: Comprensione di uno studio approfondito dei raggruppamenti in modalità testo, degli aggregati calcolati e dei raggruppamenti calcolati.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -12,19 +12,19 @@ jira: KT-11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Reporting avanzato - Parte 3
+# Reporting avanzato: parte 3
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Studio approfondito dei raggruppamenti in modalità testo
-* Aggregati calcolati
-* Raggruppamenti calcolati
+* Uno studio approfondito dei raggruppamenti in modalità testo
+* Gli aggregati calcolati
+* I raggruppamenti calcolati
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12&learn=on)
 
