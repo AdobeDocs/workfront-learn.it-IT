@@ -1,6 +1,6 @@
 ---
-title: Personalizzare le schede su una bacheca
-description: Scopri come personalizzare le informazioni visualizzate su una scheda di una bacheca, sia per la visualizzazione completa che per quella ridotta.
+title: Personalizzare le schede in una bacheca
+description: Scopri come personalizzare le informazioni da visualizzare nella scheda di una bacheca, sia per la vista completa che per quella sintetica.
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
@@ -10,14 +10,14 @@ jira: KT-13776
 thumbnail: 3422520.jpeg
 exl-id: ff3ec41f-2a8d-4e09-aa8e-5c57d69cff36
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '52'
+ht-degree: 100%
 
 ---
 
-# Personalizzare le schede su una bacheca
+# Personalizzare le schede in una bacheca
 
-Scopri come personalizzare le informazioni visualizzate su una scheda di una bacheca, sia per la visualizzazione completa che per quella ridotta.
+Scopri come personalizzare le informazioni da visualizzare nella scheda di una bacheca, sia per la vista completa che per quella sintetica.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on)
