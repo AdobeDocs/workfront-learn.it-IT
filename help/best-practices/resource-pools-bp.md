@@ -1,31 +1,31 @@
 ---
 title: Best practice - Pool di risorse
-description: Esplora le best practice consigliate dagli esperti Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo dei pool di risorse Workfront.
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo dei pool di risorse in Workfront.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10923
 exl-id: 374bf818-644d-4c3c-83e6-b50589423fb1
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Best practice - Pool di risorse
 
-## Cos’è una &quot;best practice&quot; di Adobe Workfront?
+## Che cos’è una “best practice” di Adobe Workfront?
 
-Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
+Le best practice sono linee guida che rappresentano una linea d’azione efficace ed efficiente; sono facilmente adottabili da te e dagli utenti della tua azienda; e possono essere replicate con successo in tutta l’organizzazione.
 
-Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali mentre altre potrebbero essere più specifiche per un dato argomento. Utilizza queste best practice come una base comune per le impostazioni e l’utilizzo del sistema Workfront.
 
-## Navigazione in questa pagina
+## Esplorazione di questa pagina
 
-Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
+La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
@@ -34,12 +34,12 @@ La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l�
 
 * Imposta tutti i prerequisiti per le risorse anche se non utilizzi prima gli strumenti di gestione delle risorse.
 
-* Mantenere il numero di utenti all&#39;interno di un pool di risorse a una quantità gestibile.
+* Mantieni il numero di utenti all’interno di un pool di risorse a una quantità gestibile.
 
 </br>
 </br>
 
-## Perché si tratta di procedure ottimali?
+## Perché queste sono best practice?
 
 **Best practice**
 
@@ -49,14 +49,14 @@ Imposta tutti i prerequisiti per le risorse anche se non utilizzi prima gli stru
 
 L’inserimento di prerequisiti per la gestione delle risorse nelle impostazioni di sistema e la loro aggiunta ai modelli di progetto nella configurazione iniziale consente a Workfront di acquisire i dati fin dall’inizio, in modo da poter visualizzare le tendenze delle risorse e prendere decisioni migliori.
 
-Consente inoltre di riflettere sulle informazioni che si desidera acquisire e su come si desidera acquisire tali informazioni. In questo modo, in futuro non sarà necessario ristrutturare o apportare ulteriori modifiche al sistema e ai processi già in uso.
+Consente inoltre di riflettere sulle informazioni che desideri acquisire e su come desideri acquisirle. In questo modo, in futuro non sarà necessario ristrutturare o apportare ulteriori modifiche al sistema e ai processi già in uso.
 
 </br>
 </br>
 
 **Best practice**
 
-Mantenere il numero di utenti all&#39;interno di un pool di risorse a una quantità gestibile.
+Mantieni il numero di utenti all’interno di un pool di risorse a una quantità gestibile.
 
 **Ecco perché**
 
