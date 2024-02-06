@@ -1,6 +1,6 @@
 ---
-title: Migliora il tuo flusso di lavoro con l’integrazione con G Suite
-description: Scopri come convertire un’e-mail in una [!DNL Workfront] attività o problema, visualizza e aggiorna [!DNL Workfront] lavorare da Gmail e approvare [!DNL Workfront] lavoro da Gmail.
+title: Migliora il flusso di lavoro con l’integrazione di G Suite
+description: Scopri come convertire un’e-mail in un’ [!DNL Workfront] attività o problema, come visualizzare aggiornare il lavoro di  [!DNL Workfront]  da Gmail e approvare il lavoro di  [!DNL Workfront]  da Gmail.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -11,22 +11,22 @@ jira: KT-8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
 source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Migliora il tuo flusso di lavoro con l’integrazione con G Suite
+# Migliora il flusso di lavoro con l’integrazione di G Suite
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Convertire e-mail in un’attività o un problema di Workfront
-* Visualizza e aggiorna Workfront da [!DNL Gmail]
-* Approva lavoro Workfront da [!DNL Gmail]
+* Convertire un’e-mail in un’attività o un problema di Workfront
+* Visualizzare e aggiornare il lavoro di Workfront da [!DNL Gmail]
+* Approvare il lavoro di Workfront da [!DNL Gmail]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12&learn=on)
 
 ## Installare Adobe Workfront per G Suite
 
-Per istruzioni su come installare la versione più recente, consulta: [Installare Adobe Workfront per G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
+Per istruzioni su come installare la versione più recente, consulta: [Installare Adobe Workfront per G Suite](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html?lang=it).
