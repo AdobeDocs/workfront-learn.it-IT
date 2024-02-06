@@ -1,6 +1,6 @@
 ---
-title: Personalizza [!UICONTROL Home] con modelli di layout
-description: Scopri come utilizzare un modello di layout per personalizzare [!UICONTROL Home] aggiungendo o rimuovendo campi.
+title: Personalizzare la [!UICONTROL Home] con modelli di layout
+description: Scopri come utilizzare un modello layout per personalizzare la [!UICONTROL Home] aggiungendo o rimuovendo campi.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,20 +12,20 @@ jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Personalizza [!UICONTROL Home] con modelli di layout
+# Personalizzare la [!UICONTROL Home] con modelli di layout
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Accedi a [!UICONTROL Home] impostazioni
-* Modifica impostazioni globali
-* Personalizza [!UICONTROL Home] utilizzo di un modello di layout
-* Rimuovi elementi da [!UICONTROL Home]
-* Aggiungi elementi a [!UICONTROL Home]
+* passare alle impostazioni della [!UICONTROL Home]
+* Modificare le impostazioni globali
+* Personalizzare la [!UICONTROL Home] utilizzando un modello layout
+* Rimuovere elementi dalla [!UICONTROL Home]
+* Aggiungere elementi alla [!UICONTROL Home]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)
