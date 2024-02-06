@@ -1,6 +1,6 @@
 ---
 title: Convertire un documento in una bozza
-description: Scopri come generare una bozza di un documento già esistente in [!DNL  Workfront], aggiungi un flusso di lavoro a una bozza e aggiungi o modifica un flusso di lavoro dopo la creazione della bozza.
+description: Scopri come generare una bozza di un documento già esistente in  [!DNL  Workfront], aggiungere un flusso di lavoro a una bozza e aggiungere o modificare un flusso di lavoro dopo la creazione della bozza.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Convertire un documento in una bozza
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Genera una bozza di un documento già in [!DNL Workfront]
-* Aggiungi un flusso di lavoro durante la generazione della bozza
+* Generare una bozza di un documento già in [!DNL Workfront]
+* Aggiungere un flusso di lavoro durante la generazione della bozza
 * Aggiungere o modificare un flusso di lavoro dopo la creazione della bozza
 
 >[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on)
@@ -31,7 +31,7 @@ Questo video illustra come:
 
 ## Chi può caricare i documenti?
 
-L&#39;amministratore di sistema determina il formato (documento o bozza) in cui è possibile caricare i file [!DNL Workfront]. Alcuni utenti potrebbero caricare solo documenti, altri solo bozze o altri ancora entrambi. Le autorizzazioni dipendono dal ruolo svolto nel flusso di lavoro di verifica.
+L’amministratore di sistema determina in quale formato (documento o prova) puoi caricare i file in [!DNL Workfront]. Alcuni utenti potrebbero essere in grado di caricare solo documenti, altri solo bozze o entrambi. Le autorizzazioni dipendono dal ruolo svolto nel flusso di lavoro di bozza.
 
 Se ritieni che queste impostazioni debbano essere regolate, contatta l’amministratore di sistema.
 
@@ -42,9 +42,9 @@ Se ritieni che queste impostazioni debbano essere regolate, contatta l’amminis
 >Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte del tuo corso di formazione su Workfront.
 
 1. Apri un progetto, un’attività o un problema e passa alla sezione Documenti. Carica due o tre documenti.
-1. Ora converti uno dei documenti in una bozza, ma non aggiungi ancora un flusso di lavoro di bozza.
+1. Ora converti uno dei documenti in una bozza, ma non aggiungere ancora un flusso di lavoro di bozza.
 1. Converti il secondo documento in una bozza, aggiungendo un flusso di lavoro di base con scadenza oggi alle 16.
-1. Torna alla bozza creata nel passaggio 2 di questo esercizio e aggiungi un modello di flusso di lavoro per la bozza. Se la tua organizzazione non ne ha ancora una, imposta un flusso di lavoro di bozza in due fasi da zero.
+1. Torna alla prova creata nel passaggio 2 di questo esercizio e aggiungi un modello di flusso di lavoro di bozza. Se la tua organizzazione non ne ha ancora uno, imposta un flusso di lavoro di bozza in due fasi da zero.
 
 
 <!--
