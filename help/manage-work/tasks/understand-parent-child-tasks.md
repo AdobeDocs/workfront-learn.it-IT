@@ -1,6 +1,6 @@
 ---
-title: Comprendere le attività padre-figlio
-description: Scopri come sono strutturate le attività utilizzando una relazione padre-figlio in una [!DNL  Workfront] progetto.
+title: Comprendere le attività principali e secondarie
+description: Scopri come sono strutturate le attività utilizzando una relazione principale-secondario in un progetto [!DNL  Workfront] .
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -12,32 +12,32 @@ jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Comprendere le attività padre-figlio
+# Comprendere le attività principali e secondarie
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Struttura delle attività in un [!DNL Workfront] progetto
+* Struttura delle attività in un progetto [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 
 
-## Modificare un&#39;attività in un&#39;attività secondaria e di nuovo
+## Convertire un’attività in attività secondaria e viceversa
 
-Il **rientro** e **rientro negativo** I pulsanti vengono utilizzati per modificare un&#39;attività in una sottoattività o da una sottoattività in una non sottoattività.
+I pulsanti **Rientro** e **Rientro negativo** consentono rispettivamente di convertire un’attività in sottoattività e viceversa.
 
-![Immagine dei pulsanti di rientro e rientro.](assets/indent-and-outdent.png)
+![Immagine dei pulsanti Rientro e Rientro negativo.](assets/indent-and-outdent.png)
 
-Seleziona &quot;[!UICONTROL Progettazione filigrana]&quot; e fai clic su **rientro** pulsante. &quot;[!UICONTROL Progettazione filigrana]&quot; diventerà un’attività secondaria in &quot;[!UICONTROL Mockup concettuali]&quot;, che diventerà un&#39;attività padre.
+Seleziona l’attività “[!UICONTROL Watermark Design]” (Grafica filigrana) e fai clic sul pulsante **Rientro**. “[!UICONTROL Watermark Design]” (Grafica filigrana) diventerà un’attività secondaria dell’attività “[!UICONTROL Conceptual Mockups]” (Mockup concettuali) che diventerà quindi un’attività principale.
 
-![Immagine di utilizzo del pulsante di rientro.](assets/indent.png)
+![Immagine dell’utilizzo del pulsante Rientro.](assets/indent.png)
 
-Seleziona &quot;[!UICONTROL Progettazione filigrana]&quot; quando si tratta di un’attività secondaria e fai clic sul pulsante **rientro negativo** pulsante. &quot;[!UICONTROL Progettazione filigrana]&quot; diventerà un’attività regolare allo stesso livello di &quot;[!UICONTROL Mockup concettuali]&quot;.
+Seleziona l’attività secondaria “[!UICONTROL Watermark Design]” (Grafica filigrana) e fai clic sul pulsante **Rientro negativo**. “[!UICONTROL Watermark Design]” (Grafica filigrana) diventa un’attività regolare, allo stesso livello di “[!UICONTROL Conceptual Mockups]” (Mockup concettuali).
 
-![Immagine che illustra l&#39;utilizzo del pulsante di rientro negativo.](assets/outdent.png)
+![Immagine dell’utilizzo del pulsante Rientro negativo.](assets/outdent.png)
 
