@@ -1,6 +1,6 @@
 ---
-title: Visualizzare e confrontare le versioni di una bozza
-description: Scopri come aprire, identificare, markup, commentare e confrontare le versioni di una bozza in [!DNL  Workfront].
+title: Visualizzare e confrontare le versioni di bozze
+description: Scopri come aprire, identificare, utilizzare markup, commentare e confrontare le versioni di una bozza in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,20 +12,20 @@ jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Visualizzare e confrontare le versioni di una bozza
+# Visualizzare e confrontare le versioni di bozze
 
-Questo video illustra come:
+In questo video scoprirai come:
 
 * Aprire una versione di una bozza
 * Determinare la versione di bozza da esaminare
-* Commenti e markup su una versione
-* Confronta la versione corrente con una versione precedente del file
+* Fare commenti e markup su una versione
+* Confrontare la versione corrente con una versione precedente del file
 
 >[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
 
