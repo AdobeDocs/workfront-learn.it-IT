@@ -1,6 +1,6 @@
 ---
-title: Interfaccia dei report del calendario
-description: Scopri l’interfaccia del calendario, compresi i raggruppamenti, le visualizzazioni e le azioni del calendario.
+title: Informazioni sull’interfaccia del Rapporto calendario
+description: Scopri l’interfaccia del calendario, tra cui i raggruppamenti, le viste e le azioni del calendario.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,26 +12,26 @@ thumbnail: understand-the-calendar-interface.png
 jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-# Interfaccia dei report del calendario
+# Informazioni sull’interfaccia del Rapporto calendario
 
-Un report calendario è un report dinamico che visualizza il lavoro e l&#39;indisponibilità in una visualizzazione calendario. È possibile visualizzare le informazioni sulla data in un report calendario per i seguenti oggetti:
+Un Rapporto calendario è un rapporto dinamico che presenta, in una vista di tipo calendario, sia il lavoro da svolgere sia quando un utente non è disponibile (ferie). In un Rapporto calendario puoi visualizzare le informazioni sulla data per i seguenti oggetti:
 
 * Attività
 * Progetti
 * Problemi
 * Indisponibilità
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Raggruppamenti calendario
-* Visualizzazioni calendario
-* Menu Azioni calendario
+* I raggruppamenti del calendario
+* Le viste del calendario
+* Il menu Azioni del calendario
 * Informazioni di riepilogo
 * E come creare un elemento di calendario ad hoc
 
