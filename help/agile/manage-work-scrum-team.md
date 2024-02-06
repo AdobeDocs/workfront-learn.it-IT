@@ -1,6 +1,6 @@
 ---
 title: Gestire il lavoro come team Scrum
-description: Scopri come creare un progetto agile di backlog team e una nuova storia.
+description: Scopri come creare un progetto di backlog per un team agile e creare una nuova storia.
 feature: Agile
 role: Admin, User
 level: Intermediate
@@ -9,31 +9,31 @@ thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Gestire il lavoro come team Scrum
 
-Ora che hai creato il tuo team di scrum di Creative Marketing, entra nei panni del maestro di scrum per vedere com’è la loro esperienza.
+Ora che hai creato il team Scrum di Creative Marketing, entra nei panni dello Scrum Master per capire quale sia la sua esperienza.
 
-In qualità di master scrum, l’obiettivo è quello di determinare su cosa deve lavorare prima il team. Organizzerai le storie nel backlog in base alla priorità del proprietario del prodotto. Se il team ha ricevuto richieste team da progetti o code di richieste, queste verranno già visualizzate nel backlog. Tuttavia, potrebbe essere necessario aggiungere anche storie che non appartengono specificamente a un progetto già in Adobe Workfront.
+In qualità di Scrum Master, il tuo obiettivo è determinare su cosa deve lavorare prima il team. Organizzerai le storie nel backlog in base alla priorità del proprietario del prodotto. Se il team ha ricevuto richieste da progetti o code di richieste, queste verranno già visualizzate nel backlog. Tuttavia, potrebbe essere necessario aggiungere anche storie che non appartengono specificamente a un progetto già in Adobe Workfront.
 
 ## Gestione del backlog
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-- Creare un progetto agile di backlog team
-- Crea una nuova storia
+- Creare un progetto di backlog per un team agile
+- Creare una nuova storia
 
-Questo video illustra come: creare un progetto agile di backlog team e creare una nuova storia.
+Questo video illustra come: creare un progetto di backlog per un team agile e creare una nuova storia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on)
 
-Il team Agile gestirà insieme il backlog. In pratica, questo significa che accadranno tre cose.
+Il team agile gestirà il lavoro di backlog. Questo significa che accadranno sostanzialmente tre cose.
 
-- In primo luogo, il master scrum aiuterà il team a capire quali sono le aspettative del proprietario del prodotto in merito al lavoro da svolgere.
+- In primo luogo, lo Scrum Master aiuterà il team a capire quali sono le aspettative del proprietario del prodotto in merito al lavoro da svolgere.
 - In secondo luogo, i membri del team stimeranno il tempo necessario per completare ogni storia.
-- In terzo luogo, il team utilizza queste informazioni per prendere decisioni informate su cosa lavorare e quando lavorarci.
+- In terzo luogo, il team utilizza queste informazioni per prendere decisioni consapevoli sul lavoro da eseguire e su quando eseguirlo.
