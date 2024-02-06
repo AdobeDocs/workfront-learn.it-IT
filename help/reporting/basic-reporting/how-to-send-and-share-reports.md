@@ -1,6 +1,6 @@
 ---
 title: Inviare e condividere i rapporti
-description: Scopri come inviare rapporti a utenti, team o qualsiasi indirizzo e-mail e come condividere i rapporti con chiunque in Workfront.
+description: Scopri come inviare i rapporti a utenti, team o qualsiasi indirizzo e-mail e come condividerli con chiunque in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,44 +12,44 @@ jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Inviare e condividere i rapporti
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Come inviare rapporti a utenti, team o qualsiasi indirizzo e-mail
-* Come condividere i report con chiunque
-* Cosa possono vedere e fare i destinatari con un rapporto di Workfront
+* come inviare i rapporti a utenti, team o qualsiasi indirizzo e-mail
+* Come condividere i rapporti con chiunque
+* Cosa possono visualizzare e fare i destinatari con un rapporto di Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
 ## Attività: inviare un rapporto
 
-Invia un rapporto a te stesso ogni lunedì alle 5 come foglio di calcolo Excel. Questo è un ottimo modo per raccogliere automaticamente i rapporti settimanali che puoi utilizzare in seguito per visualizzare le tendenze.
+Invia a te stesso un rapporto ogni lunedì alle 5.00 come foglio di calcolo Excel. Questo è un ottimo modo per raccogliere automaticamente i rapporti settimanali che potrai utilizzare per scoprire le tendenze.
 
 ## Risposta
 
-![Un’immagine della schermata per impostare le consegne ripetute dei rapporti](assets/send-a-report.png)
+![Immagine della schermata per impostare le consegne ripetute dei rapporti](assets/send-a-report.png)
 
-1. Visualizza qualsiasi rapporto creato e scegli **[!UICONTROL Invia rapporto]** dal **[!UICONTROL Azioni report]** menu.
-1. Fai clic su **[!UICONTROL Consegne ripetute]** scheda.
-1. Inserisci il tuo indirizzo e-mail in **[!UICONTROL Invia a]** campo.
-1. Specifica un oggetto e-mail.
+1. Visualizza qualsiasi rapporto che hai creato e scegli **[!UICONTROL Invia rapporto]** dal menu **[!UICONTROL Azioni del rapporto]**.
+1. Fai clic sulla scheda **[!UICONTROL Consegne ripetute]**.
+1. Inserisci il tuo indirizzo e-mail nel campo **[!UICONTROL Invia a]**.
+1. Specifica l’oggetto dell’e-mail.
 1. Cambia il formato in Excel.
-1. Imposta **[!UICONTROL Si ripete]** a [!UICONTROL Ogni settimana].
-1. Imposta il [!UICONTROL Ora] alle 5.
-1. Imposta [!UICONTROL Si ripete il] al lunedì.
+1. Imposta **[!UICONTROL Si ripete]** su [!UICONTROL Ogni settimana].
+1. Imposta l’[!UICONTROL orario] alle 5.00.
+1. Imposta [!UICONTROL Si ripete il] su lunedì.
 1. Fai clic su **[!UICONTROL Salva]**.
 
 >[!NOTE]
 >
->Nota la nuova Consegna ripetuta in [!UICONTROL Consegne ripetute] sulla destra. Puoi impostare più consegne per un rapporto e visualizzarle tutte qui.
+>La nuova consegna ripetuta è elencata nel pannello [!UICONTROL Consegne ripetute] a destra. Puoi impostare più consegne per un rapporto e tutte verranno visualizzate qui.
 
-**CONSEGNA DELETE A**
+**ELIMINARE UNA CONSEGNA**
 
-Seleziona la consegna appena creata e fai clic su Elimina (accanto al **[!UICONTROL Salva]** ).
+Seleziona la consegna appena creata e fai clic su Elimina (accanto al pulsante **[!UICONTROL Salva]**).
