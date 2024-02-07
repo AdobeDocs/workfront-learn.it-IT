@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 0f2a8c6855398759890fad1282ced3c28615f7f5
+source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 40%
@@ -32,9 +32,7 @@ In questo video scoprirai:
 >[!TIP]
 >
 >Scoprite le vostre spatole e ciotole per miscelare e preparatevi a provare le &quot;ricette&quot; nel nostro [Manuale di Adobe Workfront per la generazione di rapporti sui clienti](/help/assets/workfront-customer-reporting-cookbook.pdf). All’interno troverai istruzioni dettagliate per 10 rapporti, pronti per essere inseriti nel tuo ambiente attuale.
-><br>
 >Abbiamo raccolto i report preferiti dei clienti e li abbiamo inseriti in un manuale facilmente digeribile e facilmente riconoscibile, da riportare e testare nella vostra cucina Workfront.
-><br>
 >Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo un enorme grazie ai incredibili clienti che hanno condiviso uno dei loro report preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare i rapporti a un livello successivo.
 
 
