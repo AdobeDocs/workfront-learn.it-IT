@@ -14,15 +14,15 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 51%
 
 ---
 
 # Approfondisci l’utilizzo di intervalli di tempo e grafici aggiuntivi
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Eseguire il drill-down di un progetto nel grafico del piano di volo per visualizzare il grafico Burndown e il grafico Attività in volo
-* Come creare un filtro per l’intervallo temporale per eseguire lo zoom avanti all’interno di un intervallo di date
+* Come eseguire il drill-down di un progetto nel grafico Pianificazione in corso per visualizzare il grafico di lavoro e il grafico Attività in corso
+* Come creare un filtro per l’intervallo temporale per eseguire l&#39;ingrandimento all’interno di un intervallo di date
 
 >[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)

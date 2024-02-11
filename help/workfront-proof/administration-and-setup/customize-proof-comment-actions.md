@@ -1,6 +1,6 @@
 ---
-title: Personalizzare le azioni per i commenti della bozza
-description: Scopri come utilizzare le azioni nei commenti della bozza. Scopri come impostare e personalizzare le etichette delle azioni per le funzioni di verifica di.
+title: Personalizzare le azioni per i commenti nelle bozze
+description: Scopri come utilizzare le azioni sui commenti della bozza. Scopri come impostare e personalizzare le etichette delle azioni per le funzionalità della bozza.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -14,21 +14,21 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 75%
 
 ---
 
-# Personalizzare le azioni per i commenti della bozza
+# Personalizzare le azioni per i commenti nelle bozze
 
-Questo video illustra:
+In questo video scoprirai:
 
 * Che cos’è un’azione
-* Utilizzo delle azioni nei commenti
+* Come vengono utilizzate le azioni sui commenti
 * Come personalizzare le etichette delle azioni
 
 >[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on)
 
 ## Tocca a te
 
-Osserva i flussi di lavoro per le bozze già creati e riflette sulle discussioni che hai avuto con i team utilizzando i flussi di lavoro di revisione e approvazione. Saranno necessarie delle azioni? In tal caso, aggiorna i documenti in cui hai registrato i flussi di lavoro per includere le azioni.
+Osserva i flussi di lavoro per le bozze già creati e riflette sulle discussioni che hai avuto con i team utilizzando i flussi di lavoro di revisione e approvazione. Saranno necessarie azioni? In tal caso, aggiorna i documenti in cui hai registrato i flussi di lavoro per includere le azioni.
 

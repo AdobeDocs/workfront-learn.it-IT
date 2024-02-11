@@ -11,14 +11,14 @@ jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 78%
 
 ---
 
 # Pianificare un progetto - Revisione
 
-Ottieni [!DNL  Workfront] I progetti possono essere avviati e avviati rapidamente utilizzando un modello di progetto. Quindi pianifica il tuo progetto concentrandoti prima su questi cinque campi:
+Rendi i tuoi progetti [!DNL  Workfront] rapidamente operativi utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
 
 1. Attività
 1. Durata
@@ -26,7 +26,7 @@ Ottieni [!DNL  Workfront] I progetti possono essere avviati e avviati rapidament
 1. Predecessori
 1. Assegnazioni
 
-Una volta impostato tutto, imposta lo stato del progetto su Corrente per rendere il progetto attivo. Con l&#39;avanzare del progetto, potrai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande che richiedono risposte e molto altro ancora. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
+Una volta impostato tutto, modifica lo stato del progetto in Corrente per renderlo attivo. Con l&#39;avanzare del progetto, potrai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande che richiedono risposte e molto altro ancora. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
 
 <!---
 footer urls for the LP

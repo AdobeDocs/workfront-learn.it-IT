@@ -1,6 +1,6 @@
 ---
-title: Impostare la mappatura dei metadati
-description: Scopri come impostare la mappatura dei metadati per [!UICONTROL DAM WORKFRONT].
+title: Configurare la mappatura dei metadati
+description: Scopri come configurare la mappatura dei metadati per [!UICONTROL Workfront DAM].
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -12,39 +12,39 @@ exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '275'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Impostare la mappatura dei metadati
+# Configurare la mappatura dei metadati
 
-[!DNL Workfront]Le informazioni relative a una risorsa possono essere trasferite da [!DNL Workfront] in [!UICONTROL DAM WORKFRONT] con la risorsa. L’opzione di mappatura dei metadati nel [!DNL Workfront] [!UICONTROL Configurazione] consente questo trasferimento di informazioni.
+Le informazioni relative a[!DNL Workfront]su una risorsa possono essere trasferite da [!DNL Workfront] a [!UICONTROL Workfront DAM] insieme alla risorsa. L’opzione di mappatura dei metadati nell’area [!DNL Workfront] [!UICONTROL Configurazione] consente questo trasferimento di informazioni.
 
-Parla con il tuo [!DNL Workfront] consulente per raccomandazioni sulle best practice relative alla configurazione della mappatura dei metadati.
+Parla con il tuo consulente di [!DNL Workfront] per ricevere consigli sulle best practice relative alla configurazione della mappatura dei metadati.
 
-Devi essere un [!DNL Workfront] e un amministratore [!UICONTROL DAM WORKFRONT] configurare la mappatura dei metadati. Prima di iniziare, è necessario collegare il [!DNL Workfront] e [!UICONTROL DAM WORKFRONT] account.
+Devi essere un amministratore [!DNL Workfront] e un amministratore [!UICONTROL Workfront DAM] per impostare la mappatura dei metadati. Prima di iniziare, è necessario collegare i tuoi account [!DNL Workfront] e [!UICONTROL Workfront DAM].
 
 ## Connetti account
 
 1. Accedi a [!DNL Workfront].
-1. Apri un progetto, un’attività o un problema e fai clic sul pulsante **[!UICONTROL Documenti]** scheda.
-1. Fai clic su **[!UICONTROL Aggiungi nuovo]** e seleziona **[!UICONTROL Da Workfront DAM]** dal menu a discesa.
-1. Immettere il nome di accesso e la password in [!UICONTROL DAM WORKFRONT] casella di autorizzazione visualizzata.
-1. Quindi, fai clic su **[!UICONTROL Sì]** da dare [!DNL Workfront] accesso a [!UICONTROL DAM] account.
-1. Se necessario, aggiorna la pagina per aggiornare l’accesso a [!UICONTROL DAM WORKFRONT].
+1. Apri un progetto, un’attività o un problema e fai clic sulla scheda **[!UICONTROL Documenti]**.
+1. Fai clic sul pulsante **[!UICONTROL Aggiungi nuovo]** e seleziona **[!UICONTROL Da Workfront DAM]** dal menu a discesa.
+1. Immetti il nome di accesso e la password nella casella di autorizzazione [!UICONTROL Workfront DAM] che viene visualizzata.
+1. Quindi, fai clic su **[!UICONTROL Sì]** per dare accesso a [!DNL Workfront] all’account [!UICONTROL Workfront DAM].
+1. Se necessario, aggiorna la pagina per aggiornare l’accesso a [!UICONTROL Workfront DAM].
 
-Una volta stabilita questa connessione, è possibile iniziare a mappare i metadati tra i due sistemi. Assicurati di aver già creato i campi di metadati necessari in [!UICONTROL DAM WORKFRONT] prima di iniziare la mappatura.
+Una volta stabilita questa connessione, puoi iniziare a mappare i metadati tra i due sistemi. Assicurati di aver già creato i campi di metadati necessari in [!UICONTROL Workfront DAM] prima di iniziare la mappatura.
 
-## Impostare la mappatura
+## Configurare la mappatura
 
 1. Accedi a [!DNL Workfront].
 1. Seleziona **[!UICONTROL Configurazione]** dal [!UICONTROL Menu principale].
-1. Espandi **[!UICONTROL Documenti]** nel menu del pannello sinistro.
+1. Espandi la sezione **[!UICONTROL Documenti]** nel menu del pannello a sinistra.
 1. Quindi fai clic su **[!UICONTROL Mappatura metadati]**.
-1. Nel campo Workfront, digita l’origine del campo del [!DNL Workfront] campo da mappare.
-1. Quindi seleziona la destinazione o corrispondente **[!UICONTROL DAM WORKFRONT]** campo metadati.
-1. Fai clic su **[!UICONTROL Aggiungi mappatura]** pulsante.
-1. Vedrai il [!UICONTROL Sorgente campo Workfront] e [!UICONTROL Campo di destinazione Workfront DAM] nel grafico nella parte inferiore della finestra.
+1. Nel campo Workfront, digita l’origine del campo del campo [!DNL Workfront] da mappare.
+1. Quindi seleziona il campo di metadati **[!UICONTROL Workfront DAM]** corrispondente o di destinazione.
+1. Fai clic sul pulsante **[!UICONTROL Aggiungi mappatura]**.
+1. Vedrai il [!UICONTROL campo di origine Workfront] e il [!UICONTROL campo di destinazione Workfront DAM] nel grafico nella parte inferiore della finestra.
 1. Ripeti l’operazione per tutti i campi di metadati desiderati.
 
-![Schermata del [!UICONTROL Mappatura metadati] screen in [!DNL Workfront]](assets/01-metadata-mapping.png)
+![Schermata della [!UICONTROL Mappatura dei metadati] in [!DNL Workfront]](assets/01-metadata-mapping.png)

@@ -1,5 +1,5 @@
 ---
-title: Agisci aggiornando
+title: Apportare aggiornamenti
 description: Scopri come apportare aggiornamenti dall’interno del grafico Attività in volo in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
@@ -13,15 +13,15 @@ exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 64%
 
 ---
 
-# Agisci aggiornando
+# Apportare aggiornamenti
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Come apportare aggiornamenti dall’interno del grafico Attività in volo
+* Come apportare aggiornamenti dall’interno dei grafici delle attività in corso
 
 >[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: 'Best practice: filtri, visualizzazioni e raggruppamenti'
-description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo di filtri, visualizzazioni e raggruppamenti Workfront.
+title: Best practice - Filtri, viste e raggruppamenti
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo di filtri, viste e raggruppamenti in Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
@@ -9,49 +9,49 @@ exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '785'
-ht-degree: 0%
+ht-degree: 70%
 
 ---
 
-# Best practice: filtri, visualizzazioni e raggruppamenti
+# Best practice - Filtri, viste e raggruppamenti
 
-## Cos’è una &quot;best practice&quot; di Adobe Workfront?
+## Che cos’è una “best practice” di Adobe Workfront?
 
-Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
+Le best practice sono linee guida che rappresentano una linea d’azione efficace ed efficiente; sono facilmente adottabili da te e dagli utenti della tua azienda; e possono essere replicate con successo in tutta l’organizzazione.
 
-Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali mentre altre potrebbero essere più specifiche per un dato argomento. Utilizza queste best practice come una base comune per le impostazioni e l’utilizzo del sistema Workfront.
 
-## Navigazione in questa pagina
+## Esplorazione di questa pagina
 
-Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice relative all’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli delle motivazioni.
 
-La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
+“Perché queste sono best practice?” che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
 
-## Best practice per filtri, visualizzazioni e raggruppamenti
+## Best practice per filtri, viste e raggruppamenti
 
-* Riduci il numero di report personalizzati creati sfruttando filtri, viste e raggruppamenti in un elenco di oggetti per ottenere i dati necessari.
+* Riduci il numero di report personalizzati creati sfruttando i filtri, le viste e i raggruppamenti in un elenco di oggetti per ottenere i dati necessari.
 
-* Utilizzare i controlli elenco nei modelli di layout per nascondere filtri, visualizzazioni e raggruppamenti non necessari per gli oggetti di uso comune (progetti, attività, programmi, ecc.).
+* Utilizza i controlli elenco nei modelli di layout per nascondere filtri, viste e raggruppamenti non necessari per oggetti di uso comune (progetti, attività, programmi, ecc.).
 
 * Puoi condividere filtri, visualizzazioni e raggruppamenti personalizzati in base ai flussi di lavoro e ai processi della tua organizzazione, tramite i controlli elenco sui modelli di layout.
 
-* Quando si creano filtri per lo stato di un progetto, di un&#39;attività o di un problema, utilizzare il modificatore (oggetto)>>Stato corrisponde al nome campo/origine campo con uguale, anziché il nome campo/origine campo Progetto>>Stato.
+* Durante la creazione di filtri per lo stato di un progetto, di un’attività o di un problema, utilizza il modificatore (oggetto)>>Stato corrisponde a origine campo/nome campo con modificatore uguale, anziché Progetto>>Stato origine campo/nome campo.
 
 </br>
 </br>
 
-## Perché si tratta di procedure ottimali?
+## Perché queste sono best practice?
 
 **Best practice**
 
-Riduci il numero di report personalizzati creati sfruttando filtri, viste e raggruppamenti in un elenco di oggetti per ottenere i dati necessari.
+Riduci il numero di report personalizzati creati sfruttando i filtri, le viste e i raggruppamenti in un elenco di oggetti per ottenere i dati necessari.
 
 **Ecco perché**
 
-La creazione di rapporti di utilizzo una tantum per ogni segmento di dati che si desidera visualizzare richiede molto tempo e rende il sistema Workfront più complesso.
+La creazione di rapporti di utilizzo singoli per ogni segmento di dati che desideri visualizzare richiede molto tempo e rende il sistema Workfront più complesso.
 
 Per istruzioni sulla creazione di report con prompt, vedere il capitolo &quot;Come impostare e utilizzare i prompt dei report&quot; nel [Comprendere le impostazioni dei rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
 
@@ -62,11 +62,11 @@ Per istruzioni su come creare rapporti con prompt personalizzati, consulta [Crea
 
 **Best practice**
 
-Utilizzare i controlli elenco nei modelli di layout per nascondere filtri, visualizzazioni e raggruppamenti non necessari per gli oggetti di uso comune (progetti, attività, programmi, ecc.).
+Utilizza i controlli elenco nei modelli di layout per nascondere filtri, viste e raggruppamenti non necessari per oggetti di uso comune (progetti, attività, programmi, ecc.).
 
 **Ecco perché**
 
-Meno è di più. Quando si nascondono opzioni di filtro, visualizzazione e raggruppamento di elenchi che non sono rilevanti per i flussi di lavoro giornalieri degli utenti, gli elenchi vengono limitati in modo da facilitare agli utenti la ricerca più rapida delle informazioni di cui hanno bisogno.
+Meno è meglio. Quando si nascondono opzioni di filtro, visualizzazione e raggruppamento di elenchi che non sono rilevanti per i flussi di lavoro giornalieri degli utenti, gli elenchi vengono limitati in modo da facilitare agli utenti la ricerca più rapida delle informazioni di cui hanno bisogno.
 
 Per istruzioni su come nascondere filtri, viste o raggruppamenti con i modelli di layout, vedi [Personalizzare gli elenchi di reporting con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
@@ -79,9 +79,9 @@ Puoi condividere filtri, visualizzazioni e raggruppamenti personalizzati in base
 
 **Ecco perché**
 
-Se hai creato filtri, viste e raggruppamenti che visualizzano informazioni specifiche dei processi giornalieri degli utenti, è facile condividerli attraverso i modelli di layout. In questo modo, tutti gli utenti assegnati al modello di layout avranno a disposizione opzioni di filtro, visualizzazione e raggruppamento rilevanti per i propri flussi di lavoro.
+Se hai creato filtri, viste e raggruppamenti che visualizzano informazioni specifiche dei processi giornalieri degli utenti, è facile condividerli attraverso i modelli di layout. In questo modo, tutti gli utenti assegnati al modello di layout avranno a disposizione opzioni di filtro, vista e raggruppamento rilevanti per i propri flussi di lavoro.
 
-La personalizzazione delle informazioni che si desidera rendere visibili agli utenti tramite i modelli di layout consente inoltre di risparmiare tempo agli amministratori di sistema e di gruppo, in quanto non dovranno condividere ogni filtro, visualizzazione o opzione di raggruppamento singolarmente.
+La personalizzazione delle informazioni che desideri rendere visibili agli utenti tramite i modelli di layout consente inoltre di risparmiare tempo agli amministratori di sistema e di gruppo, in quanto non dovranno condividere ogni opzione di filtro, vista o raggruppamento singolarmente.
 
 Per istruzioni su come condividere filtri, viste o raggruppamenti con i modelli di layout, consulta [Personalizzare gli elenchi di reporting con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
@@ -90,10 +90,10 @@ Per istruzioni su come condividere filtri, viste o raggruppamenti con i modelli 
 
 **Best practice**
 
-Quando si creano filtri per lo stato di un progetto, di un&#39;attività o di un problema, utilizzare il modificatore (oggetto)>>Stato corrisponde al nome campo/origine campo con uguale, anziché il nome campo/origine campo Progetto>>Stato.
+Durante la creazione di filtri per lo stato di un progetto, di un’attività o di un problema, utilizza il modificatore (oggetto)>>Stato corrisponde a origine campo/nome campo con modificatore uguale, anziché Progetto>>Stato origine campo/nome campo.
 
 **Ecco perché**
 
-Se si utilizza (object)>>Equivale a, nelle impostazioni dello stato verranno inclusi tutti gli stati personalizzati a cui è assegnato lo stato specifico nel campo Equivale a. Mentre l&#39;impostazione del filtro come (oggetto)>>Stato > Uguale richiede la selezione di statuti specifici per il filtro. Questo potrebbe rappresentare un problema di manutenzione se devi tenere conto di questi nuovi stati in vari filtri. Ogni filtro deve essere aperto e aggiornato con il nuovo stato.
+Se si utilizza (object)>>Equivale a, nelle impostazioni dello stato verranno inclusi tutti gli stati personalizzati a cui è assegnato lo stato specifico nel campo Equivale a. Mentre l’impostazione del filtro come (oggetto)>>Stato > Uguale richiede la selezione di statuti specifici per il filtro. Se devi tenere conto di questi nuovi stati in vari filtri, questo potrebbe presentare un problema relativo alla manutenzione. Ogni filtro dovrà essere aperto e aggiornato con il nuovo stato.
 
-Ad esempio, per visualizzare tutti i progetti correnti, puoi impostare il filtro su Leggi progetto>>Stato > Uguale > Corrente. Tuttavia, se qualcuno aggiunge uno stato personalizzato denominato Attivo e lo identifica a Corrente, tale filtro non troverà i progetti con lo stato Attivo. Tuttavia, se si utilizza Progetto>>Stato equivale a > Uguale a > Corrente, il filtro trova gli oggetti con lo stato Corrente o Attivo perché entrambi hanno Corrente nel campo Equivale a.
+Ad esempio, per visualizzare tutti i progetti correnti, puoi impostare il filtro in modo che risulti Progetto>>Stato > Uguale > Corrente. Tuttavia, se qualcuno aggiunge uno stato personalizzato denominato Attivo e lo identifica a Corrente, tale filtro non troverà i progetti con lo stato Attivo. Comunque, se utilizzi Progetto>>Stato Uguale a > Uguale > Corrente, in questo caso il filtro trova gli oggetti con lo stato Corrente o Attivo perché entrambi hanno Corrente nel campo Uguale a.

@@ -1,6 +1,6 @@
 ---
 title: Best practice - Rapporti personalizzati
-description: Esplora le best practice consigliate dagli esperti Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo dei rapporti personalizzati di Workfront.
+description: Esplora le best practice consigliate dagli esperti di Adobe Workfront in merito alla configurazione, alla gestione e all’utilizzo delle dashboard di Workfront.
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
@@ -9,56 +9,56 @@ exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 0%
+ht-degree: 84%
 
 ---
 
 # Best practice - Rapporti personalizzati
 
-## Cos’è una &quot;best practice&quot; di Adobe Workfront?
+## Che cos’è una “best practice” di Adobe Workfront?
 
-Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
+Le best practice sono linee guida che rappresentano una linea d’azione efficace ed efficiente; sono facilmente adottabili da te e dagli utenti della tua azienda; e possono essere replicate con successo in tutta l’organizzazione.
 
-Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali mentre altre potrebbero essere più specifiche per un dato argomento. Utilizza queste best practice come una base comune per le impostazioni e l’utilizzo del sistema Workfront.
 
-## Navigazione in questa pagina
+## Esplorazione di questa pagina
 
-Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice relative all’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli delle motivazioni.
 
-La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
+“Perché queste sono best practice?” che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
 
 ## Best practice per i rapporti personalizzati
 
-* È consigliabile utilizzare i prompt dei report per limitare i risultati di un report, anziché creare più report simili o creare strutture di filtro complesse in un report.
+* È consigliabile utilizzare i prompt dei rapporti per limitare i risultati di un rapporto, anziché creare più rapporti simili o creare strutture di filtro complesse in un rapporto.
 
-* Accelera la creazione di rapporti copiando un rapporto esistente simile da cui creare il nuovo rapporto.
+* Accelerare la creazione di rapporti copiando un rapporto esistente simile da cui creare il nuovo rapporto.
 
-* Utilizza i caratteri jolly basati sugli utenti per creare rapporti dinamici in modo che l’utente che visualizza il rapporto possa visualizzare informazioni pertinenti per loro.
+* Utilizzare i caratteri jolly basati sugli utenti per creare rapporti dinamici in modo che l’utente che visualizza il rapporto possa visualizzare informazioni pertinenti.
 
-* Crea viste che consentono la modifica in linea.
+* Creare viste che consentono la modifica in linea.
 
 </br>
 </br>
 
 
-## Perché si tratta di procedure ottimali?
+## Perché queste sono best practice?
 
 **Best practice**
 
-È consigliabile utilizzare i prompt dei report per limitare i risultati di un report, anziché creare più report simili o creare strutture di filtro complesse in un report.
+È consigliabile utilizzare i prompt dei rapporti per limitare i risultati di un rapporto, anziché creare più rapporti simili o creare strutture di filtro complesse in un rapporto.
 
 
 **Ecco perché**
 
-Riduci il numero di rapporti da generare ed espandi l’utilizzo dei rapporti creati, includendo prompt, in particolare sui rapporti eseguiti di frequente.
+Riduci il numero di rapporti da generare ed espandi l’utilizzo dei rapporti creati, includendo i prompt, in particolare sui rapporti eseguiti di frequente.
 
-Le richieste consentono di aggiungere filtri &quot;nel momento&quot; a un report senza modificare le impostazioni dei filtri del report. Ad esempio, è disponibile un report che consente di trovare le attività di un determinato stato assegnate a un team specifico. Aggiungere richieste a questo report &quot;di base&quot; che consentono di limitare l&#39;intervallo di tempo delle date di scadenza delle attività, visualizzare solo le attività a cui sono allegati documenti o individuare le attività a cui è allegato un particolare modulo personalizzato.
+Le richieste consentono di aggiungere filtri &quot;nel momento&quot; a un report senza modificare le impostazioni dei filtri del report. Ad esempio, disponi di un rapporto che consente di trovare le attività di un determinato stato assegnate a un team specifico. Aggiungere richieste a questo report &quot;di base&quot; che consentono di limitare l&#39;intervallo di tempo delle date di scadenza delle attività, visualizzare solo le attività a cui sono allegati documenti o individuare le attività a cui è allegato un particolare modulo personalizzato.
 
 
-**Nota**: alcuni utenti potrebbero trovare i prompt confusi. In tal caso, più rapporti con titoli chiari potrebbero essere una soluzione migliore per loro.
+**Nota**: per alcuni utenti i prompt possono creare confusione. In tal caso, più rapporti con titoli chiari potrebbero essere una soluzione migliore per loro.
 
 
 </br>
@@ -66,7 +66,7 @@ Le richieste consentono di aggiungere filtri &quot;nel momento&quot; a un report
 
 **Best practice**
 
-Accelera la creazione di rapporti copiando un rapporto esistente simile da cui creare il nuovo rapporto.
+Accelerare la creazione di rapporti copiando un rapporto esistente simile da cui creare il nuovo rapporto.
 
 **Ecco perché**
 
@@ -77,11 +77,11 @@ Questa funzione consente non solo di risparmiare tempo, ma anche di garantire ch
 
 **Best practice**
 
-Utilizza i caratteri jolly basati sugli utenti per creare rapporti dinamici in modo che l’utente che visualizza il rapporto possa visualizzare informazioni pertinenti per loro.
+Utilizzare i caratteri jolly basati sugli utenti per creare rapporti dinamici in modo che l’utente che visualizza il rapporto possa visualizzare informazioni pertinenti.
 
 **Ecco perché**
 
-I caratteri jolly basati sugli utenti rendono i rapporti più flessibili, consentendo agli autori di report di creare un singolo rapporto che può essere condiviso con più utenti. I caratteri jolly basati sull&#39;utente non solo forniscono informazioni personalizzate per l&#39;utente connesso che visualizza il report personalizzato, ma consentono anche di ridurre il numero di report da creare e gestire.
+I caratteri jolly basati sull’utente rendono i rapporti più flessibili, consentendo agli autori di rapporti di creare un singolo rapporto che può essere condiviso con più utenti. I caratteri jolly basati sull’utente non solo forniscono informazioni personalizzate per l’utente connesso che visualizza il rapporto personalizzato, ma consentono anche di ridurre il numero di rapporti da creare e gestire.
 
 </br>
 </br>
@@ -90,7 +90,7 @@ Per istruzioni su come utilizzare i caratteri jolly basati sugli utenti nei rapp
 
 **Best practice**
 
-Crea viste che consentono la modifica in linea.
+Creare viste che consentono la modifica in linea.
 
 **Ecco perché**
 

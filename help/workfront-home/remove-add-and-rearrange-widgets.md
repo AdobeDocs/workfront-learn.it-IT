@@ -1,6 +1,6 @@
 ---
 title: Rimuovere, aggiungere e ridisporre i widget nella Home
-description: Scopri come rimuovere, aggiungere e ridisporre i widget nella home page.
+description: Scopri come rimuovere, aggiungere e ridisporre i widget nella pagina Home.
 feature: Work Management
 topic: Personalization
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
@@ -12,14 +12,14 @@ thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
 source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 65%
 
 ---
 
 # Rimuovere, aggiungere e ridisporre i widget nella Home
 
-Scopri come rimuovere, aggiungere e ridisporre i widget nella home page.
+Scopri come rimuovere, aggiungere e ridisporre i widget nella pagina Home.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on)
 

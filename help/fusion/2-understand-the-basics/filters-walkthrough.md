@@ -1,6 +1,6 @@
 ---
 title: Procedura dettagliata sui filtri
-description: Scopri come aggiungere un filtro tra i due moduli in [!DNL Adobe Workfront Fusion].
+description: Scopri come aggiungere un filtro tra i due moduli in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,43 +12,43 @@ exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '226'
+ht-degree: 100%
 
 ---
 
 # Procedura dettagliata sui filtri
 
-Utilizzando l’esercizio di procedura dettagliata &quot;Oltre la mappatura di base&quot; creato in precedenza, aggiungi un filtro tra i due moduli nei moduli per creare solo progetti con un colore di progetto &quot;Rosso&quot; nell’Elenco progetti.
+Utilizzando l’esercizio della procedura dettagliata “Oltre la mappatura di base” creato in precedenza, aggiungi un filtro tra i due moduli nei moduli per creare solo progetti con un colore di progetto “Rosso” nell’Elenco progetti.
 
 ![Immagine dello scenario Fusion](assets/understand-the-basics-2.png)
 
 ## Procedura dettagliata sui filtri
 
-Workfront consiglia di guardare il video con procedura dettagliata dell’esercizio prima di tentare di ricrearlo nel tuo ambiente.
+Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Aggiungi un filtro tra i due moduli nei moduli
+* Aggiungere un filtro tra i due moduli nei moduli
 
 >[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
 >[!TIP]
 >
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vedere [Procedura dettagliata sui filtri](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) esercizio fisico.
+>Per istruzioni dettagliate sul completamento della procedura dettagliata, passa all’esercizio [Procedura dettagliata sui filtri](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=it).
 
 ## Tocca a te
 
 >[!NOTE]
 >
->Gli esercizi pratici e le sfide sono facoltativi e non sono necessari per completare la formazione su Fusion.
+>Gli esercizi pratici e le sfide sono facoltativi e non necessari per completare la formazione su Fusion.
 
-Questo esercizio di esercitazione si basa su quanto appreso nella procedura dettagliata, ma la soluzione non viene fornita.
+Questa esercitazione si basa su quanto appreso nella procedura dettagliata, ma è priva di soluzione.
 
-Modifica il filtro creato durante la procedura dettagliata dei filtri per consentire solo i progetti &quot;gialli&quot; con un livello di affidabilità inferiore a 100 o il cui nome contiene la parola &quot;fase&quot; e la data di inizio pianificata è il 2021. Denomina il filtro &quot;Esercitazione filtro&quot;.
+Modifica il filtro creato durante la procedura dettagliata dei filtri per consentire solo i progetti “gialli” con un livello di affidabilità inferiore a 100 o il cui nome contiene la parola “fase” e la data di inizio pianificata è il 2021. Denomina il filtro “Esercitazione filtro”.
 
-**Sfida:** Prova a creare un filtro che consenta solo la trasmissione di progetti con un livello di affidabilità pari. Hai bisogno di un suggerimento? Osserva le formule matematiche.
+**Sfida:** prova a creare un filtro che consenta solo la trasmissione di progetti con un livello di affidabilità pari. Hai bisogno di un suggerimento? Osserva le formule matematiche.
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)

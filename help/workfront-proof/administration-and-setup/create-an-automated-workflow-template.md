@@ -1,6 +1,6 @@
 ---
 title: Creare un modello di flusso di lavoro automatizzato
-description: Scopri come creare un modello di flusso di lavoro automatizzato assegnando i destinatari della bozza e impostando le scadenze della bozza. Quindi condividi il modello con altri utenti.
+description: Scopri come creare un modello di flusso di lavoro automatizzato assegnando i destinatari di bozza e impostando le scadenze della bozza. Quindi condividi il modello con altri utenti.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -15,18 +15,18 @@ doc-type: video
 source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 56%
 
 ---
 
 # Creare un modello di flusso di lavoro automatizzato
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Crea un modello di flusso di lavoro automatizzato per [!DNL  Workfront] prova
-* Assegna destinatari bozza
+* creare un modello di flusso di lavoro automatizzato per la bozza [!DNL  Workfront]
+* Assegnare destinatari di bozza
 * Impostare una scadenza per il processo di revisione e approvazione
-* Condividere il modello di workflow automatizzato con altri utenti
+* Condividere il modello di flusso di lavoro automatizzato con altri utenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on)
 
@@ -42,6 +42,6 @@ Se utilizzi effettivamente &quot;[!UICONTROL quando la scadenza della fase prece
 
 | Best practice | Ecco perché |
 |---|---|
-| Imposta il ruolo di bozza del creatore della bozza su Revisore. | Il ruolo Bozza revisore consente al creatore della bozza di inserire commenti e accedere ai commenti lasciati da altri utenti. Nella maggior parte dei casi, il creatore della bozza non è tenuto a prendere una decisione in merito a una bozza caricata. I ruoli Approvatore, Revisore e Approvatore, Autore o Moderatore della bozza richiedono tutti una decisione. Se al creatore della bozza viene assegnato uno di questi ruoli di bozza ma non prende mai una decisione, ciò può influenzare negativamente le scadenze della bozza. |
-| Evita di usare il ruolo di bozza Approvatore. | Il ruolo Bozza approvatore non consente all’utente di aggiungere commenti a questa bozza. Questo poteva comportare il rifiuto della bozza da parte di un utente, senza alcuna spiegazione, in quanto l’utente non era in grado di aggiungere commenti. Utilizza invece il ruolo di bozza Revisore e Approvatore in modo che l’utente possa fornire un feedback. |
-| Evita l’opzione di avviso e-mail All Activity proof (Tutte le attività). | Questa opzione invia una notifica e-mail relativa alla bozza ogni volta che si verifica un evento con una bozza: viene inserito un commento, viene inviata una risposta, viene presa una decisione, ecc. In sostanza, il destinatario vede l’attività della bozza così come si verifica.<br><br>Per i proprietari e i creatori di bozze, l’avviso e-mail per le decisioni funziona meglio per i flussi di lavoro a bozza multipla e Final Decision (Decisione finale) funziona meglio per i flussi di lavoro a fase singola. In genere, tutti gli altri possono essere impostati su Disabilitato, a meno che non desiderino essere informati di altri utenti che stanno prendendo commenti o decisioni (nel qual caso, una delle opzioni di riepilogo dell’e-mail potrebbe funzionare meglio). |
+| Imposta il ruolo di bozza del creatore della bozza su Revisore. | Il ruolo bozza Revisore consente al creatore della bozza di inserire commenti e accedere ai commenti lasciati da altri utenti. Nella maggior parte dei casi, il creatore della bozza non è tenuto a prendere una decisione in merito a una bozza caricata. I ruoli bozza Approvatore, Revisore e Approvatore, Autore o Moderatore richiedono tutti di prendere una decisione. Se al creatore della bozza viene assegnato uno di questi ruoli bozza ma non prende mai decisioni, ciò può influire negativamente sulle scadenze della bozza. |
+| Evita di utilizzare il ruolo bozza Approvatore. | Il ruolo bozza Approvatore non consente all’utente di aggiungere commenti alla bozza. Questo poteva comportare il rifiuto della bozza da parte di un utente, senza alcuna spiegazione, in quanto l’utente non era in grado di aggiungere commenti. Utilizza invece il ruolo bozza Revisore e Approvatore in modo che l’utente possa fornire un feedback. |
+| Evita l’opzione di avviso e-mail “Tutte le attività di bozza”. | Questa opzione invia una notifica e-mail relativa alla bozza ogni volta che si verifica un evento relativo a essa: viene inserito un commento, viene inviata una risposta, viene presa una decisione, ecc. In sostanza, il destinatario visualizza l’attività della bozza non appena si verifica.<br><br>Per i proprietari e i creatori di bozze, l’avviso e-mail per le decisioni funziona meglio per i flussi di lavoro a bozza multipla e Final Decision (Decisione finale) funziona meglio per i flussi di lavoro a fase singola. In genere, tutti gli altri possono essere impostati su Disabilitato, a meno che non desiderino essere informati se altri utenti inseriscono commenti o decisioni (nel qual caso, una delle opzioni di e-mail di riepilogo potrebbe essere più utile). |
