@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Ottimizzazione dello scenario di Workfront Fusion
 
-Che cos’è l’ottimizzazione degli scenari e cosa puoi fare per ottimizzare i tuoi scenari?
+Cos’è l’ottimizzazione dello scenario e cosa puoi fare per ottimizzarla?
 
 L’ottimizzazione dello scenario è un’abilità pratica che richiede tempo e dedizione per essere sviluppata. Il primo tentativo di creare uno scenario per un risultato aziendale non dovrebbe essere l’ultimo. Gli scenari devono essere ripetuti dal primo giorno fino al lancio dell’integrazione. Anche dopo il lancio, gli scenari devono essere rivisti e aggiornati per tutta la rispettiva durata, in modo da tenere il passo con i cambiamenti aziendali e di comportamento.
 

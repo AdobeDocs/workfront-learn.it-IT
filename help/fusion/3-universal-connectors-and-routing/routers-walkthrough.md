@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '853'
 ht-degree: 100%
 
 ---
@@ -37,9 +38,6 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 
 Se hai problemi ad accedere al tuo token di supereroe, puoi utilizzare questo token condiviso: 10110256647253588. Tieni in considerazione quante volte richiami l’API supereroe in modo che questo token condiviso continui a funzionare per tutti.
 
->[!TIP]
->
->Per istruzioni dettagliate sul completamento della procedura dettagliata, vai all’esercizio [Procedura dettagliata sui router](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=it).
 
 
 ## Cerca elementi nel pannello di mappatura

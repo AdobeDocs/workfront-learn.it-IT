@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '212'
 ht-degree: 100%
 
 ---
@@ -33,9 +34,6 @@ In questo video scoprirai come:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
->[!TIP]
->
->Per istruzioni dettagliate sul completamento della procedura dettagliata, passa all’esercizio [Procedura dettagliata sui filtri](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=it).
 
 ## Tocca a te
 

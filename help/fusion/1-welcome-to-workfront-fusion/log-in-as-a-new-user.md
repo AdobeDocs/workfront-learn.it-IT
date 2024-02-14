@@ -8,11 +8,12 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11036
+recommendations: noDisplay,noCatalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -32,6 +33,6 @@ Per iniziare a utilizzare Workfront Fusion, fai clic su [!UICONTROL Accedi] nell
 
 Dopo aver effettuato l’accesso per la prima volta, ti verrà richiesto di modificare la password.
 
-Dopo aver effettuato l’accesso, torna all’altra e-mail e fai clic sul pulsante [!UICONTROL Accetta il ruolo].
+Dopo aver effettuato l’accesso, torna all’altra e-mail e fai clic su [!UICONTROL Accetta Il Ruolo] pulsante.
 
 Dopo aver eseguito questa operazione, torna a Workfront Fusion e aggiorna la pagina. Ora puoi visualizzare le sezioni Team e Panoramica nel pannello a sinistra.

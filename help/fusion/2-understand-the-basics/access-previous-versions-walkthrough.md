@@ -1,6 +1,6 @@
 ---
 title: Accedere alla procedura dettagliata per le versioni precedenti
-description: Scopri come ripristinare le versioni precedenti dopo aver apportato modifiche allo scenario e averle salvate in  [!DNL Adobe Workfront Fusion].
+description: Scopri come ripristinare le versioni precedenti dopo aver apportato modifiche allo scenario e averle salvate in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -33,9 +34,6 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 >
 >Dopo aver salvato lo scenario, una nuova versione sarà disponibile nel menu a tre punti nel caso in cui dovessi accedervi in futuro. Le versioni degli scenari salvati in precedenza sono disponibili solo per 60 giorni. Se hai bisogno di accedere alle versioni precedenti oltre i 60 giorni per scopi di audit, Workfront consiglia di salvare una blueprint dello scenario e archiviarla in una posizione concordata.
 
->[!TIP]
->
->Per istruzioni dettagliate sul completamento della procedura dettagliata, consulta l’esercizio [Accedere alla procedura dettagliata per le versioni precedenti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=it).
 
 ## Aggiungere alla terminologia
 

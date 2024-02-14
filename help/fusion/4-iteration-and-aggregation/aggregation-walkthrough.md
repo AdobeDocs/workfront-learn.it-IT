@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '99'
+ht-degree: 67%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 ## Panoramica
 
-Utilizzando lo scenario “Introduzione all’iterazione” creato nell’ultima procedura dettagliata, aggrega le ore pianificate per ogni attività lavorativa nel progetto e invia un’e-mail a te stesso con tali informazioni.
+Utilizzando lo scenario &quot;Introduzione all&#39;iterazione&quot; creato nell&#39;ultima procedura dettagliata, aggregare le ore pianificate per ogni attività lavorativa del progetto e inviare un messaggio e-mail con tali informazioni.
 
 ![Immagine dello scenario Fusion](assets/iteration-and-aggregation-2.png)
 
@@ -31,9 +32,6 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
->[!TIP]
->
->Per istruzioni dettagliate sul completamento della procedura, passa all’esercizio [Procedura dettagliata per l’aggregazione](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=it).
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:

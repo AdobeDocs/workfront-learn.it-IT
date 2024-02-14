@@ -1,6 +1,6 @@
 ---
-title: Guardrail dello scenario
-description: Scopri le protezioni dello scenario, le protezioni dei moduli, le protezioni dei file e le protezioni dei webhook, il tutto in [!DNL Adobe Workfront Fusion].
+title: Guardrail per scenari
+description: Scopri i guardrail per scenari, moduli, file e webhook, il tutto in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,29 +9,30 @@ role: User
 level: Beginner
 jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 94%
 
 ---
 
-# Guardrail dello scenario
+# Guardrail per scenari
 
-L&#39;automazione del lavoro richiede un&#39;elaborazione rapida, pertanto Workfront Fusion è progettato per offrire prestazioni elevate. Poiché gli scenari con tempi di esecuzione lunghi possono rallentare il ritmo del lavoro, Workfront Fusion è stato progettato con guardrail per il mantenimento delle prestazioni che limitano il tempo di esecuzione, la dimensione dei dati e altri parametri dello scenario. I progettisti di scenari Workfront Fusion devono essere consapevoli di questi guardrail e incorporarli nelle loro pratiche di progettazione.
+Poiché l’automazione del lavoro richiede rapidità di elaborazione, Workfront Fusion è progettato per prestazioni elevate. Gli scenari di lunga durata possono rallentare il ritmo del tuo lavoro; pertanto,Workfront Fusion è stato progettato con guardrail di protezione delle prestazioni che limitano il tempo di esecuzione, la dimensione dei dati e altri parametri di uno scenario. Chi progetta gli scenari in Workfront Fusion deve essere consapevole di questi guardrail e incorporarli nelle attività di progettazione.
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Guardrail dello scenario
-* Guardrail del modulo
-* Guardrail dei file
-* Guardrail del webhook
+* Guardrail per scenari
+* Guardrail per moduli
+* Guardrail per file
+* Guardrail per webhook
 
 >[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
-## Vuoi saperne di più? Consigliamo quanto segue:
+## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
 
 [Guardrail delle prestazioni di Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

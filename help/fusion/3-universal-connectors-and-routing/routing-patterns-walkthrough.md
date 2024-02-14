@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Utilizza il modulo Imposta variabile per inviare un numero attraverso più perco
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
-
->[!TIP]
->
->Per istruzioni dettagliate sul completamento della procedura dettagliata, passa all’esercizio [Procedura dettagliata sui modelli di indirizzamento](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=it).
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:

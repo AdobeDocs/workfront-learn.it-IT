@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '112'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 
 >[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
 
->[!TIP]
->
->Per istruzioni sul completamento della procedura dettagliata, consulta l’esercizio [Esplorazione di esecuzioni, cicli e bundle ed esercizio sulla procedura dettagliata](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/exploring-runs-cycles-and-bundles.html?lang=it).
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:

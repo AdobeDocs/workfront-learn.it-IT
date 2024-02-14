@@ -8,21 +8,22 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '413'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 74%
 
 ---
 
 # Panoramica del corso di formazione su Workfront Fusion
 
-Ciascuna sezione di Workfront Fusion contiene più tutorial, ciascuno dei quali presenta i concetti che dovrai comprendere prima di passare al tutorial successivo. Un esercizio di procedura dettagliata consente di padroneggiare la maggior parte dei concetti.
+Ogni sezione di Workfront Fusion contiene più esercitazioni, ognuna delle quali presenta i concetti da comprendere prima di passare all’esercitazione successiva. Un esercizio di procedura dettagliata consente di padroneggiare la maggior parte dei concetti.
 
 I video mostrano come completare ogni esercizio della procedura dettagliata, che in genere porta alla creazione di un nuovo scenario di Workfront Fusion. Potrai quindi completare l’esercizio nel tuo ambiente Workfront Fusion, aggiungendo alla tua raccolta di scenari.
 
-In alcuni tutorial creerai un nuovo scenario da zero. In altri tutorial, inizierai creando una copia di uno scenario creato in precedenza.
+In alcune esercitazioni, creerai un nuovo scenario da zero. In altri tutorial, inizierai creando una copia di uno scenario creato in precedenza.
 
 >[!IMPORTANT]
 >
@@ -34,11 +35,11 @@ In alcuni tutorial creerai un nuovo scenario da zero. In altri tutorial, inizier
 
 Per completare gli esercizi nei percorsi di apprendimento di Workfront Fusion, avrai bisogno di un’unità di prova di Workfront. Se disponi già di un’unità di prova, ne consigliamo una nuova per questo corso di formazione.
 
-Richiedi un ambiente di esercitazione compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome della società a wfttstdr@adobe.com.
+Richiedi un ambiente di esercitazione compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome dell’azienda a wfttstdr@adobe.com.
 
 ### Accesso a Workfront Fusion per l’esercitazione
 
-Workfront non offre unità di prova di Workfront Fusion. Per esercitarti mentre completi le esercitazioni, richiedi l’accesso a Workfront Fusion all’amministratore Workfront Fusion della tua organizzazione.
+Workfront non offre unità di prova di Workfront Fusion. Per esercitarsi mentre si completano le esercitazioni, richiedere l&#39;accesso a Workfront Fusion all&#39;amministratore Workfront Fusion della propria organizzazione.
 
 ### Istruzioni dettagliate sul completamento degli esercizi della procedura dettagliata
 
@@ -48,11 +49,11 @@ Sono disponibili istruzioni dettagliate su come completare gli esercizi della pr
 
 Esercitazioni pratiche e sfide vengono fornite seguendo alcuni degli esercizi della procedura dettagliata.
 
-Esistono diversi modi per risolvere le esercitazioni pratiche. L’obiettivo è sfidarti a tentare di raggiungere un obiettivo di scenario senza dover seguire i passaggi o la “risposta giusta,” perché questo è ciò che dovrai fare quando crei uno scenario presso la tua azienda.
+Esistono diversi modi per risolvere le esercitazioni pratiche. L’obiettivo è sfidarti a tentare di raggiungere un obiettivo di scenario senza dover seguire i passaggi o la &quot;risposta giusta&quot;, perché questo è ciò che dovrai fare quando crei uno scenario presso la tua azienda.
 
 L’esercizio di pratica è correlato all’attività della procedura dettagliata.
 
-Le sfide sono per coloro che vogliono provare qualcosa che coinvolge altri concetti che hanno imparato.
+Le sfide sono per coloro che vogliono provare qualcosa che coinvolga altri concetti che hanno imparato.
 
 ### Come ottenere assistenza
 

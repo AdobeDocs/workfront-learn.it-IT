@@ -8,11 +8,12 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11037
+recommendations: noDisplay,noCatalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '706'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '697'
+ht-degree: 88%
 
 ---
 
@@ -24,11 +25,11 @@ Nelle prime fasi del corso di formazione su Workfront Fusion, hai imparato alcun
 
 Come regola generale, un obiettivo principale in Workfront Fusion è sempre quello di disporre di semplici progettazioni di scenari. Di seguito sono riportati alcuni modi per creare progettazioni semplici da interpretare.
 
-* Assicurati di nominare tutti i moduli. Fai clic con il pulsante destro del mouse su un modulo e seleziona Rinomina. Le etichette dei moduli devono essere brevi ma comprensibili per le prestazioni del modulo. Ad esempio, “Crea Mktg Proj (progetto di marketing) con Modello Ch (Canale)”.
+* Assicurati di nominare tutti i moduli. Fai clic con il pulsante destro del mouse su un modulo e seleziona Rinomina. Le etichette dei moduli devono essere brevi ma comprensibili per le prestazioni del modulo. Ad esempio, &quot;Crea Mktg Proj con Modello Ch&quot;.
   ![Immagine di uno scenario con gestione dell’errore](assets/design-optimization-and-testing-1.png)
-* Etichetta anche i percorsi di indirizzamento. Anche se un percorso non utilizza un filtro direttamente dopo un router, puoi applicare un’etichetta senza compilare la logica del filtro. In questo modo altri utenti possono capire quali pacchetti passano lungo quali percorsi e perché. Per creare un’etichetta per un percorso di router senza filtro, fai clic con il pulsante destro del mouse sul percorso, aggiungi un’etichetta e salva.
+* Etichetta anche i percorsi di indirizzamento. Anche se un percorso non utilizza un filtro direttamente dopo un router, è possibile applicare un’etichetta senza compilare la logica del filtro. In questo modo altri utenti possono capire quali pacchetti passano lungo quali percorsi e perché. Per creare un’etichetta per un percorso di router senza filtro, fai clic con il pulsante destro del mouse sul percorso, aggiungi un’etichetta e salva.
   ![Immagine di uno scenario con gestione dell’errore](assets/design-optimization-and-testing-2.png)
-* Se applicabile, aggiungi note in uno scenario quando l’etichetta di un modulo o di un percorso di indirizzamento sarà troppo breve per chiarire cosa sta effettivamente accadendo. È possibile aggiungere note ogni volta che si desidera durante il processo di progettazione e iterazione.
+* Se possibile, aggiungi note in uno scenario se l’etichetta di un modulo o di un percorso di instradamento sarà troppo breve per chiarire cosa sta effettivamente accadendo. È possibile aggiungere note ogni volta che si desidera durante il processo di progettazione e iterazione.
 
 Tuttavia, potrebbe essere più semplice da leggere e comprendere se aggiungi note alla fine del progetto dello scenario, quando sei pronto per il lancio. Lavora dalla fine della progettazione dello scenario (l’angolo in basso a destra) a ritroso. In questo modo, le note applicabili all’inizio dello scenario si trovano in cima all’elenco quando si apre il pannello note.
 
@@ -66,7 +67,7 @@ Puoi creare un modello nella sezione Modelli team. Il modello creato è disponib
 
 Durante la creazione di un modello, puoi includere una procedura guidata per guidare gli utenti che lo utilizzano nella creazione dei loro scenari, modificando le connessioni, i dati mappati e altri campi del pannello a seconda delle necessità.
 
-Selezionare la casella di controllo “Usa in procedura guidata” per aggiungere le istruzioni che saranno disponibili quando qualcuno crea uno scenario utilizzando il modello. Queste informazioni verranno visualizzate nel campo Aiuto. Per consentire agli utenti di visualizzare questo testo quando utilizzano il modello, abilita Usa come valore predefinito.
+Selezionare la casella di controllo &quot;Usa in procedura guidata&quot; per aggiungere le istruzioni che saranno disponibili quando qualcuno crea uno scenario utilizzando il modello. Queste informazioni verranno visualizzate nel campo Aiuto. Per consentire agli utenti di visualizzare questo testo quando utilizzano il modello, abilita Usa come valore predefinito.
 
 ![Immagine di uno scenario con gestione dell’errore](assets/design-optimization-and-testing-8.png)
 

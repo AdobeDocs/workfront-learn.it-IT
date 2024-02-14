@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 Quando stai pianificando un’automazione prima di iniziarne la creazione, puoi adottare alcune strategie per ridurre al minimo la necessità di modifiche o il numero di iterazioni da eseguire.
 
-Risparmierai più tempo definendo un caso d’uso chiaro attivato da un evento specifico. Se non ti prendi del tempo per assicurarti di essere nella direzione giusta, ti ritroverai con scenari complessi o inefficienti.
+Per risparmiare tempo, definisci un caso d’uso chiaro attivato da un evento specifico. Se non ti prendi del tempo per assicurarti di essere nella giusta direzione, finirai con scenari complessi o inefficienti.
 
 In questo video scoprirai come:
 

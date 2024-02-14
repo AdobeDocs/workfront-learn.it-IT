@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '148'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 
 >[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on)
 
->[!TIP]
->
->Per istruzioni dettagliate su come completare la procedura dettagliata, vai all’esercizio [Procedura dettagliata delle strutture di dati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=it).
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:

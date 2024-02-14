@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -28,10 +29,6 @@ Installa e utilizza le diverse aree del DevTool di Workfront per approfondire ri
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->Per istruzioni dettagliate sul completamento della procedura dettagliata, passa all’esercizio [Procedura dettagliata di DevTool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=it).
 
 
 ## Scaricare DevTool

@@ -1,5 +1,5 @@
 ---
-title: Archivi di dati
+title: Esercitazione sugli archivi dati
 description: Scopri come sincronizzare i nomi delle società tra due sistemi. Dovrebbe essere compreso tra 60 e 160 caratteri, ma è di 59 caratteri
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
+recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 99%
 
 ---
 
-# Archivi di dati
+# Esercitazione sugli archivi dati
 
 Scopri come sincronizzare i nomi delle società tra due sistemi.
 
