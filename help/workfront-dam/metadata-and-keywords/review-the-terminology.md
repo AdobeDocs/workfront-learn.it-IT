@@ -1,6 +1,6 @@
 ---
-title: Revisione della terminologia dei metadati
-description: Scopri cosa sono i metadati, quali domande porre durante lo sviluppo di una strategia per i metadati e altro ancora in [!UICONTROL DAM WORKFRONT].
+title: Rivedere la terminologia dei metadati
+description: Scopri cosa sono i metadati, quali domande porre durante lo sviluppo di una strategia per i metadati e altro ancora in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,17 +11,17 @@ jira: KT-8971
 exl-id: 566415e9-f9a5-4038-aae7-6e08ae67d4b3
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '70'
+ht-degree: 100%
 
 ---
 
-# Revisione della terminologia dei metadati
+# Rivedere la terminologia dei metadati
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Cos’è un metadati e da dove proviene
+* Cosa sono i metadati e da dove provengono
 * Quali domande porre durante lo sviluppo di una strategia per i metadati
 * Differenza tra le parole chiave e i metadati
 * Come può essere utile una tassonomia delle parole chiave
