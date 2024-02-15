@@ -11,9 +11,9 @@ jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '289'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -38,13 +38,13 @@ Di seguito sono riportate alcune best practice per iniziare a utilizzare i metad
 * Aggiungi i termini di utilizzo per le risorse gestite con diritti per evitare utilizzi impropri.
 * Aggiungi metadati alle tue risorse non appena le carichi.
 * Implementa menu a discesa predefiniti per i dati di uso comune per evitare incoerenze.
-* Forma i collaboratori responsabili dell’aggiunta di metadati alla strategia per i metadati della tua organizzazione.
-* Comunica i requisiti dei metadati ai fornitori esterni (ad esempio, &quot;Le foto devono essere inviate con i termini di utilizzo, il credito e i metadati della posizione già aggiunti&quot;).
+* Informa i collaboratori responsabili dell’aggiunta di metadati in merito alla strategia della tua organizzazione riguardo ai metadati.
+* Comunica i requisiti dei metadati ai fornitori esterni (ad esempio, le “foto devono essere inviate con i metadati di termini di utilizzo, crediti e posizione già aggiunti”).
 * Effettua controlli regolari per garantire che i metadati vengano aggiunti correttamente.
 
 ## Sviluppare una strategia per i metadati
 
-Osserva il flusso di lavoro delle risorse durante lo sviluppo della strategia per i metadati dell’organizzazione. Il tuo consulente di [!DNL Workfront] può aiutarti a rispondere alle seguenti domande chiave:
+Osserva il flusso di lavoro delle tue risorse quando sviluppi la strategia della tua organizzazione riguardo ai metadati. Il tuo consulente di [!DNL Workfront] può aiutarti a rispondere alle seguenti domande chiave:
 
 * Quale figura si occupa dell’aggiunta dei metadati?
 * Quali metadati sono richiesti? Quali sono facoltativi?
