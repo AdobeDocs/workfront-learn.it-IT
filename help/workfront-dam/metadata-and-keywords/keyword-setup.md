@@ -11,9 +11,9 @@ jira: KT-8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '410'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -31,20 +31,20 @@ In questo video:
 
 È importante delineare le best practice per orientarti nella scelta delle parole chiave. Di seguito sono riportate alcune linee guida.
 
-* Sii coerente con acronimi e abbreviazioni. Non usare la parola chiave &quot;AZ&quot; per una risorsa e &quot;Arizona&quot; per un&#39;altra.
-* Sii coerente nell’uso del plurale e del singolare. Scegli un formato o utilizza sempre entrambi. Ad esempio, utilizzare &quot;piedi&quot; e &quot;mani&quot; oppure &quot;piedi, piedi&quot; e &quot;mano, mani&quot;.
-* Sii coerente nel modo in cui descrivi un’azione o un’attività, ad esempio utilizza &quot;correre&quot; e &quot;nuotare&quot; o &quot;correre&quot; e &quot;nuotare&quot;.
-* Non siate troppo stretti. &quot;Keokuk, IA&quot; può essere troppo stretto per una parola chiave e completamente irriconoscibile per gli utenti. &quot;Southeast Iowa&quot; sarebbe meglio.
-* Non essere troppo ampia. &quot;Università&quot; potrebbe non funzionare, soprattutto se tutto nel tuo sistema è relativo a un&#39;università. Determina cosa distinguerà le risorse, ad esempio il nome di un college specifico.
+* Sii coerente con acronimi e abbreviazioni. Non usare la parola chiave per una risorsa “AZ” e “Arizona” per un’altra.
+* Sii coerente nell’uso del plurale e del singolare. Scegli un formato o utilizza sempre entrambi. Ad esempio, usa “piedi” e “mani” oppure “piede, piedi” e “mano, mani”.
+* Sii coerente nel modo in cui descrivi un’azione o un’attività, ad esempio utilizzando “corsa” e “nuoto” o “correre” e “nuotare”.
+* Non essere troppo conciso. “Keokuk, IA” può essere un termine troppo conciso per una parola chiave e completamente irriconoscibile per gli utenti. “Iowa sud-orientale” sarebbe un’alternativa migliore.
+* Non essere troppo generico. “Università” potrebbe non andare bene, soprattutto se qualsiasi aspetto del tuo sistema riguarda un’università. Determina cosa distinguerà le risorse, ad esempio il nome di un college specifico.
 * Sii consapevole della pertinenza. Solo perché ogni risorsa ha un codice di progetto non significa che sarà utile agli utenti che si affidano alle parole chiave per trovare le risorse. Se queste informazioni devono rimanere nella risorsa, potresti aggiungerle in un altro campo di metadati.
-* Non utilizzare un numero troppo limitato di parole chiave, altrimenti non contribuirà a limitare i risultati della ricerca.
-* Non fare affidamento sulle parole chiave per ogni elemento di dati. Utilizza i campi di metadati per informazioni quali il nome del fotografo o la posizione.
+* Non utilizzare troppo poche parole chiave, altrimenti non aiuteranno a restringere i risultati della ricerca.
+* Non fare affidamento su parole chiave per ogni porzione di dati. Utilizza i campi di metadati per informazioni quali il nome del fotografo o la posizione.
 
 ## Strategia parole chiave
 
 Una strategia basata su parole chiave ti aiuterà a ottenere un livello elevato di coerenza e precisione con il modo in cui vengono assegnati i tag alle risorse.
 
-Tieni a mente i casi d’uso quando aggiungi parole chiave per mantenere concentrati i tuoi sforzi. Compila questa frase quando consideri una parola chiave: &quot;**Quanto è probabile che [inserisci persona/mansione] eseguirà la ricerca per [parola chiave insert] quando si cerca [inserisci risorsa]?**&quot;
+Tieni a mente i casi d’uso quando aggiungi parole chiave per mantenere concentrati i tuoi sforzi. Quando valuti una parola chiave, completa questa frase: “**Quanto è probabile che [inserisci persona/mansione] eseguirà la ricerca per [inserisci parola chiave] quando cerca [inserisci risorsa]?**”
 
 Descrivi quali tipi di parole chiave dovrebbero essere aggiunte alle risorse. Una buona regola generale per l’aggiunta di parole chiave è rispondere alle seguenti domande di base:
 
