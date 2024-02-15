@@ -1,6 +1,6 @@
 ---
 title: Caso d’uso per confronto dei KPI
-description: Scopri come confrontare i KPI in [!UICONTROL Analisi avanzata] dall’intervallo di date corrente a un intervallo di date precedente e come confrontare i KPI con due filtri diversi.
+description: Scopri come confrontare i KPI in [!UICONTROL Analisi avanzata] dall’intervallo di date corrente fino a un intervallo di date precedente e come confrontare i KPI con due filtri diversi.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
