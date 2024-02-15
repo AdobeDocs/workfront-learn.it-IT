@@ -1,6 +1,6 @@
 ---
-title: Informazioni sull'accesso e la revisione del grafico a dispersione
-description: Scopri come accedere al grafico a dispersione e comprendere la relazione tra le ore rimanenti, le condizioni del progetto e la velocità del progetto in [!UICONTROL Analisi avanzata].
+title: Informazioni sull’accesso e la revisione del grafico lavoro
+description: Scopri come accedere al grafico lavoro e comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità del progetto in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
