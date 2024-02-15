@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '620'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 
 Riduci il numero di rapporti da generare ed espandi l’utilizzo dei rapporti creati, includendo i prompt, in particolare sui rapporti eseguiti di frequente.
 
-Le richieste consentono di aggiungere filtri &quot;nel momento&quot; a un report senza modificare le impostazioni dei filtri del report. Ad esempio, disponi di un rapporto che consente di trovare le attività di un determinato stato assegnate a un team specifico. Aggiungere richieste a questo report &quot;di base&quot; che consentono di limitare l&#39;intervallo di tempo delle date di scadenza delle attività, visualizzare solo le attività a cui sono allegati documenti o individuare le attività a cui è allegato un particolare modulo personalizzato.
+I prompt consentono di aggiungere filtri a un rapporto “sul momento” senza modificare le impostazioni del filtro del rapporto. Ad esempio, disponi di un rapporto che consente di trovare le attività di un determinato stato assegnate a un team specifico. Aggiungi prompt a questo rapporto “di base” che consentono di limitare l’arco temporale delle scadenze delle attività, visualizzare solo le attività a cui sono allegati documenti o individuare le attività a cui è allegato un particolare modulo personalizzato.
 
 
 **Nota**: per alcuni utenti i prompt possono creare confusione. In tal caso, più rapporti con titoli chiari potrebbero essere una soluzione migliore per loro.
@@ -86,7 +86,7 @@ I caratteri jolly basati sull’utente rendono i rapporti più flessibili, conse
 </br>
 </br>
 
-Per istruzioni su come utilizzare i caratteri jolly basati sugli utenti nei rapporti, vedi [Creare filtri con caratteri jolly basati sull&#39;utente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
+Per istruzioni su come utilizzare i caratteri jolly basati sull’utente nei rapporti, consulta [Creare filtri con caratteri jolly basati sull’utente](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=it).
 
 **Best practice**
 
@@ -94,4 +94,4 @@ Creare viste che consentono la modifica in linea.
 
 **Ecco perché**
 
-Con la modifica in linea, gli utenti possono modificare le informazioni di un elemento direttamente da un rapporto o da un elenco. Si tratta di un risparmio di tempo perché gli utenti non devono aprire l&#39;oggetto per apportare modifiche o rimbalzare da un oggetto all&#39;altro durante l&#39;aggiornamento di più elementi. Assicurati che gli utenti sappiano che la modifica in linea è comoda e rapida (due cose che contribuiscono all’adozione da parte degli utenti di Workfront).
+Con la modifica in linea, gli utenti possono modificare le informazioni di un elemento direttamente da un rapporto o da un elenco. Si tratta di un risparmio di tempo perché gli utenti non devono aprire l’oggetto per apportare modifiche o passare da un oggetto all’altro durante l’aggiornamento di più elementi. Assicurati che gli utenti sappiano che la modifica in linea è comoda e rapida (due cose che contribuiscono all’adozione da parte degli utenti di Workfront).
