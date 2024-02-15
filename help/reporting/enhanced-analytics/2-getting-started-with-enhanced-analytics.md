@@ -12,9 +12,9 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ Le funzioni di analisi avanzata consentono di vedere l’avanzamento dei team e 
 
 ## Prerequisiti di analisi
 
-Per ottenere il massimo dalle analisi avanzate di Workfront, è necessario assicurarsi che i team immettano i dati e aggiornino alcuni campi nel modo più accurato possibile.
+Per ottenere il massimo dall’analisi avanzata di Workfront, è necessario assicurarsi che i team immettano i dati e aggiornino alcuni campi nel modo più accurato possibile.
 
-Quando utilizziamo il termine &quot;team&quot; in Analytics, ci riferiamo ai &quot;team principali&quot;. Gli utenti di Workfront possono far parte di più team, ma possono far parte di un solo team predefinito. I team utilizzati nei grafici Persone sono composti solo da utenti che dispongono di tale team designato come team predefinito.
+Quando nell’analisi viene utilizzato il termine “team”, si riferisce ai “team predefiniti”. Gli utenti di Workfront possono far parte di più team, ma possono far parte di un solo team predefinito. I team utilizzati nei grafici Persone sono composti solo da utenti che dispongono di tale team designato come team predefinito.
 
 Per iniziare subito, accertati che tutti i modelli di progetto abbiano ore e durate pianificate precise assegnate a tutte le attività.
 
