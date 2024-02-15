@@ -12,15 +12,15 @@ jira: kt-8857, kt-13080
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # Creare un filtro di base
 
-Crea un filtro di base nell’esperienza di filtro legacy.
+Creare un filtro di base nell’esperienza di filtro legacy.
 
 In questo video scoprirai:
 
