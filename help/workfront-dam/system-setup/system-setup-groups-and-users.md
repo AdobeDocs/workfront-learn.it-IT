@@ -11,9 +11,9 @@ jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -32,11 +32,11 @@ In questo video scoprirai come:
 
 ## Revisione di gruppi e utenti
 
-Durante la configurazione [!UICONTROL DAM WORKFRONT] è importante considerare il ruolo degli utenti e dei gruppi nel quadro generale.
+Durante la configurazione del sistema [!UICONTROL Workfront DAM] è importante considerare il ruolo che gli utenti e i gruppi svolgono nel quadro generale.
 
 I gruppi controllano l’accesso alle cartelle delle risorse in [!UICONTROL Workfront DAM]. Le impostazioni del gruppo controllano anche cosa possono fare gli utenti con le risorse (visualizzare, scaricare, modificare, ecc.) per le quali dispongono dell’autorizzazione all’accesso.
 
-Durante la creazione di gruppi, è fondamentale tenere presente le cartelle di risorse a cui i membri di quel gruppo dovranno accedere in [!UICONTROL DAM WORKFRONT].
+Durante la creazione di gruppi, è fondamentale tenere presente a quali cartelle di risorse i membri di un gruppo avranno necessità di accedere in [!UICONTROL Workfront DAM].
 
 Gli utenti sono le persone che hanno effettuato l’accesso a [!UICONTROL Workfront DAM]. Un utente non può accedere a nessuna funzione di [!UICONTROL Workfront DAM], a meno che non sia stato assegnato a un gruppo. Gli utenti possono appartenere a più gruppi, a seconda delle loro esigenze.
 
