@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '405'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 ![Pagina del progetto](assets/project-page-graphic-for-planner.png)
 
 1. **Percorso breadcrumb:** naviga all&#39;interno della gerarchia di portfolio e programmi alla base del progetto.
-2. **Tipo oggetto:** La visualizzazione del tipo di oggetto nella pagina di destinazione consente di identificare ciò che si sta esaminando [!DNL Workfront]. Il termine &quot;progetto&quot; è personalizzabile in base al [!DNL Workfront] amministratore di sistema.
-3. **Nome progetto:** Nome del progetto che stai visualizzando. Fai clic sul nome per modificarlo.
-4. **Intestazione progetto:** Informazioni standard disponibili in tutte le pagine del progetto.
+2. **Tipo oggetto:** la visualizzazione del tipo di oggetto sulla pagina di destinazione consente di identificare ciò che si sta esaminando in [!DNL Workfront]. La durata del “progetto” può essere personalizzata dall’amministratore di sistema di [!DNL Workfront].
+3. **Nome progetto:** il nome del progetto che stai visualizzando. Fai clic sul nome per modificarlo.
+4. **Intestazione progetto:** informazioni standard disponibili su tutte le pagine del progetto.
 5. **[!UICONTROL Percentuale di completamento:]** si aggiorna automaticamente, in base alle attività completate nel progetto.
-6. **[!UICONTROL Proprietario del progetto]:** nella maggior parte delle organizzazioni, è il project manager. Questa è la persona responsabile della gestione del progetto in [!DNL Workfront] e assicurandoci che sia completato.
+6. **[!UICONTROL Proprietario del progetto]:** nella maggior parte delle organizzazioni, è il project manager. Si tratta della persona responsabile della gestione del progetto in [!DNL Workfront] e della conferma del completamento.
 7. **[!UICONTROL Data di completamento pianificata]:** la data di completamento pianificata del progetto viene impostata dal project manager attraverso la timeline del progetto.
 8. **[!UICONTROL Condizione]:** la[!UICONTROL  condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
 9. **[!UICONTROL Stato]:** lo [!UICONTROL stato] indica dove si trova il progetto all’interno di un processo, ovvero se è ancora in fase di pianificazione o è in corso, oppure se tutto il lavoro inerente il progetto è stato completato.
