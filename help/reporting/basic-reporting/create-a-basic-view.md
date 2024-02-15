@@ -1,6 +1,6 @@
 ---
-title: Creare una visualizzazione di base
-description: Scopri che cos’è una visualizzazione, come crearla e come condividerla con altri utenti in Workfront.
+title: Creare una vista di base
+description: Scopri che cos’è una vista, come crearla e come condividerla con altri utenti in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -13,145 +13,145 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '826'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Creare una visualizzazione di base
+# Creare una vista di base
 
-Questo video illustra:
+In questo video scoprirai:
 
-* Che cos’è una visualizzazione in Workfront
+* Cos’è una vista in Workfront
 * Come creare e modificare una vista
-* Come condividere una visualizzazione con altri utenti di Workfront
+* Come condividere una vista con altri utenti di Workfront
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Attività 1: creare una visualizzazione dello stato delle attività
+## Attività 1: creare una vista dello stato dell’attività
 
-I project manager, i responsabili del team o i responsabili delle risorse devono tenere traccia dell&#39;avanzamento del lavoro dell&#39;attività. Con questa visualizzazione, si ottengono diversi indicatori di stato di un&#39;attività tutti in una riga dell&#39;elenco o del report.
+In qualità di project manager, responsabile del team o responsabile risorse, desideri tenere traccia di come procede il lavoro delle attività. Questa vista presenta diversi indicatori di stato di un’attività tutti in una riga dell’elenco o del rapporto.
 
-Creare una visualizzazione delle attività denominata &quot;Visualizzazione stato attività&quot; con le colonne riportate di seguito.
+Crea una vista attività denominata “Vista con stato attività” con le seguenti colonne:
 
 * [!UICONTROL Nome attività]
 * [!UICONTROL Assegnazioni]
 * [!UICONTROL Durata]
-* [!UICONTROL Percentuale completamento]
+* [!UICONTROL Percentuale completato]
 * [!UICONTROL Stato]
 * [!UICONTROL Stato di avanzamento]
-* [!UICONTROL Icone di stato]
+* [!UICONTROL Le icone di Stato]
 
-## Risposta attività 1
+## Risposta per l’attività 1
 
-![Immagine della schermata per creare una visualizzazione dello stato dell&#39;attività](assets/view-exercise.png)
+![Immagine della schermata per creare una vista dello stato delle attività](assets/view-exercise.png)
 
-1. In un report elenco attività, passare alla **[!UICONTROL Visualizza]** menu a discesa e selezionare **[!UICONTROL Nuova visualizzazione]**.
-1. Denomina la visualizzazione &quot;Visualizzazione stato attività&quot;.
-1. Rimuovi queste colonne: [!UICONTROL Ore Pian], [!UICONTROL Predecessori], [!UICONTROL Inizia il], e [!UICONTROL Scade il].
-1. Clic **[!UICONTROL Aggiungi colonna]**.
-1. In [!UICONTROL Mostra in questa colonna] , digitare &quot;status&quot; quindi selezionare &quot;Status&quot; sotto il [!UICONTROL Attività] origine del campo.
-1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
-1. In [!UICONTROL Mostra in questa colonna] , digitare &quot;status&quot; quindi selezionare &quot;Progress Status&quot; (Stato di avanzamento) sotto [!UICONTROL Attività] origine del campo.
-1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
-1. In [!UICONTROL Mostra in questa colonna] , digitare &quot;status&quot; quindi selezionare &quot;Status Icons&quot; nell&#39;origine del campo Task.
+1. In un rapporto con elenco delle attività, passa al menu a discesa **[!UICONTROL Vista]** e seleziona **[!UICONTROL Nuova vista]**.
+1. Assegna alla vista il nome “Vista con stato attività”.
+1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL  Inizia il] e[!UICONTROL  Scade il].
+1. Fai clic su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Stato” sotto all’origine del campo [!UICONTROL Attività].
+1. Fai di nuovo clic su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo[!UICONTROL  Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL  Attività].
+1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Icone di stato” sotto all’origine del campo Attività.
 1. Fai clic su **[!UICONTROL Salva]**.
 
-Passa il puntatore del mouse su ciascuna delle icone [!UICONTROL Icone di stato] per vedere cosa rappresentano. Se sono disattivate, significa che l&#39;attività non contiene note, documenti, processi di approvazione e così via. Se viene visualizzata un&#39;icona a colori, all&#39;attività è associato almeno un elemento. È possibile fare clic sulla nota o sulle icone del documento per passare a tale elemento.
+Passa il mouse sopra ciascuna delle icone nella colonna[!UICONTROL  Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
 
-## Attività 2: creare una vista milestone
+## Attività 2: creare una vista Milestone
 
-Se utilizzi le milestone, questa vista rappresenta il modo più semplice per visualizzare le milestone per nome e aggiungerle o modificarle utilizzando la modifica in linea.
+Se utilizzi le milestone, questa vista rappresenta il modo più semplice per visualizzarle per nome e aggiungerle o modificarle in linea.
 
-Creare una visualizzazione delle attività denominata &quot;Vista Milestone&quot; con le colonne seguenti:
+Crea una vista di attività denominata “Vista Milestone” con le seguenti colonne:
 
 * [!UICONTROL Nome attività]
 * [!UICONTROL Assegnazioni]
 * [!UICONTROL Durata]
-* [!UICONTROL Ore Pian]
-* [!UICONTROL Milestone: Name]
+* [!UICONTROL Ore pian.]
+* [!UICONTROL Milestone: nome]
 * [!UICONTROL Inizia il]
 * [!UICONTROL Scade il]
-* [!UICONTROL Percentuale completamento]
+* [!UICONTROL Percentuale completato]
 
 
-## Risposta attività 2
+## Attività 2 Risposta
 
-![Immagine dello schermo per creare una vista milestone](assets/view-milestone-exercise-1.png)
+![Immagine della schermata di creazione della vista Milestone](assets/view-milestone-exercise-1.png)
 
-1. In un elenco delle attività di un progetto, vai al **[!UICONTROL Visualizza]** menu a discesa e selezionare **[!UICONTROL Nuova visualizzazione]**.
-1. Denomina la visualizzazione &quot;Vista Milestone&quot;.
-1. Fai clic sul pulsante [!UICONTROL Predecessori] per selezionarla.
-1. In [!UICONTROL Mostra in questa colonna] , fai clic sull’icona X nella sezione [!UICONTROL Attività >> Predecessori] , quindi digita &quot;[!UICONTROL nome milestone]&quot; e fai clic su &quot;[!UICONTROL Nome]&quot; nell’elenco.
+1. Nell’elenco delle attività di un progetto, vai al menu a discesa **[!UICONTROL Viste]** e seleziona **[!UICONTROL Nuova vista]**.
+1. Assegna alla vista il nome “Vista Milestone”.
+1. Fai clic sulla colonna [!UICONTROL Predecessori] per selezionarla.
+1. Nel campo [!UICONTROL Mostra in questa colonna], fai clic sull’icona X nel campo [!UICONTROL Attività >> Predecessori], quindi digita “[!UICONTROL nome milestone]” e clicca su “[!UICONTROL Nome]” nell’elenco.
 1. Fai clic su **[!UICONTROL Salva]**.
 
-![Immagine di un elenco di attività in una visualizzazione milestone](assets/view-milestone-exercise-2.png)
+![Immagine di un elenco delle attività tramite una vista milestone](assets/view-milestone-exercise-2.png)
 
 ## Attività 3: creare una vista dei vincoli dei tipi di durata e delle attività
 
 Questa vista consente di esaminare e modificare tutti i tipi di durata e i vincoli delle attività nel progetto.
 
-Creare una vista delle attività denominata &quot;Visualizzazione tipi di durata e vincoli di attività&quot; con le colonne riportate di seguito.
+Crea una vista delle attività denominata “Vista dei tipi di durata e dei vincoli delle attività” con le seguenti colonne:
 
 * [!UICONTROL Nome attività]
 * [!UICONTROL Assegnazioni]
 * [!UICONTROL Durata]
 * [!UICONTROL Durata Pianificata]
-* [!UICONTROL Ore Pian]
+* [!UICONTROL Ore pian.]
 * [!UICONTROL Predecessori]
 * [!UICONTROL Inizia il]
 * [!UICONTROL Scade il]
-* [!UICONTROL Tipo di durata]
+* [!UICONTROL Tipo di Durata]
 * [!UICONTROL Vincolo attività]
-* [!UICONTROL Data vincolo]
+* [!UICONTROL Data Vincolata]
 
-Modificare il [!UICONTROL Formato campo] il [!UICONTROL Inizia il] e [!UICONTROL Scade il] colonne per visualizzare sia la data che l&#39;ora.
+Modifica il [!UICONTROL Formato campo] delle colonne [!UICONTROL Inizio il] e [!UICONTROL Scadenza il] per visualizzare sia la data che l’ora.
 
-## Risposta all&#39;attività 3
+## Risposta Attività 3
 
-![Un&#39;immagine della schermata che mostra la vista dei vincoli dei tipi di durata e delle attività](assets/view-activity-3.png)
+![Immagine della schermata che mostra la vista dei tipi di durata e dei vincoli delle attività](assets/view-activity-3.png)
 
-1. In un elenco delle attività di un progetto, vai al **[!UICONTROL Visualizza]** menu a discesa e selezionare **[!UICONTROL Nuova visualizzazione]**.
-1. Denomina la vista &quot;Visualizzazione dei tipi di durata e dei vincoli delle attività&quot;.
-1. Rimuovi il [!UICONTROL % completamento] colonna.
-1. Clic **[!UICONTROL Aggiungi colonna]**.
-1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;duration&quot;] quindi seleziona [!UICONTROL &quot;Durata Pianificata&quot;] sotto [!UICONTROL Attività] origine del campo.
-1. Sposta questa colonna tra [!UICONTROL Durata] e [!UICONTROL Ore Pian] colonne.
-1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
-1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;tipo di durata&quot;] quindi seleziona [!UICONTROL &quot;Tipo di durata&quot;] sotto [!UICONTROL Attività] origine del campo.
-1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
-1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;vincolo&quot;] quindi seleziona [!UICONTROL &quot;Vincolo attività&quot;] nell&#39;origine del campo Attività.
-1. Clic **[!UICONTROL Aggiungi colonna]** di nuovo.
-1. In [!UICONTROL Mostra in questa colonna] campo, tipo [!UICONTROL &quot;vincolo&quot;] quindi seleziona [!UICONTROL &quot;Data Vincolata&quot;] nell&#39;origine del campo Attività.
-1. Seleziona la [!UICONTROL Inizia il] , quindi fai clic su [!UICONTROL Opzioni avanzate].
-1. Sotto [!UICONTROL Formato campo] menu a discesa seleziona [!UICONTROL &quot;10/17/60 03.00&quot;].
-1. Seleziona la [!UICONTROL Scade il] , quindi fai clic su [!UICONTROL Opzioni avanzate].
-1. Sotto [!UICONTROL Formato campo] menu a discesa seleziona [!UICONTROL &quot;10/17/60 03.00&quot;].
+1. In un elenco delle attività di un progetto, vai al menu a discesa **[!UICONTROL Vista]** e seleziona **[!UICONTROL Nuova vista]**.
+1. Assegna alla vista il nome “Vista tipi di durata e vincoli delle attività”.
+1. Rimuovi la colonna [!UICONTROL % completo].
+1. Fai clic su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita [!UICONTROL “durata”] quindi seleziona [!UICONTROL “Durata pianificata”] nell’origine del campo [!UICONTROL Attività].
+1. Sposta questa colonna tra le colonne [!UICONTROL Durata] e [!UICONTROL Ore pianificazione].
+1. Fai di nuovo clic su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita [!UICONTROL “tipo di durata”] quindi seleziona [!UICONTROL “Tipo di durata”] nell’origine del campo [!UICONTROL Attività].
+1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita [!UICONTROL “vincolo”] quindi seleziona [!UICONTROL “Vincolo attività”] nell’origine del campo Attività.
+1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita [!UICONTROL “vincolo”] quindi seleziona [!UICONTROL “Data vincolo”] nell’origine del campo Attività.
+1. Seleziona la colonna [!UICONTROL Inizio il], quindi fai clic su [!UICONTROL Opzioni avanzate].
+1. Nel menu a discesa [!UICONTROL Formato campo] seleziona [!UICONTROL “17/10/60 03.00”].
+1. Seleziona la colonna [!UICONTROL Scadenza il], quindi fai clic su [!UICONTROL Opzioni avanzate].
+1. Nel menu a discesa [!UICONTROL Formato campo] seleziona [!UICONTROL “17/10/60 03.00”].
 1. Fai clic su **[!UICONTROL Salva]**.
 
-## Attività 4: creare una visualizzazione dello stato attivo del modello di progetto
+## Attività 4: creare una vista dello stato attivo del modello di progetto
 
-Chiunque gestisca i modelli di progetto apprezzerà la visualizzazione dello stato attivo (Vero o Falso) di ciascun modello in un elenco. Ancora meglio: il campo è modificabile in linea!
+Chiunque gestisca i modelli di progetto apprezzerà la visualizzazione dello stato attivo (Vero o Falso) di ciascun modello presente in un elenco. Ancora meglio: il campo è modificabile in linea.
 
-Crea una vista del modello di progetto denominata &quot;Standard+stato attivo&quot; con le colonne seguenti:
+Crea una vista del modello di progetto denominata “Standard+stato attivo” con le seguenti colonne:
 
 * [!UICONTROL Nome]
 * [!UICONTROL Proprietario]
 * [!UICONTROL Durata]
 * [!UICONTROL Ore pianificate]
 * [!UICONTROL Costo Pianificato]
-* [!UICONTROL Flag]
+* [!UICONTROL Contrassegni]
 * [!UICONTROL Nome gruppo]
 * [!UICONTROL È attivo]
 
 
-## Risposta all&#39;attività 4
+## Risposta Attività 4
 
-![Immagine della schermata che mostra la visualizzazione dello stato attivo di un modello di progetto](assets/view-activity-4.png)
+![Immagine della schermata che mostra una vista dello stato attivo del modello di progetto](assets/view-activity-4.png)
 
-1. In un elenco di modelli di progetto, vai a **[!UICONTROL Visualizza]** menu a discesa e selezionare **[!UICONTROL Nuova visualizzazione]**.
-1. Denomina la visualizzazione &quot;Standard+stato attivo&quot;.
-1. Clic **[!UICONTROL Aggiungi colonna]**.
-1. In [!UICONTROL Mostra in questa colonna] , digita &quot;is&quot; e seleziona &quot;Is Active&quot; sotto il [!UICONTROL Modello] origine del campo.
-1. Clic **[!UICONTROL Salva visualizzazione]**.
+1. In un elenco dei modelli di progetto, passa al menu a discesa **[!UICONTROL Vista]** e seleziona **[!UICONTROL Nuova vista]**.
+1. Assegna alla vista il nome “Standard + Stato attivo.”
+1. Fai clic su **[!UICONTROL Aggiungi colonna]**.
+1. Nel campo [!UICONTROL Mostra in questa colonna], digita “è”, quindi seleziona “È attivo” sotto all’origine del campo [!UICONTROL Attività].
+1. Fai clic su **[!UICONTROL Salva vista]**.
