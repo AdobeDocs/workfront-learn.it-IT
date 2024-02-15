@@ -1,5 +1,5 @@
 ---
-title: 'Best practice: caso aziendale e ottimizzatore del Portfolio'
+title: 'Best practice: caso di business e ottimizzatore portfolio'
 description: Prima di passare a una metodologia agile, consulta alcuni consigli e domande da porre.
 feature: Strategic Planning
 role: Admin, Leader, User
@@ -7,64 +7,64 @@ level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Best practice: caso aziendale e ottimizzatore del Portfolio
+# Best practice: caso di business e ottimizzatore portfolio
 
-## Cos’è una &quot;best practice&quot; di Adobe Workfront?
+## Che cos’è una “best practice” di Adobe Workfront?
 
-Le best practice sono linee guida che rappresentano una linea di condotta efficace ed efficiente, sono facilmente adottabili da te e dagli utenti della tua azienda e possono essere replicate correttamente all’interno dell’organizzazione.
+Le best practice sono linee guida che rappresentano una linea d’azione efficace ed efficiente; sono facilmente adottabili da te e dagli utenti della tua azienda; e possono essere replicate con successo in tutta l’organizzazione.
 
-Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali, mentre altre potrebbero essere più specifiche per l’argomento. Utilizza queste best practice come framework per guidare le impostazioni e l’utilizzo del sistema Workfront.
+Mentre esamini questi consigli, tieni presente che alcune best practice di Workfront sono universali mentre altre potrebbero essere più specifiche per un dato argomento. Utilizza queste best practice come una base comune per le impostazioni e l’utilizzo del sistema Workfront.
 
-## Navigazione in questa pagina
+## Esplorazione di questa pagina
 
-Quando scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per l’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli di &quot;perché&quot;.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice relative all’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli delle motivazioni.
 
-La sezione &quot;Perché sono queste best practice?&quot; , disponibile dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché sono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
-
-</br>
-</br>
-
-## Best practice per l’ottimizzazione di casi aziendali e Portfoli
-
-* Utilizzare il Business Case prima o all&#39;inizio del progetto.
-
-* Stimare e adeguare le informazioni importanti sul progetto come il costo, l&#39;allineamento, il valore netto, il rischio e il ROI nel Business Case.
+“Perché queste sono best practice?” che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
 
-## Perché si tratta di procedure ottimali?
+## Best practice per Casi di business e Ottimizzazione portfolio
+
+* Utilizzare il Caso di business prima o all’inizio del progetto.
+
+* Stimare e adeguare le informazioni importanti sul progetto come il costo, l’allineamento, il valore netto, il rischio e il ROI nel Caso di business.
+
+</br>
+</br>
+
+## Perché queste sono best practice?
 
 **Best practice**
 
-Utilizzare il Business Case prima o all&#39;inizio del progetto.
+Utilizzare il Caso di business prima o all’inizio del progetto.
 
 **Ecco perché**
 
-L&#39;utilizzo di un Business Case prima dell&#39;inizio del progetto, o addirittura all&#39;inizio del progetto stesso, consente di prevedere in modo efficace le esigenze del progetto (sia umane che non), il budget, l&#39;arco temporale e come attenuare i potenziali rischi che potrebbero verificarsi prima che si verifichino.
+L’utilizzo di un Caso di business prima dell’inizio del progetto, o addirittura all’inizio del progetto stesso, consente di prevedere in modo efficace le esigenze del progetto (sia umane che non), il budget, l’arco temporale e come attenuare i potenziali rischi che potrebbero verificarsi prima che si verifichino.
 
-Offre inoltre l’opportunità di mostrare alle parti interessate come il progetto contribuisce al raggiungimento degli obiettivi del reparto, dell’area geografica e/o dell’azienda.
+Offre inoltre l’opportunità di mostrare agli stakeholder come il progetto contribuisce al raggiungimento degli obiettivi del reparto, dell’area geografica e/o dell’azienda.
 
-Per istruzioni sull&#39;utilizzo del Business Case, vedere [Il business case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Per istruzioni sull’utilizzo del Caso di business, consulta [Comprendere il Caso di business](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=it).
 
 </br>
 </br>
 
 **Best practice**
 
-Stimare e adeguare le informazioni importanti sul progetto come il costo, l&#39;allineamento, il valore netto, il rischio e il ROI nel Business Case.
+Stimare e adeguare le informazioni importanti sul progetto come il costo, l’allineamento, il valore netto, il rischio e il ROI nel Caso di business.
 
 **Ecco perché**
 
-Assicurati che queste informazioni siano simili a quelle del progetto &quot;reale&quot;, puoi utilizzare in modo accurato la funzione di punteggio in Ottimizzatore Portfolio per determinare la priorità dei progetti elencati. Portfoli Optimizer è un ottimo strumento per garantire che i progetti ricevano priorità in modo efficiente e siano allineati alla strategia e al valore della tua azienda.
+Assicurarti che queste informazioni siano il più vicino possibile a ciò che comporterà il progetto “reale” ti consente di utilizzare con precisione la funzione di punteggio nell’Ottimizzatore portfolio per determinare la priorità dei progetti elencati. L’Ottimizzatore portfolio è un ottimo strumento per garantire che i progetti ricevano priorità in modo efficiente e siano allineati alla strategia e al valore della tua azienda.
 
-Per istruzioni sull&#39;utilizzo del Business Case, vedere [Il business case](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
+Per istruzioni sull’utilizzo del Caso di business, consulta [Comprendere il Caso di business](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=it).
 
-Per istruzioni su come utilizzare Ottimizzatore Portfolio, consulta [Utilizzare Ottimizzatore Portfolio per assegnare priorità e gestire il lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Per istruzioni su come utilizzare l’Ottimizzatore portfolio, consulta [Utilizzare l’Ottimizzatore portfolio per assegnare priorità e gestire il lavoro](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=it).
 
