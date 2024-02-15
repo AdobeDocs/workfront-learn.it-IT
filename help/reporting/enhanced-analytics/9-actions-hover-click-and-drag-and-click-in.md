@@ -1,6 +1,6 @@
 ---
 title: 'Comprendere le azioni: passa il puntatore del mouse, fai clic e trascina e fai clic su in'
-description: Scopri come ottenere ulteriori informazioni passando il cursore sopra un grafico, creando un arco temporale su un grafico e visualizzando grafici aggiuntivi, il tutto in [!UICONTROL Analisi avanzata].
+description: Scopri come ottenere più informazioni passando il cursore su un grafico, come creare un arco temporale su un grafico e come visualizzare altri grafici, il tutto in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '307'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
