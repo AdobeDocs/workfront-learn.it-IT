@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 63%
 
 In questo video scoprirai:
 
-* Come inviare una richiesta tramite un [!DNL  Workfront] coda richieste
+* Come inviare una richiesta tramite una coda richieste di [!DNL  Workfront]
 * Struttura delle code di richieste
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Richiedi salvataggio automatico delle bozze
 
-Quando inizi a compilare un modulo di richiesta, [!DNL Workfront] salva automaticamente una bozza dopo aver compilato il campo [!UICONTROL Soggetto]. Ciò significa che non perderai dati se devi allontanarti dal [!UICONTROL Richieste] per eseguire un’altra operazione o se devi sospendere nel mezzo della richiesta per raccogliere ulteriori informazioni.
+Quando inizi a compilare un modulo di richiesta, [!DNL Workfront] salva automaticamente una bozza dopo aver compilato il campo [!UICONTROL Soggetto]. Ciò significa che non perderai dati se devi uscire dall’area [!UICONTROL Richieste] per eseguire un’altra operazione o se devi sospendere nel bel mezzo della richiesta per raccogliere ulteriori informazioni.
 
-Nella parte superiore della finestra viene visualizzata un&#39;indicazione del salvataggio della bozza. [!DNL Workfront] salva una bozza della richiesta, anche se i campi obbligatori non sono ancora stati compilati.
+Nella parte superiore della finestra viene visualizzata un’indicazione del salvataggio della bozza. [!DNL Workfront] salva una bozza della richiesta, anche se i campi obbligatori non sono ancora stati compilati.
 
 ![immagine di una bozza di richiesta in fase di creazione](assets/queue-mgt-make-a-request-draft-1.png)
 
-Quando sei pronto a inviare la richiesta, trovala nella sezione [!UICONTROL Bozze] scheda. Fare clic sul nome per aprirla e completare la compilazione del modulo. Quindi fai clic su [!UICONTROL Invia richiesta] quando hai finito.
+Quando è tutto pronto per inviare la richiesta, questa sarà disponibile nella scheda [!UICONTROL Bozze]. Fare clic sul nome per aprirla e completare la compilazione del modulo. Quindi fai clic su [!UICONTROL Invia richiesta] al termine.
 
 ![immagine del richiamo di una bozza di richiesta](assets/queue-mgt-make-a-request-draft-2.png)
 
