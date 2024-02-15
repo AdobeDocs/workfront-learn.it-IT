@@ -12,15 +12,15 @@ jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Impostazioni per utenti della bozza
 
-Prima di iniziare a creare gli utenti in [!DNL  Workfront], è consigliabile avere la propria esperienza globale [!DNL Workfront] e le impostazioni di sistema della bozza sono state completate. Alcune di queste impostazioni si applicano ai profili utente durante la creazione. Ma non preoccuparti se non li hai impostati prima della creazione di alcuni utenti...puoi modificarli su ogni singolo profilo utente.
+Prima di iniziare a creare utenti in [!DNL  Workfront], è consigliabile aver completato le impostazioni globali del sistema di bozze e di [!DNL Workfront]. Alcune di queste impostazioni si applicano ai profili utente durante la creazione. Ma non preoccuparti se non le hai impostate prima della creazione di alcuni utenti... puoi modificarle in ciascun profilo utente singolarmente.
 
 
 In questo video scoprirai come:
