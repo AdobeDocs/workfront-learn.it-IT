@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
 source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '785'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 
 * Utilizza i controlli elenco nei modelli di layout per nascondere filtri, viste e raggruppamenti non necessari per oggetti di uso comune (progetti, attività, programmi, ecc.).
 
-* Puoi condividere filtri, visualizzazioni e raggruppamenti personalizzati in base ai flussi di lavoro e ai processi della tua organizzazione, tramite i controlli elenco sui modelli di layout.
+* Tramite i controlli elenco sui modelli di layout, puoi condividere filtri, viste e raggruppamenti personalizzati in base ai flussi di lavoro e ai processi della tua organizzazione.
 
 * Durante la creazione di filtri per lo stato di un progetto, di un’attività o di un problema, utilizza il modificatore (oggetto)>>Stato corrisponde a origine campo/nome campo con modificatore uguale, anziché Progetto>>Stato origine campo/nome campo.
 
@@ -53,9 +53,9 @@ Riduci il numero di report personalizzati creati sfruttando i filtri, le viste e
 
 La creazione di rapporti di utilizzo singoli per ogni segmento di dati che desideri visualizzare richiede molto tempo e rende il sistema Workfront più complesso.
 
-Per istruzioni sulla creazione di report con prompt, vedere il capitolo &quot;Come impostare e utilizzare i prompt dei report&quot; nel [Comprendere le impostazioni dei rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
+Per istruzioni su come creare rapporti con prompt, consulta il capitolo “Come impostare e utilizzare i prompt dei rapporti” nel video [Comprendere le impostazioni dei rapporti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=it).
 
-Per istruzioni su come creare rapporti con prompt personalizzati, consulta [Creare prompt personalizzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
+Per istruzioni su come creare rapporti con prompt personalizzati, consulta [Creare prompt personalizzati](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=it).
 
 </br>
 </br>
@@ -66,24 +66,24 @@ Utilizza i controlli elenco nei modelli di layout per nascondere filtri, viste e
 
 **Ecco perché**
 
-Meno è meglio. Quando si nascondono opzioni di filtro, visualizzazione e raggruppamento di elenchi che non sono rilevanti per i flussi di lavoro giornalieri degli utenti, gli elenchi vengono limitati in modo da facilitare agli utenti la ricerca più rapida delle informazioni di cui hanno bisogno.
+Meno è meglio. Quando si nascondono opzioni di filtro, vista e raggruppamento di elenchi che non sono rilevanti per i flussi di lavoro giornalieri degli utenti, gli elenchi sono ridotti ed è più semplice e veloce cercare ciò di cui si ha bisogno.
 
-Per istruzioni su come nascondere filtri, viste o raggruppamenti con i modelli di layout, vedi [Personalizzare gli elenchi di reporting con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
+Per istruzioni su come nascondere filtri, viste o raggruppamenti con i modelli di layout, consulta [Personalizzare gli elenchi dei report con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=it).
 
 </br>
 </br>
 
 **Best practice**
 
-Puoi condividere filtri, visualizzazioni e raggruppamenti personalizzati in base ai flussi di lavoro e ai processi della tua organizzazione, tramite i controlli elenco sui modelli di layout.
+Tramite i controlli elenco sui modelli di layout, puoi condividere filtri, viste e raggruppamenti personalizzati in base ai flussi di lavoro e ai processi della tua organizzazione.
 
 **Ecco perché**
 
-Se hai creato filtri, viste e raggruppamenti che visualizzano informazioni specifiche dei processi giornalieri degli utenti, è facile condividerli attraverso i modelli di layout. In questo modo, tutti gli utenti assegnati al modello di layout avranno a disposizione opzioni di filtro, vista e raggruppamento rilevanti per i propri flussi di lavoro.
+Se hai creato filtri, viste e raggruppamenti che mostrano informazioni specifiche dei processi giornalieri degli utenti, è facile condividerli attraverso i modelli di layout. In questo modo, tutti gli utenti assegnati al modello di layout avranno a disposizione opzioni di filtro, vista e raggruppamento rilevanti per i propri flussi di lavoro.
 
 La personalizzazione delle informazioni che desideri rendere visibili agli utenti tramite i modelli di layout consente inoltre di risparmiare tempo agli amministratori di sistema e di gruppo, in quanto non dovranno condividere ogni opzione di filtro, vista o raggruppamento singolarmente.
 
-Per istruzioni su come condividere filtri, viste o raggruppamenti con i modelli di layout, consulta [Personalizzare gli elenchi di reporting con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
+Per istruzioni su come condividere filtri, viste o raggruppamenti con i modelli di layout, consulta [Personalizzare gli elenchi dei rapporti con i modelli di layout](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=it).
 
 </br>
 </br>
@@ -94,6 +94,6 @@ Durante la creazione di filtri per lo stato di un progetto, di un’attività o 
 
 **Ecco perché**
 
-Se si utilizza (object)>>Equivale a, nelle impostazioni dello stato verranno inclusi tutti gli stati personalizzati a cui è assegnato lo stato specifico nel campo Equivale a. Mentre l’impostazione del filtro come (oggetto)>>Stato > Uguale richiede la selezione di statuti specifici per il filtro. Se devi tenere conto di questi nuovi stati in vari filtri, questo potrebbe presentare un problema relativo alla manutenzione. Ogni filtro dovrà essere aperto e aggiornato con il nuovo stato.
+Utilizzando (oggetto)>>Uguale a, includi tutti gli stati personalizzati a cui è assegnato lo stato specifico nel campo Uguale a nelle impostazioni dello stato. Mentre l’impostazione del filtro come (oggetto)>>Stato > Uguale richiede la selezione di statuti specifici per il filtro. Se devi tenere conto di questi nuovi stati in vari filtri, questo potrebbe presentare un problema relativo alla manutenzione. Ogni filtro dovrà essere aperto e aggiornato con il nuovo stato.
 
-Ad esempio, per visualizzare tutti i progetti correnti, puoi impostare il filtro in modo che risulti Progetto>>Stato > Uguale > Corrente. Tuttavia, se qualcuno aggiunge uno stato personalizzato denominato Attivo e lo identifica a Corrente, tale filtro non troverà i progetti con lo stato Attivo. Comunque, se utilizzi Progetto>>Stato Uguale a > Uguale > Corrente, in questo caso il filtro trova gli oggetti con lo stato Corrente o Attivo perché entrambi hanno Corrente nel campo Uguale a.
+Ad esempio, per visualizzare tutti i progetti correnti, puoi impostare il filtro in modo che risulti Progetto>>Stato > Uguale > Corrente. Tuttavia, se qualcuno aggiunge uno stato personalizzato denominato Attivo e lo rende uguale a Corrente, tale filtro non troverà i progetti con lo stato Attivo. Comunque, se utilizzi Progetto>>Stato Uguale a > Uguale > Corrente, in questo caso il filtro trova gli oggetti con lo stato Corrente o Attivo perché entrambi hanno Corrente nel campo Uguale a.
