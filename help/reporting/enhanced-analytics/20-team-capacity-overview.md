@@ -1,6 +1,6 @@
 ---
 title: Comprendere la capacità del team
-description: Scopri il grafico della capacità del team in [!UICONTROL Analisi avanzata] mostra quando un team della home page è stato sovrassegnato o sottoassegnato.
+description: Scopri come il grafico della capacità del team in [!UICONTROL Analisi avanzata] può mostrare una sovra-assegnazione o una sotto-assegnazione del team predefinito.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '390'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
