@@ -12,9 +12,9 @@ jira: KT-8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -30,5 +30,5 @@ In questo video scoprirai:
 
 ## Tocca a te
 
-Osserva i flussi di lavoro per le bozze già creati e riflette sulle discussioni che hai avuto con i team utilizzando i flussi di lavoro di revisione e approvazione. Saranno necessarie azioni? In tal caso, aggiorna i documenti in cui hai registrato i flussi di lavoro per includere le azioni.
+Osserva i flussi di lavoro di bozza che hai già creato e rifletti sulle discussioni che hai avuto con i team, utilizzando i flussi di lavoro di revisione e approvazione. Saranno necessarie azioni? In tal caso, aggiorna i documenti in cui hai registrato i flussi di lavoro per includere le azioni.
 
