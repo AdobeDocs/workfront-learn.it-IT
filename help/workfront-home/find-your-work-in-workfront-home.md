@@ -11,9 +11,9 @@ jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
 source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 >[!NOTE]
 >
->Al momento sono disponibili due esperienze principali in Workfront. Se disponi della nuova esperienza Home, visualizza [Rimuovere, aggiungere e ridisporre i widget nella Home](/help/workfront-home/remove-add-and-rearrange-widgets.md) esercitazione.
+>Al momento sono disponibili due esperienze Home in Workfront. Se disponi della nuova esperienza Home, visualizza il tutorial [Rimuovere, aggiungere e riorganizzare i widget nella Home](/help/workfront-home/remove-add-and-rearrange-widgets.md).
 
 
 In questo video scoprirai come:
