@@ -1,6 +1,6 @@
 ---
 title: Caso d’uso per l’utente finale
-description: Scopri come gli utenti finali possono utilizzare Flight Plan, Burndown e Tasks nelle tabelle di volo, in [!UICONTROL Analisi avanzata].
+description: Scopri come gli utenti finali possono utilizzare la Pianificazione, i grafici di lavoro e le attività in corso in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
