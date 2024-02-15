@@ -1,6 +1,6 @@
 ---
 title: Informazioni sulle linee guida per la consulenza
-description: Scopri come formulare raccomandazioni per aiutare la tua organizzazione a operare in modo più efficiente utilizzando [!UICONTROL Analisi avanzata] in Workfront.
+description: Scopri come dare consigli per aiutare la tua organizzazione a lavorare in modo più efficiente utilizzando [!UICONTROL Analisi avanzata] in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
