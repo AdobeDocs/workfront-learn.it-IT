@@ -1,6 +1,6 @@
 ---
 title: Approfondimento della navigazione
-description: Scopri come vedere rapidamente quanto tempo i lavoratori dedicano a ciascun progetto in [!UICONTROL Analisi avanzata].
+description: Scopri come visualizzare rapidamente quanto tempo le persone dedicano a ciascun progetto in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -13,9 +13,9 @@ doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '224'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
