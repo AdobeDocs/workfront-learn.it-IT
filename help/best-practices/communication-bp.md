@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -49,9 +49,9 @@ Utilizzare i flussi di lavoro per determinare le notifiche necessarie.
 
 Seguendo passo dopo passo i flussi di lavoro è più semplice identificare i punti di comunicazione e garantire che siano abilitate le notifiche appropriate. In questo modo le notifiche vengono preparate in base al modo in cui l’organizzazione sta lavorando, evitando spam o interruzioni nella comunicazione.
 
-Per istruzioni su come impostare le notifiche degli eventi, consulta [Impostare le notifiche degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Per istruzioni su come impostare le notifiche degli eventi, consulta [Impostare le notifiche degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=it).
 
-Per istruzioni su come gestire le notifiche degli eventi, consulta [Gestire le notifiche in-app ed e-mail degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Per istruzioni su come gestire le notifiche degli eventi, consulta [Gestire le notifiche in-app e le e-mail degli eventi](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=it).
 
 </br>
 </br>
@@ -72,5 +72,5 @@ Se in un progetto sono presenti molti thread di aggiornamento, può essere diffi
 * Nome del proprietario
 * Data inserimento
 
-Per istruzioni dettagliate su come creare un report di note con prompt, vedere [Creare un rapporto di attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) quindi eseguire l&#39;attività che segue.
+Per istruzioni dettagliate su come creare rapporti sulle note con prompt, guarda il tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=it), quindi esegui l’attività che segue.
 
