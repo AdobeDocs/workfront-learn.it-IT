@@ -1,6 +1,6 @@
 ---
 title: Apportare aggiornamenti
-description: Scopri come apportare aggiornamenti dall’interno del grafico Attività in volo in [!UICONTROL Analisi avanzata].
+description: Scopri come apportare aggiornamenti dall’interno del grafico delle attività in corso in [!UICONTROL Analisi avanzata].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
