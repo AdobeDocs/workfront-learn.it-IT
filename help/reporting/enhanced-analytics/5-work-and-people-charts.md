@@ -12,9 +12,9 @@ jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '190'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Seleziona il tipo di grafici di analisi da visualizzare (Lavoro o Persone) dal m
 
 ![Immagine della ricerca della funzione [!UICONTROL Analisi] in [!DNL Workfront Classic]](assets/section-1-1.png)
 
-Quando si passa ai diagrammi di lavoro, per impostazione predefinita vengono visualizzati i seguenti elementi:
+Quando passi ai grafici di lavoro, per impostazione predefinita visualizzerai:
 
 1. Statistiche KPI
 1. Piano di volo
