@@ -1,6 +1,6 @@
 ---
 title: Comprendere Brand Portal
-description: Scopri come accedere a Brand Portal in [!UICONTROL DAM WORKFRONT], crea cartelle, imposta le date di scadenza delle singole risorse e modifica le impostazioni delle risorse.
+description: Scopri come accedere a Brand Portal in [!UICONTROL Workfront DAM], creare cartelle, impostare le date di scadenza per le singole risorse e modificare le impostazioni delle risorse.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,29 +11,29 @@ jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '229'
+ht-degree: 100%
 
 ---
 
 # Comprendere Brand Portal
 
-Questo video illustra come:
+In questo video scoprirai come:
 
-* Accedere a Brand Portal
-* Creare cartelle e definire le relative impostazioni
-* Impostare le date di scadenza per le singole risorse
+* accedere a Brand Portal
+* Creare le cartelle e stabilirne le impostazioni
+* Impostare le date di scadenza per risorse singole
 * Modificare le impostazioni delle risorse
 
 >[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
 
-## Cartelle risorse
+## Cartelle delle risorse
 
-Le cartelle hanno più scopi in [!UICONTROL DAM WORKFRONT]. In primo luogo, sono un mezzo per organizzare le risorse. In secondo luogo, vengono utilizzati per consentire a diversi gruppi di utenti di accedere alle risorse all’interno delle cartelle.
+In [!UICONTROL Workfront DAM] le cartelle hanno molteplici scopi. Innanzitutto, sono un mezzo per organizzare le risorse. In secondo luogo, vengono utilizzate per consentire a diversi gruppi di utenti di accedere alle risorse all’interno delle cartelle.
 
-Alcuni utenti sfogliano le cartelle per trovare le risorse che desiderano invece di cercare. Una struttura di cartelle logica e pensata indirizzerà questi utenti nella posizione giusta. Alcuni [!UICONTROL DAM WORKFRONT] i clienti organizzano le cartelle per reparto, tipo di file, oggetto risorsa, prodotto, evento o flusso di lavoro. Ma ciò che funziona per un&#39;organizzazione potrebbe non funzionare per un&#39;altra.
+Alcuni utenti sfoglieranno le cartelle per trovare le risorse desiderate anziché effettuare una ricerca. Una struttura di cartelle logica e ponderata indirizzerà questi utenti nel posto giusto. Alcuni clienti di [!UICONTROL Workfront DAM] organizzano le cartelle per reparto, tipo di file, oggetto della risorsa, prodotto, evento o flusso di lavoro. Ma ciò che funziona per un’organizzazione potrebbe non funzionare per un’altra.
 
-Le cartelle consentono inoltre agli utenti di accedere alle risorse. Gli utenti vengono organizzati in gruppi, ai quali viene quindi concessa l&#39;autorizzazione di accesso alle cartelle. Le autorizzazioni per le cartelle possono variare a seconda del gruppo: visualizza solo, carica le risorse, scarica le risorse, modifica le risorse, ecc.
+Le cartelle rappresentano anche il modo in cui l’accesso alle risorse viene concesso agli utenti. Gli utenti vengono organizzati in gruppi ai quali viene concessa l’autorizzazione per accedere alle cartelle. Le autorizzazioni per le cartelle possono variare a seconda del gruppo: solo visualizzazione, caricamento o download delle risorse, modifica delle risorse, ecc.
 
-Quando crei cartelle e cartelle nidificate, tieni presente i gruppi e gli utenti che dovranno accedere alle risorse all’interno delle cartelle. La struttura dei gruppi può influire sul modo in cui si organizzano le cartelle e il modo in cui le cartelle vengono organizzate può influire sulla creazione dei gruppi.
+Durante la creazione di cartelle e cartelle nidificate, occorre tener presente i gruppi e gli utenti che dovranno accedere alle risorse all’interno delle cartelle. La struttura dei gruppi può influire sul modo in cui si organizzano le cartelle e il modo in cui le cartelle vengono organizzate può influire sulla creazione dei gruppi.
