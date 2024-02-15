@@ -1,6 +1,6 @@
 ---
 title: Modificare il team di progetto in un modello di progetto
-description: Evitare di includere involontariamente i membri del team di progetto in un team di progetto modello apprendendo come modificare il team di progetto modello.
+description: Evita di includere involontariamente i membri del team di progetto in un modello di progetto imparando a modificare quest’ultimo.
 activity: use
 feature: Work Management
 thumbnail: 3426803.jpeg
@@ -12,9 +12,9 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Questo video illustra:
 
-* Come evitare di includere involontariamente **non** membri del team di progetto in un team di progetto modello.
-* Come modificare il team di progetto modello.
+* Come evitare di includere involontariamente **non** membri del team di progetto in un modello di progetto.
+* Come modificare il team del modello di progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
