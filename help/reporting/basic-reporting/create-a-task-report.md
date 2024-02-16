@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 40%
+ht-degree: 86%
 
 ---
 
@@ -37,11 +37,11 @@ In questo video scoprirai:
 
 
 
-## Attività 1: creare un rapporto nota con prompt
+## Attività 1: crea un rapporto di nota con indicazioni
 
-Crea un rapporti sulle note che è possibile utilizzare per cercare note utente (ad esempio, commenti o aggiornamenti) o note di sistema in base al contenuto della nota, all’autore, alla data di immissione, al nome del progetto o al tipo di audit. Denomina il rapporto &quot;Ricerca nota&quot;.
+Crea un rapporti sulle note che è possibile utilizzare per cercare note utente (ad esempio, commenti o aggiornamenti) o note di sistema in base al contenuto della nota, all’autore, alla data di immissione, al nome del progetto o al tipo di audit. Denomina il rapporto “Ricerca nota”.
 
-Quando si utilizza il prompt Testo nota, questo rapporto esegue la ricerca all’interno dei thread di aggiornamento per estrarre rapidamente quelli che soddisfano i criteri specificati nei prompt. Quando esegui il rapporto, non è necessario compilare ogni prompt, solo quelli a cui tieni. I vuoti vengono automaticamente ignorati.
+Quando si utilizza il prompt Testo nota, questo rapporto esegue la ricerca all’interno dei thread di aggiornamento per estrarre rapidamente quelli che soddisfano i criteri specificati nei prompt. Quando esegui il rapporto, non è necessario compilare ogni prompt, solo quelli che ritieni importanti. I vuoti vengono automaticamente ignorati.
 
 La visualizzazione deve includere colonne per:
 
@@ -88,8 +88,8 @@ Includi richieste per:
    ![Immagine della schermata per creare raggruppamenti di rapporti sulle note](assets/note-report-groupings.png)
 
 1. Lascia vuoto il campo [!UICONTROL Filtri].
-1. Apri **[!UICONTROL Impostazioni dei rapporti]** e denomina il rapporto &quot;Ricerca nota&quot;.
-1. In [!UICONTROL Descrizione] , inserisci qualcosa come, &quot;Cerca le note sul sistema o sull’utente in base al Tipo di controllo selezionato e ad altri prompt. Le note di sistema vengono visualizzate nella colonna Testo di audit e le note utente nella colonna Testo nota.&quot;
+1. Apri **[!UICONTROL Impostazioni rapporto]** e assegna il nome “Ricerca nota” al rapporto.
+1. Nel campo [!UICONTROL Descrizione], inserisci qualcosa come “Cerca le note sul sistema o sull’utente in base al Tipo di audit selezionato e ad altri prompt. Le note di sistema vengono visualizzate nella colonna Testo di audit e le note utente nella colonna Testo nota”.
 
    ![Immagine della schermata per la creazione delle impostazioni per i rapporti sulle note](assets/note-report-report-options.png)
 
@@ -111,11 +111,11 @@ Includi richieste per:
 
 ## Attività 2: creare un rapporto sui feedback del team di amministrazione
 
-Questo è un report di problemi che visualizza tutti i problemi di una coda di richieste di feedback creata per gli amministratori di sistema. Puoi vedere come creare questa coda di richieste nella [Creare una coda di richieste di feedback dell’amministratore di sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) esercitazione.
+Questo è un rapporto sui problemi che mostra tutti i problemi di una coda richieste di feedback creata per gli amministratori di sistema. Puoi vedere come creare questa coda richieste nel tutorial [Creare una coda richieste di feedback per l’amministratore di sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=it).
 
-Questo report utilizza anche un modulo personalizzato. Per informazioni su come creare un modulo personalizzato, vedi [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) esercitazione.
+Questo rapporto utilizza anche un modulo personalizzato. Per informazioni su come creare un modulo personalizzato, guarda il tutorial [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=it).
 
-Il modulo personalizzato deve essere creato come segue:
+Il modulo personalizzato deve essere creato nel modo seguente:
 
 Nome: feedback del processo di amministrazione
 
@@ -126,34 +126,34 @@ Nome: feedback del processo di amministrazione
    * modello di layout
    * percorso milestone
    * modello di progetto
-   * notifiche promemoria
+   * notifiche di promemoria
    * coda richieste
 1. Nome processo (campo di testo a riga singola)
 1. Livello processo (campo a discesa)
-   * 1 - totalmente inutile
+   * 1 - completamente inutile
    * 2 - non molto utile
-   * 3 - bene ma potrebbe essere meglio
+   * 3 - buono, ma potrebbe essere ulteriormente migliorato
    * 4 - eccellente
 1. Problema o buone notizie (campo di testo paragrafo)
 
-Creare un rapporto sui problemi denominato **Rapporto feedback del team di amministrazione**.
+Crea un rapporto sui problemi denominato **Rapporto feedback del team di amministrazione**.
 
 La vista deve avere le seguenti colonne:
 
 * Problema: nome
-* Contatto principale: nome
+* Contatto principale: nome
 * Problema: tipo di processo
 * Problema: nome del processo
-* Problema: livello processo
+* Problema: livello del processo
 * Problema: problema o buone notizie
-* Problema: data di ingresso
-* Problema: Età
+* Problema: data inserimento
+* Problema: età
 * Problema: assegnazioni
 * Problema: stato
 
-Raggruppa in base al tipo di processo.
+Raggruppa per tipo di processo.
 
-Puoi filtrare in base all’ID del progetto della coda richieste in cui si trovano i problemi di feedback.
+Puoi filtrare in base all’ID del progetto della coda richieste in cui si trovano i problemi relativi al feedback.
 
 
 ![Schermata del rapporto di feedback del team di amministrazione](assets/create-a-system-admin-feedback-request-queue.png)
@@ -163,30 +163,30 @@ Puoi filtrare in base all’ID del progetto della coda richieste in cui si trova
 ## Attività 2 Risposta
 
 1. Seleziona **[!UICONTROL Rapporti]** dal **[!UICONTROL Menu principale]**.
-1. Fai clic su **[!UICONTROL Nuovo rapporto]** menu e seleziona **[!UICONTROL Problema]**.
+1. Fai clic sull’opzione **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Problema]**.
 1. Nella sezione **[!UICONTROL Colonne (visualizzazione)]** imposta le colonne in modo che includano:
 
-   ![Immagine della schermata per creare le colonne del report sui problemi](assets/task-report-activity-2-1.png)
+   ![Immagine della schermata per la creazione di colonne nei rapporti sui problemi](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Problema] > [!UICONTROL Nome]
-   * [!UICONTROL Contatto principale] > [!UICONTROL Nome]
-      * Nota: viene visualizzato con &quot;Proprietario:Nome&quot; come etichetta di colonna. Per cambiare questa impostazione in &quot;Riportato da&quot;, fai clic su Opzioni avanzate e digita &quot;Riportato da&quot; nel **Etichetta colonna personalizzata** campo.
+   * [!UICONTROL Contatto primario] > [!UICONTROL Nome]
+      * Nota: viene visualizzato con “Proprietario:Nome” come l’etichetta della colonna. Puoi cambiare questa impostazione in “Segnalato da”, facendo clic su Opzioni avanzate e digitando “Segnalato da” nel campo **Etichetta colonna personalizzata**.
    * [!UICONTROL Problema] > [!UICONTROL Tipo di processo]
    * [!UICONTROL Problema] > [!UICONTROL Nome processo]
    * [!UICONTROL Problema] > [!UICONTROL Livello processo]
    * [!UICONTROL Problema] > [!UICONTROL Problema o buone notizie]
-   * [!UICONTROL Problema] > [!UICONTROL Data di ingresso]
+   * [!UICONTROL Problema] > [!UICONTROL Data di immissione]
    * [!UICONTROL Problema] > [!UICONTROL Età]
    * [!UICONTROL Problema] > [!UICONTROL Assegnazioni]
    * [!UICONTROL Problema] > [!UICONTROL Stato]
 
 1. Seleziona la colonna **[!UICONTROL Data di immissione]** e modifica l’**[!UICONTROL Ordine decrescente]**.
-1. In **[!UICONTROL Raggruppamenti]** , impostare il report in base al quale eseguire il raggruppamento **[!UICONTROL Problema] > [!UICONTROL Tipo di processo]**.
+1. Nella scheda **[!UICONTROL Raggruppamenti]**, imposta il rapporto in base al quale eseguire il raggruppamento per **[!UICONTROL Problema] > [!UICONTROL Tipo di processo]**.
 
-   ![Immagine della schermata per creare i raggruppamenti dei report sui problemi](assets/task-report-activity-2-2.png)
+   ![Immagine della schermata per la creazione di raggruppamenti nei rapporti sui problemi](assets/task-report-activity-2-2.png)
 
-1. In **[!UICONTROL Filtri]** , aggiungi un filtro per la scheda **[!UICONTROL Problema] > [!UICONTROL ID Progetto]** per eguagliare il progetto della coda richieste in cui risiedono i problemi di feedback.
+1. Nella scheda **[!UICONTROL Filtri]**, aggiungi un filtro per il **[!UICONTROL Problema] > [!UICONTROL ID Progetto]** per eguagliare il progetto della coda richieste in cui si trovano i problemi relativi al feedback.
 
-   ![Immagine della schermata per creare i filtri per la segnalazione dei problemi](assets/task-report-activity-2-3.png)
+   ![Immagine della schermata per la creazione di filtri nella segnalazione dei problemi](assets/task-report-activity-2-3.png)
 
 1. Salva e chiudi il rapporto.

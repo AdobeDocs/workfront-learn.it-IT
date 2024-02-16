@@ -6,7 +6,7 @@ feature-set: Workfront
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '2408'
-ht-degree: 94%
+ht-degree: 97%
 
 ---
 
@@ -149,7 +149,7 @@ ht-degree: 94%
       + [Impostazioni per una richiesta di flusso](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Creare una coda di richieste](manage-work/request-queues/create-a-request-queue.md)
       + [Creare un flusso di richieste](manage-work/request-queues/create-a-request-flow.md)
-      + [Creare una coda di richieste di feedback dell’amministratore di sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+      + [Creare una coda richieste di feedback dell’amministratore di sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Risposte alle domande più comuni sulle code di richieste](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolio {#portfolios}
@@ -343,10 +343,10 @@ ht-degree: 94%
       + [Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configurazione dell’integrazione](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it)
+      + [Configurare l’integrazione](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it)
       + [Mappatura dei metadati](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=it)
       + [Invio di documenti e collegamento delle risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=it)
-      + [Gestione della cronologia delle versioni](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=it)
+      + [Manutenzione della cronologia delle versioni](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=it)
 
    + G Suite {#g-suite-integrations}
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -495,8 +495,8 @@ ht-degree: 94%
       + [Impostazioni per utenti della bozza](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + Caricare bozze {#upload-proofs}
-      + [Che cos’è una versione di prova](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Chi carica le versioni della bozza](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Che cos’è una versione di bozza](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [Chi carica le versioni di bozza](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Convertire un documento in una bozza](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Visualizzare e confrontare le versioni di bozze](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Caricare una versione di bozza](workfront-proof/upload-proofs/upload-a-proof-version.md)

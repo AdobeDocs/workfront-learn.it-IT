@@ -12,7 +12,7 @@ exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ Rendi i tuoi progetti [!DNL  Workfront] rapidamente operativi utilizzando un mod
 1. Predecessori
 1. Assegnazioni
 
-Una volta impostato tutto, modifica lo stato del progetto in Corrente per renderlo attivo. Con l&#39;avanzare del progetto, potrai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande che richiedono risposte e molto altro ancora. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
+Una volta impostato tutto, modifica lo stato del progetto in Corrente per renderlo attivo. Con l’avanzare del progetto, desidererai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande a cui è necessario dare risposta e molto altro. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
 
 <!---
 footer urls for the LP

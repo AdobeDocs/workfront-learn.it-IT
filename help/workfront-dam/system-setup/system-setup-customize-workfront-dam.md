@@ -1,5 +1,5 @@
 ---
-title: Personalizza [!UICONTROL DAM WORKFRONT]
+title: Personalizzare [!UICONTROL Workfront DAM]
 description: Scopri come personalizzare [!UICONTROL Workfront DAM] creando filigrane, personalizzando la finestra di accesso [!UICONTROL DAM], il branding dell’interfaccia e altro ancora.
 activity: use
 feature: Digital Content and Documents
@@ -13,11 +13,11 @@ doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# Personalizza [!UICONTROL DAM WORKFRONT]
+# Personalizzare [!UICONTROL Workfront DAM]
 
 In questo video scoprirai come:
 
