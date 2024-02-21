@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
+workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -31,7 +31,8 @@ ht-degree: 100%
 >[!TIP]
 >
 >* Per acquisire una comprensione più approfondita della modalità testo, ti consigliamo di guardare l’evento webinar registrato [Le domande agli esperti - Introduzione al reporting in modalità testo](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=it) della durata di un’ora.
->* Per saperne di più sulla modalità testo ti consigliamo di guardare i tutorial sul [Reporting avanzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=it), che insieme hanno una durata di cinque ore e mezza.
+>* Per ulteriori informazioni sulla modalità testo, ti consigliamo di guardare i tutorial sulla [Reportistica avanzata](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=it) che hanno una durata totale di cinque ore e mezzo.
+>* Fai clic qui per accedere [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 In questo video scoprirai:
 
