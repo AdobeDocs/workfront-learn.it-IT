@@ -1,7 +1,7 @@
 ---
 title: Come trovare le assegnazioni di lavoro nella [!UICONTROL Home]
 description: Scopri come trovare il lavoro esistente e in entrata che ti è stato assegnato in [!UICONTROL  ]. Rivedi quindi le informazioni sulle assegnazioni.
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%
 

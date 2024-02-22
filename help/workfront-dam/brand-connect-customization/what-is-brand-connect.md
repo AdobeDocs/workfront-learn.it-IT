@@ -1,8 +1,8 @@
 ---
 title: Che cos’è [!UICONTROL Brand Connect]?
-description: Scopri cosa verrà trattato nel corso di personalizzazione di Brand Connect [!UICONTROL Workfront DAM] Amministratore, Parte 3.
+description: Introduzione a [!UICONTROL Brand Connect].
 activity: use
-feature: Digital Content and Documents
+feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
+source-wordcount: '140'
+ht-degree: 91%
 
 ---
 
@@ -29,7 +29,7 @@ Personalizza l’aspetto di [!UICONTROL Brand Portal] per aiutare gli utenti a t
 
 In questo video:
 
-* Introduzione al corso su [!UICONTROL Brand Connect]
+* Introduzione a [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 
