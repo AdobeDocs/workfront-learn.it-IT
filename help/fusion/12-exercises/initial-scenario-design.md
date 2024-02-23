@@ -1,5 +1,5 @@
 ---
-title: Esercizio di progettazione dello scenario iniziale
+title: Esercizio sulla progettazione dello scenario iniziale
 description: Scopri alcuni suggerimenti di base per la navigazione quando accedi a Workfront Fusion per la prima volta, nonché per la creazione del primo scenario.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Esercizio di progettazione dello scenario iniziale
+# Esercizio sulla progettazione dello scenario iniziale
 
 Scopri alcuni suggerimenti di base per la navigazione quando accedi a Workfront Fusion per la prima volta, nonché per la creazione del primo scenario.
 
