@@ -1,5 +1,5 @@
 ---
-title: Esercizio di aggregazione avanzato
+title: Esercizio per l’aggregazione avanzata
 description: Chiamare un servizio web per restituire dettagli su più paesi e identificare la popolazione, raggruppata per sottoregione.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11048.png
 recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '493'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Esercizio di aggregazione avanzato
+# Esercizio per l’aggregazione avanzata
 
 Scopri come utilizzare i raggruppamenti durante l’aggregazione.
 
