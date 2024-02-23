@@ -1,5 +1,5 @@
 ---
-title: Esercitazione sui pattern di instradamento
+title: Esercizio sui modelli di indirizzamento
 description: Rafforza il concetto di instradamento e percorso di fallback senza dover gestire altre API.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11044.png
 recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '361'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Esercitazione sui pattern di instradamento
+# Esercizio sui modelli di indirizzamento
 
 Rafforza il concetto di instradamento e percorso di fallback senza dover gestire altre API.
 
