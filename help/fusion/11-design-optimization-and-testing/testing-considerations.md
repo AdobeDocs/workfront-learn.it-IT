@@ -12,9 +12,9 @@ exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '316'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ L’obiettivo di un test è assicurarsi che i requisiti siano rispettati, che no
 Tieni presenti queste linee guida per garantire test coerenti e in grado di acquisire tutti gli elementi essenziali.
 
 * Determina quali dati di test sono necessari in base ai requisiti. In genere, i test più efficaci si basano su requisiti ben definiti e documentati.
-* Pianifica e comunica come generare i dati necessari per testare profondità, ambito, complessità e carico. Evita di testare solo &quot;percorso felice&quot;. Pensa a tutti i modi in cui gli utenti potranno interagire con le automazioni e all’ampia gamma di possibili dati che verranno elaborati.
+* Pianifica e comunica come generare i dati necessari per testare profondità, ambito, complessità e carico. Evita di testare solo i percorsi di successo. Pensa a tutti i modi in cui gli utenti potranno interagire con le automazioni e all’ampia gamma di possibili dati che verranno elaborati.
 * Considera i dati di input e output necessari tra i sistemi connessi. Verifica input e output in questi sistemi, non solo in Workfront Fusion.
 
 Dai priorità ai test durante l’intero ciclo di vita dell’implementazione di Workfront Fusion. Durante la progettazione, pensa a come puoi verificare se le decisioni di progettazione soddisfano i requisiti. Pensa a come dati imprevisti potrebbero causare errori e aggiungi la gestione degli errori pertinente durante la creazione. Pianifica l’iterazione attraverso prototipi attuabili durante il test continuo.
