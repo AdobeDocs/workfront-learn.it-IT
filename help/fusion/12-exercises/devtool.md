@@ -1,5 +1,5 @@
 ---
-title: Esercitazione strumento di sviluppo
+title: Esercizio su DevTool
 description: Migliora le tue capacità di risolvere i problemi di uno scenario e semplifica le configurazioni complesse utilizzando DevTool.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11057.png
 recommendations: noDisplay,noCatalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '624'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Esercitazione strumento di sviluppo
+# Esercizio su DevTool
 
 Migliora le tue capacità di risolvere i problemi di uno scenario e facilitare configurazioni complesse utilizzando DevTool.
 
