@@ -1,6 +1,6 @@
 ---
-title: Esercizio Accedere alle versioni precedenti
-description: Scopri come tornare a una versione precedente di una [!UICONTROL Fusion] scenario.
+title: Esercizio sull’accesso alle versioni precedenti
+description: Scopri come tornare a una versione precedente di uno scenario [!UICONTROL Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,13 +12,13 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# Esercizio Accedere alle versioni precedenti
+# Esercizio sull’accesso alle versioni precedenti
 
 Scopri come tornare a una versione precedente di uno scenario.
 
