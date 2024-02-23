@@ -1,5 +1,5 @@
 ---
-title: Introduzione all’esercizio sui connettori universali
+title: Esercizio sull’introduzione ai connettori universali
 description: Approfondisci le tue conoscenze sull’utilizzo dei connettori universali REST e sull’utilizzo dei dati restituiti.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11042.png
 recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '602'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Introduzione all’esercizio sui connettori universali
+# Esercizio sull’introduzione ai connettori universali
 
 Approfondisci le tue conoscenze sull’utilizzo dei connettori universali REST e sull’utilizzo dei dati restituiti.
 
