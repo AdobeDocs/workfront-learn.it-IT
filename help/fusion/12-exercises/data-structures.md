@@ -1,5 +1,5 @@
 ---
-title: Esercizio sulle strutture dei dati
+title: Esercizio sulle strutture di dati
 description: Trasformare i dati da un file di origine ad un file di destinazione. (Deve essere compreso tra 60 e 160 caratteri, ma è di 58 caratteri)
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11054.png
 recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1079'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# Esercizio sulle strutture dei dati
+# Esercizio sulle strutture di dati
 
 Trasformare i dati da un file di origine ad un file di destinazione.
 
