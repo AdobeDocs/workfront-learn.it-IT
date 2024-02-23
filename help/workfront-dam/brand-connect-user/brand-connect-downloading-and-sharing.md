@@ -1,5 +1,5 @@
 ---
-title: Scopri come scaricare e condividere le lightbox
+title: Comprendere il download e la condivisione come utente
 description: Scopri come scaricare e condividere lightbox e risorse in Brand Connect di [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '53'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
 
-# Brand Connect: come scaricare e condividere le lightbox
+# Comprendere il download e la condivisione come utente
 
 In questo video scoprirai come:
 

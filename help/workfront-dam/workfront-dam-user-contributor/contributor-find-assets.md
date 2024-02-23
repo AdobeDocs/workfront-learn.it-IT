@@ -1,6 +1,6 @@
 ---
-title: Trova e organizza le risorse in [!UICONTROL Workfront DAM]
-description: Scopri come cercare le risorse, cercare all’interno delle cartelle, semplificare i risultati di ricerca, utilizzare metadati e parole chiave come filtri di ricerca e altro ancora in [!UICONTROL Workfront DAM].
+title: Comprendere la ricerca di risorse come collaboratore
+description: Scopri come cercare le risorse, cercare all’interno delle cartelle, semplificare i risultati di ricerca, utilizzare metadati e parole chiave come filtri di ricerca in [!UICONTROL DAM WORKFRONT].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
 source-wordcount: '407'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# Collaboratore: trovare le risorse
+# Comprendere la ricerca di risorse come collaboratore
 
 In questo video scoprirai come:
 
@@ -34,7 +34,7 @@ In questo video scoprirai come:
 
 Una ricerca di base esamina nomi di file, campi di metadati, parole chiave e contenuto delle risorse (a seconda del tipo di risorsa). Non include il nome della cartella.
 
-La maggior parte dei risultati della ricerca è costituita da corrispondenze esatte. Un’eccezione a questa regola della “corrispondenza esatta” si verifica quando il file di [!UICONTROL Workfront DAM] esegue la ricerca nel campo del nome file. [!UICONTROL Workfront DAM] restituisce corrispondenze parziali del nome del file, anziché corrispondenze esatte.
+La maggior parte dei risultati della ricerca è costituita da corrispondenze esatte. Un’eccezione a questa regola di &quot;corrispondenza esatta&quot; si verifica quando il [!UICONTROL DAM WORKFRONT] cerca nel campo nome file. [!UICONTROL Workfront DAM] restituisce corrispondenze parziali del nome del file, anziché corrispondenze esatte.
 
 ## Utilizzo degli operatori durante la ricerca
 
@@ -54,11 +54,11 @@ Utilizza l’operatore OR per trovare le risorse che contengono uno qualsiasi de
 
 ### Frase
 
-Per trovare una frase esatta, racchiudila tra virgolette. Tutte le parole saranno trovate insieme e in ordine. Ad esempio, per “Torre Eiffel” le parole verranno trovate in quell’ordine esatto.
+Per trovare una frase esatta, racchiudila tra virgolette. Tutte le parole saranno trovate insieme e in ordine. Ad esempio, la ricerca di “Torre Eiffel” troverà quelle parole in quell’ordine esatto.
 
 ### Operatore negativo
 
-Se desideri escludere una parola dai risultati della ricerca, inserisci un segno meno (–) davanti alla parola. Assicurati che non ci sia spazio tra il segno meno e la parola. Ad esempio, per escludere risorse che contengono la parola “torre” nei metadati, la ricerca potrebbe essere impostata come Parigi -torre.
+Se desideri escludere una parola dai risultati della ricerca, inserisci un segno meno (–) davanti alla parola. Assicurati che non vi sia uno spazio tra il segno meno e la parola. Ad esempio, per escludere le risorse i cui metadati contengono la parola “torre”, la ricerca può essere impostata come Parigi -torre.
 
 ### Operatore campo vuoto
 

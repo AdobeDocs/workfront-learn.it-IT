@@ -1,5 +1,5 @@
 ---
-title: Comprendere i profili utente e la navigazione in [!UICONTROL Workfront DAM]
+title: Comprendere [!UICONTROL Workfront DAM] come collaboratore
 description: Scopri la differenza tra i tre profili utente in [!UICONTROL Workfront DAM] e come spostarsi in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '47'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
 
-# Collaboratore: guida introduttiva
+# Comprendere [!UICONTROL Workfront DAM] come collaboratore
 
 In questo video scoprirai:
 

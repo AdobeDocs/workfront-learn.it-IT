@@ -3,15 +3,15 @@ title: Tracciare l’avanzamento complessivo del progetto
 description: Scopri in che modo le informazioni visualizzate nell’intestazione del progetto possono aiutarti a tenere traccia dell’avanzamento e dello stato generali del progetto.
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%
 

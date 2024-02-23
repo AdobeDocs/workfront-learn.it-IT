@@ -1,5 +1,5 @@
 ---
-title: Pubblicare risorse in [!UICONTROL Brand Connect]
+title: Pubblicare risorse come collaboratore
 description: Scopri come pubblicare risorse e cartelle in [!UICONTROL Brand Connect] in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,28 +10,28 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 60%
 
 ---
 
-# Collaboratore: pubblicazione risorse
+# Pubblicare risorse come collaboratore
 
 ## Preparare la pubblicazione delle risorse
 
-La pubblicazione di una risorsa o di una cartella in [!UICONTROL Brand Connect] consente a un pubblico più ampio di accedere alle risorse approvate. È possibile che molte persone nell’organizzazione non abbiano accesso a [!UICONTROL Workfront DAM] ma che dispongano dell’accesso a [!UICONTROL Brand Connect].
+La pubblicazione di una risorsa o di una cartella in [!UICONTROL Brand Connect] consente a un pubblico più ampio di accedere alle risorse approvate. È possibile che molte persone nell&#39;organizzazione non abbiano accesso a [!UICONTROL DAM WORKFRONT] ma avrà accesso a [!UICONTROL Brand Connect].
 
-Le risorse non devono essere pubblicate finché non sono definitive. Ad esempio, è preferibile non pubblicare una bozza di una brochure in [!UICONTROL Brand Connect], altrimenti potrebbe venire distribuita prima di essere finalizzata.
+Le risorse non devono essere pubblicate finché non sono definitive. Ad esempio, non si desidera pubblicare una bozza approssimativa di una brochure in [!UICONTROL Brand Connect], altrimenti potrebbe essere distribuito prima di essere finalizzato.
 
 Prima di pubblicare una risorsa in [!UICONTROL Brand Connect], è possibile effettuare alcune delle seguenti operazioni:
 
 * Posizionare una risorsa in una cartella specifica.
-* Modificare i metadati e le parole chiave di una risorsa.
+* Modifica i metadati e le parole chiave di una risorsa.
 * Caricare una nuova versione di una risorsa.
-* Rendere lo stato di una risorsa o di una cartella [!UICONTROL Attivo].
-* Assicurarsi che la risorsa non sia scaduta.
+* Impostare lo stato di una risorsa o di una cartella [!UICONTROL Attivo].
+* Assicurati che la risorsa non sia scaduta.
 * Controllare la risorsa in modo da ricevere notifiche quando vengono apportate modifiche.
 
 ## Pubblicare le risorse
