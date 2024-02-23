@@ -1,5 +1,5 @@
 ---
-title: Esercizio Set/Get variables
+title: Esercizio per le variabili Set e Get
 description: Scopri come utilizzare i moduli Variabile Set e Get per utilizzare i campi disponibili in un percorso diverso dall’originale.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11045.png
 recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '641'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Esercizio Set/Get variables
+# Esercizio per le variabili Set e Get
 
 Scopri come utilizzare i moduli Variabile Set e Get per utilizzare i campi disponibili in un percorso diverso dall’originale.
 
