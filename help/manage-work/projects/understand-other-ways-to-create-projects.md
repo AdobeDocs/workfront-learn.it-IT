@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
+last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 70%
 
 ---
 
@@ -29,20 +30,11 @@ In questo video scoprirai come:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
-## Suggerimenti professionali
+## Ulteriori informazioni sull&#39;utilizzo delle attività
 
-* La finestra [!UICONTROL Nuovo progetto da modello] semplifica la selezione del modello giusto per il tuo progetto. Scorri il pannello di sinistra per trovare un modello, quindi selezionalo per ottenere un’anteprima dei contenuti. Questa anteprima mostra quante attività sono presenti nel modello, i ruoli richiesti e altro ancora.
-
-Finestra ![[!UICONTROL Nuovo progetto da modello]](assets/planner-fund-new-project-from-template-window.png)
-
-* Se esiste un modello che usi frequentemente, aggiungilo ai preferiti! Vedrai il modello elencato nel menu [!UICONTROL Nuovo progetto], oltre ad apparire sotto l’icona [!UICONTROL Preferiti e Recenti] nella barra di navigazione. Fai clic sull’icona a forma di stella dei preferiti ovunque sia visibile (nella pagina del modello, scegliendo un modello con cui creare il progetto, ecc.).
-
-Elenco dei ![[!UICONTROL Modelli preferiti] sotto il pulsante [!UICONTROL Nuovo progetto]](assets/planner-fund-template-favorites.png)
-
-<!---
-learn more:
-create a project using a template
-create a project
-copy a project
-import a project from Microsoft Project
---->
+* [Creare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks.html)
+* [Utilizzare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks.html)
+* [Assegna attività dal piano di progetto](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html)
+* [Comprendere le durate delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations.html)
+* [Scopri come ordinare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html)
+* [Comprendere le ore pianificate](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours.html)

@@ -12,10 +12,10 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: 5358a1e6f3c2cddfb2066954a922d8804e0b0a14
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 91%
 
 ---
 
@@ -29,5 +29,7 @@ In questo video scoprirai come:
 * Effettuare una richiesta
 * Visualizzare le richieste inviate
 * Trovare una bozza di una richiesta
+* Visualizza gli ultimi tre percorsi di richiesta
+* Copiare una richiesta
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
