@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '446'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -39,11 +39,11 @@ Prima di guardare questi tutorial, acquisisci:
 * Una buona comprensione degli oggetti che desideri includere nei rapporti.
 * Una buona conoscenza dell’utilizzo dei moduli personalizzati, in particolare dei campi personalizzati calcolati.
 * Un tipo di licenza [!UICONTROL Pianificazione] con i diritti abilitati per la creazione di rapporti e filtri.
-* Avresti dovuto seguire questi corsi:
+* Dovresti aver seguito questi corsi:
    * [[!UICONTROL Elementi di reporting di base]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=it)
    * [[!UICONTROL Creare rapporti e dashboard personalizzati]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=it)
    * [[!UICONTROL Creare filtri intermedi]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=it)
-* Avresti dovuto seguire anche le seguenti esercitazioni:
+* Dovresti aver seguito anche questi tutorial:
    * [[!UICONTROL Comprendere la modalità testo di base per le visualizzazioni]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=it)
    * [[!UICONTROL Comprendere la modalità testo di base per i raggruppamenti]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=it)
 

@@ -1,5 +1,5 @@
 ---
-title: Comprendere le best practice relative ai metadati e alle parole chiave
+title: Comprendere le best practice per metadati e parole chiave
 description: Scopri come utilizzare metadati e parole chiave in [!UICONTROL Workfront DAM] per descrivere una risorsa in modod da aumentarne la ricercabilità nella tua organizzazione.
 activity: use
 team: Technical Marketing
@@ -10,13 +10,13 @@ level: Beginner
 jira: KT-10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '579'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Comprendere le best practice relative ai metadati e alle parole chiave
+# Comprendere le best practice per metadati e parole chiave
 
 ## Best practice per i metadati
 
@@ -24,7 +24,7 @@ I metadati sono tutti i dati utilizzati per descrivere una risorsa. I campi di m
 
 L’utilizzo di metadati coerenti aumenta la ricercabilità delle risorse dell’organizzazione. Inoltre, le risorse scaricate da [!UICONTROL Workfront DAM] conservano i loro metadati, il che fornisce un ulteriore livello di protezione delle tue risorse se escono da [!UICONTROL Workfront DAM].
 
-Di seguito sono riportate alcune best practice per facilitare l’utilizzo dei metadati da parte dell’organizzazione:
+Di seguito sono riportate alcune best practice per facilitare le attività dell’organizzazione relative ai metadati:
 
 * Aggiungi sempre alle risorse informazioni sulla proprietà o sui crediti per consentirne l’identificazione al di fuori di [!UICONTROL Workfront DAM].
 * Aggiungi i termini di utilizzo per le risorse gestite con diritti per evitare utilizzi impropri.
@@ -36,7 +36,7 @@ Di seguito sono riportate alcune best practice per facilitare l’utilizzo dei m
 
 ## Strategia sui metadati
 
-Probabilmente la tua organizzazione ha sviluppato una strategia sui metadati. Se carichi le risorse in [!UICONTROL DAM WORKFRONT], assicurati di conoscere il processo della tua organizzazione per quanto riguarda:
+Probabilmente la tua organizzazione ha sviluppato una strategia sui metadati. Se stai caricando le risorse su [!UICONTROL Workfront DAM], assicurati di conoscere il processo dell’organizzazione relativo a:
 
 * Chi è responsabile dell’aggiunta dei metadati.
 * Quali metadati sono necessari.
@@ -48,7 +48,7 @@ Probabilmente la tua organizzazione ha sviluppato una strategia sui metadati. Se
 
 Le parole chiave sono un sottoinsieme di metadati. Le parole chiave tendono ad essere termini generici e descrittivi del contenuto della risorsa. Queste informazioni vengono aggiunte alla risorsa, spesso manualmente, dopo il caricamento. Tutte le parole chiave vanno in uno specifico campo (etichettato Parole chiave). Ad esempio, una foto della Torre Eiffel a Parigi potrebbe contenere parole chiave come punto di riferimento, turismo o luci.
 
-Le parole chiave possono essere cercate, pertanto è importante che vengano immesse in modo coerente nelle risorse.
+Le parole chiave sono ricercabili, quindi è importante che vengano inserite nelle risorse in modo coerente.
 
 La tua organizzazione può implementare una tassonomia delle parole chiave, ovvero un elenco controllato di parole chiave da cui puoi scegliere quando modifichi una risorsa in [!UICONTROL Workfront DAM].
 

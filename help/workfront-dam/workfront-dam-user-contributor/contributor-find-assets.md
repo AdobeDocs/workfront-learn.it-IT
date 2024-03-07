@@ -1,6 +1,6 @@
 ---
 title: Comprendere la ricerca di risorse come collaboratore
-description: Scopri come cercare le risorse, cercare all’interno delle cartelle, semplificare i risultati di ricerca, utilizzare metadati e parole chiave come filtri di ricerca in [!UICONTROL DAM WORKFRONT].
+description: Scopri come cercare le risorse, cercare all’interno delle cartelle, semplificare i risultati di ricerca, utilizzare i metadati e le parole chiave come filtri di ricerca in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ In questo video scoprirai come:
 
 Una ricerca di base esamina nomi di file, campi di metadati, parole chiave e contenuto delle risorse (a seconda del tipo di risorsa). Non include il nome della cartella.
 
-La maggior parte dei risultati della ricerca è costituita da corrispondenze esatte. Un’eccezione a questa regola di &quot;corrispondenza esatta&quot; si verifica quando il [!UICONTROL DAM WORKFRONT] cerca nel campo nome file. [!UICONTROL Workfront DAM] restituisce corrispondenze parziali del nome del file, anziché corrispondenze esatte.
+La maggior parte dei risultati della ricerca è costituita da corrispondenze esatte. Un’eccezione a questa regola della “corrispondenza esatta” si verifica quando [!UICONTROL Workfront DAM] esegue la ricerca nel campo del nome del file. [!UICONTROL Workfront DAM] restituisce corrispondenze parziali del nome del file, anziché corrispondenze esatte.
 
 ## Utilizzo degli operatori durante la ricerca
 

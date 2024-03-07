@@ -1,5 +1,5 @@
 ---
-title: Impostazioni di gestione delle risorse, Bilanciatore dei carichi di lavoro e report sull'utilizzo
+title: Impostazioni di Gestione delle risorse, Bilanciatore dei carichi di lavoro e Rapporto sull’utilizzo
 description: Scopri come configurare i manager risorse con l’accesso corretto e come visualizzare il bilanciatore del carico di lavoro e il rapporto sull’utilizzo.
 feature: Resource Management
 type: Tutorial
@@ -11,15 +11,15 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
-# Impostazioni di gestione delle risorse, Bilanciatore dei carichi di lavoro e rapporto sull&#39;utilizzo
+# Configurazioni di Gestione delle risorse, Bilanciatore dei carichi di lavoro e Rapporto sull’utilizzo
 
-[!DNL Workfront] offre dati, attraverso più strumenti in [!DNL Workfront], per semplificare le decisioni sulle risorse e agevolare i processi. Per visualizzare cosa succede alle tue risorse, assicurati che i tuoi manager, gli utenti e i progetti siano configurati correttamente. Queste configurazioni sono utili anche se non prevedi di utilizzare tutti [!DNL Workfront's] strumenti di gestione delle risorse.
+[!DNL Workfront] offre dati, attraverso più strumenti in [!DNL Workfront], per semplificare le decisioni sulle risorse e agevolare i processi. Per scoprire cosa stanno facendo le tue risorse, assicurati che i tuoi manager, utenti e progetti siano configurati correttamente. Queste configurazioni sono utili anche se non prevedi di utilizzare tutti gli strumenti di gestione delle risorse di [!DNL Workfront's].
 
 In questa sezione scoprirai:
 
@@ -28,7 +28,7 @@ In questa sezione scoprirai:
 
 ## Configurazioni di gestione delle risorse
 
-Iniziamo con assicurandoci che le persone giuste abbiano accesso a e possano amministrare le risorse della tua organizzazione.
+Per iniziare, assicurati che le persone giuste abbiano accesso alle risorse e possano gestirle.
 
 &lt;!Scarica la guida per istruzioni dettagliate.&gt;
 

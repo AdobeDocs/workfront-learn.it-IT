@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Ora puoi inserire un collegamento all’elemento [!UICONTROL Workfront DAM] in [
    ![Immagine dell’opzione [!UICONTROL Da Workfront DAM] nel menu a discesa [!UICONTROL Aggiungi nuovo]](assets/01-contributor-from-workfront-dam.png)
 1. Un elenco di file e cartelle a cui hai accesso in [!UICONTROL Workfront DAM] viene visualizzato nella finestra.
 
-1. Trova la risorsa che stai cercando e seleziona la casella accanto a essa. La visualizzazione predefinita è un elenco, ma è possibile passare a una visualizzazione delle miniature con le icone nell’angolo in alto a destra della finestra.
+1. Trova la risorsa che stai cercando e verifica la casella accanto ad essa. La visualizzazione predefinita è un elenco, ma è possibile passare a una visualizzazione delle miniature con le icone nell’angolo in alto a destra della finestra.
 
    ![Immagine delle risorse selezionate in una finestra popup](assets/02-contributor-select-files-in-dam.png)
 

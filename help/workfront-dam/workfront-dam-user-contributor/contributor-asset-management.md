@@ -11,9 +11,9 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -38,8 +38,8 @@ Un flusso di lavoro può includere la gestione di più versioni (o passate, bozz
 
 Il sistema consente il controllo automatico delle versioni delle risorse quando un file con lo stesso nome di un file esistente viene caricato nella stessa cartella. Per verificare se questa funzionalità è stata attivata, rivolgiti all’amministratore di sistema.
 
-Se è attivato il controllo automatico della versione, la versione di una risorsa viene eseguita solo se viene caricata nella cartella che contiene la risorsa originale. Entrambe le risorse devono avere lo stesso nome file. Se la risorsa viene caricata in un’altra cartella, viene inserita come nuovo file.
-Se il controllo della versione non è attivato, un file con lo stesso nome di un file esistente viene caricato come nuovo file, indipendentemente dalla cartella in cui è inserito. Questo può comportare la presenza di due risorse con lo stesso nome nella stessa cartella.
+Se è stato attivato il controllo automatico delle versioni, la versione di una risorsa viene eseguita solo se viene caricata nella cartella che contiene la risorsa originale. Entrambe le risorse devono avere lo stesso nome file. Se la risorsa viene caricata in un’altra cartella, viene inserita come nuovo file.
+Se il controllo della versione non è stato attivato, un file con lo stesso nome di un file esistente viene caricato come nuovo file, indipendentemente dalla cartella in cui è inserito. Questo può comportare la presenza di due risorse con lo stesso nome nella stessa cartella.
 
 Puoi anche caricare manualmente le versioni di una risorsa specifica. Fai clic sull’icona di modifica della risorsa, quindi seleziona **[!UICONTROL Carica nuova versione]**.
 
