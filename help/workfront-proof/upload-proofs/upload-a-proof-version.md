@@ -11,10 +11,10 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
+workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
@@ -29,7 +29,7 @@ In questo video scoprirai come:
 
 ## Caricare una versione dal Proofing Viewer
 
-Se hai una bozza aperta nel Proofing Viewer, puoi iniziare a caricare una versione direttamente dal menu della versione. Fai clic sul collegamento [!UICONTROL Nuova versione] da indirizzare direttamente alla pagina “[!UICONTROL caricare una nuova versione]” e completare il caricamento.
+Se hai una bozza aperta nel Proofing Viewer, puoi iniziare a caricare una versione direttamente dal menu della versione. Fai clic su [!UICONTROL Nuova versione] collegamento da instradare direttamente al &quot;[!UICONTROL carica una nuova versione]&quot; e completare il caricamento.
 
 ![Immagine del Proofing Viewer con il menu della versione esteso nell’angolo in alto a sinistra e il collegamento [!UICONTROL Nuova versione] evidenziato.](assets/upload-version-from-viewer.png)
 
@@ -37,9 +37,9 @@ Se hai una bozza aperta nel Proofing Viewer, puoi iniziare a caricare una versio
 
 >[!IMPORTANT]
 >
->Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte del tuo corso di formazione su Workfront.
+>Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte della tua formazione su Workfront.
 
-Trova una bozza che hai caricato su Workfront. Carica una nuova versione di tale bozza, assegnando un nuovo modello di flusso di lavoro o apportando modifiche al flusso di lavoro esistente.
+Trova una prova che hai caricato in Workfront. Carica una nuova versione di tale bozza, assegnando un nuovo modello di flusso di lavoro o apportando modifiche al flusso di lavoro esistente.
 
 <!--
 ### Learn more 
