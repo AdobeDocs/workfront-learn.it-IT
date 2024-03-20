@@ -12,9 +12,9 @@ exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Questo video illustra:
 
 >[!NOTE]
 >
->Se la tua organizzazione è stata integrata in Adobe Admin Console, consulta [Aggiungere utenti ad Adobe Workfront Fusion tramite Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+>Se l’organizzazione è stata integrata in Adobe Admin Console, consulta [Aggiungere utenti in Adobe Workfront Fusion tramite Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=it).
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
