@@ -13,9 +13,9 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -23,14 +23,14 @@ ht-degree: 71%
 
 In questo video scoprirai:
 
-* Definizione di un progetto in Workfront
-* Passaggi fondamentali per rendere operativo un progetto
+* La definizione di un progetto in Workfront
+* Passaggi di base per rendere operativo un progetto
 * Informazioni su attività e problemi
-* Procedure consigliate per iniziare a creare progetti
+* Best practice per iniziare a creare progetti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Prepara e avvia rapidamente i tuoi progetti Workfront utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
+Rendi rapidamente operativi i progetti di Workfront utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
 
 1. Attività
 1. Durata
