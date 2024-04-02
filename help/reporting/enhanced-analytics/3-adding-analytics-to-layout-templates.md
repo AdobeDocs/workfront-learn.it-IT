@@ -1,6 +1,6 @@
 ---
-title: Aggiungere Analytics ai modelli layout
-description: Scopri come gli amministratori di sistema e di gruppo concedono l’accesso ad Analytics.
+title: Come accedere [!UICONTROL Analisi avanzata]
+description: Scopri come gli amministratori di sistema e di gruppo concedono l’accesso a [!UICONTROL Analisi avanzata] tramite un modello di layout.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -9,17 +9,28 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
+last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '85'
-ht-degree: 100%
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 44%
 
 ---
 
-# Aggiungere Analytics ai modelli layout
+
+# Come accedere ad Enhanced Analytics
+
+Come la maggior parte delle altre funzionalità di Workfront, puoi accedere a [!UICONTROL Analisi avanzata] dal menu principale. Ma [!UICONTROL Analytics] non è nel menu principale per impostazione predefinita.
+
+![Immagine del menu principale ](assets/analytics-on-main-menu.png)
+
+Se non è visualizzato, l&#39;amministratore di sistema o di gruppo dovrà aggiungerlo automaticamente. Lo fanno in un modello di layout. Il video seguente spiega come.
+
+
+## Aggiungere Analytics ai modelli layout
 
 Questo video illustra come gli amministratori di sistema e di gruppo concedono l’accesso ad [!UICONTROL Analytics] in Workfront.
 
