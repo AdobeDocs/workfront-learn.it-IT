@@ -12,10 +12,10 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 91%
+source-wordcount: '475'
+ht-degree: 87%
 
 ---
 
@@ -34,7 +34,7 @@ In questo video scoprirai:
 
 La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro. Se desideri un’opzione che non è visibile nell’istanza di [!DNL Workfront], rivolgiti all’amministratore di sistema. Di seguito sono riportate alcune delle funzioni principali della pagina del progetto di cui tenere conto.
 
-![Pagina del progetto](assets/project-page-graphic-for-planner.png)
+![Schermata della pagina del progetto](assets/project-page-graphic-for-planner-v2.png)
 
 1. **Percorso breadcrumb:** naviga all&#39;interno della gerarchia di portfolio e programmi alla base del progetto.
 2. **Tipo oggetto:** la visualizzazione del tipo di oggetto sulla pagina di destinazione consente di identificare ciò che si sta esaminando in [!DNL Workfront]. La durata del “progetto” può essere personalizzata dall’amministratore di sistema di [!DNL Workfront].
@@ -50,10 +50,5 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 12. **Menù del pannello a sinistra:** tramite il pannello a sinistra, accedi a diverse informazioni sul progetto. Se hai bisogno di un po’ più di spazio sullo schermo, fai clic sull’icona per comprimere il pannello. Trascina le icone in modo che il loro ordine ti consenta di lavorare in modo efficiente. Le opzioni visualizzate sono impostate dall’amministratore di sistema di [!DNL Workfront].
 13. **Elenco attività:** l’elenco delle attività mostra tutte le attività che compongono il piano del progetto. Le informazioni visibili su ciascuna attività sono determinate dalla vista selezionata.
 14. **Pannello Riepilogo:** Il pannello di riepilogo consente di esaminare rapidamente le informazioni relative all&#39;attività selezionata. Fai clic sull’icona per aprire o chiudere.
+15. **Aggiungi altre attività** Fare clic qui per aggiungere un&#39;altra attività in fondo all&#39;elenco delle attività mediante la modifica in linea.
 
-<!---
-learn more:
-simplified left navigation
-edit projects
-new toolbar for lists
---->
