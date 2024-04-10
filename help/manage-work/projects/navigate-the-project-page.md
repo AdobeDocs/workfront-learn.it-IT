@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 87%
@@ -51,4 +51,5 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 13. **Elenco attività:** l’elenco delle attività mostra tutte le attività che compongono il piano del progetto. Le informazioni visibili su ciascuna attività sono determinate dalla vista selezionata.
 14. **Pannello Riepilogo:** Il pannello di riepilogo consente di esaminare rapidamente le informazioni relative all&#39;attività selezionata. Fai clic sull’icona per aprire o chiudere.
 15. **Aggiungi altre attività** Fare clic qui per aggiungere un&#39;altra attività in fondo all&#39;elenco delle attività mediante la modifica in linea.
+
 
