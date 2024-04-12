@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '475'
-ht-degree: 87%
+ht-degree: 95%
 
 ---
 
@@ -46,10 +46,10 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 8. **[!UICONTROL Condizione]:** la[!UICONTROL  condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
 9. **[!UICONTROL Stato]:** lo [!UICONTROL stato] indica dove si trova il progetto all’interno di un processo, ovvero se è ancora in fase di pianificazione o è in corso, oppure se tutto il lavoro inerente il progetto è stato completato.
 10. **[!UICONTROL Nuova attività:]** fai clic su questa opzione per creare una nuova attività nel progetto. L’attività viene generata alla fine dell’elenco.
-11. **[!UICONTROL Esporta]:** Esporta l&#39;elenco di attività o le attività selezionate in un file PDF, foglio di calcolo o delimitato da tabulazioni.
+11. **[!UICONTROL Esporta]:** esporta l’elenco attività o le attività selezionate in un file PDF, foglio di calcolo o file delimitato da tabulazioni.
 12. **Menù del pannello a sinistra:** tramite il pannello a sinistra, accedi a diverse informazioni sul progetto. Se hai bisogno di un po’ più di spazio sullo schermo, fai clic sull’icona per comprimere il pannello. Trascina le icone in modo che il loro ordine ti consenta di lavorare in modo efficiente. Le opzioni visualizzate sono impostate dall’amministratore di sistema di [!DNL Workfront].
 13. **Elenco attività:** l’elenco delle attività mostra tutte le attività che compongono il piano del progetto. Le informazioni visibili su ciascuna attività sono determinate dalla vista selezionata.
-14. **Pannello Riepilogo:** Il pannello di riepilogo consente di esaminare rapidamente le informazioni relative all&#39;attività selezionata. Fai clic sull’icona per aprire o chiudere.
+14. **Pannello Riepilogo:** il pannello di riepilogo consente di esaminare rapidamente le informazioni relative all’attività selezionata. Fai clic sull’icona per aprire o chiudere.
 15. **Aggiungi altre attività** Fare clic qui per aggiungere un&#39;altra attività in fondo all&#39;elenco delle attività mediante la modifica in linea.
 
 
