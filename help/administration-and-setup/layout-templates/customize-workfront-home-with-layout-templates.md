@@ -1,6 +1,6 @@
 ---
 title: Personalizzare la [!UICONTROL Home] con modelli di layout
-description: Scopri come personalizzare i tuoi utenti [!UICONTROL Home] per accedere, tenere traccia, approvare e aggiornare in modo rapido e semplice.
+description: Scopri come personalizzare l’area [!UICONTROL Home] degli utenti per accedere, tenere traccia, approvare e aggiornare il lavoro in modo rapido e semplice.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -12,22 +12,22 @@ jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
 source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
-# Personalizza [!UICONTROL Area di lavoro Home] con modelli di layout
+# Personalizzare l’[!UICONTROL area di lavoro della Home] con modelli di layout
 
-Scopri come personalizzare i tuoi utenti [!UICONTROL Home] per accedere, tenere traccia, approvare e aggiornare in modo rapido e semplice.
+Scopri come personalizzare l’area [!UICONTROL Home] degli utenti per accedere, tenere traccia, approvare e aggiornare il lavoro in modo rapido e semplice.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
 
 <br>
 </br>
 
-## Personalizza legacy [!UICONTROL Home] con modelli di layout
+## Personalizzare la [!UICONTROL Home] precedente con modelli di layout
 
 In questo video scoprirai come:
 
