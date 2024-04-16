@@ -8,12 +8,13 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '1223'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '1252'
+ht-degree: 97%
 
 ---
 
@@ -127,3 +128,10 @@ Non preoccuparti ... non devi compilare tutti i campi e le caselle di controllo 
    Ad esempio, ci sono persone che potrebbero avere accesso al progetto ma non dovrebbero vedere le informazioni finanziarie. Per questo motivo è possibile disattivare l’opzione Visualizza dati finanziari.
 
    Le impostazioni di accesso possono essere impostate nel modello.
+
+## Tutorial consigliati su questo argomento
+
+* [Creazione di un progetto di base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Passare alla pagina del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Scopri quattro modi per creare un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Inizia a pianificare un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)

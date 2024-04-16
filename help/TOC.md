@@ -3,10 +3,10 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2404'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -107,9 +107,9 @@ ht-degree: 99%
 + Gestire il lavoro {#manage-work}
    + Progetti {#projects}
       + [Informazioni sulla creazione di un progetto di base](manage-work/projects/understand-basic-project-creation.md)
+      + [Usare la pagina del progetto](manage-work/projects/navigate-the-project-page.md)
       + [Scopri quattro modi per creare un progetto](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Compilare i dettagli del progetto](manage-work/projects/fill-in-the-project-details.md)
-      + [Usare la pagina del progetto](manage-work/projects/navigate-the-project-page.md)
       + [Introduzione alla pianificazione di un progetto](manage-work/projects/getting-started-plan-a-project.md)
       + [Lancia un progetto live](manage-work/projects/take-a-project-live.md)
       + [Introduzione alla gestione di un progetto](manage-work/projects/getting-started-manage-a-project.md)
@@ -242,7 +242,7 @@ ht-degree: 99%
    + Funzionalità di analisi avanzate {#enhanced-analytics}
       + [Un momento con il team del prodotto: [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Introduzione all’[!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Come accedere [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Come accedere ad [!UICONTROL Analisi avanzata]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Comprendere la navigazione di base](reporting/enhanced-analytics/4-basic-navigation.md)
       + [Comprendere i grafici su lavoro e persone](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Comprendere i filtri](reporting/enhanced-analytics/6-filters-overview.md)

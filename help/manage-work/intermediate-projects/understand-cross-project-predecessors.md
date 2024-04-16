@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 52%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 # Comprendere i predecessori tra progetti
 
->[!IMPORTANT]
->
->Prerequisiti:
+I predecessori di progetti incrociati sono un modo semplice per stabilire le dipendenze tra le attività in progetti diversi. Ad esempio, una società di costruzione potrebbe avere un progetto denominato **Costruire la strada di accesso per lo sviluppo abitativo di Summerhill** e un altro progetto denominato **Costruire una casa modello a Summerhill**. Se imposti l’ultima attività di **Costruire la strada di successo** come predecessore tra progetti diversi della prima attività di **Costruire una casa modello**, ti assicuri che la strada di accesso sia già predisposta prima di iniziare a costruire la casa. Poiché le attività sono collegate, se il progetto **Costruire la strada di accesso** va perduto, la data di inizio pianificata di **Costruire una casa modello** slitterà automaticamente di conseguenza.
+
+>[!PREREQUISITES]
 >
 >* [Scopri come ordinare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=it)
 >* Oppure sei già in grado di utilizzare i predecessori nei tuoi progetti
-
->[!NOTE]
->
->I predecessori di progetti incrociati sono un modo semplice per stabilire le dipendenze tra le attività in progetti diversi. Ad esempio, una società di costruzione potrebbe avere un progetto denominato **Costruire la strada di accesso per lo sviluppo abitativo di Summerhill** e un altro progetto denominato **Costruire modello Home in Summerhill**. Eseguendo la prima attività in **Home Modello di build** avere un predecessore di progetto incrociato dell’ultima attività in **Costruisci strada di accesso**, ti stai assicurando che la strada di accesso sia in posizione prima di iniziare a costruire la casa. Poiché le attività sono collegate, se **Costruisci strada di accesso** documenti di progetto, il **Home Modello di build** la data di inizio pianificata slitterà automaticamente di conseguenza.
 
 
 Questo video illustra:

@@ -8,12 +8,13 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '203'
-ht-degree: 100%
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+workflow-type: tm+mt
+source-wordcount: '231'
+ht-degree: 87%
 
 ---
 
@@ -38,7 +39,13 @@ Il progetto [!UICONTROL Condizione] viene definito come “stato della pianifica
 >Indica se la condizione del progetto viene impostata automaticamente da [!DNL Workfront] o manualmente da un utente con diritti di gestione per il progetto ed è controllato dall’impostazione [!UICONTROL Tipo di condizione] nella sezione [!UICONTROL Panoramica] della pagina [!UICONTROL Dettagli progetto].
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Tutorial consigliati su questo argomento
+
+* [Introduzione alla gestione di un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Tracciare l’avanzamento del lavoro con le metriche del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprendere la [!UICONTROL Gantt] visualizza](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Comprendere la [!UICONTROL Scheda madre] visualizza](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -30,12 +31,10 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Rendi rapidamente operativi i progetti di Workfront utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
+## Tutorial consigliati su questo argomento
 
-1. Attività
-1. Durata
-1. Lavoro Necessario
-1. Predecessori
-1. Assegnazioni
+* [Passare alla pagina del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Scopri quattro modi per creare un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Inserisci i dettagli del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-Una volta impostato tutto, modifica lo stato del progetto in Corrente per renderlo attivo. Con l’avanzare del progetto, desidererai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande a cui è necessario dare risposta e molto altro. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
+

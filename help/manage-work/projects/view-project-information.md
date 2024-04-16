@@ -8,12 +8,13 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: ht
-source-wordcount: '205'
-ht-degree: 100%
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+workflow-type: tm+mt
+source-wordcount: '201'
+ht-degree: 97%
 
 ---
 
@@ -33,10 +34,9 @@ Quando ti trovi nella sezione [!UICONTROL Attività] di un progetto, utilizza di
 
 La maggior parte della clientela di [!DNL Workfront] crea viste personalizzate che espongono informazioni su moduli personalizzati e altri campi pertinenti per il lavoro in corso.
 
-## Scopri come creare filtri, viste e raggruppamenti personalizzati
+## Tutorial consigliati su questo argomento
 
-[Creare un filtro di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=it)
+* [Creare un filtro di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=it)
+* [Creare una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it)
+* [Creare un raggruppamento di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=it)
 
-[Creare una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it)
-
-[Creare un raggruppamento di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=it)
