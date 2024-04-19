@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 72%
+ht-degree: 77%
 
 ---
 
@@ -51,7 +51,7 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 12. **Menù del pannello a sinistra:** tramite il pannello a sinistra, accedi a diverse informazioni sul progetto. Fai clic sull’icona Attività nella parte superiore per comprimere il pannello se hai bisogno di un po’ più di spazio sullo schermo. Trascina le icone in modo che il loro ordine ti consenta di lavorare in modo efficiente. Le opzioni visualizzate sono impostate dall’amministratore di sistema di [!DNL Workfront].
 13. **Elenco attività:** l’elenco delle attività mostra tutte le attività che compongono il piano del progetto. Le informazioni visibili su ciascuna attività sono determinate dalla vista selezionata.
 14. **Pannello Riepilogo:** il pannello di riepilogo consente di esaminare rapidamente le informazioni relative all’attività selezionata. Fai clic sull’icona del pannello Riepilogo per aprire o chiudere.
-15. **Aggiungi altre attività** Fare clic qui per aggiungere un&#39;altra attività in fondo all&#39;elenco delle attività mediante la modifica in linea.
+15. **Aggiungi altre attività** Fai clic qui per aggiungere un’altra attività in fondo all’elenco delle attività mediante la modifica in linea.
 
 ## Tutorial consigliati su questo argomento
 
