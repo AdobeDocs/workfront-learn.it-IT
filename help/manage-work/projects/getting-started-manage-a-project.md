@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla gestione di un progetto
-description: Scopri il tuo ruolo di project manager e gli aspetti da considerare durante il monitoraggio del lavoro del progetto.
+description: Scopri come monitorare l’avanzamento del progetto, approfondire la panoramica per visualizzare i dettagli delle attività e comunicare con le parti interessate.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 77%
+source-wordcount: '213'
+ht-degree: 60%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 77%
 
 In questo video scoprirai:
 
-* Aspetti da considerare durante il monitoraggio del lavoro del progetto
-* In cosa consiste il tuo ruolo come project manager
+* Come monitorare l’avanzamento del progetto
+* Eseguire un drill-down per visualizzare i dettagli delle attività
+* Come comunicare con le parti interessate
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
