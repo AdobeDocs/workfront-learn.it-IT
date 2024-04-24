@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '231'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ Overview of project condition and condition type
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Tracciare l’avanzamento del lavoro con le metriche del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendere la [!UICONTROL Gantt] visualizza](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [Comprendere la [!UICONTROL Scheda madre] visualizza](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Introduzione alla gestione di un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Comprendere la vista [!UICONTROL Gantt]](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Comprendere la vista [!UICONTROL Bacheca]](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

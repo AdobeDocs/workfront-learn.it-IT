@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Questo video illustra come comunicare con tutti gli stakeholder del progetto uti
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Trova progetti](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Condividere un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Comprendere il team del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
+* [Introduzione alla gestione di un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Trovare progetti](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Condividere un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Conoscere il team del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
