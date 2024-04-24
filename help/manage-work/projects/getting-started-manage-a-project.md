@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 60%
+ht-degree: 72%
 
 ---
 
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## Tutorial consigliati su questo argomento
 
-* [Dai vita a un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [Trova progetti](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Condividere un progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Comprendere il team del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Comprendere la comunicazione del progetto](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Lanciare un progetto live](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
+* [Trovare i progetti](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [Condividere un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Conoscere il team del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
+* [Comprendere la comunicazione del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
