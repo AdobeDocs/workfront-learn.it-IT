@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla gestione di un progetto
-description: Scopri come monitorare l’avanzamento del progetto, approfondire la panoramica per visualizzare i dettagli delle attività e comunicare con le parti interessate.
+description: Scopri come monitorare l’avanzamento del progetto, eseguire un drill-down dei dettagli delle attività e come comunicare con le parti interessate.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -14,9 +14,9 @@ jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 72%
 In questo video scoprirai:
 
 * Come monitorare l’avanzamento del progetto
-* Eseguire un drill-down per visualizzare i dettagli delle attività
+* Eseguire un drill-down delle informazioni dettagliate delle attività
 * Come comunicare con le parti interessate
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
