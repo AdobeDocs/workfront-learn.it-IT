@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '201'
-ht-degree: 100%
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # Visualizzare le informazioni sul progetto
 
-Nella pagina principale [!UICONTROL Progetti] o in un singolo progetto, puoi usare [!UICONTROL Filtri], [!UICONTROL Viste] e [!UICONTROL Raggruppamenti] in modo da visualizzare nell’elenco le informazioni che ti servono.
+Questo video illustra come utilizzare Filtri, visualizzazioni e raggruppamenti per visualizzare:
 
-Nella pagina [!UICONTROL Progetti] trovi un aveduta d’insieme dello stato di avanzamento di tutti i tuoi progetti.
+* Informazioni a livello di progetto
+* Informazioni a livello di attività
+* Informazioni a livello di problema
 
-![Pagina Progetti con filtri visualizzati](assets/planner-fund-project-page-fvg-copy.png)
-
-Utilizza i [!UICONTROL Filtri] per limitare l’elenco in base a determinati criteri. Quindi seleziona una [!UICONTROL Vista] per visualizzare le colonne di informazioni pertinenti per i progetti. Infine, seleziona un [!UICONTROL Raggruppamento] per organizzare i progetti in base alle tue esigenze.
-
-Quando ti trovi nella sezione [!UICONTROL Attività] di un progetto, utilizza di nuovo [!UICONTROL Filtri], [!UICONTROL Viste] e [!UICONTROL Raggruppamenti] per monitorare il lavoro in corso. Dal momento che esamini le attività anziché i progetti, le opzioni disponibili sono diverse.
-
-![Elenco delle attività del progetto con viste visualizzate](assets/planner-fund-task-list-fvg.png)
-
-La maggior parte della clientela di [!DNL Workfront] crea viste personalizzate che espongono informazioni su moduli personalizzati e altri campi pertinenti per il lavoro in corso.
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## Tutorial consigliati su questo argomento
 
