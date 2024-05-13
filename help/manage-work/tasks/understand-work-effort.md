@@ -9,11 +9,12 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 98%
 
 ---
 
@@ -30,3 +31,8 @@ In questo modo, se prevedi di utilizzare uno degli strumenti di gestione delle r
 ![Elenco attività progetto con la colonna [!UICONTROL Impegno di lavoro]](assets/planner-fund-work-effort.png)
 
 Per ulteriori informazioni sull’[!UICONTROL Impegno di lavoro], consulta l’articolo [Panoramica sull’impegno di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=it).
+
+## Tutorial consigliati su questo argomento
+
+* [Comprendere le durate delle attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Informazioni sulle ore pianificate](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

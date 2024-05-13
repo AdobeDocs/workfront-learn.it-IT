@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '295'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ Facendo clic su alcune parti di un grafico vengono visualizzati altri grafici o 
 * **Attività progetto**: fai clic sul nome del progetto per espandere il grafico e visualizzare l’attività del progetto per utente.
 * **Mappa ad albero progetto**: fai clic su una casella di progetto per visualizzare il grafico di lavoro e le attività nei grafici di volo.
 * **Attività per team**: fai clic sul nome del team per espandere il grafico in modo da visualizzare l’attività per utente.
-* **Capacità risorse**: fai clic sul nome del team per visualizzare il grafico della capacità del team.
 
 ## Che cosa significa una tonalità più scura e più chiara quando si tratta di attività del team?
 
