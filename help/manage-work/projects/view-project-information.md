@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 # Visualizzare le informazioni sul progetto
 
-Questo video illustra come utilizzare Filtri, visualizzazioni e raggruppamenti per visualizzare:
+Questo video illustra come utilizzare filtri, viste e raggruppamenti per visualizzare:
 
 * Informazioni a livello di progetto
 * Informazioni a livello di attività
