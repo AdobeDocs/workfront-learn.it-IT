@@ -3,9 +3,9 @@ user-guide-description: Tutorial su Workfront
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
 workflow-type: tm+mt
-source-wordcount: '2399'
+source-wordcount: '2404'
 ht-degree: 100%
 
 ---
@@ -652,6 +652,6 @@ ht-degree: 100%
 + [Transizione ad Agile](agile/transitioning-to-agile.md)
 + [Workfront per dirigenti](workfront-for-executives/workfront-for-executives.md)
 + [Gestire le richieste](manage-work/issues-requests/manage-incoming-requests.md)
-
++ [Comprendere il grafico Capacità risorse](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
 
