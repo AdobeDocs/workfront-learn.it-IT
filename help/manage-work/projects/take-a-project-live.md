@@ -12,10 +12,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 76%
+source-wordcount: '52'
+ht-degree: 75%
 
 ---
 
@@ -29,6 +29,6 @@ In questo video scoprirai come:
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Condividere un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
+* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)

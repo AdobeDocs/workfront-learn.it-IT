@@ -12,10 +12,10 @@ jira: KT-8776
 recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 92%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ In questo video scoprirai:
 
 ## Tutorial consigliati su questo argomento
 
-* [Scopri come ordinare le attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [Informazioni sulle ore pianificate](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [Comprendere l’impegno di lavoro](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [Scoprire come ordinare le attività](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Informazioni sulle ore pianificate](/help/manage-work/tasks/understand-planned-hours.md)
+* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
 

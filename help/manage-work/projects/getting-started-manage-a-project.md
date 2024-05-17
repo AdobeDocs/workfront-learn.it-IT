@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
-workflow-type: ht
-source-wordcount: '213'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## Tutorial consigliati su questo argomento
 
-* [Lanciare un progetto live](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [Trovare i progetti](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Condividere un progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Conoscere il team del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Comprendere la comunicazione del progetto](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Lancia un progetto live](/help/manage-work/projects/take-a-project-live.md)
+* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
+* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
+* [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
+* [Comprendere la comunicazione del progetto](/help/manage-work/projects/understand-project-communication.md)
