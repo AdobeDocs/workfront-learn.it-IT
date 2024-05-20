@@ -1,6 +1,6 @@
 ---
 title: Utilizzare le attività
-description: Scopri come modificare le attività esistenti, aggiungere ed eliminare attività e modificare l’ordine delle attività in un progetto in Workfront.
+description: Scopri come modificare le attività esistenti, aggiungere ed eliminare attività e cambiarne l’ordine in un progetto Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
