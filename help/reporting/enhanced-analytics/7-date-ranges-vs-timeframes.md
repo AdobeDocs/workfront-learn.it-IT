@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '315'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -42,4 +42,4 @@ Quando aggiorni la pagina, ti sposti o esci da Workfront, l’intervallo di temp
 
 >[!NOTE]
 >
->Non è possibile utilizzare questa opzione di intervallo temporale con il grafico Mappa ad albero del progetto.
+>Non è possibile utilizzare l’opzione dell’arco temporale con i grafici Mappa ad albero del progetto.
