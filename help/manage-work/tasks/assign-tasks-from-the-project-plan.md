@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 36%
+source-wordcount: '99'
+ht-degree: 35%
 
 ---
 
 # Assegnare attività dal piano di progetto
 
-In questo video scoprirai:
+In questo video:
 
-* Come assegnare un’attività tramite modifica in linea
-* Come assegnare più attività alla stessa persona
+* Scopri come assegnare un’attività utilizzando la modifica in linea
+* Scopri come assegnare più attività alla stessa persona
 * Comprendere il valore dei ruoli durante l’assegnazione delle attività
 * Comprendere il valore dei modelli di progetto durante l&#39;assegnazione delle attività
 * Valore dell’assegnazione di attività ai team
