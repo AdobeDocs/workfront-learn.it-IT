@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2023-06-10T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '80'
-ht-degree: 100%
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 76%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 In questo video scoprirai:
 
-* Che cos’è un predecessore in [!DNL  Workfront]
-* Come i predecessori sequenziano le attività in un progetto
+* Che cos’è un predecessore in Workfront
 * Come utilizzare le durate e i predecessori per creare una timeline
-* Come modificare o inserire i predecessori
+* Come i predecessori sequenziano le attività in un progetto
+* Come l&#39;impostazione della data di inizio di un&#39;attività influirà sul vincolo attività
+* Come inserire i predecessori
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
