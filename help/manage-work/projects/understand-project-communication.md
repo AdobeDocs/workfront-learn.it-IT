@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # Comprendere la comunicazione del progetto
 
-Questo video illustra come comunicare con tutte le parti interessate al progetto utilizzando:
+Questo video illustra come comunicare con tutti gli stakeholder del progetto utilizzando:
 
 * Una buona pianificazione del progetto
 * Aggiornamenti
