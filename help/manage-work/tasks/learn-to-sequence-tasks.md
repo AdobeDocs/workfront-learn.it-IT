@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Che cos’è un predecessore in Workfront
 * Come utilizzare le durate e i predecessori per creare una timeline
 * Come i predecessori sequenziano le attività in un progetto
-* Come l&#39;impostazione della data di inizio di un&#39;attività influirà sul vincolo attività
+* Come l’impostazione della data di inizio di un’attività influisce sul vincolo attività
 * Come inserire i predecessori
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
