@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '416'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '431'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ Se in un modello di progetto viene incluso un modulo personalizzato, quest’ult
 Per velocizzare il lavoro e agevolare la conversione dei problemi in un ambiente dal ritmo di lavoro serrato, puoi convertire un problema in un’attività o un progetto da qualsiasi elenco di problemi presente in un progetto, in un rapporto o in una dashboard. Seleziona un problema e fai clic sul menu con i 3 punti che viene visualizzato.
 
 ![Immagine della schermata di un progetto che mostra le opzioni di conversione di un problema](assets/convert-from-a-list.png)
+
+## Tutorial consigliati su questo argomento
+
+* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
