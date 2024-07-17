@@ -27,7 +27,7 @@ In questo video scoprirai come:
 * Trovare le richieste inviate
 * Effettuare un aggiornamento nel pannello Riepilogo
 * Apri la pagina della richiesta
-* Aggiornare una richiesta in [!UICONTROL Aggiornamenti] pannello
+* Aggiornare una richiesta nel pannello [!UICONTROL Aggiornamenti]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

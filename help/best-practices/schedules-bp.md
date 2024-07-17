@@ -39,7 +39,7 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 * Aggiungi un promemoria al calendario dell’amministratore di sistema di Adobe Workfront per aggiornare le pianificazioni ogni anno a un orario prestabilito.
 
 
-Per istruzioni su come creare e gestire gli schemi, vedi [Creare e gestire le pianificazioni](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) esercitazione.
+Per istruzioni su come creare e gestire gli schemi, vedere l&#39;esercitazione [Creare e gestire gli schemi](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>

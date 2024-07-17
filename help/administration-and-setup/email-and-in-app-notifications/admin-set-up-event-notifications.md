@@ -11,8 +11,8 @@ thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '621'
+workflow-type: tm+mt
+source-wordcount: '622'
 ht-degree: 100%
 
 ---
@@ -105,7 +105,7 @@ In particolare, per i project manager:
 * [!UICONTROL Un progetto a cui partecipo venta attivo]
 * [!UICONTROL Un progettodi mia proprietà è in ritardo]
 * [!UICONTROL Viene aggiunto un problema a un progetto di cui sono proprietario]
-* [!UICONTROL L’attività milestone è completata in un progetto di cui sono proprietario]
+* [!UICONTROL L’attività milestone viene completata su un progetto di mia proprietà]
 
 <!---
 learn more URLs
