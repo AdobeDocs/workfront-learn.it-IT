@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 67%
 
 In questo video scoprirai come:
 
-* Avvia la conversione da richiesta a progetto
+* Avviare la conversione da richiesta a progetto
 * Selezionare il modello di progetto appropriato
 * Completare la conversione da richiesta a progetto
 

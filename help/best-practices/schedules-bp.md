@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-10925
 exl-id: 508d6f90-f9f4-4f12-9bf1-5e89246f3e3a
 source-git-commit: 214457a95a310920f5f7c623021b5d9d40ec61e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '554'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -36,10 +36,10 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 
 * Il totale delle ore lavorative in ogni giorno lavorativo della pianificazione deve essere uguale al numero di ore in un giorno specificato nelle preferenze globali del progetto.
 
-* Aggiungi un promemoria al calendario dell’amministratore di sistema di Adobe Workfront per aggiornare le pianificazioni ogni anno a un orario prestabilito.
+* Aggiungi un promemoria al calendario dell’amministratore di sistema di Adobe Workfront, per aggiornare le pianificazioni a un orario prestabilito ogni anno.
 
 
-Per istruzioni su come creare e gestire gli schemi, vedere l&#39;esercitazione [Creare e gestire gli schemi](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
+Per istruzioni su come creare e gestire le pianificazioni, consulta il tutorial [Creare e gestire le pianificazioni](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md).
 
 </br>
 </br>
@@ -54,7 +54,7 @@ Limita il numero di pianificazioni create in Adobe Workfront.
 
 **Ecco perché**
 
-Non creare decine di pianificazioni per gruppi, team o singoli utenti diversi. Un numero inferiore di pianificazioni comporta una minore manutenzione da parte degli amministratori di sistema o di gruppo.
+Non creare decine di pianificazioni per gruppi, team o individui diversi. Un numero inferiore di pianificazioni comporta una minore manutenzione da parte degli amministratori di sistema o di gruppo.
 
 
 
@@ -64,7 +64,7 @@ Nei casi seguenti potrebbero essere necessarie pianificazioni separate:
 
 * Presenza di lavoratori part-time che lavorano meno di 40 ore a settimana.
 
-* I lavoratori non lavorano 8 ore al giorno, dal lunedì al venerdì, come i lavoratori nei fine settimana o quelli che lavorano 4 giorni di 10 ore.
+* I lavoratori non lavorano 8 ore al giorno, dal lunedì al venerdì, come chi lavora nei fine settimana o chi lavora 4 giorni per 10 ore al giorno.
 
 </br>
 </br>
@@ -77,9 +77,9 @@ Il totale delle ore lavorative in ogni giorno lavorativo della pianificazione de
 
 **Ecco perché**
 
-Se il totale delle ore lavorative non corrisponde, potrebbero verificarsi calcoli di data e ora non corretti nella sequenza temporale e nei report del progetto.
+Se il totale delle ore lavorative non corrisponde, potrebbero verificarsi calcoli di data e ora non corretti nella timeline e nei report del progetto.
 
-Se, ad esempio, la preferenza di sistema è di otto ore al giorno e la pianificazione assegnata a un progetto prevede solo sette ore lavorative al giorno, si noterà che il completamento di un&#39;attività con una durata di un giorno richiede più di un giorno, perché l&#39;attività sta cercando di adattarsi alle otto ore.
+Ad esempio, se il sistema preferisce otto ore al giorno e la pianificazione assegnata a un progetto ha solo sette ore lavorative al giorno, noterai che il completamento di un’attività con durata di un giorno richiede più di un giorno, perché sta cercando di adattarsi alle otto ore.
 
 **Nota**: le impostazioni globali del progetto di sistema vengono eseguite in Configurazione > Preferenze progetto > Calcoli timeline > Ore tipiche per giorno lavorativo.
 
@@ -89,8 +89,8 @@ Se, ad esempio, la preferenza di sistema è di otto ore al giorno e la pianifica
 
 **Best practice**
 
-Aggiungi un promemoria al calendario dell’amministratore di sistema di Adobe Workfront per aggiornare le pianificazioni ogni anno a un orario prestabilito.
+Aggiungi un promemoria al calendario dell’amministratore di sistema di Adobe Workfront, per aggiornare le pianificazioni a un orario prestabilito ogni anno.
 
 **Ecco perché**
 
-Aggiorna le pianificazioni nell’istanza di Workfront con festività nazionali, festività aziendali e altri giorni in cui gli utenti non lavoreranno. Esegui questa operazione ogni anno in un determinato momento, alla fine dell’anno o quando le risorse umane rilasciano le pianificazioni delle festività, in modo che le tempistiche di progetto, la pianificazione delle risorse, ecc., riflettano la disponibilità accurata degli utenti.
+Aggiorna le pianificazioni nella tua istanza di Workfront con festività nazionali, festività aziendali e altri giorni in cui gli utenti non lavoreranno. Esegui questa operazione ogni anno in un determinato momento, alla fine dell’anno o quando le risorse umane rilasciano le pianificazioni delle festività, in modo che le tempistiche di progetto, la pianificazione delle risorse, ecc., riflettano la disponibilità accurata degli utenti.
