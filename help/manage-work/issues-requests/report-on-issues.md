@@ -13,18 +13,18 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # Rapporto sui problemi
 
-Questo video illustra come creare:
+In questo video scoprirai come creare:
 
-* Un report di problemi che mostra gli oggetti di risoluzione
-* Un report di progetti che mostra le informazioni sui problemi convertiti
+* Un rapporto di problemi che mostra gli oggetti per la risoluzione
+* Un rapporto di progetti che mostra le informazioni sui problemi convertiti
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
