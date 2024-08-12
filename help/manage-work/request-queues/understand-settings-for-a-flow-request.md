@@ -1,6 +1,6 @@
 ---
-title: Impostazioni per una richiesta di flusso
-description: Scopri come viene elaborato il processo di flusso di richiesta nei lavori di  [!DNL  Workfront] . Crea quindi regole di indirizzamento, gruppi di argomenti e argomenti della coda.
+title: Informazioni sulle impostazioni per un flusso di richieste
+description: Scopri i flussi di richieste e come crearne uno utilizzando le regole di routing, i gruppi di argomenti e gli argomenti della coda.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -9,16 +9,18 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335222.jpeg
 jira: KT-8959
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 61%
 
 ---
 
-# Impostazioni per una richiesta di flusso
+# Informazioni sulle impostazioni per un flusso di richieste
 
 In questo video scoprirai:
 
@@ -26,3 +28,9 @@ In questo video scoprirai:
 * Come creare e utilizzare regole di indirizzamento, i gruppi di argomenti e gli argomenti della coda
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
+
+## Tutorial consigliati su questo argomento
+
+* [Creare una coda di richieste](/help/manage-work/request-queues/create-a-request-queue.md)
+* [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Creare una coda richieste di feedback dell’amministratore di sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
