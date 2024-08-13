@@ -13,10 +13,10 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 84%
+ht-degree: 76%
 
 ---
 
@@ -33,6 +33,6 @@ In questo video scoprirai come:
 ## Tutorial consigliati su questo argomento
 
 * [Comprendere le code di richieste](/help/manage-work/request-queues/understand-request-queues.md)
-* [Impostazioni per una richiesta di flusso](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Informazioni sulle impostazioni per un flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
 
