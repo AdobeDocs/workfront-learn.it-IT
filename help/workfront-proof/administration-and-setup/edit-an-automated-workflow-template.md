@@ -13,9 +13,9 @@ jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
 source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '572'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -29,12 +29,12 @@ Mantenere aggiornati i modelli garantisce la coerenza dei processi di revisione 
 1. Da qui, seleziona **[!UICONTROL Flussi di lavoro]** nel menu del pannello a sinistra.
 1. Fai clic sul menu a 3 punti all’estrema destra del nome del modello e seleziona **[!UICONTROL Visualizza dettagli modello]**.
 
-Le opzioni per condividere, copiare ed eliminare il modello si trovano nella parte superiore della finestra dei dettagli del modello per ciascun modello. L’eliminazione di un modello non influisce sulle bozze in corso a cui è applicato il modello, ma significa che il modello non è più disponibile per l’uso.
+Le opzioni per condividere, copiare ed eliminare il modello si trovano nella parte superiore della finestra dei dettagli del modello per ciascun modello. L’eliminazione di un modello non influisce sulle bozze in corso a cui è applicato tale modello, ma significa che il modello non è più disponibile per l’uso.
 
 ![Finestra Dettagli modello](assets/proof-system-setup-edit-templates-details-area.png)
 
 
-Fare clic sulla freccia a sinistra della parola &quot;[!UICONTROL Dettagli]&quot; per espandere o comprimere la sezione.
+Fai clic sulla freccia a sinistra della parola “[!UICONTROL Dettagli]” per espandere o comprimere la sezione.
 
 ## Apportare modifiche alle fasi e ai destinatari
 
@@ -42,18 +42,18 @@ Potrebbero essere necessarie modifiche nell’area [!UICONTROL Flusso di lavoro]
 
 Ogni fase di un flusso di lavoro automatizzato ha una propria sezione, che consente di modificare in modo indipendente scadenze, privacy, destinatari della bozza e altre informazioni.
 
-Questo video illustra alcune delle modifiche che è possibile apportare nell&#39;area [!UICONTROL Flusso di lavoro]. Consulta l’elenco puntato in questo video, che esamina queste impostazioni.
+Questo video mostra brevemente alcune delle modifiche che puoi apportare all’area [!UICONTROL Flusso di lavoro]. Consulta l’elenco puntato sotto questo video, che esamina queste impostazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 In qualità di revisore, ecco le modifiche che puoi apportare al modello di bozza nella sezione [!UICONTROL Flusso di lavoro]:
 
-* Fai clic sul campo del nome dell’area di visualizzazione o sul campo della scadenza per aggiornare tali informazioni.
-* Fai clic sulla freccia a sinistra della scadenza per bloccare la fase, determinare quando viene attivata o richiedere una sola decisione.
+* Fai clic sul campo Nome fase o sul campo Scadenza per aggiornare tali informazioni.
+* Fai clic sulla freccia a sinistra della Scadenza per bloccare la fase, determinare quando è attivata o richiedere una sola decisione.
 * Nell’elenco dei destinatari, fai clic sui campi [!UICONTROL Ruolo] o [!UICONTROL Avvisi e-mail] per selezionare un’altra opzione.
-* Passa al menu a 3 punti all’estrema destra del nome di un destinatario per eliminarlo dall’elenco, impostarlo come decisore principale per la fase del flusso di lavoro o modificare il ruolo della bozza e le informazioni dell’avviso e-mail.
-* Sono disponibili due opzioni per aggiungere i destinatari all’elenco.
-   1. Nell&#39;angolo in alto a destra di ogni sezione della fase, vai al menu [!UICONTROL Altro] e seleziona [!UICONTROL Aggiungi persone alla fase]. Dopo aver aperto la finestra [!UICONTROL Aggiungi persone all&#39;area di visualizzazione], fare clic sull&#39;area di visualizzazione a cui aggiungerle. Quindi inserisci il nome o l’indirizzo e-mail nell’elenco dei destinatari e assegna un ruolo di bozza e un avviso e-mail. Al termine, fai clic sul pulsante [!UICONTROL Aggiungi persone].
+* Passa al menu a 3 punti all’estrema destra del nome di un destinatario per eliminarlo dall’elenco, renderlo il responsabile principale delle decisioni per quella fase del flusso di lavoro, o per modificare il ruolo della bozza e le informazioni dell’avviso e-mail.
+* Per aggiungere destinatari all’elenco, sono disponibili due opzioni.
+   1. Nell’angolo in alto a destra di ogni sezione di fase, passa al menu [!UICONTROL Altro] e seleziona [!UICONTROL Aggiungi persone alla fase]. Una volta aperta la finestra [!UICONTROL Aggiungi persone alla fase], fai clic sulla fase alla quale aggiungerle. Quindi inserisci il nome o l’indirizzo e-mail nell’elenco dei destinatari e assegna un ruolo di bozza e un avviso e-mail. Al termine dell’operazione, fai clic sul pulsante [!UICONTROL Aggiungi persone].
    1. Nella parte superiore dell’area [!UICONTROL Flusso di lavoro], seleziona [!UICONTROL Aggiungi persone alla fase].
 
 ## Condivisione dei modelli
