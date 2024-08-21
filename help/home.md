@@ -3,7 +3,7 @@ title: Tutorial su Workfront
 description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.  È inclusa una raccolta di best practice, con esercizi selezionati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 

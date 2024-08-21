@@ -14,9 +14,9 @@ last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,6 @@ In questo video scoprirai come:
 ## Tutorial consigliati su questo argomento
 
 * [Comprendere le code di richieste](/help/manage-work/request-queues/understand-request-queues.md)
-* [Informazioni sulle impostazioni per un flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Comprendere le impostazioni per un flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
 

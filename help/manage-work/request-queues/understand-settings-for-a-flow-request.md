@@ -1,5 +1,5 @@
 ---
-title: Informazioni sulle impostazioni per un flusso di richieste
+title: Comprendere le impostazioni per un flusso di richieste
 description: Scopri i flussi di richieste e come crearne uno utilizzando le regole di routing, i gruppi di argomenti e gli argomenti della coda.
 activity: delpoy
 feature: Work Management
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Informazioni sulle impostazioni per un flusso di richieste
+# Comprendere le impostazioni per un flusso di richieste
 
 In questo video scoprirai:
 

@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2407'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + Code di richieste {#request-queues}
       + [Comprendere le code di richieste](manage-work/request-queues/understand-request-queues.md)
       + [Creare una coda di richieste](manage-work/request-queues/create-a-request-queue.md)
-      + [Informazioni sulle impostazioni per un flusso di richieste](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Comprendere le impostazioni per un flusso di richieste](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Creare un flusso di richieste](manage-work/request-queues/create-a-request-flow.md)
       + [Creare una coda richieste di feedback dell’amministratore di sistema](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Risposte alle domande più comuni sulle code di richieste](manage-work/request-queues/request-queue-faq.md)
