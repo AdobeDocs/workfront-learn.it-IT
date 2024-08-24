@@ -12,7 +12,7 @@ jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 23%
@@ -37,8 +37,8 @@ Amministratori di sistema o di gruppo che desiderano impostare le finanze in Wor
 
 ## Tutorial
 
-* [Comprendere le metriche delle prestazioni](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
-* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)
+* [Comprendere le metriche delle prestazioni](understand-performance-metrics.md)
+* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](set-up-task-revenue-and-cost-defaults.md)
+* [Impostare i tassi di cambio](set-up-exchange-rates.md)
+* [Impostare i tipi di spesa](set-up-expense-types.md)
+* [Informazioni sull’accesso finanziario](understand-financial-access.md)

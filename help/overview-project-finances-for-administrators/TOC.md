@@ -5,10 +5,10 @@ breadcrumb-title: Panoramica sui Portfoli
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # Panoramica sui dati finanziari dei progetti per gli amministratori {#project-finances-for-administrators}
 
 + [Panoramica sui dati finanziari dei progetti per gli amministratori](overview.md)
-+ [Comprendere le metriche delle prestazioni](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [Imposta le impostazioni predefinite dei costi e dei ricavi dell&#39;attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [Imposta tassi di cambio](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [Imposta tipi di spesa](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [Informazioni sull&#39;accesso finanziario](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ Finanze progetto per amministratori {#project-finances-for-administrators}
+   + [Comprendere le metriche delle prestazioni](understand-performance-metrics.md)
+   + [Impostare i valori predefiniti dei ricavi e dei costi delle attività](set-up-task-revenue-and-cost-defaults.md)
+   + [Impostare i tassi di cambio](set-up-exchange-rates.md)
+   + [Impostare i tipi di spesa](set-up-expense-types.md)
+   + [Informazioni sull’accesso finanziario](understand-financial-access.md)
 
 

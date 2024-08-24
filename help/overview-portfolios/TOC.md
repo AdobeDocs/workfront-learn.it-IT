@@ -5,10 +5,10 @@ breadcrumb-title: Panoramica sui Portfoli
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 33%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # Panoramica sui Portfoli {#portfolios}
 
 + [Panoramica sui Portfoli](overview.md)
-+ [Informazioni sui portfolio](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)
-+ [Comprendere il [!UICONTROL caso di business]](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)
-+ [Utilizza [!UICONTROL Ottimizzatore Portfolio] per assegnare le priorità e gestire il lavoro](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)
++ Panoramica sui Portfoli {#portfolios}
+   + [Comprendere i portfolio](overview-of-adobe-workfront-portfolios.md)
+   + [Comprendere il [!UICONTROL caso di business]](introduction-to-the-business-case.md)
+   + [Usare [!UICONTROL Ottimizzatore portfolio] per dare priorità e gestire il lavoro](prioritize-and-manage-work-with-portfolios.md)
 
