@@ -7,12 +7,12 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 49%
@@ -40,47 +40,47 @@ Utenti con licenza Standard che creeranno o gestiranno i progetti.
 
 ### Modelli di progetto
 
-* [Creare un modello di progetto e informazioni sui blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Creare un progetto direttamente da un modello](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Condividere un modello di progetto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Creare un modello di progetto e informazioni sui blueprint](create-a-project-template.md)
+* [Creare un progetto direttamente da un modello](create-a-project-directly-from-a-template.md)
+* [Condividere un modello di progetto](share-a-project-template.md)
 * [Copia un progetto esistente](/help/manage-work/manage-projects/copy-an-existing-project.md)
-* [Disattivare un modello di progetto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modificare il team di progetto in un modello di progetto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Disattivare un modello di progetto](deactivate-a-project-template.md)
+* [Modificare il team di progetto in un modello di progetto](edit-the-project-team-in-a-project-template.md)
 
 
 ### Come creare e utilizzare i processi di approvazione
 
-* [Creare un processo di approvazione per singolo utilizzo](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Allegare e modificare i processi di approvazione esistenti](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
-* [Rivedere e approvare il lavoro digitale](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-* [Comprendere aggiornamenti e notifiche](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
-* [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Creare un processo di approvazione per singolo utilizzo](create-a-single-use-approval-process.md)
+* [Comprendere i processi di approvazione specifici del gruppo](group-specific-approval-processes.md)
+* [Allegare e modificare i processi di approvazione esistenti](attach-and-edit-existing-approval-processes.md)
+* [Rivedere e approvare il lavoro digitale](review-and-approve-digital-work.md)
+* [Comprendere aggiornamenti e notifiche](understand-updates-and-notifications.md)
+* [Delegare attività, problemi e approvazioni](delegate-approvals.md)
 
 
 ### Come creare e utilizzare le milestone
 
-* [Creare le milestone](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Applicare le milestone](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-* [Visualizzare le milestone](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Creare le milestone](creating-milestones.md)
+* [Applicare le milestone](apply-milestones.md)
+* [Visualizzare le milestone](view-milestones.md)
 
 
 ### Come risolvere i problemi
 
-* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Effettuare una richiesta](/help/manage-work/issues-requests/make-a-request.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Gestire le assegnazioni dei problemi](/help/manage-work/issues-requests/manage-issue-assignments.md)
-* [Aggiornare una richiesta](/help/manage-work/issues-requests/update-a-request.md)
-* [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Rapporto sui problemi](/help/manage-work/issues-requests/report-on-issues.md)
+* [Gestire il lavoro non pianificato](handle-unplanned-work.md)
+* [Effettuare una richiesta](make-a-request.md)
+* [Trovare e gestire le richieste](find-requests.md)
+* [Gestire le assegnazioni dei problemi](manage-issue-assignments.md)
+* [Aggiornare una richiesta](update-a-request.md)
+* [Convertire un problema o una richiesta in un progetto](create-a-project-from-a-request.md)
+* [Convertire un problema/richiesta in un’attività](convert-issues-to-other-work-items.md)
+* [Rapporto sui problemi](report-on-issues.md)
 
 
 ### Timeline del progetto
 
-* [Comprendere le timeline dei progetti](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Comprendere i tipi di data e lo stato di avanzamento](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [Tracciare l’avanzamento dalla timeline del progetto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Comprendere le timeline dei progetti](understand-project-timelines.md)
+* [Comprendere i tipi di data e lo stato di avanzamento](understand-task-dates-and-progress-status.md)
+* [Tracciare l’avanzamento dalla timeline del progetto](track-work-progress-from-the-project-timeline.md)
 
 

@@ -1,14 +1,14 @@
 ---
 user-guide-title: Panoramica sui dati finanziari del progetto per gli utenti
 user-guide-description: Scopri come assegnare priorità ai progetti attuali e proposti in base a costi, valore, rischi e allineamento agli obiettivi delle tue organizzazioni.
-breadcrumb-title: Panoramica sui Portfoli
+breadcrumb-title: Panoramica sui dati finanziari del progetto per gli utenti
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 28%
+source-wordcount: '55'
+ht-degree: 27%
 
 ---
 
