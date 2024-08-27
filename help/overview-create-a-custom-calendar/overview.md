@@ -1,63 +1,45 @@
 ---
 title: Creare una panoramica del calendario personalizzato
-description: Adesso
+description: Con un calendario personalizzato è possibile visualizzare le date e le informazioni direttamente dai progetti, dalle attività e dai problemi in un formato calendario.
 feature: Reports and Dashboards
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
-jira: KT-
+last-substantial-update: 2024-08-26T00:00:00Z
+jira: KT-10662
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 63%
+source-wordcount: '116'
+ht-degree: 22%
 
 ---
 
 
 # Creare una panoramica del calendario personalizzato {#overview}
 
-Adesso
+Con un calendario personalizzato è possibile visualizzare le date e le informazioni direttamente dai progetti, dalle attività e dai problemi in un formato calendario.
 
 >[!PREREQUISITES]
 >
->* Buona conoscenza dell’utilizzo di Workfront
->* Tipo di licenza standard con diritti per la creazione di progetti abilitati
->* [Panoramica su Workfront per project manager](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* Nozioni di base sull’utilizzo di Workfront
+>* Tipo di licenza standard con diritti per la creazione di rapporti e filtri abilitati
+>* [Panoramica sugli elementi di reporting di base](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)
 
 
 ## Pubblico di destinazione
 
-Utenti con licenza Standard che creeranno o gestiranno i progetti.
+* Utenti con licenza Standard che desiderano creare calendari personalizzati
+* Qualsiasi utente che desidera comprendere le funzionalità dei calendari personalizzati
 
 ## Tutorial
 
-### Gestire un progetto
+* [Informazioni sull’interfaccia del Rapporto calendario](tour-of-the-interface.md)
+* [Creare un rapporto del calendario personalizzato](creating-custom-calendars.md)
+* [Informazioni sulle opzioni aggiuntive per i rapporti calendario](additional-calendar-options.md)
+* [Creare un proprio rapporto calendario](your-turn-to-create-a-calendar.md)
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
-* [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendere la comunicazione del progetto](/help/manage-work/projects/understand-project-communication.md)
-* [Visualizzare le informazioni sul progetto](/help/manage-work/projects/view-project-information.md)
-* [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendere la vista [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Comprendere la vista [!UICONTROL Bacheca]](/help/manage-work/projects/understand-the-board-view.md)
-
-
-### Chiudere un progetto
-
-* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
-* [Chiudere attività e problemi](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [Completare le approvazioni](/help/manage-work/close-a-project/complete-approvals.md)
-* [Caricare le risorse](/help/manage-work/close-a-project/upload-assets.md)
-* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrare e rivedere gli orari](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [Aggiornare e rivedere i dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Chiudere un’attività di progetto](/help/manage-work/close-a-project/close-a-project-activity.md)
