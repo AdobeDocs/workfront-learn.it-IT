@@ -11,9 +11,9 @@ level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ Passa al progetto che desideri copiare e fai clic sul menu a 3 punti accanto al 
 
 La finestra Copia progetto consente di modificare il titolo e lo stato, nonché di cancellare una serie di dati associati al progetto, ad esempio assegnazioni, documenti e dati personalizzati.
 
-![Opzioni copia progetto](assets/copy-existing-02.png)
+![Opzioni Copia progetto](assets/copy-existing-02.png)
 
 Se si seleziona Cancella assegnazioni o si imposta lo stato su Pianificazione, il progetto copiato non invierà le notifiche di assegnazione delle attività subito dopo la copia.
