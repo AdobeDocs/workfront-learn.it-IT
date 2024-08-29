@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Scopri come creare percorsi milestone, applicare i milestone alle attività e vi
 * [Applica milestone](apply-milestones.md) - Scopri come applicare un percorso milestone a un progetto e associare le attività chiave come passaggi milestone all&#39;interno del progetto.
 * [Visualizza le milestone](view-milestones.md) - Scopri come visualizzare le milestone in un progetto Adobe Workfront e come utilizzarle nell’area del progetto.
 
+
 ## Come risolvere i problemi
 
 Scopri come gestire il lavoro non pianificato con i problemi, convertire i problemi in altri elementi di lavoro, gestire le assegnazioni dei problemi e creare rapporti sui problemi.
@@ -86,13 +87,6 @@ Scopri come gestire il lavoro non pianificato con i problemi, convertire i probl
 * [Convertire un problema o una richiesta in un&#39;attività](convert-issues-to-other-work-items.md) - Scopri come convertire un problema in un&#39;attività.
 * [Report sui problemi](report-on-issues.md) - Scopri come creare un report sui problemi che mostra gli oggetti di risoluzione e un report sui progetti che mostra le informazioni sui problemi convertiti.
 
-## Timeline del progetto
-
-Scopri come pianificare i progetti e tenere traccia del loro avanzamento.
-
-* [Informazioni sulle sequenze temporali dei progetti](understand-project-timelines.md) - Scopri come pianificare i progetti a partire da una data di inizio o di completamento. Quindi scopri in che modo la durata, i predecessori e i vincoli delle attività influiscono sul piano del progetto.
-* [Comprendere i tipi di data e lo stato di avanzamento](understand-task-dates-and-progress-status.md) - Scopri come selezionare una visualizzazione per confrontare i diversi tipi di data di Workfront e come utilizzare il campo dello stato di avanzamento.
-* [Monitora l&#39;avanzamento dalla sequenza temporale del progetto](track-work-progress-from-the-project-timeline.md) - Scopri come tenere traccia dell&#39;avanzamento del lavoro dalla sequenza temporale del progetto utilizzando la percentuale di completamento, lo stato, le assegnazioni e i vincoli delle attività.
 
 ## Approfondimento
 

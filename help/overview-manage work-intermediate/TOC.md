@@ -2,14 +2,14 @@
 user-guide-title: Gestisci lavoro - Intermedio
 user-guide-description: Dopo aver appreso le nozioni di base sulla creazione, la pianificazione e la gestione dei progetti, è necessario conoscere alcuni altri aspetti per ottenere il massimo da Workfront.
 feature: Work Management
-breadcrumb-title: Ulteriori informazioni sulla gestione del lavoro come project manager panoramica
+breadcrumb-title: Gestisci lavoro - Intermedio
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 64%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 65%
       + [Convertire un problema o una richiesta in un progetto](create-a-project-from-a-request.md)
       + [Convertire un problema/richiesta in un’attività](convert-issues-to-other-work-items.md)
       + [Rapporto sui problemi](report-on-issues.md)
-
-   + Timeline del progetto {#project-timelines}
-      + [Comprendere le timeline dei progetti](understand-project-timelines.md)
-      + [Comprendere i tipi di data e lo stato di avanzamento](understand-task-dates-and-progress-status.md)
-      + [Tracciare l’avanzamento dalla timeline del progetto](track-work-progress-from-the-project-timeline.md)
 
    + Ricerca di {#digging-deeper} più approfonditi
       + [Comprendere e gestire i tipi di durata e i vincoli delle attività](understand-and-manage-duration-types-and-task-constraints.md)

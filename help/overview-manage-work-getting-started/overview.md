@@ -12,10 +12,10 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 72%
+source-wordcount: '977'
+ht-degree: 4%
 
 ---
 
@@ -24,63 +24,69 @@ ht-degree: 72%
 
 Inizia il tuo percorso Workfront imparando a creare e pianificare i progetti. Workfront consiglia di semplificare le cose.
 
+Questa esercitazione illustra come creare un progetto, pianificarne uno, gestirlo e chiuderlo.
+
+Dopo aver completato questa esercitazione, ti consigliamo di [gestire il lavoro - intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) per affinare ulteriormente le tue abilità di gestione dei progetti.
+
 >[!PREREQUISITES]
 >
 >* Buona conoscenza dell’utilizzo di Workfront
 >* Tipo di licenza standard con diritti per la creazione di progetti abilitati
 
+## Crea un Progetto
 
-## Pubblico di destinazione
+Scopri cos’è un progetto in Adobe Workfront, come avviarlo e come crearlo nel modo più comune.
 
-Utenti con licenza Standard che creeranno o gestiranno i progetti.
-
-## Tutorial
-
-### Crea un Progetto
-
-* [Informazioni sulla creazione di un progetto di base](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Scopri quattro modi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Compilare i dettagli del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
-* [Usare la pagina del progetto](/help/manage-work/projects/navigate-the-project-page.md)
+* [Informazioni sulla creazione di un progetto di base](understand-basic-project-creation.md): scopri i quattro passaggi necessari per avviare un progetto, la definizione di un progetto in Adobe Workfront e i modi più comuni per creare un progetto.
+* [Convertire un problema o una richiesta in un progetto](create-a-project-from-a-request.md) - Scopri come avviare la conversione da richiesta a progetto e seleziona il modello di progetto appropriato.
+* [Scopri quattro modi per creare un progetto](understand-other-ways-to-create-projects.md): scopri come creare un progetto da un modello, creare un progetto da zero, copiare un progetto esistente o importare un file [!DNL Microsoft Project].
+* [Inserisci i dettagli del progetto](fill-in-the-project-details.md). Scopri i campi dei dettagli del progetto che Adobe Workfront ti consiglia di compilare durante la creazione di un progetto.
+* [Vai alla pagina del progetto](navigate-the-project-page.md). Scopri come visualizzare i dettagli di un progetto, quali informazioni vengono visualizzate nell&#39;elenco delle attività, dove caricare i documenti e come visualizzare la cronologia degli aggiornamenti.
 
 
-### Pianificare un progetto
+## Pianificare un progetto
 
-* [Introduzione alla pianificazione di un progetto](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [Creare le attività](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Comprendere le attività principali e secondarie](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Utilizzare le attività](/help/manage-work/tasks/work-with-tasks.md)
-* [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
-* [Scoprire come ordinare le attività](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Informazioni sulle ore pianificate](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
-* [Lancia un progetto live](/help/manage-work/projects/take-a-project-live.md)
+Scopri come impostare una timeline di progetto, identificare il lavoro da svolgere, effettuare assegnazioni e avviare il progetto.
 
-### Gestire un progetto
+* [Inizia a pianificare un progetto](getting-started-plan-a-project.md) - Scopri i cinque componenti principali di un progetto, il significato dello stato, come una [!UICONTROL visualizzazione] può aiutarti a visualizzare informazioni rilevanti e come impostare la data di inizio o di scadenza.
+* [Crea attività](how-to-create-tasks.md) - Scopri diversi metodi per creare attività in un progetto.
+* [Comprendere le attività padre-figlio](understand-parent-child-tasks.md) - Scopri come sono strutturate le attività utilizzando una relazione padre-figlio in un progetto.
+* [Operazioni con le attività](work-with-tasks.md) - Scopri come modificare le attività esistenti, aggiungere ed eliminare le attività e modificare l&#39;ordine delle attività in un progetto.
+* [Assegna attività dal piano del progetto](assign-tasks-from-the-project-plan.md) - Scopri come assegnare un utente a un’attività utilizzando la modifica in linea in un progetto.
+* [Informazioni sulle durate delle attività](understand-task-durations.md) - Scopri in che modo le durate influiscono sulle date di inizio e di completamento delle attività, in che modo le durate vengono incluse nelle sequenze temporali del progetto e in alcune best practice per l&#39;utilizzo delle durate delle attività.
+* [Scopri come ordinare le attività](learn-to-sequence-tasks.md) - Scopri cosa sono i predecessori e come sequenziano le attività in un progetto. Quindi scopri come utilizzare le durate e i predecessori per creare una timeline.
+* [Informazioni sulle ore pianificate](understand-planned-hours.md) - Scopri quali sono le ore pianificate in Adobe Workfront, perché le ore pianificate sono importanti per il tuo progetto e come aggiungere ore pianificate alle attività.
+* [Informazioni sulle sequenze temporali dei progetti](understand-project-timelines.md) - Scopri come pianificare i progetti a partire da una data di inizio o di completamento. Quindi scopri in che modo la durata, i predecessori e i vincoli delle attività influiscono sul piano del progetto.
+* [Comprendere i tipi di data e lo stato di avanzamento](understand-task-dates-and-progress-status.md) - Scopri come selezionare una visualizzazione per confrontare i diversi tipi di data di Workfront e come utilizzare il campo dello stato di avanzamento.
+* [Comprendere [!UICONTROL Impegno di lavoro]](understand-work-effort.md) - Scopri come utilizzare [!UICONTROL Impegno di lavoro] invece delle ore pianificate nella sequenza temporale del progetto.
+* [Partecipa a un progetto in tempo reale](take-a-project-live.md) - Scopri come attivare il progetto utilizzando lo stato del progetto.
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
-* [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendere la comunicazione del progetto](/help/manage-work/projects/understand-project-communication.md)
-* [Visualizzare le informazioni sul progetto](/help/manage-work/projects/view-project-information.md)
-* [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendere la vista [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Comprendere la vista [!UICONTROL Bacheca]](/help/manage-work/projects/understand-the-board-view.md)
+## Gestire un progetto
+
+Scopri come tenere traccia del lavoro di progetto e comunicare con le parti interessate.
+
+* [Inizia a gestire un progetto](getting-started-manage-a-project.md): scopri cos&#39;è il tuo ruolo di project manager e cosa controllare durante il monitoraggio del lavoro del progetto.
+* [Trova progetti](find-projects.md) - Scopri come trovare i tuoi progetti utilizzando pin, preferiti, dashboard e la pagina [!UICONTROL Progetti].
+* [Condividi un progetto](share-a-project.md) - Scopri come condividere un progetto in modo che le parti interessate e gli altri utenti interessati possano avere visibilità sul lavoro in corso.
+* [Comprendere il team del progetto](understand-the-project-team.md) - Scopri a cosa può servire il team del progetto e come gestirlo.
+* [Comprendere la comunicazione del progetto](understand-project-communication.md) - Scopri come comunicare il lavoro del progetto utilizzando gli aggiornamenti su progetti, attività, problemi e documenti.
+* [Visualizza informazioni sul progetto](view-project-information.md) - Scopri come [!UICONTROL Filtri], [!UICONTROL Visualizzazioni] e [!UICONTROL Raggruppamenti] possono rendere le informazioni del progetto facilmente visualizzabili per aiutarti a gestire i progetti.
+* [Monitora l&#39;avanzamento complessivo del progetto](track-overall-project-progress.md) - Scopri in che modo le informazioni visualizzate nell&#39;intestazione del progetto possono aiutarti a monitorare l&#39;avanzamento e l&#39;integrità generali del progetto.
+* [Tracciare l&#39;avanzamento del lavoro con le metriche del progetto](track-work-progress-with-project-metrics.md) - Scopri come utilizzare i grafici delle metriche del progetto per tenere traccia dell&#39;avanzamento del lavoro del progetto.
+* [Monitora l&#39;avanzamento dalla sequenza temporale del progetto](track-work-progress-from-the-project-timeline.md) - Scopri come tenere traccia dell&#39;avanzamento del lavoro dalla sequenza temporale del progetto utilizzando la percentuale di completamento, lo stato, le assegnazioni e i vincoli delle attività.
+* [Informazioni sulla visualizzazione [!UICONTROL Gantt]](understand-the-gantt-view.md) - Informazioni sull&#39;utilizzo del grafico [!UICONTROL Gantt] del progetto e del grafico [!UICONTROL Gantt] dell&#39;attività.
+* [Comprendere la visualizzazione [!UICONTROL Bacheca]](understand-the-board-view.md) - Scopri dove trovare la visualizzazione Bacheca e come utilizzarla.
 
 
-### Chiudere un progetto
+## Chiudere un progetto
 
-* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
-* [Chiudere attività e problemi](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [Completare le approvazioni](/help/manage-work/close-a-project/complete-approvals.md)
-* [Caricare le risorse](/help/manage-work/close-a-project/upload-assets.md)
-* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registrare e rivedere gli orari](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [Aggiornare e rivedere i dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Chiudere un’attività di progetto](/help/manage-work/close-a-project/close-a-project-activity.md)
+Scopri come chiudere attività e problemi, completare le approvazioni, registrare le lezioni apprese e chiudere il progetto.
 
+* [Modifica lo stato del progetto impostandolo su completato](change-the-project-status.md) - Scopri come modificare lo stato del progetto su Completato, perché modificarlo e cosa fare se non è possibile modificarlo in Completato.
+* [Chiudi attività e problemi](close-tasks-and-issues.md) - Scopri come assicurarsi che le attività e i problemi siano chiusi prima di chiudere un progetto.
+* [Completare le approvazioni](complete-approvals.md) - Scopri come identificare le approvazioni incomplete e risolverle in modo da poter chiudere il progetto.
+* [Carica risorse](upload-assets.md) - Carica documenti, bozze e altre risorse nel progetto prima di chiuderlo, per assicurarti che tutti i dati rilevanti siano associati al progetto.
+* [Registra le lezioni apprese](lessons-learned-from-closing-a-project.md) - Scopri come includere un&#39;attività &quot;lezioni apprese&quot; per identificare cosa è andato bene e cosa può migliorare la prossima volta.
+* [Registra e rivedi le ore](log-and-review-hours.md) - Registra le ore in sospeso e controlla le ore registrate prima di chiudere un progetto.
+* [Aggiorna e rivedi dati finanziari](update-and-review-finances.md) - Se l&#39;organizzazione utilizza Workfront per tenere traccia delle informazioni finanziarie relative al progetto, l&#39;esame delle spese e la creazione dei record di fatturazione potrebbero essere parte del processo di chiusura di un progetto.
+* [Chiudi un&#39;attività di progetto](close-a-project-activity.md) - Esercitati su ciò che hai imparato su come chiudere un progetto.
