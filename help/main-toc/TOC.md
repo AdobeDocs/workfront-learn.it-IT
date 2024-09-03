@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2412'
+source-wordcount: '2417'
 ht-degree: 99%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 99%
       + [Creare e gestire la gravità dei problemi](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personalizzare i tipi di problemi e la terminologia](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurare le preferenze globali dei problemi predefiniti](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-      + [Creare e gestire regole business](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [Creare e gestire regole aziendali](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + Modelli di layout {#layout-templates}
       + [Cosa sono i modelli di layout?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -585,6 +585,12 @@ ht-degree: 99%
 
 + Agile {#agile}
 
+   + Introduzione a Gestione del lavoro Agile {#intro-to-agile}
+      + [Vantaggi dell’utilizzo della metodologia Agile](/help/agile/benefits-of-using-agile.md)
+      + [Che cos’è la metodologia Scrum e come funziona?](/help/agile/what-is-the-scrum-methodology.md)
+      + [Che cos’è la metodologia Kanban e come funziona?](/help/agile/what-is-the-kanban-methodology.md)
+      + [Transizione ad Agile](/help/agile/transitioning-to-agile.md)
+
    + Scrum {#scrum}
       + [Creare un team agile Scrum](/help/agile/create-a-scrum-agile-team.md)
       + [Gestire il lavoro come team Scrum](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 99%
 
 
 
-+ [Vantaggi dell’utilizzo della metodologia Agile](/help/agile/benefits-of-using-agile.md)
-+ [Che cos’è la metodologia Scrum e come funziona?](/help/agile/what-is-the-scrum-methodology.md)
-+ [Che cos’è la metodologia Kanban e come funziona?](/help/agile/what-is-the-kanban-methodology.md)
-+ [Transizione ad Agile](/help/agile/transitioning-to-agile.md)
+
 + [Gestire le richieste](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Comprendere il grafico Capacità risorse](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
