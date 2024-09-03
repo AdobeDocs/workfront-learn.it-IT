@@ -1,23 +1,24 @@
 ---
-user-guide-title: Gestisci lavoro - Intermedio
+user-guide-title: Ulteriori informazioni sulla gestione del lavoro come project manager panoramica
 user-guide-description: Dopo aver appreso le nozioni di base sulla creazione, la pianificazione e la gestione dei progetti, è necessario conoscere alcuni altri aspetti per ottenere il massimo da Workfront.
 feature: Work Management
-breadcrumb-title: Gestisci lavoro - Intermedio
+breadcrumb-title: Ulteriori informazioni sulla gestione del lavoro come project manager panoramica
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 55%
 
 ---
 
 
-# Gestisci lavoro - Intermedio {#manage-work-intermediate}
 
-+ [Gestisci lavoro - Intermedio](overview.md)
-+ Gestisci lavoro - intermedio {#manage-work-intermediate}
+# Ulteriori informazioni sulla gestione del lavoro come project manager panoramica {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [Ulteriori informazioni sulla gestione del lavoro come project manager panoramica](overview.md)
++ Ulteriori informazioni sulla gestione del lavoro come project manager {#further-understanding-of-managing-work-as-a-project-manager}
    + Modelli di progetto {#project-templates}
       + [Creare un modello di progetto e informazioni sui blueprint](create-a-project-template.md)
       + [Creare un progetto direttamente da un modello](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 64%
       + [Convertire un problema/richiesta in un’attività](convert-issues-to-other-work-items.md)
       + [Rapporto sui problemi](report-on-issues.md)
 
-   + Ricerca di {#digging-deeper} più approfonditi
-      + [Comprendere e gestire i tipi di durata e i vincoli delle attività](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Comprendere i predecessori tra progetti](understand-cross-project-predecessors.md)
-      + [Predecessori avanzati](advanced-predecessors.md)
+   + Timeline del progetto {#project-timelines}
+      + [Comprendere le timeline dei progetti](understand-project-timelines.md)
+      + [Comprendere i tipi di data e lo stato di avanzamento](understand-task-dates-and-progress-status.md)
+      + [Tracciare l’avanzamento dalla timeline del progetto](track-work-progress-from-the-project-timeline.md)
+
+

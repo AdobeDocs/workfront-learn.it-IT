@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '977'
 ht-degree: 4%
@@ -42,7 +42,6 @@ Scopri cos’è un progetto in Adobe Workfront, come avviarlo e come crearlo nel
 * [Scopri quattro modi per creare un progetto](understand-other-ways-to-create-projects.md): scopri come creare un progetto da un modello, creare un progetto da zero, copiare un progetto esistente o importare un file [!DNL Microsoft Project].
 * [Inserisci i dettagli del progetto](fill-in-the-project-details.md). Scopri i campi dei dettagli del progetto che Adobe Workfront ti consiglia di compilare durante la creazione di un progetto.
 * [Vai alla pagina del progetto](navigate-the-project-page.md). Scopri come visualizzare i dettagli di un progetto, quali informazioni vengono visualizzate nell&#39;elenco delle attività, dove caricare i documenti e come visualizzare la cronologia degli aggiornamenti.
-
 
 ## Pianificare un progetto
 
@@ -76,7 +75,6 @@ Scopri come tenere traccia del lavoro di progetto e comunicare con le parti inte
 * [Monitora l&#39;avanzamento dalla sequenza temporale del progetto](track-work-progress-from-the-project-timeline.md) - Scopri come tenere traccia dell&#39;avanzamento del lavoro dalla sequenza temporale del progetto utilizzando la percentuale di completamento, lo stato, le assegnazioni e i vincoli delle attività.
 * [Informazioni sulla visualizzazione [!UICONTROL Gantt]](understand-the-gantt-view.md) - Informazioni sull&#39;utilizzo del grafico [!UICONTROL Gantt] del progetto e del grafico [!UICONTROL Gantt] dell&#39;attività.
 * [Comprendere la visualizzazione [!UICONTROL Bacheca]](understand-the-board-view.md) - Scopri dove trovare la visualizzazione Bacheca e come utilizzarla.
-
 
 ## Chiudere un progetto
 

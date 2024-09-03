@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Scopri come creare e utilizzare i modelli di progetto.
 * [Disattivare un modello di progetto](deactivate-a-project-template.md) - Scopri come attivare e disattivare un modello di progetto.
 * [Modifica il team di progetto in un modello di progetto](edit-the-project-team-in-a-project-template.md) - Scopri come evitare di includere involontariamente **membri del team di progetto non** in un team di progetto di modello e come modificare il team di progetto di modello.
 
-
 ## Come creare e utilizzare i processi di approvazione
 
 Scopri come creare processi di approvazione, allegarli ai flussi di lavoro, esaminare il lavoro digitale e delegare le approvazioni.
@@ -64,7 +63,6 @@ Scopri come creare processi di approvazione, allegarli ai flussi di lavoro, esam
 * [Informazioni su aggiornamenti e notifiche](understand-updates-and-notifications.md) - Scopri come apportare aggiornamenti alle richieste di approvazione e trovare le notifiche.
 * [Delega attività, problemi e approvazioni](delegate-approvals.md) - Scopri come delegare le approvazioni per progetti, attività, problemi e schede orario a un altro utente Adobe Workfront.
 
-
 ## Come creare e utilizzare le milestone
 
 Scopri come creare percorsi milestone, applicare i milestone alle attività e visualizzare i rapporti milestone.
@@ -72,7 +70,6 @@ Scopri come creare percorsi milestone, applicare i milestone alle attività e vi
 * [Crea milestone](creating-milestones.md) - Scopri i percorsi milestone, come crearli e come aggiungere passaggi milestone a un progetto.
 * [Applica milestone](apply-milestones.md) - Scopri come applicare un percorso milestone a un progetto e associare le attività chiave come passaggi milestone all&#39;interno del progetto.
 * [Visualizza le milestone](view-milestones.md) - Scopri come visualizzare le milestone in un progetto Adobe Workfront e come utilizzarle nell’area del progetto.
-
 
 ## Come risolvere i problemi
 
@@ -86,7 +83,6 @@ Scopri come gestire il lavoro non pianificato con i problemi, convertire i probl
 * [Convertire un problema o una richiesta in un progetto](create-a-project-from-a-request.md) - Scopri come avviare la conversione da richiesta a progetto e seleziona il modello di progetto appropriato.
 * [Convertire un problema o una richiesta in un&#39;attività](convert-issues-to-other-work-items.md) - Scopri come convertire un problema in un&#39;attività.
 * [Report sui problemi](report-on-issues.md) - Scopri come creare un report sui problemi che mostra gli oggetti di risoluzione e un report sui progetti che mostra le informazioni sui problemi convertiti.
-
 
 ## Approfondimento
 
