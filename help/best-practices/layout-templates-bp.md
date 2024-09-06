@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ Crea il minor numero di modelli di layout possibile.
 **Ecco perché**
 
 Quando crei modelli di layout, prova a realizzarli in modo da soddisfare le esigenze della maggior parte delle persone possibili di un team, di un gruppo, a cui è assegnata la stessa mansione, ecc. Un numero minore di modelli di layout comporta una minore necessità di manutenzione da parte degli amministratori di sistema e di gruppi.
+
