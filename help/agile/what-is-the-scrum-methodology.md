@@ -9,9 +9,9 @@ thumbnail: what-is-scrum.jpeg
 hide: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ La metodologia Scrum comprende il modello di flessibilità ma differisce dalle a
 
 ## Panoramica del team Scrum
 
-Quando decidi se passare o meno a Scrum, dovrai esaminare la struttura dei tuoi team per vedere se possono passare facilmente alla nuova metodologia. Un team Scrum è composto da tre tipi di membri: un proprietario del prodotto, uno Scrum Master e i membri del team.
+Quando decidi se passare o meno a Scrum, dovrai esaminare la struttura dei team per vedere se possono passare facilmente alla nuova metodologia. Un team Scrum è composto da tre tipi di membri: un proprietario del prodotto, uno Scrum Master e i membri del team.
 
 ![Membri del team Scrum](assets/scrumteammembers-01.png)
 
@@ -42,7 +42,7 @@ Un team è solitamente interfunzionale e comprende membri con mansioni e compete
 
 ## Lavorare come team Scrum
 
-Dopo aver assemblato questi attori chiave, segui un nuovo stile di flusso di lavoro per svolgere il loro lavoro e consegnare un prodotto al cliente. Ancora una volta, rispetto alla metodologia tradizionale o a cascata, non seguiranno più un processo lineare di elaborazione di un piano per un prodotto finale, per poi passare attraverso i passaggi o le fasi necessarie per consegnare quel prodotto. Piuttosto, i team Scrum creano per prima cosa un backlog.
+Una volta riuniti questi soggetti chiave, questi seguiranno un nuovo stile di flusso di lavoro per portare a termine il lavoro e consegnare un prodotto alla clientela. Ancora una volta, rispetto alla metodologia tradizionale o a cascata, non seguiranno più un processo lineare di elaborazione di un piano per un prodotto finale, per poi passare attraverso i passaggi o le fasi necessarie per consegnare quel prodotto. Piuttosto, i team Scrum creano per prima cosa un backlog.
 
 
 
@@ -65,7 +65,7 @@ Una volta che le storie principali sono state create, il team deve gestire il ba
 
 ### Pianificazione dell’iterazione
 
-Una volta pulita e assegnata la priorità al backlog, è necessario pianificare l’iterazione. Molte organizzazioni utilizzano le parole &quot;sprint&quot; e &quot;iterazione&quot; in modo intercambiabile. Il team decide quali storie completare in base a quelle considerate pronte per essere avviate. Il team effettua le assegnazioni e decide la durata dell’iterazione.
+Dopo aver organizzato e dato priorità al backlog, è il momento di pianificare l’iterazione. Molte organizzazioni usano le parole “sprint” e “iterazione” in modo intercambiabile. Il team decide quali storie completare in base a quelle considerate pronte per essere avviate. Il team effettua le assegnazioni e decide la durata dell’iterazione.
 
 
 
@@ -86,7 +86,7 @@ Queste riunioni fanno sì che tutti siano sempre aggiornati e consentono un avan
 
 ## Utilizzo di un grafico di lavoro e di uno storyboard per tenere traccia del progresso
 
-Poiché un team risponde alle tre domande principali nelle proprie standup, è importante monitorare e tenere traccia dei progressi compiuti verso il completamento dell&#39;iterazione. Ciò consente loro di determinare se si stanno muovendo abbastanza velocemente attraverso le loro storie per fornire tutte le funzionalità in tempo per la fine dell’iterazione. Esistono due componenti per eseguire questa operazione nel processo Scrum.
+Quando un team risponde alle tre domande principali durante gli stand-up, è importante monitorare e tenere traccia del progresso verso il completamento dell’iterazione. Ciò consente loro di determinare se si stanno muovendo abbastanza velocemente attraverso le loro storie per fornire tutte le funzionalità in tempo per la fine dell’iterazione. Esistono due componenti per eseguire questa operazione nel processo Scrum.
 
 
 ### Storyboard
