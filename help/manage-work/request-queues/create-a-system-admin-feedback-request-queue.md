@@ -9,13 +9,14 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +40,7 @@ In questo video scoprirai:
 Per scoprire come creare il **Rapporto di feedback del team di amministrazione** utilizzato nel video, consulta il tutorial [Creare un rapporto attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=it) e cerca l’attività **Creare un rapporto di feedback del team di amministrazione** seguendo il video.
 
 Per informazioni su come creare un modulo personalizzato, consulta il tutorial [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=it).
+
+## Tutorial consigliati su questo argomento
+
+* [Risposte alle domande più comuni sulle code di richieste](/help/manage-work/request-queues/request-queue-faq.md)
