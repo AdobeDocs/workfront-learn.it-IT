@@ -9,10 +9,10 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 50%
+source-wordcount: '709'
+ht-degree: 48%
 
 ---
 
@@ -49,6 +49,10 @@ Se apri una richiesta dalla coda di richieste, puoi fare clic sul nome del proge
 **Posso trasferire le informazioni da un modulo personalizzato di una richiesta a un modulo personalizzato di un progetto?**
 
 Sì. Quando crei un modulo personalizzato, seleziona [!UICONTROL Progetto] e [!UICONTROL Problema] come tipi di oggetto. È inoltre possibile modificare un modulo personalizzato del progetto per includere il tipo di oggetto problema e viceversa.
+
+![Immagine che mostra come selezionare 2 tipi di oggetto durante la creazione di un modulo personalizzato](assets/faq-image-1.png)
+
+![Immagine che mostra come selezionare 2 tipi di oggetto durante la modifica di un modulo personalizzato](assets/faq-image-2.png)
 
 Allega il modulo personalizzato alla richiesta. Quando converti la richiesta in un progetto, il modulo personalizzato verrà automaticamente allegato al nuovo progetto e i valori contenuti in tutti i campi verranno visualizzati sia nella richiesta che nei moduli personalizzati del progetto.
 
