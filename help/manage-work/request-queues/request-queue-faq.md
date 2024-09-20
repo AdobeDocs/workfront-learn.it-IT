@@ -12,7 +12,7 @@ exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
 source-wordcount: '709'
-ht-degree: 48%
+ht-degree: 96%
 
 ---
 
@@ -28,13 +28,13 @@ Per ulteriori informazioni, guarda questo video:
 
 **Ho concesso agli utenti l’accesso alla coda, ma ora possono vedere anche il progetto della coda delle richieste. Perché?**
 
-Nella sezione &quot;Chi può aggiungere richieste a questa coda?&quot; Se scegli &quot;Persone con accesso di visualizzazione a questo progetto&quot;, chiunque tu dia i diritti di visualizzazione a per poter utilizzare la coda di richieste sarà anche in grado di visualizzare la coda di richieste in un elenco di progetti. Per evitare questo problema, utilizza l’opzione &quot;Persone nell’azienda di questo progetto&quot; o &quot;Persone nel gruppo di questo progetto&quot;.
+Nell’elenco “Chi può aggiungere richieste a questa coda?”, se scegli “Persone con accesso in visualizzazione al progetto”, tutti coloro a cui concedi i diritti di visualizzazione per consentire l’utilizzo della coda richieste potranno visualizzare la coda delle richieste anche in un elenco di progetti. Per evitare che si verifichi questa situazione, utilizza l’opzione “Persone nella società del progetto” o “Persone nel gruppo del progetto”.
 
 **Posso trasformare una richiesta in un progetto?**
 
 Sì. Puoi convertire i problemi in attività o progetti in base alle necessità.
 
-Queste esercitazioni ti mostreranno come:
+Questi tutorial ti illustreranno come:
 
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 
@@ -48,7 +48,7 @@ Se apri una richiesta dalla coda di richieste, puoi fare clic sul nome del proge
 
 **Posso trasferire le informazioni da un modulo personalizzato di una richiesta a un modulo personalizzato di un progetto?**
 
-Sì. Quando crei un modulo personalizzato, seleziona [!UICONTROL Progetto] e [!UICONTROL Problema] come tipi di oggetto. È inoltre possibile modificare un modulo personalizzato del progetto per includere il tipo di oggetto problema e viceversa.
+Sì. Quando crei un modulo personalizzato, seleziona [!UICONTROL Progetto] e [!UICONTROL Problema] come tipi di oggetto. È anche possibile modificare un modulo personalizzato di un progetto in modo includere il tipo di oggetto problema (e viceversa).
 
 ![Immagine che mostra come selezionare 2 tipi di oggetto durante la creazione di un modulo personalizzato](assets/faq-image-1.png)
 
@@ -75,11 +75,11 @@ Per ulteriori informazioni, guarda questo video:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
 
-**Creare uno stato personalizzato della coda richieste?**
+**È una buona idea creare uno stato personalizzato della coda richieste?**
 
-Alcuni clienti creano uno stato personalizzato di Coda richieste che è uguale a Corrente. Possono quindi eseguire un rapporto che mostra tutte le code di richieste o escludere facilmente le code di richieste da un rapporto. Anche se questo ha il vantaggio di essere più semplice da usare rispetto all&#39;uso di **Coda>>È pubblico>>Non uguale a>>Nessuno**, ha lo svantaggio che le persone che creano code di richieste potrebbero dimenticarsi di usarlo, dal momento che lo stato Attuale funziona allo stesso modo ed è quello che vedranno nella maggior parte del materiale di formazione. Per questo motivo, molti clienti scelgono di non utilizzare uno stato personalizzato Coda richieste.
+Alcuni clienti creano uno stato personalizzato di Coda richieste che corrisponde a Corrente. Possono quindi eseguire un rapporto contenente tutte le code di richieste oppure escluderle facilmente da un rapporto. Questo metodo ha il vantaggio di essere più semplice rispetto all’uso di **Coda>>È pubblico>>Non uguale a>>Nessuno**, ma presenta anche uno svantaggio, ovvero gli utenti che creano code di richieste potrebbero dimenticarsi di usarlo, in quanto lo stato Corrente è comunque attivo ed è lo stato visibile nella maggior parte del materiale di formazione. Per questo motivo, molti clienti scelgono di non utilizzare uno stato personalizzato di Coda richieste.
 
-Tuttavia, se utilizzi già lo stato Coda richieste nell&#39;organizzazione e vuoi solo essere sicuro che venga utilizzato correttamente (o correggere i casi in cui non lo è), puoi creare il rapporto **Code di richieste attive** descritto nel video precedente e modificare il filtro per **Progetto>>Stato è uguale a>>Uguale a>>Corrente** in **Progetto>>Stato>>Uguale a> Corrente**. Verranno visualizzate tutte le code di richieste attive che utilizzano lo stato Corrente anziché lo stato della coda di richieste che si desidera utilizzare. Seleziona tutti i progetti visualizzati ed esegui una modifica in blocco per modificare gli stati in Coda richieste.
+Se, tuttavia, stai già utilizzando lo stato Coda richieste nell’organizzazione e vuoi solo avere la certezza che sia utilizzato correttamente (o correggere i casi in cui non lo è), puoi creare il rapporto **Code richieste attive** descritto nel video precedente e modificare il filtro da **Progetto>>Stato equivale a>>Uguale a>>Corrente** a **Progetto>>Stato>>Uguale a>>Corrente**. Verranno visualizzate tutte le code di richieste attive che utilizzano lo stato Corrente anziché lo stato Coda richieste che avrebbero dovuto utilizzare. Seleziona tutti i progetti visualizzati ed esegui una modifica in blocco per cambiare gli stati su Coda richieste.
 
 ## Tutorial consigliati su questo argomento
 
