@@ -10,9 +10,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '709'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -50,9 +50,9 @@ Se apri una richiesta dalla coda di richieste, puoi fare clic sul nome del proge
 
 Sì. Quando crei un modulo personalizzato, seleziona [!UICONTROL Progetto] e [!UICONTROL Problema] come tipi di oggetto. È anche possibile modificare un modulo personalizzato di un progetto in modo includere il tipo di oggetto problema (e viceversa).
 
-![Immagine che mostra come selezionare 2 tipi di oggetto durante la creazione di un modulo personalizzato](assets/faq-image-1.png)
+![Immagine che mostra come selezionare due tipi di oggetto durante la creazione di un modulo personalizzato](assets/faq-image-1.png)
 
-![Immagine che mostra come selezionare 2 tipi di oggetto durante la modifica di un modulo personalizzato](assets/faq-image-2.png)
+![Immagine che mostra come selezionare due tipi di oggetto durante la modifica di un modulo personalizzato](assets/faq-image-2.png)
 
 Allega il modulo personalizzato alla richiesta. Quando converti la richiesta in un progetto, il modulo personalizzato verrà automaticamente allegato al nuovo progetto e i valori contenuti in tutti i campi verranno visualizzati sia nella richiesta che nei moduli personalizzati del progetto.
 
