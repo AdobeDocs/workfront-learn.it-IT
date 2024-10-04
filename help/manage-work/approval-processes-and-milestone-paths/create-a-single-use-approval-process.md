@@ -13,20 +13,20 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 42%
+source-wordcount: '441'
+ht-degree: 100%
 
 ---
 
 # Creare un processo di approvazione globale e monouso
 
-I processi di approvazione su progetti, attività e problemi consentono a un project manager di ottenere la conferma da parte di esperti che il lavoro è stato svolto prima di procedere. Il project manager può creare un processo di approvazione per ogni situazione (processo di approvazione a utente singolo) o scegliere da un elenco di possibili processi di approvazione creati in precedenza per soddisfare esigenze comuni (processi di approvazione globali o esistenti).
+I processi di approvazione su progetti, attività e problemi consentono a un project manager di ottenere la conferma da parte di esperti che il lavoro è stato svolto prima di procedere. Il project manager può creare un processo di approvazione per ogni situazione (noto come processo di approvazione monouso) o scegliere da un elenco di molti processi di approvazione creati in precedenza per soddisfare esigenze comuni (noti come processi di approvazione globali o esistenti).
 
 In entrambi i casi, quando lo stato dell’oggetto cambia in quello specificato nel processo di approvazione, l’approvatore viene informato in vari modi per rivedere il lavoro e approvarlo o rifiutarlo. Dato che l’intero progetto può essere messo in pausa in attesa dell’approvazione, gli approvatori dovrebbero essere consapevoli in anticipo che potrebbero essere chiamati per un’approvazione. Se un approvatore è assente dall’incarico per qualsiasi motivo, può delegare le proprie approvazioni a un sostituto qualificato. Per maggiori informazioni, consulta [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md).
 
-Questo video illustra come creare un processo di approvazione globale e un processo di approvazione a utente singolo per un progetto, un’attività o un problema.
+Questo video illustra come creare un processo di approvazione globale e un processo di approvazione monouso per un progetto, un’attività o un problema.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
 
@@ -40,13 +40,13 @@ Questo video illustra come creare un processo di approvazione globale e un proce
 
 ## Applicare le approvazioni automatiche dei problemi in una coda di richieste
 
-Se si desidera impostare le approvazioni automatiche dei problemi in una coda di richieste, è possibile eseguirle solo utilizzando un processo di approvazione globale dei problemi e applicarle in un [!UICONTROL argomento Coda].
+Se desideri impostare approvazioni automatiche dei problemi in una coda richieste, queste possono essere eseguite solo utilizzando un processo di approvazione dei problemi globale e applicate in un [!UICONTROL argomento coda].
 
-Durante la creazione o la modifica di un [!UICONTROL argomento coda], selezionare il processo di approvazione globale nel campo **[!UICONTROL Approvazione predefinita]**.
+Durante la creazione o la modifica di un [!UICONTROL argomento coda], seleziona il processo di approvazione globale nel campo **[!UICONTROL Approvazione predefinita]**.
 
-![Immagine che mostra come selezionare un processo di approvazione predefinito in un argomento della coda](assets/automatic-issue-approval-1.png)
+![Immagine che mostra come selezionare un processo di approvazione predefinito in un argomento coda](assets/automatic-issue-approval-1.png)
 
-Potrebbe essere necessario modificare il processo di approvazione del problema per assicurarsi che lo stato **[!UICONTROL Precedente]** non sia quello impostato per il rifiuto dell&#39;approvazione. Questo perché lo stato precedente è **[!UICONTROL Nuovo]** e questo è anche lo stato che attiva il processo di approvazione, quindi è lo stato in cui verrà impostato quando approvato. Per evitare confusione quando l&#39;approvazione del problema viene rifiutata, è meglio impostare lo stato su qualcosa come **[!UICONTROL Non risolverai]** o uno stato personalizzato creato a questo scopo.
+Potrebbe essere necessario modificare il processo di approvazione del problema per assicurarsi che lo **[!UICONTROL stato Precedente]** non sia quello impostato per il rifiuto dell’approvazione. Questo perché lo stato precedente è **[!UICONTROL Nuovo]** e questo è anche lo stato che attiva il processo di approvazione, quindi è lo stato in cui verrà impostato quando approvato. Per evitare confusione quando l’approvazione del problema viene rifiutata, è meglio impostare lo stato su qualcosa come **[!UICONTROL Impossibile risolvere]** o uno stato personalizzato creato a questo scopo.
 
 ![Immagine che mostra la modifica dello stato da utilizzare quando il problema viene rifiutato](assets/automatic-issue-approval-2.png)
 
@@ -54,7 +54,6 @@ Potrebbe essere necessario modificare il processo di approvazione del problema p
 ## Tutorial consigliati su questo argomento
 
 * [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Allegare e modificare i processi di approvazione esistenti](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
 

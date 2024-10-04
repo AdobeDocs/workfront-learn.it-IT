@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '2420'
+source-wordcount: '2414'
 ht-degree: 99%
 
 ---
@@ -156,7 +156,6 @@ ht-degree: 99%
 
    + Processi di approvazione e percorsi milestone {#approval-processes-and-milestone-paths}
       + [Creare un processo di approvazione globale e monouso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Allegare e modificare i processi di approvazione esistenti](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Rivedere e approvare il lavoro digitale](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Applicare le milestone](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)

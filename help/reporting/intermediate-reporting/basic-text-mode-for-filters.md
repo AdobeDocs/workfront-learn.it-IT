@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ In questo video scoprirai:
 ## Attività: escludere le attività contrassegnate come “Ho terminato la mia parte”
 
 La seguente modalità di testo escluderà le attività che un utente ha contrassegnato come “Ho terminato la mia parte”. È sufficiente creare un filtro delle attività, aggiungere le regole di filtro desiderate, quindi passare alla modalità testo e incollare il codice sottostante dopo qualsiasi modalità di testo visualizzata nel filtro.
+
+
+>[!WARNING]
+>
+> Questa opzione non è destinata all’utilizzo nei filtri Calendario.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Attività: mostrare tutte le attività assegnate ad altri
 
 Crea un rapporto di attività con i filtri desiderati, quindi passa alla scheda Filtro e fai clic su Passa a modalità testo. Aggiungi questo codice a un elemento già presente:
+
+>[!WARNING]
+> 
+> Questa opzione non è destinata all’utilizzo nei filtri Calendario.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
