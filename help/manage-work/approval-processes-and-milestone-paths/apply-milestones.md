@@ -1,6 +1,6 @@
 ---
 title: Applicare le milestone
-description: Scopri come applicare percorsi milestone a un progetto di  [!DNL  Workfront]  e associare le attività chiave come fasi cardine all’interno del progetto.
+description: Scopri come applicare percorsi milestone a un progetto e associare attività chiave come passaggi milestone all’interno del progetto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,13 +9,14 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 68%
 
 ---
 
@@ -31,5 +32,10 @@ In questo video scoprirai come:
 
 >[!TIP]
 >
->Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
+>Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](/help/reporting/basic-reporting/create-a-basic-view.md).
 
+## Tutorial consigliati su questo argomento
+
+* [Visualizzare le milestone](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Creare le milestone](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Attività vista Milestone in Creare una vista di base](/help/reporting/basic-reporting/create-a-basic-view.md)
