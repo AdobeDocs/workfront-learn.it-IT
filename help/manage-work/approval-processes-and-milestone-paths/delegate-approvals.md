@@ -1,6 +1,6 @@
 ---
 title: Delegare attività, problemi e approvazioni
-description: Scopri come delegare le assegnazioni di attività e problemi e le approvazioni per progetti, attività e problemi a un altro utente di Workfront.
+description: Scopri come delegare le assegnazioni di attività e problemi e le approvazioni di progetti, attività e problemi a un altro utente di Workfront.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -14,22 +14,22 @@ jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
 source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 # Delegare attività, problemi e approvazioni
 
-Scopri come delegare le assegnazioni di attività e problemi e le approvazioni per progetti, attività e problemi a un altro utente di Workfront.
+Scopri come delegare le assegnazioni di attività e problemi e le approvazioni di progetti, attività e problemi a un altro utente di Workfront.
 
 In questo video scoprirai come:
 
-* Abilitare la delega in Configurazione
+* Abilitare la delega nella Configurazione
 * Delegare le assegnazioni di attività e problemi
-* Delega le approvazioni per progetti, attività, problemi
-* Identificare le approvazioni delegate
+* Delegare approvazioni per progetti, attività e problemi
+* Trovare approvazioni delegate
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on)
 
