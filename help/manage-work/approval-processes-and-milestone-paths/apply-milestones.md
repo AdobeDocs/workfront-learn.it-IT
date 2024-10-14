@@ -1,6 +1,6 @@
 ---
 title: Applicare le milestone
-description: Scopri come applicare percorsi milestone a un progetto e associare attività chiave come passaggi milestone all’interno del progetto.
+description: Scopri come applicare percorsi milestone a un progetto e associare le attività chiave come passaggi milestone all’interno del progetto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,4 @@ In questo video scoprirai come:
 
 * [Visualizzare le milestone](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Creare le milestone](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Attività vista Milestone in Creare una vista di base](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Attività di vista Milestone in Crea una visualizzazione di base](/help/reporting/basic-reporting/create-a-basic-view.md)

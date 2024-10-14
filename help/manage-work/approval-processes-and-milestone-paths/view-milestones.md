@@ -1,6 +1,6 @@
 ---
 title: Visualizzare le milestone
-description: Scopri come visualizzare le milestone in un progetto e come utilizzare la vista milestone nell’area [!UICONTROL Progetto].
+description: Scopri come visualizzare le milestone in un progetto e utilizza la vista Milestone nell’area [!UICONTROL Progetto].
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -14,9 +14,9 @@ jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 63%
 In questo video scoprirai come:
 
 * Visualizzare le milestone in un progetto specifico
-* Lettura della vista milestone in un elenco di progetti
+* Leggere la vista Milestone in un elenco di progetti
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)
 
