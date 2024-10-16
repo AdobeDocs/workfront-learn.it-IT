@@ -2,7 +2,7 @@
 title: Comprendere la visione alla base degli [!UICONTROL Obiettivi Workfront]
 description: Informazioni su  [!DNL Workfront Goals]  in  [!DNL  Workfront]  dal team di prodotto.
 activity: use
-feature: Workfront Goals,Get Started with Workfront
+feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
@@ -10,17 +10,13 @@ team: Technical Marketing
 jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 100%
+source-wordcount: '34'
+ht-degree: 55%
 
 ---
 
 # Comprendere la visione alla base degli Obiettivi Workfront
 
-In questo video scoprirai:
-
-* [!DNL Workfront Goals] in [!DNL  Workfront]
-
->[!VIDEO](https://video.tv.adobe.com/v/335181/?quality=12&learn=on)
+Questo video è stato rimosso. Per iniziare, vai a [Comprendere il funzionamento degli obiettivi di Workfront](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md).
