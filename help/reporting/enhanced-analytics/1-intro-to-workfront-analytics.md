@@ -1,6 +1,6 @@
 ---
-title: 'Un momento con il team del prodotto: [!UICONTROL Analisi avanzata]'
-description: Scopri come è nato Analytics e le interessanti funzionalità che rende possibili con Joel Pettigrew, product manager di  [!DNL Enhanced analytics].
+title: Un momento con il prodotto - [!UICONTROL Analisi avanzata]
+description: Scopri la nascita di Analytics e le funzionalità straordinarie che rende possibili con Joel Pettigrew, product manager per [!UICONTROL Analisi avanzate].
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,15 +11,15 @@ doc-type: video
 jira: KT-8870
 recommendations: noDisplay,noCatalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: c2e45553d68fd958d871c2936ed4d8fed70b6b12
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 0%
 
 ---
 
-# Un momento con il team del prodotto: [!UICONTROL Analisi avanzata]
+# Un momento con il prodotto - [!UICONTROL Analisi avanzata]
 
-Guarda questo video con Joel Pettigrew di Workfront, product manager di [!DNL Enhanced analytics], per scoprire come è nato Analytics e le interessanti funzionalità che rende possibili.
+Guarda questo video con Joel Pettigrew, Product Manager di Workfront per [!UICONTROL Analisi avanzate], per scoprire come è nata l&#39;analisi e le sue straordinarie funzionalità.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)
