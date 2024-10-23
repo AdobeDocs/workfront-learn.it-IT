@@ -1,6 +1,6 @@
 ---
 title: Comprendere i grafici lavoro e persone
-description: In [!UICONTROL Analisi avanzata] i grafici Lavoro mostrano l’attività dal punto di vista del progetto e dell’attività, mentre i grafici Persone mostrano l’attività dal punto di vista di un team predefinito.
+description: In [!UICONTROL Analisi avanzate], i grafici di lavoro mostrano l'attività dal punto di vista del progetto e dell'attività, mentre i grafici Persone mostrano l'attività dal punto di vista di un team principale.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rivedere le attività in corso
-description: Scopri come accedere al grafico delle Attività in corso e vedere rapidamente quali attività non sono state completate in un progetto, il tutto in [!UICONTROL Analisi avanzata].
+description: Scopri come accedere al grafico Attività in volo e come vedere rapidamente quali attività non sono state completate in un progetto, il tutto in [!UICONTROL Analisi avanzate].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -12,10 +12,10 @@ jira: KT-8735
 recommendations: noDisplay,noCatalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 

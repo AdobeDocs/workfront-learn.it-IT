@@ -1,6 +1,6 @@
 ---
 title: Comprendere il grafico Capacità risorse
-description: Questa funzione è stata rimossa dalle [!UICONTROL Funzionalità di analisi avanzate] dall’11 aprile 2024.
+description: Questa funzionalità è stata rimossa da [!UICONTROL Analisi avanzate] a partire dall'11 aprile 2024.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-10046
 hidefromtoc: true
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 100%
+ht-degree: 31%
 
 ---
 
 # Comprendere il grafico Capacità risorse
 
-Questa funzione è stata rimossa dalle [!UICONTROL Funzionalità di analisi avanzate] dall’11 aprile 2024.
+Questa funzionalità è stata rimossa da [!UICONTROL Analisi avanzate] a partire dall&#39;11 aprile 2024.
 
