@@ -1,6 +1,6 @@
 ---
 title: Comprendere i filtri
-description: Scopri come aggiungere un filtro basato sui campi comuni dei progetti e come aggiungere un filtro utilizzando un modulo personalizzato, il tutto in [!UICONTROL Analisi avanzate].
+description: Scopri come aggiungere un filtro basato sui campi comuni dei progetti e come aggiungere un filtro utilizzando un modulo personalizzato, il tutto in [!UICONTROL Funzionalità di analisi avanzate].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '264'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 

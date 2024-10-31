@@ -1,6 +1,6 @@
 ---
 title: Comprendere gli intervalli di date e gli archi temporali
-description: In [!UICONTROL Analisi avanzate], gli intervalli di date vengono specificati utilizzando il widget del calendario. Gli archi temporali vengono creati all’interno di un grafico.
+description: Nella sezione [!UICONTROL Funzionalità di analisi avanzate], gli intervalli di date vengono specificati utilizzando il widget del calendario. Gli archi temporali vengono creati all’interno di un grafico.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '315'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 

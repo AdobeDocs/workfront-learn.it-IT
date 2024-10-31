@@ -1,6 +1,6 @@
 ---
 title: Informazioni sull’accesso e la revisione del grafico lavoro
-description: Scopri come accedere al grafico di burn-down e comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità del progetto in [!UICONTROL Analisi avanzate].
+description: Scopri come accedere al grafico lavoro e comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità del progetto in [!UICONTROL Funzionalità di analisi avanzate].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '293'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 

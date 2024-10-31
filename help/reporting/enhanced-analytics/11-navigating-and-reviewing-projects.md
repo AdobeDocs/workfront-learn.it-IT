@@ -1,6 +1,6 @@
 ---
 title: Comprendere come navigare e rivedere i progetti
-description: Scopri come leggere il grafico del piano di volo in [!UICONTROL Analisi avanzate].
+description: Scopri come leggere il grafico Pianificazione in corso in [!UICONTROL Funzionalità di analisi avanzate].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Introduzione a [!UICONTROL Analisi avanzate]
+title: Introduzione alle [!UICONTROL Funzionalità di analisi avanzate]
 description: Scopri i campi più importanti da aggiornare in Workfront per consentire alle funzioni di analisi avanzata di mostrare i progressi dei tuoi team e progetti in Workfront.
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Introduzione a [!UICONTROL Analisi avanzate]
+# Introduzione alle [!UICONTROL Funzionalità di analisi avanzata]
 
 Le funzioni di analisi avanzata consentono di vedere l’avanzamento dei team e dei progetti in Workfront e gli eventi dei progetti passati, utili per pianificare i progetti futuri.
 

@@ -1,6 +1,6 @@
 ---
 title: Approfondire l’utilizzo di archi temporali e grafici aggiuntivi
-description: Scopri come analizzare in profondità un progetto nel grafico del piano di volo per visualizzare il grafico Burndown e il grafico Attività in volo in [!UICONTROL Analisi avanzate].
+description: Scopri come eseguire il drill-down di un progetto nel grafico Pianificazione in corso per visualizzare il grafico di lavoro e il grafico Attività in corso in [!UICONTROL Funzionalità di analisi avanzate].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Come accedere a [!UICONTROL Analisi avanzate]
-description: Scopri in che modo gli amministratori di sistema e di gruppo concedono l'accesso a [!UICONTROL Analisi avanzate] tramite un modello di layout.
+title: Come accedere alle [!UICONTROL Funzionalità di analisi avanzate]
+description: Scopri come gli amministratori di sistema e di gruppo concedono l’accesso alle [!UICONTROL Funzionalità di analisi avanzate] tramite un modello di layout.
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -14,16 +14,16 @@ recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
 
-# Come accedere ad Analisi avanzate
+# Come accedere alle Funzionalità di analisi avanzata
 
-Come la maggior parte delle altre funzionalità di Workfront, puoi accedere a [!UICONTROL Analisi avanzate] dal menu principale. Tuttavia, [!UICONTROL Analisi] non è nel menu principale per impostazione predefinita.
+Come la maggior parte delle altre funzionalità di Workfront, puoi accedere alle [!UICONTROL Funzionalità di analisi avanzata] dal menu principale. Tuttavia, [!UICONTROL Analisi] non è nel menu principale per impostazione predefinita.
 
 ![Immagine del menu principale](assets/analytics-on-main-menu.png)
 
