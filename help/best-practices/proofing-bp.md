@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 91%
 
 ---
 
@@ -23,9 +23,9 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 ## Esplorazione di questa pagina
 
-Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
+Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice relative all’argomento. Questo ti consente di rivedere i consigli senza immergerti nei dettagli delle motivazioni.
 
-La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
+“Perché queste sono best practice?” che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
 
 </br>
 </br>
@@ -34,9 +34,9 @@ La sezione “Perché queste sono best practice?”, che si trova dopo l’elenc
 
 * Prenditi tempo per creare i modelli di flusso di lavoro delle bozze.
 
-* Nelle impostazioni di Workfront, disabilita l’impostazione “Invia e-mail da Workfront quando viene creato un commento su una bozza”.
+* Nelle impostazioni di Workfront, disabilita l’impostazione &quot;Send emails from Workfront when a comment is made on a proof&quot; (Invia e-mail da quando viene inserito un commento su una bozza).
 
-* Utilizza esclusivamente l’impostazione di Workfront Solo lettura o Revisore per “Ruoli per non destinatari che aprono la bozza di un documento”.
+* Utilizza esclusivamente l’impostazione di Workfront Solo lettura o Revisore per “Ruoli non destinatari che aprono la bozza di un documento”.
 
 * Regola le impostazioni di back-end della bozza in modo che gli utenti possano visualizzare le scadenze in un formato di 12 ore.
 
@@ -72,7 +72,7 @@ I modelli non solo velocizzano e semplificano il processo di creazione e assegna
 
 **Best practice**
 
-Nelle impostazioni di Workfront, disabilita l’impostazione “Invia e-mail da Workfront quando viene creato un commento su una bozza”.
+Nelle impostazioni di Workfront, disabilita l’impostazione &quot;Send emails from Workfront when a comment is made on a proof&quot; (Invia e-mail da quando viene inserito un commento su una bozza).
 
 
 
@@ -89,7 +89,7 @@ Quando questa impostazione è abilitata (che è per impostazione predefinita), g
 
 **Best practice**
 
-Utilizza esclusivamente l’impostazione di Workfront Solo lettura o Revisore per “Ruoli per non destinatari che aprono la bozza di un documento”.
+Utilizza esclusivamente l’impostazione di Workfront Solo lettura o Revisore per “Ruoli non destinatari che aprono la bozza di un documento”.
 
 
 
@@ -112,11 +112,7 @@ Regola le impostazioni di back-end della bozza in modo che gli utenti possano vi
 
 **Ecco perché**
 
-Seleziona l’opzione F j, Y, gi:a nelle impostazioni bozza per gli utenti che desiderano visualizzare le ore di scadenza della bozza in formato AM/PM. Per le aree geografiche che utilizzano le 12 ore, questo aiuta a chiarire le scadenze.
-
-
-
-**Nota**: questa impostazione si trova andando sul menu principale di Workfront > Bozze > Impostazioni account > Utenti > e modificando il campo Formato data per ciascun utente.
+Il valore predefinito è un formato di orologio da 24 ore, che può confondere coloro che non lo conoscono. Per cambiare il formato, vai al Menu principale di Workfront > Strumenti di correzione > Impostazioni account > Utenti. Fai doppio clic su un utente per selezionarne uno, quindi modifica il campo Formato data nella sezione Impostazioni personali. Per modificarli è necessario selezionare ogni utente alla volta.
 
 </br>
 </br>

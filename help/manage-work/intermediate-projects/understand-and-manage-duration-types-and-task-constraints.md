@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -34,7 +34,7 @@ Questo video illustra le seguenti informazioni sui tipi di durata e i vincoli de
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-Per informazioni su come creare una vista con tipi di durata e vincoli delle attività, consulta la relativa attività in [Creare una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
+Per informazioni su come creare una visualizzazione dei tipi di durata e dei vincoli delle attività, vedere l&#39;attività **Visualizzazione dei tipi di durata e dei vincoli delle attività** in [Creazione di una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
 
 Per informazioni dettagliate sui tipi di durata, consulta [Durata e tipi di attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=it).
 
