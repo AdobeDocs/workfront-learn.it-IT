@@ -14,9 +14,9 @@ jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
 source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 87%
 In questo video scoprirai:
 
 * Gestione di base della timeline del progetto
-* Come comprendere la modalità Schedule
-* Come creare una visualizzazione Vincolo attività
+* Come comprendere la modalità Pianificazione
+* Come creare una vista Vincolo attività
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
