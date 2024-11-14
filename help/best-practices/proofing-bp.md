@@ -8,9 +8,9 @@ last-substantial-update: 2024-11-06T00:00:00Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1182'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 
 * Prenditi tempo per creare i modelli di flusso di lavoro delle bozze.
 
-* Nelle impostazioni di Workfront, disabilita l’impostazione &quot;Send emails from Workfront when a comment is made on a proof&quot; (Invia e-mail da quando viene inserito un commento su una bozza).
+* Nelle impostazioni di Workfront, disabilita l’impostazione “Invia e-mail da Workfront quando viene fatto un commento su una bozza”.
 
 * Utilizza esclusivamente l’impostazione di Workfront Solo lettura o Revisore per “Ruoli non destinatari che aprono la bozza di un documento”.
 
@@ -73,7 +73,7 @@ I modelli non solo velocizzano e semplificano il processo di creazione e assegna
 
 **Best practice**
 
-Nelle impostazioni di Workfront, disabilita l’impostazione &quot;Send emails from Workfront when a comment is made on a proof&quot; (Invia e-mail da quando viene inserito un commento su una bozza).
+Nelle impostazioni di Workfront, disabilita l’impostazione “Invia e-mail da Workfront quando viene fatto un commento su una bozza”.
 
 
 
@@ -113,7 +113,7 @@ Regola le impostazioni di back-end della bozza in modo che gli utenti possano vi
 
 **Ecco perché**
 
-Il valore predefinito è un formato di orologio da 24 ore, che può confondere coloro che non lo conoscono. Per cambiare il formato, vai al Menu principale di Workfront > Strumenti di correzione > Impostazioni account > Utenti. Fai doppio clic su un utente per selezionarne uno, quindi modifica il campo Formato data nella sezione Impostazioni personali. Per modificarli è necessario selezionare ogni utente alla volta.
+Il formato predefinito è quello di 24 ore, che può confondere coloro che non ne hanno familiarità. Per cambiare il formato, passa al Menu principale di Workfront > Bozza > Impostazioni account > Utenti. Fai doppio clic su un utente per selezionarne uno, quindi modifica il campo Formato data nella sezione Impostazioni personali. Per modificare gli utenti, è necessario selezionarne uno alla volta.
 
 </br>
 </br>
