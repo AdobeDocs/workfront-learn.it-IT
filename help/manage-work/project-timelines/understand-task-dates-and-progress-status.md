@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
 source-git-commit: 816fd351752ee8334f13324711d363406e4d60d0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
@@ -24,14 +24,14 @@ ht-degree: 53%
 
 In questo video scoprirai:
 
-* Date pianificate, previste ed effettive, e
-* Come vengono utilizzati nel calcolo dello stato di avanzamento
+* Date pianificate, previste ed effettive e
+* come utilizzarle nel calcolo dello stato di avanzamento
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->È importante che le persone modifichino lo stato da **[!UICONTROL Nuovo]** a **[!UICONTROL In corso]** quando iniziano un&#39;attività, in modo che la [!UICONTROL Data di inizio effettiva] sia corretta. Tuttavia, se si dimentica di eseguire questa operazione all’avvio, è possibile tornare indietro e modificare la [!UICONTROL Data d’inizio effettivo] in qualsiasi momento.
+>È importante che le persone cambino lo stato da **[!UICONTROL Nuovo]** a **[!UICONTROL In corso]** quando iniziano un’attività, in modo che la [!UICONTROL Data di inizio effettivo] risulti corretta. Tuttavia, se si dimentica di eseguire questa operazione all’avvio, è possibile tornare indietro e modificare la [!UICONTROL Data d’inizio effettivo] in qualsiasi momento.
 
 
 ## Tutorial consigliati su questo argomento
