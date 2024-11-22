@@ -1,6 +1,6 @@
 ---
 title: Tracciare l’avanzamento dalla timeline del progetto
-description: Scopri come tenere traccia dell’avanzamento del lavoro dalla timeline del progetto in Utilizzo della percentuale di completamento e dello stato di avanzamento.
+description: Scopri come tenere traccia dell’avanzamento del lavoro dalla timeline del progetto utilizzando la percentuale di completamento e lo stato di avanzamento.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,15 +14,15 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # Tracciare l’avanzamento dalla timeline del progetto
 
-Assicurarsi che le attività stiano procedendo nel modo desiderato per raggiungere le scadenze del progetto.
+Assicurati che le attività procedano come dovrebbero per rispettare le scadenze del progetto.
 
 In questo video scoprirai:
 
