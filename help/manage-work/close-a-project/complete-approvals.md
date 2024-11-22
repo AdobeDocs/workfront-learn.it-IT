@@ -1,6 +1,6 @@
 ---
 title: Completare le approvazioni
-description: Scopri come identificare e risolvere le approvazioni incomplete per chiudere il progetto in  [!DNL  Workfront].
+description: Scopri come identificare e risolvere le approvazioni incomplete per chiudere il progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,50 +8,31 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-08-05T00:00:00Z
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 23ffb95ff506c7b3abc2202a689026f0c2ea21b2
-workflow-type: ht
-source-wordcount: '283'
-ht-degree: 100%
+doc-type: video
+source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
+workflow-type: tm+mt
+source-wordcount: '65'
+ht-degree: 46%
 
 ---
 
 # Completare le approvazioni
 
-Le approvazioni di attività e problemi fanno parte di molti progetti. Ma le approvazioni non risolte ti impediranno di impostare lo stato del progetto su Completato.
+In questo video scoprirai:
 
-Ecco come trovarli e come gestirli.
+* Come trovare e gestire le approvazioni di attività non risolte
+* Come trovare e gestire le approvazioni dei problemi non risolte
 
-Nella sezione [!UICONTROL Attività] del progetto, seleziona una [!UICONTROL Vista] che include la colonna [!UICONTROL Stato], ad esempio la vista [!UICONTROL Stato]. Una rapida occhiata alla colonna mostrerà se è presente un’approvazione incompleta su un’attività con “[!UICONTROL - In attesa di approvazione]” dopo il nome dello stato.
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
-![Progetto che mostra un’approvazione incompleta](assets/pending-approval-1.png)
+## Tutorial consigliati su questo argomento
 
-Quando trovi un’attività che è ancora in attesa di approvazione, puoi scegliere tra due opzioni:
+* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
+* [Caricare le risorse](/help/manage-work/close-a-project/upload-assets.md)
+* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Registrare e rivedere gli orari](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-
-## Completare l’approvazione
-
-Ciò potrebbe significare ricordare alla persona a cui è stata assegnata l’approvazione in sospeso. Puoi vedere chi è assegnato come approvatore aprendo l’attività e facendo clic sul menu con tre punti nell’area Approvazioni.
-
-![Attività che mostra l’area di approvazione](assets/pending-approval-2.png)
-
-Verrà visualizzata una casella che mostra l’approvatore assegnato.
-
-![Attività che mostra l’approvatore assegnato](assets/pending-approval-3.png)
-
-
-## Rimuovere l’approvazione
-
-Se l’approvazione non è necessaria, è possibile rimuoverla. Per farlo, devi prima richiamare l’approvazione. Fai clic sul pulsante [!UICONTROL Richiama] nell’area Approvazioni. In questo modo lo stato torna allo stato precedente e sarà possibile rimuovere il processo di approvazione.
-
-![Attività che mostra il pulsante Richiama](assets/pending-approval-5.png)
-
-Ora fai clic sulla scheda [!UICONTROL Approvazioni] a sinistra, quindi sul pulsante [!UICONTROL Rimuovi] in alto a destra.
-
-![Attività che mostra il pulsante Rimuovi approvazione](assets/pending-approval-6.png)
-
-## Gestione delle approvazioni dei problemi
-
-Se l’organizzazione tiene traccia dei problemi, degli ordini di modifica o di altri eventi durante i progetti, segui la stessa procedura della sezione [!UICONTROL Problemi] del progetto.
