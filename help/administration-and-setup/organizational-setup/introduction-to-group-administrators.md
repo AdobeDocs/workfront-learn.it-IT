@@ -12,9 +12,9 @@ jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 last-substantial-update: 2024-11-20T00:00:00Z
 source-git-commit: b330f75bfd45bd6ae6402307eb56e154e6b268e3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
