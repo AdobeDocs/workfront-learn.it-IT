@@ -1,6 +1,6 @@
 ---
 title: Caricare le risorse
-description: Carica i documenti e le bozze nel progetto prima di chiuderlo, in modo che tutti i dati rilevanti siano associati al progetto.
+description: Caricare i documenti e le bozze nel progetto prima di chiuderlo, per garantire che tutti i dati pertinenti siano associati al progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
