@@ -11,19 +11,13 @@ level: Beginner
 last-substantial-update: 2023-08-16T00:00:00Z
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
 # Chiudere attività e problemi
 
-Uno dei primi passi per chiudere un progetto [!DNL Workfront] è accertarsi che tutte le attività e i problemi abbiano lo stato Completato o uno stato equivalente.
-
-Se il campo [!UICONTROL Percentuale di completamento] nell’intestazione del progetto mostra 100% sai che tutte le tue attività sono contrassegnate come completate al 100%. Tuttavia, un’attività che è [!UICONTROL Completata - In attesa di approvazione] verrà comunque letta come 100%, quindi non dimenticare di controllarla. Consulta [Completare le approvazioni](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html?lang=it) per tutti i suggerimenti sulle approvazioni.
-
-Se hai problemi incompleti, anche quelli in attesa di approvazione, accanto alla scheda Problemi sarà visualizzato un numero che ne indica la quantità. Se il numero è zero non hai problemi incompleti.
-
-![Progetto che mostra la [!UICONTROL Percentuale di completamento] e i problemi aperti](assets/close-tasks-and-issues.png)
+L’esercitazione &quot;Chiudi attività e problemi&quot; è stata rimossa, poiché il contenuto è già incluso tra &quot;Modifica lo stato del progetto in completato&quot; e &quot;Completa approvazioni&quot;.
