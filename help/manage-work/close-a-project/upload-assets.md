@@ -12,10 +12,11 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +24,10 @@ ht-degree: 78%
 
 In questo video scoprirai come:
 
-* Verifica approvazioni su bozze
-* Verifica approvazioni su documenti
-* Carica un documento
-* Trova il corso di formazione sul caricamento delle bozze
+* Verificare le approvazioni sulle bozze
+* Verifica le approvazioni sui documenti
+* Caricare un documento
+* Trovare la formazione sul caricamento delle bozze
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 

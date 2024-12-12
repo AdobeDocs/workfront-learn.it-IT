@@ -1,6 +1,6 @@
 ---
 title: Registrare e rivedere gli orari
-description: Registra le ore in sospeso e controlla quelle registrate prima di chiudere un progetto in  [!DNL  Workfront].
+description: Registra le ore in sospeso e controlla quelle registrate prima di chiudere un progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 60%
 
 ---
 
 # Registrare e rivedere gli orari
 
-Se la registrazione delle ore effettivamente lavorate fa parte del flusso di lavoro dell’organizzazione, puoi rivedere tali ore nella sezione [!UICONTROL Ore] (selezionala dal menu del pannello a sinistra) sul progetto. Vengono visualizzate tutte le ore registrate per le singole attività e il progetto stesso. Puoi anche registrare le ore da questa pagina.
+In questo video scoprirai come:
 
-![Pagina Ore con le ore inserite](assets/planner-fund-log-and-review-hours.png)
+* Rivedi le ore registrate in un progetto
+* Approva ore progetto se necessario
 
->[!NOTE]
->
->La tua organizzazione potrebbe chiederti di approvare le ore tramite le schede orario di [!DNL Workfront]. Verifica con il team interno di [!DNL Workfront] per vedere quale processo utilizzare.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Tutorial consigliati su questo argomento
+
+* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
+* [Completare le approvazioni](/help/manage-work/close-a-project/complete-approvals.md)
+* [Caricare le risorse](/help/manage-work/close-a-project/upload-assets.md)
+* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
