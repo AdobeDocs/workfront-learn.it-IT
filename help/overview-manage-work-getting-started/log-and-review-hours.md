@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 80%
 
 ---
 
 # Registrare e rivedere gli orari
 
-Se la registrazione delle ore effettivamente lavorate fa parte del flusso di lavoro dell’organizzazione, puoi rivedere tali ore nella sezione [!UICONTROL Ore] (selezionala dal menu del pannello a sinistra) sul progetto. Vengono visualizzate tutte le ore registrate per le singole attività e il progetto stesso. Puoi anche registrare le ore da questa pagina.
+In questo video scoprirai come:
 
-![Pagina Ore con le ore inserite](assets/planner-fund-log-and-review-hours.png)
+* Rivedi le ore registrate in un progetto
+* Approva ore progetto se necessario
 
->[!NOTE]
->
->La tua organizzazione potrebbe chiederti di approvare le ore tramite le schede orario di [!DNL Workfront]. Verifica con il team interno di [!DNL Workfront] per vedere quale processo utilizzare.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Tutorial consigliati su questo argomento
+
+* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
+* [Completare le approvazioni](/help/manage-work/close-a-project/complete-approvals.md)
+* [Caricare le risorse](/help/manage-work/close-a-project/upload-assets.md)
+* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

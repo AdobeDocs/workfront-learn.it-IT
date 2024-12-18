@@ -6,10 +6,10 @@ breadcrumb-title: Gestire il lavoro - guida introduttiva
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 69%
+source-wordcount: '196'
+ht-degree: 68%
 
 ---
 
@@ -54,11 +54,9 @@ ht-degree: 69%
 
    + Chiudere un progetto {#close-a-project}
       + [Modificare lo stato del progetto in Completato](change-the-project-status.md)
-      + [Chiudere attività e problemi](close-tasks-and-issues.md)
       + [Completare le approvazioni](complete-approvals.md)
       + [Caricare le risorse](upload-assets.md)
       + [Registrare le lezioni apprese](lessons-learned-from-closing-a-project.md)
       + [Registrare e rivedere gli orari](log-and-review-hours.md)
       + [Aggiornare e rivedere i dati finanziari](update-and-review-finances.md)
-      + [Chiudere un’attività di progetto](close-a-project-activity.md)
 

@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 100%
@@ -30,7 +30,7 @@ Questo video illustra:
 * Dove caricare i documenti
 * Come visualizzare la cronologia degli aggiornamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Parti chiave della pagina del progetto
 

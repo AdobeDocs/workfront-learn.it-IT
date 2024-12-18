@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # Caricare le risorse
 
-Prima di chiudere un progetto di [!DNL Workfront], assicurati che tutti i file rilevanti siano allegati nella sezione [!UICONTROL Documenti]. Carica questi elementi come documento o bozza, in base alle linee guida aziendali.
+In questo video scoprirai come:
 
-Potrebbe essere necessario caricare il documento o la bozza come versione di un file esistente.
+* Verificare le approvazioni sulle bozze
+* Verifica le approvazioni sui documenti
+* Caricare un documento
+* Trovare la formazione sul caricamento delle bozze
 
-Se la tua organizzazione utilizza approvazioni bozza, assicurati che tutte queste siano completate con un rapido sguardo alle icone di avanzamento.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![Pagina Documenti con icone di avanzamento della bozza](assets/planner-fund-proof-progress-icons.png)
+## Tutorial consigliati su questo argomento
 
-Se l’organizzazione utilizza le approvazioni dei documenti, seleziona ogni elemento nell’elenco e controlla i dettagli del documento per verificare se le approvazioni sono state completate.
+* [Caricare una bozza con un flusso di lavoro di base](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
+* [Completare le approvazioni](/help/manage-work/close-a-project/complete-approvals.md)
+* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Registrare e rivedere gli orari](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![Riepilogo laterale nella pagina Documenti che mostra l’approvazione del documento](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

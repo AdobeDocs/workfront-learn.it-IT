@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Scopri come creare e utilizzare i modelli di progetto.
 
 Scopri come creare processi di approvazione, allegarli ai flussi di lavoro, esaminare il lavoro digitale e delegare le approvazioni.
 
-* [Crea un processo di approvazione per singolo utilizzo](create-a-single-use-approval-process.md) - Scopri come creare un processo di approvazione per singolo utilizzo su un progetto, un&#39;attività o un problema.
+* [Creare un processo di approvazione globale e un processo di approvazione per singolo utilizzo](create-a-single-use-approval-process.md): scopri come creare un processo di approvazione globale e un processo di approvazione per singolo utilizzo su un progetto, un&#39;attività o un problema.
 * [Comprendere i processi di approvazione specifici del gruppo](group-specific-approval-processes.md) - Scopri come gli amministratori del gruppo possono creare o modificare i processi di approvazione per i gruppi che gestiscono.
-* [Allega e modifica i processi di approvazione esistenti](attach-and-edit-existing-approval-processes.md) - Scopri come utilizzare e modificare i processi di approvazione esistenti per progetti, attività o problemi.
 * [Rivedi e approva il lavoro digitale](review-and-approve-digital-work.md): scopri come trovare, rivedere e approvare progetti, attività, problemi, documenti e bozze.
-* [Informazioni su aggiornamenti e notifiche](understand-updates-and-notifications.md) - Scopri come apportare aggiornamenti alle richieste di approvazione e trovare le notifiche.
 * [Delega attività, problemi e approvazioni](delegate-approvals.md) - Scopri come delegare le approvazioni per progetti, attività, problemi e schede orario a un altro utente Adobe Workfront.
 
 ## Come creare e utilizzare le milestone

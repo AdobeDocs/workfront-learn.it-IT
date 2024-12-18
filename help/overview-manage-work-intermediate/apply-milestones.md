@@ -12,7 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8933
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
+recommendations: noDisplay,catalog
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -31,5 +33,10 @@ In questo video scoprirai come:
 
 >[!TIP]
 >
->Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
+>Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](/help/reporting/basic-reporting/create-a-basic-view.md).
 
+## Tutorial consigliati su questo argomento
+
+* [Visualizzare le milestone](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Creare le milestone](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Attività di vista Milestone in Crea una visualizzazione di base](/help/reporting/basic-reporting/create-a-basic-view.md)

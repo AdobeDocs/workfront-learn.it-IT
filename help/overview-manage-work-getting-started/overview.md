@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '943'
 ht-degree: 4%
 
 ---
@@ -81,10 +81,8 @@ Scopri come tenere traccia del lavoro di progetto e comunicare con le parti inte
 Scopri come chiudere attività e problemi, completare le approvazioni, registrare le lezioni apprese e chiudere il progetto.
 
 * [Modifica lo stato del progetto impostandolo su completato](change-the-project-status.md) - Scopri come modificare lo stato del progetto su Completato, perché modificarlo e cosa fare se non è possibile modificarlo in Completato.
-* [Chiudi attività e problemi](close-tasks-and-issues.md) - Scopri come assicurarsi che le attività e i problemi siano chiusi prima di chiudere un progetto.
 * [Completare le approvazioni](complete-approvals.md) - Scopri come identificare le approvazioni incomplete e risolverle in modo da poter chiudere il progetto.
 * [Carica risorse](upload-assets.md) - Carica documenti, bozze e altre risorse nel progetto prima di chiuderlo, per assicurarti che tutti i dati rilevanti siano associati al progetto.
 * [Registra le lezioni apprese](lessons-learned-from-closing-a-project.md) - Scopri come includere un&#39;attività &quot;lezioni apprese&quot; per identificare cosa è andato bene e cosa può migliorare la prossima volta.
 * [Registra e rivedi le ore](log-and-review-hours.md) - Registra le ore in sospeso e controlla le ore registrate prima di chiudere un progetto.
 * [Aggiorna e rivedi dati finanziari](update-and-review-finances.md) - Se l&#39;organizzazione utilizza Workfront per tenere traccia delle informazioni finanziarie relative al progetto, l&#39;esame delle spese e la creazione dei record di fatturazione potrebbero essere parte del processo di chiusura di un progetto.
-* [Chiudi un&#39;attività di progetto](close-a-project-activity.md) - Esercitati su ciò che hai imparato su come chiudere un progetto.
