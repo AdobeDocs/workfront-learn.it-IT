@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 100%
+source-wordcount: '504'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,8 @@ Questo video illustra:
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Parti chiave della pagina del progetto
+
+[Fare clic qui](/help/assets/key-parts-of-the-project-page.pdf) per scaricare un PDF di questa pagina.
 
 La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro. Se desideri un’opzione che non è visibile nell’istanza di [!DNL Workfront], rivolgiti all’amministratore di sistema. Di seguito sono riportate alcune delle funzioni principali della pagina del progetto di cui tenere conto.
 
