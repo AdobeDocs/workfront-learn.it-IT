@@ -1,6 +1,7 @@
 ---
 title: Procedura dettagliata oltre la mappatura di base
 description: Modifica alcuni campi del progetto nello scenario creato in precedenza utilizzando le formule del pannello di mappatura in  [!DNL Adobe Workfront Fusion].
+short-description: In questo video è possibile modificare il nome del progetto, la data di inizio pianificata e la priorità dalla "Progettazione dello scenario iniziale" creata nella prima procedura dettagliata utilizzando le formule del pannello di mappatura.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 

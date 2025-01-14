@@ -1,6 +1,7 @@
 ---
 title: Panoramica del corso di formazione su Workfront Fusion
 description: Scopri il manuale delle attività di Adobe Workfront Fusion e come ottenere un account di unita di prova di Workfront.
+short-description: Ogni sezione di Workfront Fusion contiene più esercitazioni, ognuna delle quali presenta i concetti da comprendere prima di passare all’esercitazione successiva.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 94%
 
 ---
 
