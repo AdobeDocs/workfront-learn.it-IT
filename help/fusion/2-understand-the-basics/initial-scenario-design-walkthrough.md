@@ -1,7 +1,7 @@
 ---
 title: Procedura dettagliata sulla progettazione dello scenario iniziale
 description: Scopri come creare cartelle e nuovi scenari, utilizzare la progettazione dello scenario e creare uno scenario di base in  [!DNL Adobe Workfront Fusion].
-short-description: Qui puoi guardare un video di esercitazione sulla creazione di scenari.
+short-description: Qui trovi video dettagliato di esercitazione sulla creazione di scenari.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
