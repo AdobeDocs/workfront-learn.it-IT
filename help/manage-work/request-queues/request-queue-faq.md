@@ -9,7 +9,7 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '709'
 ht-degree: 100%
@@ -24,7 +24,7 @@ Nella scheda [!UICONTROL Dettagli coda] della tua coda di richieste o nel tuo pr
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **Ho concesso agli utenti l’accesso alla coda, ma ora possono vedere anche il progetto della coda delle richieste. Perché?**
 
@@ -62,7 +62,7 @@ Per aggiungere tali informazioni ai rapporti di progetto e attività, puoi acced
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **Qual è il modo migliore per filtrare le code di richieste in un rapporto?**
@@ -73,7 +73,7 @@ Se il filtro del progetto include **Coda>>È pubblico>>Non uguale a>>Nessuno** i
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **È una buona idea creare uno stato personalizzato della coda richieste?**
 

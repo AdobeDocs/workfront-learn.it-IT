@@ -11,7 +11,7 @@ jira: KT-9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Esamina un progetto specifico in Workfront, quindi esamina tutte le attività al
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on&enablevpops)
 
 
 

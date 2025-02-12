@@ -11,7 +11,7 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Chiama un servizio web per restituire dettagli su più paesi e identificare la p
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## URL di esercizio
 

@@ -14,7 +14,7 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
@@ -28,7 +28,7 @@ In questo video scoprirai:
 * Come condividere un modello di progetto che concede i diritti per attivarlo e disattivarlo.
 * Come attivare e disattivare un modello di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
 
 ## Scopri come creare una vista personalizzata per visualizzare e modificare lo stato attivo dei modelli di progetto
 

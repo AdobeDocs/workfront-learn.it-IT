@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Il processo del flusso di richiesta specifico per la gestione delle code
 * Come creare e utilizzare regole di indirizzamento, i gruppi di argomenti e gli argomenti della coda
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
 
 ## Tutorial consigliati su questo argomento
 

@@ -11,7 +11,7 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -26,7 +26,7 @@ In questo video:
 * Scopri come vengono visualizzate le informazioni sulle risorsa in questa vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
 
 Per l’opzione Visualizza per mansione, l’impostazione predefinita è mostrare la colonna Budget, che estrae il numero stimato di risorse necessarie per un progetto da un Caso di business, qualora sia stato compilato. Ciò significa che la colonna Netto utilizza, per impostazione predefinita, i numeri della colonna Budget per indicare il numero di risorse rimanenti.
 

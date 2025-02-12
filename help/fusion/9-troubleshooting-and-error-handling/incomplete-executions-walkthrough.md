@@ -11,7 +11,7 @@ jira: KT-9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Scopri l’utile abitudine di memorizzare esecuzioni incomplete e comprendi il v
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335308/?quality=12&learn=on&enablevpops)
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 

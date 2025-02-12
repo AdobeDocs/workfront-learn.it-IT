@@ -11,7 +11,7 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Installa e utilizza le diverse aree del DevTool di Workfront per approfondire ri
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops)
 
 
 ## Scaricare DevTool

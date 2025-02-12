@@ -12,7 +12,7 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: d39151288d8b749940c5183063392ee471769445
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 100%
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come creare e modificare una vista
 * Come condividere una vista con altri utenti di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops)
 
 ## Attività 1: creare una vista dello stato dell’attività
 

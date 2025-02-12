@@ -14,10 +14,10 @@ hide: true
 doc-type: video
 exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
 recommendations: noDisplay,catalog
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ In questo video scoprirai come:
 * Aggiungere un’attività cardine a un’attività
 * Best practice per l’applicazione delle milestone
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

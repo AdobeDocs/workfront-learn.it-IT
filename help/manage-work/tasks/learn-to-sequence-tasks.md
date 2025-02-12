@@ -13,7 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -30,7 +30,7 @@ In questo video scoprirai:
 * Come l’impostazione della data di inizio di un’attività influisce sul vincolo attività
 * Come inserire i predecessori
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
 
 <!---
 Learn more urls

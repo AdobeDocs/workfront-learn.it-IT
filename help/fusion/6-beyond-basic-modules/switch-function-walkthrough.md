@@ -11,7 +11,7 @@ jira: KT-9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Per semplici modifiche ai dati, utilizza la funzione Switch per trasformare un v
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335289/?quality=12&learn=on&enablevpops)
 
 
 

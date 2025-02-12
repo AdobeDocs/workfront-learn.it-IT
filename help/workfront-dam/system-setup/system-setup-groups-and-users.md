@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,13 @@ In questo video scoprirai come:
 * Creare e modificare gruppi
 * Aggiungere e modificare utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## Revisione di gruppi e utenti
 
 Durante la configurazione del sistema [!UICONTROL Workfront DAM] è importante considerare il ruolo che gli utenti e i gruppi svolgono nel quadro generale.
 
-I gruppi controllano l’accesso alle cartelle delle risorse in [!UICONTROL Workfront DAM]. Le impostazioni del gruppo controllano anche cosa possono fare gli utenti con le risorse (visualizzare, scaricare, modificare, ecc.) per le quali dispongono dell’autorizzazione all’accesso.
+I gruppi controllano l’accesso alle cartelle delle risorse in [!UICONTROL Workfront DAM]. Le impostazioni del gruppo controllano anche le operazioni che gli utenti possono eseguire con le risorse (visualizzazione, download, modifica, ecc.) a cui dispongono dell’autorizzazione di accesso.
 
 Durante la creazione di gruppi, è fondamentale tenere presente a quali cartelle di risorse i membri di un gruppo avranno necessità di accedere in [!UICONTROL Workfront DAM].
 

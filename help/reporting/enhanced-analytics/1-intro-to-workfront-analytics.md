@@ -11,7 +11,7 @@ doc-type: video
 jira: KT-8870
 recommendations: noDisplay,catalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Guarda questo video con Joel Pettigrew di Workfront, product manager di [!UICONTROL Funzionalità di analisi avanzate], per scoprire come è nata l’analisi e le interessanti funzionalità che rende possibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops)

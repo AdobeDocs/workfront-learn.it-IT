@@ -11,7 +11,7 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Rivedi la cronologia delle esecuzioni per lo scenario “Utilizzo del filtro pot
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops)
 
 
 ## Ricerca full-text nella scheda della cronologia

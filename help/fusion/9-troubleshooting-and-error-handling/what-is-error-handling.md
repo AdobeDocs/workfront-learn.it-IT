@@ -11,7 +11,7 @@ jira: KT-9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
@@ -25,4 +25,4 @@ In questo video scoprirai:
 * Quali sono alcuni tipi di errore comuni e come vengono gestiti dal sistema per impostazione predefinita
 * Come applicare la gestione personalizzata degli errori utilizzando un modulo di gestione degli errori
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops)

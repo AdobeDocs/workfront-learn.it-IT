@@ -11,7 +11,7 @@ thumbnail: 335080.jpeg
 jira: KT-8766
 exl-id: 9f250af7-0da4-4e50-80de-52136dc350fa
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
@@ -26,4 +26,4 @@ In questo video scoprirai come:
 * Assegnare modelli layout a utenti, gruppi o team
 * Controlla chi può gestire l’accesso ai modelli layout
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops)

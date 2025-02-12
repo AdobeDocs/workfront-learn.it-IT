@@ -11,7 +11,7 @@ jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Cerca informazioni su un progetto in Workfront e invia un’e-mail con le inform
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops)
 
 
 ## Tocca a te

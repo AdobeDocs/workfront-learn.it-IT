@@ -11,7 +11,7 @@ jira: KT-9046
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%
@@ -45,4 +45,4 @@ In questo video scoprirai:
 * Cosa sono i trigger, le azioni e le ricerche e come differiscono
 * Tipi di moduli presenti in diversi connettori di app e loro funzionamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops)

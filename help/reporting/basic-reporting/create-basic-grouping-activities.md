@@ -1,6 +1,6 @@
 ---
-title: Creare un raggruppamento di base
-description: Scopri cos’è un raggruppamento, come creare un raggruppamento e come condividere un raggruppamento con altri utenti in Workfront.
+title: Creare attività di raggruppamento di base
+description: Esercitarsi a creare raggruppamenti di base con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '185'
+ht-degree: 60%
 
 ---
 
-# Creare un raggruppamento di base
 
-In questo video scoprirai:
-
-* Che cos’è un raggruppamento in Workfront
-* Come creare un raggruppamento
-* E come condividere un raggruppamento con altri utenti di Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Attività: creare un raggruppamento di base
+# Attività: creare un raggruppamento di base
 
 Crea un raggruppamento di problemi che verrà utilizzato in un rapporto per tenere traccia delle richieste che arrivano attraverso una coda di richieste. Questo raggruppamento renderà più semplice visualizzare tipi simili di problemi/richieste raggruppati in base alla priorità. Denomina il raggruppamento &quot;Coda di richieste, Argomento coda, Priorità&quot;.
 

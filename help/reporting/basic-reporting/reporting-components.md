@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 93%
 
 ---
 
@@ -25,15 +25,17 @@ In questo video scoprirai:
 * Componenti chiave del reporting di Workfront
 * Come vengono utilizzati questi componenti in un elemento di reporting
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
 
 ## Componenti di reporting
+
+[Fare clic qui](/help/assets/reporting-components.pdf) per scaricare un PDF di questa pagina.
 
 ![Immagine della schermata per creare un filtro](assets/reporting-components-1.png)
 
 **A - Origine campo**
 
-Le opzioni dell’origine campo dipendono dal tipo di oggetto selezionato. Spesso, l’origine del campo è l’elemento in Workfront a cui appartiene un’informazione specifica (o il nome del campo). A volte l’origine del campo è la stessa del tipo di oggetto.
+Le opzioni di origine del campo dipendono dal tipo di oggetto selezionato. Spesso, l’origine del campo è l’elemento in Workfront a cui appartiene un’informazione specifica (o il nome del campo). A volte l’origine del campo è la stessa del tipo di oggetto.
 L’origine del campo determina i nomi dei campi disponibili.
 
 Esempi: [!UICONTROL Progetto], [!UICONTROL Attività], [!UICONTROL Problema], [!UICONTROL Assegnato a]

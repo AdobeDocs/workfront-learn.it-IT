@@ -11,7 +11,7 @@ jira: KT-9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Modalità di trasmissione dei percorsi dei router da parte dei bundle di dati
 * Come aggiungere e utilizzare i router
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops)
