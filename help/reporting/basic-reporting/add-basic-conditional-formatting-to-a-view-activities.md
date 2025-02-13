@@ -1,6 +1,6 @@
 ---
-title: Aggiungere la formattazione condizionale di base a una vista
-description: Scopri come utilizzare le regole delle colonne per modificare il colore del testo, la formattazione e i colori di sfondo in un rapporto o in una vista, in base ai criteri impostati.
+title: Aggiungere formattazione condizionale di base alle attività di una visualizzazione
+description: Esercitarsi ad aggiungere formattazione condizionale di base alle viste, con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '411'
+ht-degree: 87%
 
 ---
 
-# Aggiungere la formattazione condizionale di base a una vista
+# Aggiungere formattazione condizionale di base alle attività di una visualizzazione
 
-La formattazione condizionale viene eseguita creando regole di colonna. Queste consentono di formattare una colonna in modo specifico in base ai criteri impostati.
-
-In questo video scoprirai:
-
-* Cos’è la formattazione condizionale in una vista
-* Come creare e modificare la formattazione condizionale
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+Esercitarsi ad aggiungere formattazione condizionale di base alle viste, con istruzioni dettagliate.
 
 ## Riepilogo
 

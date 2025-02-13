@@ -1,6 +1,6 @@
 ---
-title: Inviare e condividere i rapporti
-description: Scopri come inviare i rapporti a utenti, team o qualsiasi indirizzo e-mail e come condividerli con chiunque in Workfront.
+title: Inviare e condividere attività di report
+description: Esercitati a inviare e condividere rapporti, con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '179'
+ht-degree: 79%
 
 ---
 
-# Inviare e condividere i rapporti
+# Inviare e condividere attività di report
 
-In questo video scoprirai:
-
-* come inviare i rapporti a utenti, team o qualsiasi indirizzo e-mail
-* Come condividere i rapporti con chiunque
-* Cosa possono visualizzare e fare i destinatari con un rapporto di Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+Esercitati a inviare e condividere rapporti, con istruzioni dettagliate.
 
 ## Attività 1: inviare un rapporto
 

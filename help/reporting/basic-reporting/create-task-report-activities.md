@@ -1,6 +1,6 @@
 ---
-title: Creare un rapporto di attività
-description: 'Scopri come creare un rapporto di attività con un filtro complesso e individuare i rapporti creati in Workfront. Attività: crea un rapporto di nota con indicazioni.'
+title: Creare attività di report attività
+description: Esercitarsi nella creazione di report di attività, con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '920'
-ht-degree: 99%
+source-wordcount: '889'
+ht-degree: 96%
 
 ---
 
-# Creare un rapporto di attività
+# Creare attività di report attività
 
-In questo video scoprirai:
-
-* Come creare un rapporto di attività con un filtro complesso
-* Come trovare i rapporti creati
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+Esercitarsi nella creazione di report di attività, con istruzioni dettagliate.
 
 >[!TIP]
 >

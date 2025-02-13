@@ -1,6 +1,6 @@
 ---
-title: Creare un rapporto matrice
-description: Scopri quando un rapporto matrice può essere utile e come crearlo in Workfront.
+title: Creare attività di report matrice
+description: Esercitarsi a creare rapporti matrice con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '236'
+ht-degree: 66%
 
 ---
 
-# Creare un rapporto matrice
+# Creare attività di report matrice
 
-In questo video scoprirai:
-
-* Quando un rapporto matrice può essere utile
-* E come creare un rapporto matrice
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Esercitarsi a creare rapporti matrice con istruzioni dettagliate.
 
 ## Attività 1: creare un rapporto matrice
 

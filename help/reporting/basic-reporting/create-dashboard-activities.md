@@ -1,6 +1,6 @@
 ---
-title: Creare dashboard
-description: Scopri come combinare diversi rapporti elenco, grafici, calendari e pagine web esterne in una dashboard in Workfront.
+title: Creare attività dashboard
+description: Esercitarsi a creare dashboard, con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 58%
+source-wordcount: '425'
+ht-degree: 49%
 
 ---
 
-# Creare dashboard
+# Creare attività dashboard
 
-In questo video scoprirai:
-
-* Che cos’è una dashboard in Workfront
-* Come creare una dashboard
-* Come trovare e utilizzare le dashboard
-* Come condividere una dashboard con altri utenti di Workfront
-* Come stampare una dashboard
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+Esercitarsi a creare dashboard, con istruzioni dettagliate.
 
 ## Attività 1: creare un dashboard
 

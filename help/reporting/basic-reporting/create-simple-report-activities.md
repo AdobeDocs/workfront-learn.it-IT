@@ -1,6 +1,6 @@
 ---
-title: Creare un rapporto semplice
-description: Scopri come creare un rapporto semplice utilizzando un filtro, una vista e un raggruppamento esistenti in Workfront.
+title: Creare semplici attività di rapporto
+description: Esercitazione nella creazione di rapporti semplici, con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '225'
+ht-degree: 66%
 
 ---
 
-# Creare un rapporto semplice
+# Creare semplici attività di rapporto
 
-In questo video scoprirai come:
-
-* Creare un rapporto semplice utilizzando un filtro, una vista e un raggruppamento esistenti
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+Esercitazione nella creazione di rapporti semplici, con istruzioni dettagliate.
 
 ## Attività 1: creare un semplice rapporto attività
 

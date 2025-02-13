@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 60%
+source-wordcount: '201'
+ht-degree: 52%
 
 ---
 
-# Attività: creare un raggruppamento di base
+# Creare attività di raggruppamento di base
+
+Esercitarsi a creare raggruppamenti di base con istruzioni dettagliate.
+
+## Attività 1: creare un raggruppamento di code di richieste
 
 Crea un raggruppamento di problemi che verrà utilizzato in un rapporto per tenere traccia delle richieste che arrivano attraverso una coda di richieste. Questo raggruppamento renderà più semplice visualizzare tipi simili di problemi/richieste raggruppati in base alla priorità. Denomina il raggruppamento &quot;Coda di richieste, Argomento coda, Priorità&quot;.
 
@@ -28,7 +32,7 @@ Raggruppa il rapporto sui problemi in base a:
 1. L’argomento coda
 1. La priorità della richiesta
 
-## Risposta
+## Risposta 1
 
 ![Immagine dello schermo per creare un nuovo raggruppamento](assets/grouping-exercise.png)
 

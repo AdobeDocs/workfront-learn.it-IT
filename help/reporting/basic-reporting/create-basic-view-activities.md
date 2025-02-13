@@ -1,6 +1,6 @@
 ---
-title: Creare una vista di base
-description: Scopri che cos’è una vista, come crearla e come condividerla con altri utenti in Workfront.
+title: Creare attività di visualizzazione di base
+description: Esercitarsi a creare visualizzazioni di base con istruzioni dettagliate.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '795'
+ht-degree: 96%
 
 ---
 
-# Creare una vista di base
+# Creare attività di visualizzazione di base
 
-In questo video scoprirai:
-
-* Cos’è una vista in Workfront
-* Come creare e modificare una vista
-* Come condividere una vista con altri utenti di Workfront
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Esercitarsi a creare visualizzazioni di base con istruzioni dettagliate.
 
 ## Attività 1: creare una vista dello stato dell’attività
 
@@ -43,7 +36,7 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 * [!UICONTROL Stato di avanzamento]
 * [!UICONTROL Le icone di Stato]
 
-## Risposta 1
+## Risposta per l’attività 1
 
 ![Immagine della schermata per creare una vista dello stato delle attività](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Crea una vista di attività denominata “Vista Milestone” con le seguenti col
 * [!UICONTROL Percentuale completato]
 
 
-## Risposta 2
+## Attività 2 Risposta
 
 ![Immagine della schermata di creazione della vista Milestone](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ Crea una vista delle attività denominata “Vista dei tipi di durata e dei vinc
 
 Modifica il [!UICONTROL Formato campo] delle colonne [!UICONTROL Inizio il] e [!UICONTROL Scadenza il] per visualizzare sia la data che l’ora.
 
-## Risposta 3
+## Risposta Attività 3
 
 ![Immagine della schermata che mostra la vista dei tipi di durata e dei vincoli delle attività](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Crea una vista del modello di progetto denominata “Standard+stato attivo” co
 * [!UICONTROL È attivo]
 
 
-## Risposta 4
+## Risposta Attività 4
 
 ![Immagine della schermata che mostra una vista dello stato attivo del modello di progetto](assets/view-activity-4.png)
 
