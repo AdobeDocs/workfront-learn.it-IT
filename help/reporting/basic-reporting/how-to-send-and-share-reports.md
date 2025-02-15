@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 90%
 
 ---
 
@@ -28,11 +28,15 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Attività 1: inviare un rapporto
+## Inviare e condividere attività di report
+
+[Fare clic qui](/help/assets/send-and-share-reports-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività 1: inviare un rapporto
 
 Invia a te stesso un rapporto ogni lunedì alle 5.00 come foglio di calcolo Excel. Questo è un ottimo modo per raccogliere automaticamente i rapporti settimanali che potrai utilizzare per scoprire le tendenze.
 
-## Risposta 1
+### Risposta 1
 
 ![Immagine della schermata per impostare le consegne ripetute dei rapporti](assets/send-a-report.png)
 

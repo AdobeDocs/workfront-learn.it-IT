@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 73%
+source-wordcount: '243'
+ht-degree: 66%
 
 ---
 
@@ -28,7 +28,11 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Attività: creare un raggruppamento di base
+## Creare attività di raggruppamento di base
+
+[Fare clic qui](/help/assets/create-basic-grouping-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività 1: creare un raggruppamento di base
 
 Crea un raggruppamento di problemi che verrà utilizzato in un rapporto per tenere traccia delle richieste che arrivano attraverso una coda di richieste. Questo raggruppamento renderà più semplice visualizzare tipi simili di problemi/richieste raggruppati in base alla priorità. Denomina il raggruppamento &quot;Coda di richieste, Argomento coda, Priorità&quot;.
 
@@ -38,7 +42,7 @@ Raggruppa il rapporto sui problemi in base a:
 1. L’argomento coda
 1. La priorità della richiesta
 
-## Risposta
+### Risposta 1
 
 ![Immagine dello schermo per creare un nuovo raggruppamento](assets/grouping-exercise.png)
 

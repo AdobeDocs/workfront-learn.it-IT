@@ -11,10 +11,10 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 79%
+source-wordcount: '255'
+ht-degree: 75%
 
 ---
 
@@ -26,7 +26,11 @@ In questo video scoprirai come:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Attività 1: creare un semplice rapporto attività
+## Creare semplici attività di rapporto
+
+[Fare clic qui](/help/assets/create-simple-report-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività 1: creare un semplice rapporto attività
 
 Vuoi tenere traccia di tutte le tue attività attive in un unico rapporto. Creare un report di attività denominato &quot;Le mie attività correnti&quot; utilizzando quanto segue:
 
@@ -35,7 +39,7 @@ Vuoi tenere traccia di tutte le tue attività attive in un unico rapporto. Crear
 * Filtro = Le mie attività correnti
 * Descrizione = Attività incomplete sui progetti correnti in cui sono proprietario dell’attività, raggruppate per progetto.
 
-## Risposta 1
+### Risposta 1
 
 1. Vai al **[!UICONTROL Menu principale]** e seleziona **[!UICONTROL Rapporti]**.
 1. Fai clic sul menu a discesa **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Rapporto attività]**.

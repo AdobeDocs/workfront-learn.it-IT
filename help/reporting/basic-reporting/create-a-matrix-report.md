@@ -11,10 +11,10 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 79%
+source-wordcount: '268'
+ht-degree: 75%
 
 ---
 
@@ -27,13 +27,17 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Attività 1: creare un rapporto matrice
+## Creare attività di report matrice
+
+[Fare clic qui](/help/assets/create-matrix-report-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività 1: creare un rapporto matrice
 
 Crea un rapporto matrice che mostri quante richieste sono presenti in ogni stato, ordinate per coda di richieste. Questo offre un’istantanea rapida della quantità di lavoro in arrivo e del modo in cui te la stai tenendo al passo.
 
 Desideri che le code di richiesta vengano visualizzate nei raggruppamenti di righe. Lo stato viene visualizzato come raggruppamenti di colonne. Denomina il rapporto &quot;Richieste per stato e Coda richieste&quot;.
 
-## Risposta 1
+### Risposta 1
 
 1. Seleziona **[!UICONTROL Rapporti]** dal **[!UICONTROL Menu principale]**.
 1. Fai clic sull’opzione **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Problema]**.

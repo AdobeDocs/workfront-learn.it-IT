@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 91%
+source-wordcount: '343'
+ht-degree: 88%
 
 ---
 
@@ -27,11 +27,15 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Attività 1: aggiungere un grafico a un rapporto
+## Creare rapporti con le attività dei grafici
+
+[Fare clic qui](/help/assets/create-reports-with-charts-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività 1: aggiungere un grafico a un rapporto
 
 La fine del trimestre è vicina e desideri vedere se è stato rispettato il budget dei progetti completati di recente. Crea un report che mostri il costo pianificato rispetto al costo effettivo dei progetti. Desideri visualizzare solo i progetti completati nell’ultimo trimestre. Aggiungi un istogramma combinato utilizzando colori personalizzati.
 
-## Risposta 1
+### Risposta 1
 
 1. Seleziona **[!UICONTROL Rapporti]** dal **[!UICONTROL Menu principale]**.
 1. Fai clic sul menu **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Progetto]**.

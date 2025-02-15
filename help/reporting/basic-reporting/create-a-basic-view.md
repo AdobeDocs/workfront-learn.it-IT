@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '822'
-ht-degree: 99%
+source-wordcount: '835'
+ht-degree: 97%
 
 ---
 
@@ -29,7 +29,11 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Attività 1: creare una vista dello stato dell’attività
+## Creare attività di visualizzazione di base
+
+[Fare clic qui](/help/assets/create-basic-view-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività 1: creare una vista dello stato dell’attività
 
 In qualità di project manager, responsabile del team o responsabile risorse, desideri tenere traccia di come procede il lavoro delle attività. Questa vista presenta diversi indicatori di stato di un’attività tutti in una riga dell’elenco o del rapporto.
 
@@ -43,7 +47,7 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 * [!UICONTROL Stato di avanzamento]
 * [!UICONTROL Le icone di Stato]
 
-## Risposta 1
+### Risposta 1
 
 ![Immagine della schermata per creare una vista dello stato delle attività](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 
 Passa il mouse sopra ciascuna delle icone nella colonna[!UICONTROL  Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
 
-## Attività 2: creare una vista Milestone
+### Attività 2: creare una vista Milestone
 
 Se utilizzi le milestone, questa vista rappresenta il modo più semplice per visualizzarle per nome e aggiungerle o modificarle in linea.
 
@@ -76,7 +80,7 @@ Crea una vista di attività denominata “Vista Milestone” con le seguenti col
 * [!UICONTROL Percentuale completato]
 
 
-## Risposta 2
+### Risposta 2
 
 ![Immagine della schermata di creazione della vista Milestone](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ Crea una vista di attività denominata “Vista Milestone” con le seguenti col
 
 ![Immagine di un elenco delle attività tramite una vista milestone](assets/view-milestone-exercise-2.png)
 
-## Attività 3: creare una vista dei vincoli dei tipi di durata e delle attività
+### Attività 3: creare una vista dei vincoli dei tipi di durata e delle attività
 
 Questa vista consente di esaminare e modificare tutti i tipi di durata e i vincoli delle attività nel progetto.
 
@@ -108,7 +112,7 @@ Crea una vista delle attività denominata “Vista dei tipi di durata e dei vinc
 
 Modifica il [!UICONTROL Formato campo] delle colonne [!UICONTROL Inizio il] e [!UICONTROL Scadenza il] per visualizzare sia la data che l’ora.
 
-## Risposta 3
+### Risposta 3
 
 ![Immagine della schermata che mostra la vista dei tipi di durata e dei vincoli delle attività](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ Modifica il [!UICONTROL Formato campo] delle colonne [!UICONTROL Inizio il] e [!
 1. Nel menu a discesa [!UICONTROL Formato campo] seleziona [!UICONTROL “17/10/60 03.00”].
 1. Fai clic su **[!UICONTROL Salva]**.
 
-## Attività 4: creare una vista dello stato attivo del modello di progetto
+### Attività 4: creare una vista dello stato attivo del modello di progetto
 
 Chiunque gestisca i modelli di progetto apprezzerà la visualizzazione dello stato attivo (Vero o Falso) di ciascun modello presente in un elenco. Ancora meglio: il campo è modificabile in linea.
 
@@ -146,7 +150,7 @@ Crea una vista del modello di progetto denominata “Standard+stato attivo” co
 * [!UICONTROL È attivo]
 
 
-## Risposta 4
+### Risposta 4
 
 ![Immagine della schermata che mostra una vista dello stato attivo del modello di progetto](assets/view-activity-4.png)
 

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 97%
+source-wordcount: '471'
+ht-degree: 94%
 
 ---
 
@@ -29,7 +29,11 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Riepilogo
+## Aggiungere formattazione condizionale di base alle attività di una visualizzazione
+
+[Fare clic qui](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Riepilogo
 
 Per creare la formattazione condizionale:
 
@@ -42,7 +46,7 @@ Per creare la formattazione condizionale:
    * testo sostitutivo
    * mostrare un’icona
 
-## Attività 1: aggiungere la formattazione condizionale a una visualizzazione
+### Attività 1: aggiungere la formattazione condizionale a una visualizzazione
 
 Crea una vista delle attività denominata “Standard + Avanzamento” utilizzando la vista Standard esistente e aggiungendo questa formattazione condizionale alla colonna [!UICONTROL Nome].
 
@@ -51,7 +55,7 @@ Crea una vista delle attività denominata “Standard + Avanzamento” utilizzan
 
 Questo consente di individuare le attività che presentano dei problemi senza includere nella vista la colonna relativa allo stato di avanzamento.
 
-## Risposta 1
+### Risposta 1
 
 ![Immagine della schermata per creare una nuova regola di colonna](assets/conditional-formatting-exercise.png)
 
