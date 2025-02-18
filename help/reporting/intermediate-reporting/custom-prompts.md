@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 93%
 
 ---
 
@@ -26,7 +26,11 @@ In questo video scoprirai:
 * Come creare un prompt personalizzato utilizzando la modalità testo
 * Alcuni esempi che è possibile utilizzare nel reporting
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+
+## Creare attività prompt personalizzate
+
+[Fare clic qui](/help/assets/create-custom-prompts-activities.pdf) per scaricare un PDF di questa pagina.
 
 ## Attività: creare prompt personalizzati
 

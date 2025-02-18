@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 100%
+source-wordcount: '247'
+ht-degree: 67%
 
 ---
 
@@ -23,14 +23,19 @@ ht-degree: 100%
 In questo video scoprirai come:
 
 * Scopri quando utilizzare i caratteri jolly basati sulla data
-* Informazioni sulla differenza tra i due caratteri jolly basati su date di Workfront
+* Comprendere la differenza tra i due caratteri jolly basati su date di Workfront
 * Aggiungere un carattere jolly basato su data a un filtro
 * Creare una data personalizzata utilizzando caratteri jolly, attributi, operatori e modificatori
 * Creare un intervallo di date personalizzato utilizzando caratteri jolly
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Domande sull’attività
+
+## Creare filtri con attività con caratteri jolly basati sulla data
+
+[Fare clic qui](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Domande sull’attività
 
 1. Come creeresti la regola di filtro se volessi ottenere problemi con una data di scadenza di ieri o oggi?
 1. Come creeresti la regola di filtro per trovare i progetti che erano in scadenza la settimana scorsa?
@@ -38,8 +43,8 @@ In questo video scoprirai come:
 
 ![Immagine della schermata per creare un filtro attività con un carattere jolly basato sulla data](assets/date-wildcard-answer-1.png)
 
-## Risposte
+### Risposte
 
 1. Filtra in base alla data di completamento pianificata del problema tra [!UICONTROL $$TODAY-1d] e [!UICONTROL $$TODAY].
 1. Filtra per data di completamento pianificata del progetto tra [!UICONTROL $$TODAYb-1w] e [!UICONTROL $$TODAYe-1w].
-1. Questo rapporto trova le attività assegnate all’utente che non sono ancora state completate (in altre parole, hanno una percentuale di completamento inferiore a 100) e che sono in ritardo o in scadenza oggi. La regola di filtro per la data di completamento pianificata delle attività indica di esaminare le attività con una data di scadenza uguale o precedente al giorno attuale.
+1. Questo report individua le attività assegnate all&#39;utente che non sono ancora terminate (in altre parole, hanno una percentuale di completamento inferiore a 100) e che sono scadute o scadute oggi. La regola di filtro per la data di completamento pianificata delle attività indica di esaminare le attività con una data di scadenza uguale o precedente alla data corrente.

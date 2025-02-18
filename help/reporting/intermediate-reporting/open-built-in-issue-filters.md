@@ -1,6 +1,6 @@
 ---
 title: Comprendere i filtri dei problemi incorporati
-description: Scopri come rivedere i filtri dei problemi incorporati per vedere come vengono generati e crea un filtro di problemi personalizzato in Workfront.
+description: Scopri come rivedere i filtri dei problemi incorporati per vedere come vengono generati e creare un filtro dei problemi personalizzato in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 100%
+source-wordcount: '282'
+ht-degree: 47%
 
 ---
 
@@ -22,25 +22,30 @@ ht-degree: 100%
 
 In questo video:
 
-* Rivedere i filtri dei problemi incorporati per vedere come vengono generati
+* Controlla i filtri dei problemi incorporati per vedere come vengono generati
 * Scoprire alcuni elementi di reporting utili sui problemi
 * Scoprire come creare un filtro di problema personalizzato
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
-## Attività: creare un rapporto sui problemi
 
-Desidere vedere tutti i problemi che devono ancora essere risolti su tutti i progetti attivi di tua proprietà, inclusi i problemi con un oggetto di risoluzione. Crea un rapporto sui problemi e denominalo “Problemi non risolti nei miei progetti.”
+## Comprendere le attività integrate relative ai filtri dei problemi
 
-## Risposta
+[Fare clic qui](/help/assets/understand-built-in-issue-filters-activities.pdf) per scaricare un PDF di questa pagina.
+
+### Attività: creare un rapporto sui problemi
+
+Desidere vedere tutti i problemi che devono ancora essere risolti su tutti i progetti attivi di tua proprietà, inclusi i problemi con un oggetto di risoluzione. Crea un report sui problemi e denominalo &quot;Problemi non risolti nei miei progetti&quot;.
+
+### Risposta
 
 Ecco come dovrebbe essere il filtro:
 
 ![Immagine della schermata per la creazione di un filtro di problema](assets/opening-built-in-issue-filters-1.png)
 
-Nel filtro integrato “Problemi personali aperti”, una delle regole del filtro escludeva tutti i problemi in cui era presente un oggetto di risoluzione. Tuttavia, non devi preoccuparti di questi problemi. Qualcuno ha già creato un progetto, un’attività o un problema che li risolverà, quindi di cosa ti devi preoccupare? Tali problemi, però, non sono ancora stati risolti e li riportiamo nel nostro esempio per renderli facili da identificare e per verificare il loro stato.
+Nel filtro integrato &quot;I miei problemi aperti&quot;, una delle regole di filtro escludeva eventuali problemi in cui era presente un oggetto di risoluzione. Il motivo è che non c&#39;è bisogno di preoccuparsi di questi problemi. Qualcuno ha già creato un progetto, un&#39;attività o un problema che li risolverà, quindi cosa c&#39;è da preoccuparsi? Ma non sono ancora risolti, e nel nostro esempio li includiamo per renderli facili da identificare e controllare come stanno facendo.
 
-A questo scopo, è necessario aggiungere una colonna nella scheda di visualizzazione per “Problema >> Oggetto di risoluzione.” Questo mostra il nome dell’oggetto di risoluzione, se ce n’è uno, che si tratti di progetto, attività o problema. Facendo clic sul nome si accede all’oggetto di risoluzione.
+A questo scopo, devi aggiungere una colonna nella scheda della vista per &quot;Problema >> Oggetto risolutivo&quot;. Questo mostra il nome dell’oggetto di risoluzione, se ce n’è uno, che si tratti di progetto, attività o problema. Facendo clic sul nome si accede all’oggetto di risoluzione.
 
 È possibile raggruppare l’elenco in base al nome del progetto.
 

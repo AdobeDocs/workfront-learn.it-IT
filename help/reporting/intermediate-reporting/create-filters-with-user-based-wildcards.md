@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 100%
+source-wordcount: '357'
+ht-degree: 45%
 
 ---
 
@@ -25,32 +25,37 @@ In questo video scoprirai come:
 * comprendere a cosa servono i caratteri jolly
 * Creare un filtro con un carattere jolly basato sull’utente
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilizza il nome e l’origine del campo Utenti dell’assegnazione >> ID durante la creazione di filtri che esaminano le informazioni sulle assegnazioni di attività o problemi.  Questa opzione esamina tutti gli utenti a cui è stata assegnata l’attività o il problema, non solo il “proprietario” o l’assegnatario principale.
+>Utilizza il nome e l’origine del campo Utenti dell’assegnazione >> ID durante la creazione di filtri che esaminano le informazioni sulle assegnazioni di attività o problemi.  Questa opzione esamina tutte le   utenti assegnati all’attività o al problema, non solo il &quot;proprietario&quot; o l’assegnatario principale.
 
 >[!TIP]
 >
->Utilizza $$USER.ID (invece del tuo nome) anche quando crei filtri per te stesso. In questo modo, se qualcuno visualizza un filtro che stai utilizzando e chiede di condividerlo, il filtro è già configurato in modo che ogni persona che lo utilizza visualizzi le proprie informazioni.
+>Utilizza $$USER.ID (invece del tuo nome) anche quando crei filtri per te stesso. In questo modo, se qualcuno vede un filtro che stai utilizzando e dice &quot;condividi con me&quot;, il filtro è già configurato in modo che ogni persona che lo utilizza possa visualizzare le proprie informazioni.
 
 >[!TIP]
 >
 >È sempre necessario utilizzare il qualificatore del filtro Uguale quando si utilizzano caratteri jolly basati sull’utente.
 
-## Attività
 
-Questa settimana, disponi di più tempo, quindi desideri vedere se c’è qualcuno nel tuo team a cui potrebbe servire aiuto nelle assegnazioni. Crea un filtro attività per trovare le attività in scadenza questa settimana che non sono state completate.
+## Creare filtri con attività con caratteri jolly basati sugli utenti
 
-## Risposta
+[Fare clic qui](/help/assets/create-filters-with-user-based-wildcards-activities.pdf) per scaricare un PDF di questa pagina.
 
-Complimenti per l’aiuto che vuoi offrire agli altri membri del team! Con il filtro impostato come nell’immagine seguente, troverai le attività:
+### Attività 1
 
-* che non sono state completate (il che significa che non hanno uno stato [!UICONTROL Completato] o uno stato che equivale a [!UICONTROL Completato]);
-* che fanno parte di progetti con stato [!UICONTROL Attuale] (dopo tutto, non vuoi trovare attività per progetti che non sono ancora stati avviati);
+Questa settimana hai un po&#39; di tempo in più, quindi vuoi vedere se c&#39;è qualcuno nel tuo team che potrebbe usare un po&#39; di assistenza per le sue assegnazioni. Crea un filtro attività per trovare le attività in scadenza questa settimana che non sono state completate.
+
+### Risposta 1
+
+Sei fantastico per aiutare i tuoi compagni di squadra! Con il filtro impostato come nell’immagine seguente, troverai le attività:
+
+* Che non sono stati completati (ovvero non hanno uno stato [!UICONTROL Complete] che equivale a [!UICONTROL Complete]);
+* che si trovano in progetti con uno stato [!UICONTROL Attuale] (dopo tutto, non desideri trovare attività per progetti che non sono ancora stati avviati);
 * che vengono assegnate a qualcuno del team predefinito, come definito dalle impostazioni del team di Workfront;
-* e che hanno una data di completamento di questa settimana (questa regola utilizzava il filtro della data predefinito per definire “questa settimana”).
+* E che hanno una data di completamento di questa settimana (questa regola utilizzava il filtro data predefinito per definire &quot;questa settimana&quot;).
 
 ![Immagine della schermata per creare un filtro attività con un carattere jolly basato sull’utente](assets/user-wildcard-exercise-answer.png)
 

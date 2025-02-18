@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 100%
+source-wordcount: '665'
+ht-degree: 97%
 
 ---
 
@@ -40,7 +40,11 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcune modalità testo di base pronte all’uso che puoi utilizzare nelle viste
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+
+## Comprendere la modalità testo di base per le attività di visualizzazione
+
+[Fare clic qui](/help/assets/understand-basic-text-mode-for-views-activities.pdf) per scaricare un PDF di questa pagina.
 
 ## Attività: vista a 4 elementi principali
 
