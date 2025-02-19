@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 100%
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -36,7 +36,7 @@ In alcuni tutorial creerai un nuovo scenario da zero. In altri tutorial, inizier
 
 Per completare gli esercizi nei percorsi di apprendimento di Workfront Fusion, avrai bisogno di un’unità di prova di Workfront. Se disponi già di un’unità di prova, ne consigliamo una nuova per questo corso di formazione.
 
-Richiedi un ambiente di esercitazione compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome dell’azienda a wfttstdr@adobe.com.
+Richiedi un&#39;unità di prova compilando [questo modulo](https://forms.office.com/r/f1J8HRGrNY). Se non riesci ad accedere al modulo, invia nome, indirizzo e-mail e nome dell’azienda a wfttstdr@adobe.com.
 
 ### Accesso a Workfront Fusion per l’esercitazione
 
@@ -44,13 +44,13 @@ Workfront non offre unità di prova di Workfront Fusion. Per esercitarti mentre 
 
 ### Istruzioni dettagliate sul completamento degli esercizi della procedura dettagliata
 
-Sono disponibili istruzioni dettagliate su come completare gli esercizi della procedura dettagliata. È possibile accedervi dalla barra di navigazione a sinistra in Fusion > Esercizi oppure utilizzando il collegamento disponibile nella parte inferiore di un’esercitazione dettagliata.
+Sono disponibili istruzioni dettagliate sul completamento della maggior parte degli esercizi di procedura dettagliata. È possibile trovarli nella barra di navigazione a sinistra immediatamente dopo l&#39;esercitazione dettagliata.
 
-### Esercitazioni pratiche facoltative
+### Esercitazioni facoltative
 
-Esercitazioni pratiche e sfide vengono fornite seguendo alcuni degli esercizi della procedura dettagliata.
+Esercitazioni pratiche e sfide vengono fornite dopo alcuni degli esercizi di procedura dettagliata.
 
-Esistono diversi modi per risolvere le esercitazioni pratiche. L’intento è sfidarti a tentare di raggiungere un obiettivo di scenario senza dover seguire i passaggi o la “risposta giusta” perché questo è ciò che dovrai fare quando crei uno scenario nella tua azienda.
+Esistono diversi modi per risolvere gli esercizi pratici. L’intento è sfidarti a tentare di raggiungere un obiettivo di scenario senza dover seguire i passaggi o la “risposta giusta” perché questo è ciò che dovrai fare quando crei uno scenario nella tua azienda.
 
 L’esercizio di pratica è correlato all’attività della procedura dettagliata.
 
@@ -59,5 +59,7 @@ Le sfide sono per coloro che vogliono provare qualcosa che coinvolge altri conce
 ### Come ottenere assistenza
 
 Le istruzioni dettagliate sono fornite per aiutarti a superare gli esercizi della procedura dettagliata.
+
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
 
 È inoltre disponibile una [Community di Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) dove puoi pubblicare le domande.
