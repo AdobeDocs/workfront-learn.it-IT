@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 100%
+source-wordcount: '727'
+ht-degree: 91%
 
 ---
 
@@ -47,13 +47,13 @@ Una volta che è tutto pronto per iniziare la revisione, devi solo fare clic sul
 
 ### Aprire una bozza dalla [!UICONTROL Home]
 
-Se lavori in [!DNL Workfront] e ti è stato chiesto di approvare una bozza, troverai un’assegnazione nell’[!UICONTROL Elenco lavori] della [!UICONTROL Home] di [!DNL Workfront]. È utile selezionare solo [!UICONTROL Approvazioni] dal [!UICONTROL Filtro], così puoi concentrarti su quel tipo di lavoro.
+Se lavori in [!DNL Workfront] e ti è stato chiesto di approvare una bozza, troverai un&#39;assegnazione nel widget [!UICONTROL Le mie approvazioni] di [!DNL Workfront] [!UICONTROL Home].
 
-![Immagine della [!UICONTROL Home] di [!DNL Workfront] con il filtro [!UICONTROL Approvazioni] attivato e una bozza selezionata dall’elenco.](assets/open-proof-from-home.png)
+![Immagine del widget [!UICONTROL Approvazioni personali] in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
 
-È importante tenere presente che le bozze vengono visualizzate nella [!UICONTROL Home] di [!DNL Workfront] solo se ti è stata assegnata l’approvazione. Se ti è stato appena chiesto di rivedere solo la bozza, questa non verrà visualizzata nella [!UICONTROL Home] di [!DNL Workfront] quando selezioni [!UICONTROL Approvazioni] dall’elenco dei filtri.
+È importante tenere presente che le bozze vengono visualizzate nella [!UICONTROL Home] di [!DNL Workfront] solo se ti è stata assegnata l’approvazione. Se ti è stato chiesto di esaminare solo la bozza, questa non verrà visualizzata in [!DNL Workfront] [!UICONTROL Home].
 
-Seleziona l’approvazione della bozza in [!UICONTROL Elenco lavori], quindi fai clic su [!UICONTROL Vai alla bozza] per aprirla nel Proofing Viewer.
+Fare clic sul collegamento [!UICONTROL Vai a bozza] per aprirlo nel visualizzatore di bozze.
 
 A seconda dei flussi di lavoro delle bozze e dei progetti dell’organizzazione, è possibile che venga visualizzata un’assegnazione di attività nella [!UICONTROL Home] di [!DNL Workfront] invece di una richiesta di approvazione della bozza. In questo caso, aprirai la bozza dalla sezione [!UICONTROL Documenti] dell’attività stessa (vedi in seguito per le istruzioni).
 
