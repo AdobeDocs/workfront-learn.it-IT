@@ -12,10 +12,10 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 96%
+source-wordcount: '433'
+ht-degree: 98%
 
 ---
 
@@ -43,11 +43,10 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Comprendere la modalità testo di base per le attività di filtro
+## Attività &quot;Comprendere la modalità testo di base per i filtri&quot;
 
-[Fare clic qui](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) per scaricare un PDF di questa pagina.
 
-## Attività: escludere le attività contrassegnate come “Ho terminato la mia parte”
+### Attività: escludere le attività contrassegnate come “Ho terminato la mia parte”
 
 La seguente modalità di testo escluderà le attività che un utente ha contrassegnato come “Ho terminato la mia parte”. È sufficiente creare un filtro delle attività, aggiungere le regole di filtro desiderate, quindi passare alla modalità testo e incollare il codice sottostante dopo qualsiasi modalità di testo visualizzata nel filtro.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Attività: mostrare tutte le attività in attesa della mia approvazione
+### Attività: mostrare tutte le attività in attesa della mia approvazione
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Attività: mostrare tutte le attività approvate
+### Attività: mostrare tutte le attività approvate
 
 Crea un rapporto di attività con i filtri desiderati, quindi passa alla scheda Filtro e fai clic su Passa a modalità testo. Aggiungi questo codice a un elemento già presente:
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Attività: mostrare tutte le attività con almeno un predecessore per più progetti
+### Attività: mostrare tutte le attività con almeno un predecessore per più progetti
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Attività: mostrare tutte le attività assegnate ad altri
+### Attività: mostrare tutte le attività assegnate ad altri
 
 Crea un rapporto di attività con i filtri desiderati, quindi passa alla scheda Filtro e fai clic su Passa a modalità testo. Aggiungi questo codice a un elemento già presente:
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Verranno visualizzate tutte le attività a cui l’utente connesso ha assegnato almeno uno degli assegnatari correnti. Se gli assegnatari sono stati assegnati da più persone, nella pagina di destinazione dell’attività per “Richiesto da” verrà visualizzato solo il nome della prima persona che ha assegnato qualcuno.
 
-## Attività: visualizzare tutte le attività completate (In attesa di approvazione)
+### Attività: visualizzare tutte le attività completate (In attesa di approvazione)
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Problema: mostrare tutti i problemi completati (In attesa di approvazione)
+### Problema: mostrare tutti i problemi completati (In attesa di approvazione)
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Progetto: mostrare tutti i progetti completati (In attesa di approvazione)
+### Progetto: mostrare tutti i progetti completati (In attesa di approvazione)
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Nota: mostrare tutti i commenti in cui sono taggato
+### Nota: mostrare tutti i commenti in cui sono taggato
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Rapporto su parametri o campi personalizzati: mostrare i campi personalizzati non allegati a un modulo personalizzato (molto utile nelle operazioni di pulizia)
+### Rapporto su parametri o campi personalizzati: mostrare i campi personalizzati non allegati a un modulo personalizzato (molto utile nelle operazioni di pulizia)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

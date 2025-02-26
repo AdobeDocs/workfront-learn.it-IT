@@ -1,6 +1,6 @@
 ---
 title: Creare dashboard
-description: Scopri come combinare diversi rapporti elenco, grafici, calendari e pagine web esterne in una dashboard in Workfront.
+description: Il video ha lo scopo di aiutare gli utenti a creare, personalizzare e gestire in modo efficace le dashboard in Workfront per monitorare e condividere i dati relativi al progetto.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,30 +11,34 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 57%
+source-wordcount: '627'
+ht-degree: 34%
 
 ---
 
 # Creare dashboard
 
-In questo video scoprirai:
+Il video illustra i seguenti punti chiave:
 
-* Che cos’è una dashboard in Workfront
-* Come creare una dashboard
-* Come trovare e utilizzare le dashboard
-* Come condividere una dashboard con altri utenti di Workfront
-* Come stampare una dashboard
+* **Introduzione alle dashboard:** illustra cosa è una dashboard in Workfront e il suo scopo come raccolta di report correlati. &#x200B;
+* **Creazione di un dashboard:** Viene illustrato come creare un nuovo dashboard passando all&#39;area Dashboard, selezionando &quot;Nuovo dashboard&quot;, assegnandogli un nome e scegliendo un layout. &#x200B;
+* **Aggiunta di report:** Viene illustrato come aggiungere vari report al dashboard, ad esempio report di progetto, report di attività e report di problemi, e come disporli all&#39;interno del layout scelto. &#x200B;
+* **Personalizzazione delle visualizzazioni:** mostra come personalizzare le colonne da visualizzare nella visualizzazione dashboard modificando il report e selezionando le colonne specifiche da visualizzare. &#x200B;
+* **Aggiunta di elementi aggiuntivi:** Viene illustrato come aggiungere un calendario personalizzato e una pagina esterna (ad esempio, un documento in linea) alla dashboard. &#x200B;
+* **Salvataggio e blocco:** indica di salvare il dashboard e di fissarlo per accedervi facilmente. &#x200B;
+* **Visualizzazione e modifica:** fornisce suggerimenti sulla visualizzazione e la modifica del dashboard, inclusa la regolazione della visibilità delle colonne per una visualizzazione migliore. &#x200B;
+* **Ricerca e condivisione di dashboard:** Viene descritto come trovare dashboard tramite il menu principale, aggiungerli ai preferiti e condividerli con altri utenti. &#x200B;
+* **Stampa di dashboard:** Viene illustrato il processo di stampa di un dashboard. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Creare attività dashboard
 
-[Fare clic qui](/help/assets/create-dashboard-activities.pdf) per scaricare un PDF di questa pagina.
+## Attività &quot;Crea dashboard&quot;
 
-## Attività 1: creare un dashboard
+### Attività 1: creare un dashboard
 
 Crea un [!UICONTROL dashboard] contenente un solo report:&quot;Cerca note in questo progetto&quot;. Ciò è utile per trovare rapidamente qualsiasi aggiornamento apportato a un progetto, anche tra migliaia di aggiornamenti in cui cercare. In questo modo, la ricerca viene effettuata nei thread di aggiornamento per estrarre rapidamente tutti gli aggiornamenti che soddisfano i criteri specificati nelle richieste.
 
@@ -45,7 +49,7 @@ Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; c
 * Passa alla pagina di destinazione di qualsiasi progetto e crea una sezione personalizzata per una [!UICONTROL dashboard].
 * Quando si cercano le note nella sezione personalizzata, vengono visualizzate solo le note contenute all&#39;interno del progetto in cui ci si trova.
 
-## Risposta 1
+### Risposta 1
 
 1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;.
 1. Fai clic su **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Copia]**. [!DNL Workfront] crea un nuovo report denominato &quot;Ricerca nota (copia)&quot;.

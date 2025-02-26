@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 93%
+source-wordcount: '198'
+ht-degree: 97%
 
 ---
 
@@ -28,11 +28,10 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Creare attività prompt personalizzate
+## Attività &quot;Crea prompt personalizzati&quot;
 
-[Fare clic qui](/help/assets/create-custom-prompts-activities.pdf) per scaricare un PDF di questa pagina.
 
-## Attività: creare prompt personalizzati
+### Attività: creare prompt personalizzati
 
 1. Crea un prompt personalizzato che mostri i seguenti stati di progetto nel menu a discesa del prompt:
    * In Pianificazione
@@ -41,7 +40,7 @@ In questo video scoprirai:
    * Morto
 1. Modifica il prompt per visualizzare i progetti correnti in scadenza questo mese.
 
-## Risposte
+### Risposte
 
 1. I prompt personalizzati devono avere un aspetto simile a questo e la seguente modalità testo:
 

@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '933'
-ht-degree: 98%
+source-wordcount: '925'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Creare attività di report attività
-
-[Fare clic qui](/help/assets/create-task-report-activities.pdf) per scaricare un PDF di questa pagina.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ In questo video scoprirai:
 >Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
 >Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
 
+## Attività di &quot;Creazione di un rapporto attività&quot;
 
 
-## Attività 1: crea un rapporto di nota con indicazioni
+### Attività 1: crea un rapporto di nota con indicazioni
 
 Crea un rapporti sulle note che è possibile utilizzare per cercare note utente (ad esempio, commenti o aggiornamenti) o note di sistema in base al contenuto della nota, all’autore, alla data di immissione, al nome del progetto o al tipo di audit. Denomina il rapporto “Ricerca nota”.
 
@@ -68,7 +66,7 @@ Includi richieste per:
 * Nome progetto
 * Tipo di Revisione
 
-## Risposta 1
+### Risposta 1
 
 1. Seleziona **[!UICONTROL Rapporti]** dal **[!UICONTROL Menu principale]**.
 1. Fai clic sul menu **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Nota]**.
@@ -111,7 +109,7 @@ Includi richieste per:
 1. Seleziona la casella per **[!UICONTROL Mostra i prompt nelle dashboard]**.
 1. Salva e chiudi il rapporto.
 
-## Attività 2: creare un rapporto sui feedback del team di amministrazione
+### Attività 2: creare un rapporto sui feedback del team di amministrazione
 
 Questo è un rapporto sui problemi che mostra tutti i problemi di una coda richieste di feedback creata per gli amministratori di sistema. Puoi vedere come creare questa coda richieste nel tutorial [Creare una coda richieste di feedback per l’amministratore di sistema](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=it).
 
@@ -162,7 +160,7 @@ Puoi filtrare in base all’ID del progetto della coda richieste in cui si trova
 
 
 
-## Risposta 2
+### Risposta 2
 
 1. Seleziona **[!UICONTROL Rapporti]** dal **[!UICONTROL Menu principale]**.
 1. Fai clic sull’opzione **[!UICONTROL Nuovo rapporto]** e seleziona **[!UICONTROL Problema]**.

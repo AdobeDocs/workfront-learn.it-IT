@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 67%
+source-wordcount: '238'
+ht-degree: 70%
 
 ---
 
@@ -31,9 +31,8 @@ In questo video scoprirai come:
 >[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
-## Creare filtri con attività con caratteri jolly basati sulla data
+## Attività &quot;Creare filtri con caratteri jolly basati su date&quot;
 
-[Fare clic qui](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) per scaricare un PDF di questa pagina.
 
 ### Domande sull’attività
 

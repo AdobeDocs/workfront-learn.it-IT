@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 47%
+source-wordcount: '273'
+ht-degree: 49%
 
 ---
 
@@ -29,9 +29,8 @@ In questo video:
 >[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
 
 
-## Comprendere le attività integrate relative ai filtri dei problemi
+## Attività &quot;Comprendere i filtri dei problemi incorporati&quot;
 
-[Fare clic qui](/help/assets/understand-built-in-issue-filters-activities.pdf) per scaricare un PDF di questa pagina.
 
 ### Attività: creare un rapporto sui problemi
 

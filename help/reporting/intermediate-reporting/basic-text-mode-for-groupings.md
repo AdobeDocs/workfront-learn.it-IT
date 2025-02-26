@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 94%
+source-wordcount: '292'
+ht-degree: 97%
 
 ---
 
@@ -41,11 +41,9 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Comprendere la modalità testo di base per le attività di raggruppamento
+## Attività &quot;Comprendere la modalità testo di base per i raggruppamenti&quot;
 
-[Fare clic qui](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) per scaricare un PDF di questa pagina.
-
-## Attività: raggruppamento di 4 elementi principali
+### Attività: raggruppamento di 4 elementi principali
 
 La seguente modalità di testo raggrupperà le attività in base a un massimo di quattro livelli di elementi principali e lascerà vuoti gli elementi principali che non esistono.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![Immagine di una schermata che mostra le attività del progetto raggruppate per 4 elementi principali](assets/4-parents-grouping.png)
 
 
-## Attività: raggruppamento per percentuale di completamento
+### Attività: raggruppamento per percentuale di completamento
 
 La seguente modalità di testo raggrupperà le attività in base alla percentuale di completamento. Quando saranno raggruppate, le attività rientreranno in una delle seguenti categorie:
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![Immagine della schermata che mostra le attività del progetto raggruppate per percentuale di completamento](assets/percent-complete-grouping.png)
 
-## Attività: statusEquatesWith, quindi per stato
+### Attività: statusEquatesWith, quindi per stato
 
 La seguente modalità di testo raggrupperà le attività per statusEquatesWith, quindi per stato.
 
@@ -108,7 +106,7 @@ textmode=true
 ![Immagine dello schermo che mostra le attività del progetto raggruppate per statusEquatesWith](assets/status-equates-with.png)
 
 
-## Approvazione bozze: raggruppa per nome del progetto
+### Approvazione bozze: raggruppa per nome del progetto
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![Immagine della schermata che mostra le approvazioni di bozze raggruppate per nome del progetto](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## Approvazione bozze: raggruppa per nome del documento
+### Approvazione bozze: raggruppa per nome del documento
 
 ```
 group.0.displayname=Document Name

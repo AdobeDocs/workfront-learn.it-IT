@@ -11,10 +11,10 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 75%
+source-wordcount: '260'
+ht-degree: 78%
 
 ---
 
@@ -27,9 +27,7 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Creare attività di report matrice
-
-[Fare clic qui](/help/assets/create-matrix-report-activities.pdf) per scaricare un PDF di questa pagina.
+## Attività di &quot;Creazione di un rapporto matrice&quot;
 
 ### Attività 1: creare un rapporto matrice
 

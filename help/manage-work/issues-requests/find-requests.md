@@ -1,6 +1,6 @@
 ---
 title: Trovare e gestire le richieste
-description: Scopri come utilizzare le dashboard, [!UICONTROL Home], l’area [!UICONTROL Richieste] e la pagina [!UICONTROL Team] per trovare le richieste in entrata effettuate tramite una coda di richieste.
+description: Il video sulla gestione delle richieste nella Home di Workfront illustra come utilizzare i filtri, gestire le assegnazioni dei team, creare rapporti e dashboard personalizzati e chiarire il significato di "my" (il mio) in contesti diversi per una gestione efficace delle richieste.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,31 +8,37 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-10T00:00:00Z
+last-substantial-update: 2025-02-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 10%
 
 ---
 
 # Trovare e gestire le richieste
 
-Questo video illustra come trovare le richieste a cui sei assegnato, le richieste che hai creato e le richieste che gestisci.
+Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; Esso copre quattro settori principali:
 
-Scopri come trovare queste richieste nelle seguenti aree:
-
-* [!UICONTROL Home] di Workfront
-* L’area [!UICONTROL Richieste]
-* La pagina [!UICONTROL Team]
-* In un dashboard personalizzato
+* **Home di Workfront:** gli utenti come Mary Smith, un&#39;artista di produzione, possono visualizzare le richieste loro assegnate. &#x200B; Joan Harris, che spesso effettua richieste, può trovare le richieste completate in attesa della sua approvazione. &#x200B;
+* **Area richieste:** gli utenti possono filtrare le richieste per visualizzare quelle create.&#x200B; Il termine &quot;my&quot; nell’area della richiesta si riferisce ai problemi creati da me, l’utente connesso. &#x200B;
+* **Pagina Team:** Gli utenti possono visualizzare le richieste di team non assegnate e assegnarle a se stessi o ad altri. &#x200B; Possono inoltre utilizzare il bilanciatore dei carichi di lavoro per gestire le assegnazioni dei team in base ai carichi di lavoro correnti. &#x200B;
+* **Report e dashboard personalizzati:** gli utenti possono creare report personalizzati per tenere traccia delle richieste, con controllo su nomi, filtri, visualizzazioni e raggruppamenti. &#x200B; Questo consente di tracciare chiaramente le richieste per priorità, creatore, contatto principale, assegnatario e stato. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Ricerca di richieste nella home di Workfront:** gli utenti possono visualizzare le richieste assegnate a loro o a coloro che sono in attesa di approvazione, a seconda del loro ruolo. &#x200B;
+* **Utilizzo di filtri nell&#39;area richieste:** I filtri come &quot;Le mie richieste&quot; e &quot;Le mie richieste aperte&quot; consentono agli utenti di visualizzare le richieste create. &#x200B;
+* **Gestione delle richieste nella pagina Team:** gli utenti possono visualizzare le richieste team non assegnate e assegnarle a se stessi o ad altri utenti, utilizzando il bilanciatore dei carichi di lavoro per gestire le assegnazioni dei membri del team in base al carico di lavoro corrente. &#x200B;
+* **Report e dashboard personalizzati:** gli utenti possono creare report personalizzati per tenere traccia delle richieste, consentendo nomi, filtri, visualizzazioni e raggruppamenti personalizzati, utili per gestire e assegnare priorità alle richieste in modo efficace. &#x200B;
+* **Informazioni su &quot;My&quot; nei filtri:** Il termine &quot;my&quot; nella Home fa riferimento ai problemi assegnati a me. Il termine &quot;my&quot; nell’area della richiesta si riferisce ai problemi richiesti da me. &#x200B;
 
 
 ## Tutorial consigliati su questo argomento
