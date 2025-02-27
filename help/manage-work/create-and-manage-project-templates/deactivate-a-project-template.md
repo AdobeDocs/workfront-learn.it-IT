@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ In questo video scoprirai:
 
 ## Scopri come creare una vista personalizzata per visualizzare e modificare lo stato attivo dei modelli di progetto
 
-Per creare una vista del modello di progetto con una colonna di stato attiva, consulta l’attività **Visualizzazione stato attivo del modello di progetto** in [Creare una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
+Per creare una vista del modello di progetto con una colonna di stato attiva, consulta l’attività **Visualizzazione stato attivo del modello di progetto** in [Creare una vista di base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutorial consigliati su questo argomento
 
