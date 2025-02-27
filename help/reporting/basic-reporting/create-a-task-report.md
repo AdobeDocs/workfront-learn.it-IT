@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '925'
 ht-degree: 99%
@@ -27,14 +27,13 @@ In questo video scoprirai:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## Attività di &quot;Creazione di un rapporto attività&quot;
 
 >[!TIP]
 >
 >Tira fuori spatole e ciotole per miscelare gli ingredienti e inizia a sperimentare le “ricette” presenti nel nostro [Ricettario di reportistica clienti Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). All’interno troverai istruzioni dettagliate per 10 rapporti, pronti per essere inseriti nel tuo ambiente oggi stesso.
 >Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
 >Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
-
-## Attività di &quot;Creazione di un rapporto attività&quot;
 
 
 ### Attività 1: crea un rapporto di nota con indicazioni
