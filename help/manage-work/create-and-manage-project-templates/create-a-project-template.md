@@ -1,6 +1,6 @@
 ---
-title: Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
-description: Il video sulla creazione di modelli in Workfront illustra come creare nuovi modelli di progetto, utilizzarli per nuovi progetti, salvare i progetti esistenti come modelli, utilizzare blueprint predefiniti e assegnare attività a ruoli per una gestione efficiente delle risorse.
+title: Crea un modello di progetto e scopri [!UICONTROL Blueprint]
+description: Impara a creare un modello di progetto da zero e da un progetto esistente e comprendi come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 50%
+source-wordcount: '635'
+ht-degree: 54%
 
 ---
 
-# Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
+# Creare un modello di progetto e informazioni sui [!UICONTROL Blueprint]
 
 
 Impara a creare un modello di progetto da zero e da un progetto esistente e capisci come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
