@@ -1,6 +1,6 @@
 ---
 title: Trovare e gestire le richieste
-description: Il video sulla gestione delle richieste nella Home di Workfront illustra come utilizzare i filtri, gestire le assegnazioni dei team, creare rapporti e dashboard personalizzati e chiarire il significato di "my" (il mio) in contesti diversi per una gestione efficace delle richieste.
+description: Scopri come utilizzare i filtri, gestire le assegnazioni dei team, creare report e dashboard personalizzati e chiarire il significato di _my_ in contesti diversi per una gestione efficace delle richieste.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 10%
+source-wordcount: '342'
+ht-degree: 9%
 
 ---
 
