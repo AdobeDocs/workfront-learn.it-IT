@@ -1,5 +1,5 @@
 ---
-title: Comprendere le timeline dei progetti
+title: Comprendere le sequenze temporali dei progetti
 description: Scopri come assegnare le attività, utilizzare i grafici di Gantt e le funzioni dei percorsi critici, monitorare i progetti tramite visualizzazioni, pianificare le attività in modo efficiente e applicare vincoli per una pianificazione ottimale dei progetti.
 activity: use
 feature: Work Management
@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
-ht-degree: 7%
+source-wordcount: '701'
+ht-degree: 6%
 
 ---
 
 # Comprendere le timeline dei progetti
 
-* Il video offre una panoramica della pianificazione e della gestione dei progetti tramite Workfront. Spiega in che modo le attività padre raggruppano diverse sottoattività, che vengono assegnate a ruoli e successivamente a utenti con le competenze necessarie. &#x200B; I predecessori indicano relazioni sequenziali tra le attività, mentre le attività senza predecessori possono essere eseguite in parallelo. &#x200B; Il diagramma di Gantt offre una linea temporale visiva e la funzione Percorso critico evidenzia le attività che potrebbero ritardare il progetto in caso di slittamento. &#x200B;
-* Il video illustra inoltre diverse viste di Workfront, come la vista standard per la pianificazione e la vista di stato per il monitoraggio dell’avanzamento, che include flag per l’avanzamento, commenti, documenti, problemi, approvazioni, percorso critico e milestone. È possibile tenere traccia delle attività recenti per visualizzare aggiornamenti e note. &#x200B;
-* La programmazione può essere eseguita a partire da una data di inizio o da una data di completamento, con Workfront che calcola le date corrispondenti in base alle durate delle attività e ai predecessori. &#x200B; Il video consiglia di pianificare da una data di inizio le date di completamento critiche per consentire un certo margine di flessibilità. &#x200B; Vengono inoltre trattati i vincoli di attività, ad esempio &quot;il prima possibile&quot; e &quot;il più tardi possibile&quot;, mostrando come influiscono sulla pianificazione delle attività. &#x200B; È possibile creare viste personalizzate per visualizzare i vincoli delle attività. &#x200B;
+Informazioni:
+
+* Ottieni una panoramica della pianificazione e della gestione dei progetti utilizzando Workfront. Scopri in che modo le attività principali raggruppano diverse sottoattività, che vengono assegnate a ruoli e successivamente a utenti con le competenze necessarie. I predecessori indicano relazioni sequenziali tra le attività, mentre le attività senza predecessori possono essere eseguite in parallelo. Il diagramma di Gantt offre una linea temporale visiva e la funzione Percorso critico evidenzia le attività che potrebbero ritardare il progetto in caso di slittamento.
+* Diverse visualizzazioni in Workfront, ad esempio la visualizzazione standard per la pianificazione e la visualizzazione di stato per il monitoraggio dell&#39;avanzamento, che include flag per l&#39;avanzamento, commenti, documenti, problemi, approvazioni, percorso critico e milestone. È possibile tenere traccia delle attività recenti per visualizzare aggiornamenti e note.
+* La programmazione può essere eseguita a partire da una data di inizio o da una data di completamento, con Workfront che calcola le date corrispondenti in base alle durate delle attività e ai predecessori. Il video consiglia di pianificare da una data di inizio le date di completamento critiche per consentire un certo margine di flessibilità. Vengono inoltre trattati i vincoli di attività, ad esempio &quot;il prima possibile&quot; e &quot;il più tardi possibile&quot;, mostrando come influiscono sulla pianificazione delle attività. È possibile creare viste personalizzate per visualizzare i vincoli delle attività.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
