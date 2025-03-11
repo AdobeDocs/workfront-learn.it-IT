@@ -1,5 +1,5 @@
 ---
-title: Usare [!UICONTROL Ottimizzatore portfolio] per dare priorità e gestire il lavoro
+title: Comprendere [!UICONTROL Portfolio Optimizer]
 description: Scopri come utilizzare [!UICONTROL Portfolio Optimizer] per confrontare e assegnare priorità ai progetti all'interno di un portfolio.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: adb11deb325b2537dabeb80461f8c9ecd059e003
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 49%
+source-wordcount: '65'
+ht-degree: 29%
 
 ---
 
-# Usare [!UICONTROL Ottimizzatore portfolio] per dare priorità e gestire il lavoro
+# Comprendere [!UICONTROL Portfolio Optimizer]
 
 In questo video scoprirai come:
 
