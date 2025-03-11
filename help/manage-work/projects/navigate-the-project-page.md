@@ -1,6 +1,6 @@
 ---
 title: Usare la pagina del progetto
-description: Scopri come visualizzare i dettagli di un progetto, quali informazioni sono visualizzate nell’elenco delle attività, dove caricare i documenti e come visualizzare la cronologia degli aggiornamenti in [!DNL  Workfront].
+description: Scopri come navigare nella pagina del progetto Workfront e gestirla in modo efficiente utilizzando funzioni quali l’intestazione del progetto, la navigazione tra breadcrumb, l’elenco delle attività, gli aggiornamenti e le sezioni dei documenti.
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg
@@ -13,23 +13,36 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
+source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
 workflow-type: tm+mt
-source-wordcount: '504'
-ht-degree: 98%
+source-wordcount: '803'
+ht-degree: 54%
 
 ---
 
 # Usare la pagina del progetto
 
-Questo video illustra:
+Questo video fornisce una panoramica della navigazione e della gestione della pagina del progetto in Workfront. &#x200B; Le caratteristiche principali includono:
 
-* Come visualizzare i dettagli del progetto
-* Quali informazioni sono visualizzate nell’elenco delle attività
-* Dove caricare i documenti
-* Come visualizzare la cronologia degli aggiornamenti
+* **Intestazione progetto:** Visualizza informazioni essenziali quali la percentuale di completamento, il project manager, la data di completamento pianificata, la condizione del progetto e lo stato. &#x200B; Lo stato consente di tenere traccia della fase del progetto e attiva le notifiche. &#x200B;
+* **Navigazione breadcrumb:** mostra la posizione del progetto all&#39;interno del programma e del portfolio dell&#39;organizzazione, con collegamenti selezionabili per facilitarne la navigazione. &#x200B;
+* **Preferiti e menu:** I Preferiti iniziano a contrassegnare il progetto per l&#39;accesso rapido, mentre il menu offre opzioni quali la modifica dei dettagli, la copia del progetto e il ricalcolo delle timeline. &#x200B;
+* **Elenco attività:** rappresenta i passaggi nel piano del progetto. &#x200B; Utilizza i filtri rapidi per individuare le attività, modificare in linea per apportare modifiche rapide e il pannello di riepilogo delle attività per informazioni dettagliate. &#x200B; Facendo clic sul nome di un’attività si apre la relativa pagina dedicata. &#x200B;
+* **Pannello sinistro:** consente di accedere a varie sezioni del progetto, ad esempio dettagli, aggiornamenti e documenti. &#x200B; Il pannello può essere personalizzato dall’amministratore di sistema. &#x200B;
+* **Sezione aggiornamenti:** centralizza le comunicazioni sul progetto, consentendo l&#39;assegnazione di tag agli utenti, la risposta ai commenti e la visualizzazione degli aggiornamenti aggregati da attività, problemi e documenti. &#x200B;
+* **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; I documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Panoramica intestazione progetto:** Accedi rapidamente ai dettagli chiave del progetto come percentuale di completamento, project manager, data di scadenza, stato e condizione. &#x200B; Lo stato controlla anche le notifiche e le fasi del flusso di lavoro. &#x200B;
+* **Gestione attività:** Utilizza l&#39;elenco delle attività per tenere traccia dei passaggi del progetto, applicare filtri rapidi per trovare le attività e apportare modifiche in linea. &#x200B; Accedere a informazioni dettagliate sull&#39;attività tramite il pannello di riepilogo o la pagina dell&#39;attività. &#x200B;
+* **Navigazione breadcrumb:** Naviga nella gerarchia del progetto all&#39;interno dell&#39;organizzazione utilizzando i collegamenti selezionabili nella traccia delle breadcrumb. &#x200B;
+* **Aggiornamenti centralizzati:** tutti gli aggiornamenti da attività, problemi e documenti vengono aggregati nella sezione Aggiornamenti del progetto, semplificando la comunicazione e il tracciamento. &#x200B;
+* **Organizzazione documento:** Carica e gestisci i file e le bozze relativi al progetto nella sezione documenti, assicurandoti che i documenti pertinenti siano allegati alle attività per una collaborazione semplificata. &#x200B;
+
 
 ## Parti chiave della pagina del progetto
 
