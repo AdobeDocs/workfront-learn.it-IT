@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla pianificazione di un progetto
-description: Scopri i cinque componenti principali di un progetto, cosa significa lo stato, in che modo una [!UICONTROL Vista] può aiutarti a visualizzare informazioni pertinenti e come impostare la data di inizio o di scadenza.
+description: Semplifica la pianificazione dei progetti concentrandosi sui campi chiave, impostando lo stato su "Pianificazione", utilizzando viste appropriate, selezionando date di inizio realistiche e sfruttando le modalità di pianificazione per calendari precisi.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -12,23 +12,30 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '320'
+ht-degree: 12%
 
 ---
 
 # Introduzione alla pianificazione di un progetto
 
-In questo video scoprirai:
-
-* I cinque componenti principali di un progetto
-* Cosa significa lo stato della pianificazione
-* In che modo una [!UICONTROL Vista] può aiutarti a visualizzare le informazioni di cui hai bisogno
-* Come impostare la data di inizio o di completamento
+* Il video fornisce indicazioni su come pianificare efficacemente un progetto in Workfront. &#x200B; Sottolinea l&#39;importanza di gettare solide basi per garantire che il progetto termini in tempo e abbia successo. &#x200B; I passaggi chiave includono la comprensione di cinque campi critici: attività, assegnazioni, durate, ore pianificate e predecessori. &#x200B; Questi campi consentono di apportare modifiche rapide e precise al piano di progetto. &#x200B;
+* Prima di apportare modifiche, assicurati che lo stato del progetto sia impostato su &quot;Pianificazione&quot; per evitare inutili notifiche al team. &#x200B; Utilizzare la visualizzazione standard o le visualizzazioni personalizzate per concentrarsi su informazioni essenziali. &#x200B; Impostare accuratamente la data di inizio del progetto, per garantirne la realistica e l&#39;allineamento con la disponibilità del team.
+* Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità del team e pianificazione accurata per creare solide basi per il successo del progetto. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Concentrati su cinque campi chiave:** Comprendi le attività, le assegnazioni, le durate, le ore pianificate e i predecessori per apportare modifiche efficaci e accurate al piano del progetto. &#x200B;
+* **Impostare lo stato del progetto su &quot;Pianificazione&quot;:** Verificare che lo stato del progetto sia impostato su &quot;Pianificazione&quot; per evitare notifiche non necessarie durante la modifica del piano. &#x200B;
+* **Utilizza visualizzazioni appropriate:** Utilizza la visualizzazione standard o le visualizzazioni personalizzate per concentrarti su dettagli essenziali del progetto come attività, durate e assegnazioni. &#x200B;
+* **Scegli una data di inizio realistica:** Imposta una data di inizio pratica che sia in linea con la disponibilità del team ed eviti scenari non realistici, ad esempio festività o fine settimana. &#x200B;
+* **Sfrutta le modalità di programmazione:** Utilizza la modalità &quot;Data inizio&quot; per calcolare la data di completamento o la modalità &quot;Data completamento&quot; per calcolare la data di inizio, assicurando che la sequenza temporale sia allineata ai requisiti del progetto. &#x200B;
+
+
 
 ## Tutorial consigliati su questo argomento
 

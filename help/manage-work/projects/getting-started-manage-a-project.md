@@ -1,6 +1,6 @@
 ---
 title: Introduzione alla gestione di un progetto
-description: Scopri come monitorare l’avanzamento del progetto, eseguire un drill-down dei dettagli delle attività e come comunicare con le parti interessate.
+description: Monitora l’avanzamento del progetto con rapporti efficaci, gestisci le dipendenze tramite le visualizzazioni di Gantt, monitora le attività e le approvazioni, migliora la comunicazione del team e garantisce flussi di lavoro fluidi con aggiornamenti frequenti.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,22 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 17%
 
 ---
 
 # Introduzione alla gestione di un progetto
 
-In questo video scoprirai:
-
-* Come monitorare l’avanzamento del progetto
-* Eseguire un drill-down delle informazioni dettagliate delle attività
-* Come comunicare con le parti interessate
+Il video offre una panoramica sulla gestione di un progetto dopo che il suo stato è cambiato in &quot;Attuale&quot; &#x200B;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Monitoraggio avanzamento:** i progetti con stato &quot;Corrente&quot; vengono visualizzati nei report, consentendo ai manager di tenere traccia dell&#39;avanzamento (in programma, in ritardo o in ritardo). &#x200B;
+* **Dipendenze tra progetti:** Le dipendenze possono essere gestite e visualizzate nella visualizzazione Gantt del progetto, con opzioni per l&#39;espansione per informazioni dettagliate. &#x200B;
+* **Gestione attività e approvazione:** Utilizzare le schede Stato e Approvazioni per tenere traccia del completamento dell&#39;attività, delle approvazioni in sospeso e della comunicazione tramite commenti. &#x200B;
+* **Comunicazione team:** invia facilmente aggiornamenti a tutti i membri del team utilizzando la funzione &quot;Aggiorna tutto&quot; e tieni traccia delle discussioni nel progetto. &#x200B;
+* **Aggiornamenti frequenti:** I lavoratori devono aggiornare quotidianamente gli stati delle attività per garantire una gestione fluida del progetto e un tracciamento accurato. &#x200B;
+
 
 ## Tutorial consigliati su questo argomento
 
