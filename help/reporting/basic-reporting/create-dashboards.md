@@ -11,10 +11,10 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 34%
+source-wordcount: '645'
+ht-degree: 33%
 
 ---
 
@@ -51,7 +51,7 @@ Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; c
 
 ### Risposta 1
 
-1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;.
+1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Fai clic su **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Copia]**. [!DNL Workfront] crea un nuovo report denominato &quot;Ricerca nota (copia)&quot;.
 1. Passa ad **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Modifica]**. Fai clic su **[!UICONTROL Impostazioni report]** e cambia il nome in &quot;Cerca le note in questo progetto&quot;.
 1. Fai clic su [!UICONTROL Prompt rapporto] ed elimina il prompt [!UICONTROL Progetto] > [!UICONTROL Nome] dall’elenco.

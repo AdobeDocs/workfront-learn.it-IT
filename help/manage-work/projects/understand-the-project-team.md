@@ -1,6 +1,6 @@
 ---
 title: Comprendere il team di progetto
-description: Scopri per cosa può essere utilizzato il team di progetto e come gestirlo.
+description: Gestisci in modo efficace i team di progetto in Workfront con popolazione automatica dei team, aggiornamenti manuali, comunicazione centralizzata, notifiche e-mail e monitoraggio del coinvolgimento del progetto per una collaborazione semplificata.
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '220'
+ht-degree: 20%
 
 ---
 
@@ -27,6 +27,14 @@ In questo video scoprirai:
 * A che cosa serve il team di progetto e come gestirlo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Compilazione automatica team:** Il team di progetto viene popolato automaticamente quando agli utenti vengono assegnate delle attività o vengono designati come proprietari del progetto. &#x200B; Tuttavia, gli utenti non vengono rimossi automaticamente quando le loro assegnazioni vengono rimosse; questa operazione deve essere eseguita manualmente. &#x200B;
+* **Aggiornamenti manuali:** è possibile aggiungere o rimuovere manualmente persone dal team del progetto, anche se non dispongono di assegnazioni, garantendo che l&#39;elenco del team rimanga accurato e aggiornato. &#x200B;
+* **Comunicazione centralizzata:** La scheda Persone consente di inviare aggiornamenti a tutti i membri del team a livello di progetto, rendendolo uno strumento pratico per la comunicazione a livello di team. &#x200B;
+* **Notifiche e-mail:** gli amministratori di sistema possono attivare le notifiche e-mail per il team del progetto, ad esempio gli avvisi per i documenti aggiunti, le attività cardine completate o i problemi, in modo da garantire che i membri del team rimangano informati. &#x200B;
+* **Tracciamento del coinvolgimento del progetto:** Workfront utilizza il team di progetto per identificare i progetti a cui un utente è coinvolto, abilitando funzionalità quali il filtraggio dei progetti in base al coinvolgimento dell&#39;utente per facilitarne la navigazione. &#x200B;
 
 ## Tutorial consigliati su questo argomento
 
