@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 11%
@@ -29,11 +29,11 @@ Il video spiega come tenere traccia dell’avanzamento del progetto utilizzando 
 
 ## Punti chiave da eliminare
 
-**Accesso alle metriche del progetto:** Per tenere traccia dell&#39;avanzamento, vai alla scheda Metriche nel pannello a sinistra del progetto. &#x200B; Potrebbe essere necessario scorrere verso il basso e fare clic su &quot;Mostra altro&quot; per individuarlo. &#x200B;
-**Indicatori prestazioni chiave (KPI):** Nell&#39;area KPI vengono visualizzate le attività completate, incomplete e scadute. &#x200B; Facendo clic sugli indicatori è possibile visualizzare attività specifiche. &#x200B;
-**Grafici attività e problemi:** I grafici raggruppano le attività o i problemi per stato o priorità, mostrando il rapporto tra completati e incompleti. &#x200B; Passando il puntatore del mouse sulle colonne vengono visualizzate le quantità. &#x200B;
-**Metriche per assegnatario:** Visualizza le attività per assegnatario in base al loro stato (completo, incompleto, in arrivo o scaduto). &#x200B; Le preferenze vengono salvate per le visite future. &#x200B;
-**Esportazione delle metriche:** Per esportare la pagina delle metriche come file PNG, fare clic sul pulsante Esporta nell&#39;angolo superiore destro dello schermo. &#x200B;
+* **Accesso alle metriche del progetto:** Per tenere traccia dell&#39;avanzamento, vai alla scheda Metriche nel pannello a sinistra del progetto. &#x200B; Potrebbe essere necessario scorrere verso il basso e fare clic su &quot;Mostra altro&quot; per individuarlo. &#x200B;
+* **Indicatori prestazioni chiave (KPI):** Nell&#39;area KPI vengono visualizzate le attività completate, incomplete e scadute. &#x200B; Facendo clic sugli indicatori è possibile visualizzare attività specifiche. &#x200B;
+* **Grafici attività e problemi:** I grafici raggruppano le attività o i problemi per stato o priorità, mostrando il rapporto tra completati e incompleti. &#x200B; Passando il puntatore del mouse sulle colonne vengono visualizzate le quantità. &#x200B;
+* **Metriche per assegnatario:** Visualizza le attività per assegnatario in base al loro stato (completo, incompleto, in arrivo o scaduto). &#x200B; Le preferenze vengono salvate per le visite future. &#x200B;
+* **Esportazione delle metriche:** Per esportare la pagina delle metriche come file PNG, fare clic sul pulsante Esporta nell&#39;angolo superiore destro dello schermo. &#x200B;
 
 
 

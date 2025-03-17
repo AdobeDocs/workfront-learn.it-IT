@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 12%
@@ -46,11 +46,11 @@ Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafi
 
 ## Punti chiave da eliminare
 
-**Panoramica generale:** i diagrammi di Gantt forniscono una panoramica completa di attività, progetti e portfolio, semplificando la comprensione delle relazioni e della condivisione delle risorse tra i progetti. &#x200B;
-**Tracciamento avanzamento:** gli indicatori di stato avanzamento (verde, giallo, rosso e azzurro) consentono di monitorare le timeline dei progetti e delle attività, evidenziando gli stati puntuale, a rischio, in ritardo o in ritardo. &#x200B;
-**Gestione milestone:** i rombi e le linee delle milestone contrassegnano visivamente le date di completamento chiave, facilitando il tracciamento dell&#39;avanzamento delle milestone all&#39;interno dei progetti. &#x200B;
-**Informazioni sul predecessore:** Puoi controllare facilmente i predecessori di più progetti e attività specifiche, garantendo che le dipendenze siano chiare e gestibili. &#x200B;
-**Opzioni di personalizzazione:** gli utenti possono visualizzare date effettive, date previste, previsioni, assegnazioni e altro ancora, adattando la visualizzazione del diagramma di Gantt alle loro esigenze specifiche.
+* **Panoramica generale:** i diagrammi di Gantt forniscono una panoramica completa di attività, progetti e portfolio, semplificando la comprensione delle relazioni e della condivisione delle risorse tra i progetti. &#x200B;
+* **Tracciamento avanzamento:** gli indicatori di stato avanzamento (verde, giallo, rosso e azzurro) consentono di monitorare le timeline dei progetti e delle attività, evidenziando gli stati puntuale, a rischio, in ritardo o in ritardo. &#x200B;
+* **Gestione milestone:** i rombi e le linee delle milestone contrassegnano visivamente le date di completamento chiave, facilitando il tracciamento dell&#39;avanzamento delle milestone all&#39;interno dei progetti. &#x200B;
+* **Informazioni sul predecessore:** Puoi controllare facilmente i predecessori di più progetti e attività specifiche, garantendo che le dipendenze siano chiare e gestibili. &#x200B;
+* **Opzioni di personalizzazione:** gli utenti possono visualizzare date effettive, date previste, previsioni, assegnazioni e altro ancora, adattando la visualizzazione del diagramma di Gantt alle loro esigenze specifiche.
 
 
 ## Tutorial consigliati su questo argomento

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 6%
@@ -59,21 +59,16 @@ Il video sottolinea la flessibilità di Workfront nella creazione di progetti at
 
 ## Punti chiave da eliminare
 
-
-**Modelli per semplificare la creazione del progetto:**
-L’utilizzo di un modello è vivamente consigliato, in quanto può preimpostare dettagli chiave come attività, moduli e opzioni di condivisione, risparmiando tempo e fatica. &#x200B;
-
-**Modelli preferiti per accesso rapido:**
-I modelli preferiti consentono agli utenti di ignorare il processo di selezione e creare direttamente un progetto, semplificando il flusso di lavoro. &#x200B;
-
-**Creazione di progetti da zero Offre flessibilità:**
-Anche se più manuale, la creazione di un progetto da zero consente la personalizzazione di tutti i dettagli, ideale per progetti semplici o privati. &#x200B;
-
-**La copia dei progetti consente di risparmiare tempo:**
-Quando si copia un progetto esistente, ne vengono replicate la struttura e le impostazioni e vengono visualizzate le opzioni per modificare o escludere elementi specifici. &#x200B;
-
-**Importazione dei file di MS Project per la transizione:**
-Workfront supporta l’importazione di file di MS Project (salvati come XML), consentendo agli utenti di effettuare la transizione a progetti in corso, anche se alcuni dati (ad esempio, commenti, milestone) non verranno trasferiti. &#x200B;
+* **Modelli per semplificare la creazione del progetto:**
+* L’utilizzo di un modello è vivamente consigliato, in quanto può preimpostare dettagli chiave come attività, moduli e opzioni di condivisione, risparmiando tempo e fatica. &#x200B;
+* **Modelli preferiti per accesso rapido:**
+* I modelli preferiti consentono agli utenti di ignorare il processo di selezione e creare direttamente un progetto, semplificando il flusso di lavoro. &#x200B;
+* **Creazione di progetti da zero Offre flessibilità:**
+* Anche se più manuale, la creazione di un progetto da zero consente la personalizzazione di tutti i dettagli, ideale per progetti semplici o privati. &#x200B;
+* **La copia dei progetti consente di risparmiare tempo:**
+* Quando si copia un progetto esistente, ne vengono replicate la struttura e le impostazioni e vengono visualizzate le opzioni per modificare o escludere elementi specifici. &#x200B;
+* **Importazione dei file di MS Project per la transizione:**
+* Workfront supporta l’importazione di file di MS Project (salvati come XML), consentendo agli utenti di effettuare la transizione a progetti in corso, anche se alcuni dati (ad esempio, commenti, milestone) non verranno trasferiti. &#x200B;
 
 
 

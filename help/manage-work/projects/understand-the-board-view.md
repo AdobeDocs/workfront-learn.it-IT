@@ -12,7 +12,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 10%
@@ -27,11 +27,11 @@ Il video illustra la funzione di visualizzazione bacheca in Workfront, che offre
 
 ## Punti chiave da eliminare
 
-**Panoramica della visualizzazione bacheca:** La visualizzazione bacheca in Workfront offre un&#39;interfaccia in stile Kanban per visualizzare e gestire le attività di progetto, fornendo un&#39;alternativa alla visualizzazione elenco delle attività tradizionale. &#x200B;
-**Gestione attività:** le attività possono essere ordinate, raggruppate e spostate all&#39;interno o tra le colonne, con aggiornamenti di stato applicati automaticamente quando le attività vengono spostate. &#x200B;
-**Creazione attività:** È possibile creare nuove schede direttamente nella visualizzazione Bacheca, che genera nuove attività nel progetto. &#x200B; Queste attività possono essere modificate e assegnate immediatamente. &#x200B;
-**Personalizzazione:** le colonne e le schede nella visualizzazione Bacheca possono essere configurate in base alle esigenze del progetto, migliorando la flessibilità nell&#39;organizzazione delle attività. &#x200B;
-**Integrazione con l&#39;elenco attività:** le modifiche apportate nella visualizzazione Bacheca, ad esempio gli aggiornamenti dello stato dell&#39;attività o la creazione di nuove attività, vengono applicate alla visualizzazione elenco attività, garantendo un&#39;integrazione perfetta tra le visualizzazioni. &#x200B;
+* **Panoramica della visualizzazione bacheca:** La visualizzazione bacheca in Workfront offre un&#39;interfaccia in stile Kanban per visualizzare e gestire le attività di progetto, fornendo un&#39;alternativa alla visualizzazione elenco delle attività tradizionale. &#x200B;
+* **Gestione attività:** le attività possono essere ordinate, raggruppate e spostate all&#39;interno o tra le colonne, con aggiornamenti di stato applicati automaticamente quando le attività vengono spostate. &#x200B;
+* **Creazione attività:** È possibile creare nuove schede direttamente nella visualizzazione Bacheca, che genera nuove attività nel progetto. &#x200B; Queste attività possono essere modificate e assegnate immediatamente. &#x200B;
+* **Personalizzazione:** le colonne e le schede nella visualizzazione Bacheca possono essere configurate in base alle esigenze del progetto, migliorando la flessibilità nell&#39;organizzazione delle attività. &#x200B;
+* **Integrazione con l&#39;elenco attività:** le modifiche apportate nella visualizzazione Bacheca, ad esempio gli aggiornamenti dello stato dell&#39;attività o la creazione di nuove attività, vengono applicate alla visualizzazione elenco attività, garantendo un&#39;integrazione perfetta tra le visualizzazioni. &#x200B;
 
 
 ## Tutorial consigliati su questo argomento

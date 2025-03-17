@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 12%
+source-wordcount: '273'
+ht-degree: 14%
 
 ---
 
 # Introduzione alla pianificazione di un progetto
 
-* Il video fornisce indicazioni su come pianificare efficacemente un progetto in Workfront. &#x200B; Sottolinea l&#39;importanza di gettare solide basi per garantire che il progetto termini in tempo e abbia successo. &#x200B; I passaggi chiave includono la comprensione di cinque campi critici: attività, assegnazioni, durate, ore pianificate e predecessori. &#x200B; Questi campi consentono di apportare modifiche rapide e precise al piano di progetto. &#x200B;
-* Prima di apportare modifiche, assicurati che lo stato del progetto sia impostato su &quot;Pianificazione&quot; per evitare inutili notifiche al team. &#x200B; Utilizzare la visualizzazione standard o le visualizzazioni personalizzate per concentrarsi su informazioni essenziali. &#x200B; Impostare accuratamente la data di inizio del progetto, per garantirne la realistica e l&#39;allineamento con la disponibilità del team.
-* Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità del team e pianificazione accurata per creare solide basi per il successo del progetto. &#x200B;
+Il video fornisce indicazioni su come pianificare efficacemente un progetto in Workfront. &#x200B; Sottolinea l&#39;importanza di gettare solide basi per garantire che il progetto termini in tempo e abbia successo. &#x200B; I passaggi chiave includono la comprensione di cinque campi critici: attività, assegnazioni, durate, ore pianificate e predecessori. &#x200B; Questi campi consentono di apportare modifiche rapide e precise al piano di progetto. &#x200B;
+
+Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità del team e pianificazione accurata per creare solide basi per il successo del progetto. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 

@@ -1,6 +1,6 @@
 ---
 title: Creare dashboard
-description: Il video ha lo scopo di aiutare gli utenti a creare, personalizzare e gestire in modo efficace le dashboard in Workfront per monitorare e condividere i dati relativi al progetto.
+description: Organizza e visualizza i dati del progetto con le dashboard di Workfront, che possono essere personalizzate, facilmente accessibili, condivise e stampate per una gestione e una collaborazione fluide.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,29 +11,27 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '635'
 ht-degree: 33%
 
 ---
 
 # Creare dashboard
 
-Il video illustra i seguenti punti chiave:
-
-* **Introduzione alle dashboard:** illustra cosa è una dashboard in Workfront e il suo scopo come raccolta di report correlati. &#x200B;
-* **Creazione di un dashboard:** Viene illustrato come creare un nuovo dashboard passando all&#39;area Dashboard, selezionando &quot;Nuovo dashboard&quot;, assegnandogli un nome e scegliendo un layout. &#x200B;
-* **Aggiunta di report:** Viene illustrato come aggiungere vari report al dashboard, ad esempio report di progetto, report di attività e report di problemi, e come disporli all&#39;interno del layout scelto. &#x200B;
-* **Personalizzazione delle visualizzazioni:** mostra come personalizzare le colonne da visualizzare nella visualizzazione dashboard modificando il report e selezionando le colonne specifiche da visualizzare. &#x200B;
-* **Aggiunta di elementi aggiuntivi:** Viene illustrato come aggiungere un calendario personalizzato e una pagina esterna (ad esempio, un documento in linea) alla dashboard. &#x200B;
-* **Salvataggio e blocco:** indica di salvare il dashboard e di fissarlo per accedervi facilmente. &#x200B;
-* **Visualizzazione e modifica:** fornisce suggerimenti sulla visualizzazione e la modifica del dashboard, inclusa la regolazione della visibilità delle colonne per una visualizzazione migliore. &#x200B;
-* **Ricerca e condivisione di dashboard:** Viene descritto come trovare dashboard tramite il menu principale, aggiungerli ai preferiti e condividerli con altri utenti. &#x200B;
-* **Stampa di dashboard:** Viene illustrato il processo di stampa di un dashboard. &#x200B;
-
+Il video fornisce una guida completa per comprendere e utilizzare le dashboard in Workfront.
+&#x200B;Spiega che una dashboard è una raccolta di rapporti che consente agli utenti di organizzare e visualizzare i dati correlati in un’unica posizione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Punti chiave da eliminare
+
+**Dashboard in Workfront:** Un dashboard è una raccolta di report che consente agli utenti di organizzare e visualizzare i dati correlati, ad esempio progetti, attività e problemi, in un&#39;unica vista centralizzata. &#x200B;
+**Creazione di dashboard:** è possibile personalizzare i dashboard selezionando un layout, aggiungendo report, calendari personalizzati o pagine esterne e disponendoli in modo da ottenere una visualizzazione ottimale. &#x200B; Gli utenti possono inoltre personalizzare le colonne da visualizzare nei rapporti affiancati all’interno del dashboard. &#x200B;
+**Accesso alle dashboard:** le dashboard si trovano in &quot;Dashboard personali&quot;, &quot;Dashboard condivise&quot; o &quot;Tutte le dashboard&quot; nell&#39;area delle dashboard. &#x200B; Le dashboard utilizzate di frequente possono essere bloccate o aggiunte ai preferiti per un accesso rapido. &#x200B;
+**Condivisione di dashboard:** le dashboard possono essere condivise con altri utenti di Workfront, inclusi tutti i report nel dashboard, tramite il menu &quot;Azioni dashboard&quot;. &#x200B;
+**Stampa dashboard:** è possibile stampare dashboard direttamente dal menu &quot;Azioni dashboard&quot;, semplificando la condivisione di copie fisiche dei dati. &#x200B;
 
 
 ## Attività &quot;Crea dashboard&quot;
