@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
 workflow-type: tm+mt
-source-wordcount: '2410'
+source-wordcount: '2418'
 ht-degree: 98%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 98%
       + [Creare e gestire la gravità dei problemi](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Personalizzare i tipi di problemi e la terminologia](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurare le preferenze globali dei problemi predefiniti](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-      + [Creare e gestire regole aziendali](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [Creare e gestire le regole di business](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + Modelli di layout {#layout-templates}
       + [Cosa sono i modelli di layout?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -335,6 +335,7 @@ ht-degree: 98%
    + [Crea un’area di lavoro](/help/workfront-planning/create-a-workspace.md)
    + [Creare e gestire un tipo di record](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Creare e gestire le viste tabella](/help/workfront-planning/create-and-manage-table-views.md)
+   + [Vantaggi dei team di progettazione Workfront Planning for UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrazioni {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
