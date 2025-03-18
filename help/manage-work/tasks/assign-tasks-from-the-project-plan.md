@@ -1,6 +1,6 @@
 ---
 title: Assegnare attività dal piano di progetto
-description: Scopri come assegnare attività in un progetto Adobe Workfront utilizzando modifica in linea, modifica in blocco, mansioni e team.
+description: Semplifica le assegnazioni delle attività in Workfront con modifiche in linea, modifiche in blocco, ruoli per la gestione delle risorse, assegnazioni del team per la collaborazione e calcoli della capacità delle risorse per una pianificazione efficiente del progetto.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -13,33 +13,28 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 13%
 
 ---
 
 # Assegnare attività dal piano di progetto
 
-In questo video:
+Il video illustra vari metodi per assegnare le attività in un piano di progetto. Viene sottolineato l’utilizzo di strumenti come filtri, modelli e funzioni di gestione delle risorse per semplificare le assegnazioni delle attività e ottimizzare i flussi di lavoro dei progetti.
 
-* Scopri come assegnare un’attività utilizzando la modifica in linea
-* Scopri come assegnare più attività alla stessa persona
-* Comprendere il valore dei ruoli durante l’assegnazione delle attività
-* Comprendere il valore dei modelli di progetto durante l’assegnazione delle attività
-* Comprendere il valore dell’assegnazione delle attività ai team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
-<!---
-learn more urls:
-Notifications: Information about work assigned to me
-Assign tasks
-Personal time overview
-Make smart assignments
-Modify multiple user assignments in a task list
---->
+## Punti chiave da eliminare
+
+* **Modifica in linea per assegnazioni rapide:** Assegna facilmente le attività digitando un nome e selezionando da un elenco, con funzionalità di completamento automatico per una selezione più rapida. &#x200B;
+* **Modifica in blocco per maggiore efficienza:** Assegnare più attività alla stessa persona selezionando le attività, utilizzando la modifica in blocco e scegliendo il nome dall&#39;elenco. &#x200B;
+* **Ruoli per assegnazioni semplificate:** Utilizzare i ruoli per facilitare le assegnazioni delle attività, in particolare con i modelli di progetto. &#x200B; I ruoli vengono registrati separatamente per la gestione delle risorse e la pianificazione delle capacità. &#x200B;
+* **Assegnazioni team per Collaboration:** Assegna attività ai team selezionando il nome del team, visibile con l&#39;icona di un team. &#x200B; I membri del team possono assegnare autonomamente le attività o i lead del team possono riassegnarle, mantenendo il nome del team per la generazione dei rapporti. &#x200B;
+* **Integrazione gestione risorse:** Le mansioni e le assegnazioni del team supportano i calcoli della capacità e della disponibilità delle risorse, migliorando la pianificazione e l&#39;esecuzione del progetto. &#x200B;
+
 
 ## Tutorial consigliati su questo argomento
 
