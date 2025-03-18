@@ -1,6 +1,6 @@
 ---
 title: Convertire un problema/richiesta in un’attività
-description: Scopri come convertire un problema o una richiesta in un’attività.
+description: Converti facilmente i problemi in attività in Workfront con nomi modificabili, allegati di moduli personalizzati, selezione flessibile dei progetti, opzioni di conversione e aggiornamenti dello stato sincronizzati per flussi di lavoro semplificati.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -11,18 +11,30 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '245'
+ht-degree: 22%
 
 ---
 
 # Convertire un problema/richiesta in un’attività
 
-Questo video illustra come convertire un problema o una richiesta in un’attività.
+Il video illustra come convertire un problema o una richiesta in un’attività.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Processo di conversione semplice:** Per convertire un problema o una richiesta in un&#39;attività, aprire il problema, fare clic sul menu a tre punti e selezionare &quot;Converti in attività&quot; &#x200B; Il nome e la descrizione dell’attività vengono copiati per impostazione predefinita, ma possono essere modificati. &#x200B;
+* **Selezione progetto di destinazione:** È possibile scegliere il progetto di destinazione dell&#39;attività, il progetto predefinito in cui risiede il problema o un altro progetto a cui si ha accesso. &#x200B;
+* **Allegato automatico modulo:** i moduli personalizzati collegati al problema vengono aggiunti automaticamente all&#39;attività, garantendo che tutti i valori dei campi vengano trasferiti senza problemi. &#x200B;
+* **Opzioni di conversione:** Le opzioni chiave includono:
+   * Mantenere attivo il problema originale insieme all&#39;attività. &#x200B;
+   * Consentire al richiedente l&#39;accesso all&#39;attività. &#x200B;
+   * Mantenimento della data di completamento pianificata del problema per l&#39;attività. &#x200B;
+* **Aggiornamenti dello stato collegati:** se il problema originale viene mantenuto, lo stato verrà aggiornato automaticamente in base all&#39;avanzamento dell&#39;attività, garantendo la sincronizzazione tra il problema e l&#39;attività. &#x200B;
+
 
 >[!NOTE]
 >

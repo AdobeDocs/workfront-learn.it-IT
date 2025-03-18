@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 9%
+source-wordcount: '227'
+ht-degree: 14%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 9%
 
 Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; Esso copre quattro settori principali:
 
-* **Home di Workfront:** gli utenti come Mary Smith, un&#39;artista di produzione, possono visualizzare le richieste loro assegnate. &#x200B; Joan Harris, che spesso effettua richieste, può trovare le richieste completate in attesa della sua approvazione. &#x200B;
-* **Area richieste:** gli utenti possono filtrare le richieste per visualizzare quelle create.&#x200B; Il termine &quot;my&quot; nell’area della richiesta si riferisce ai problemi creati da me, l’utente connesso. &#x200B;
-* **Pagina Team:** Gli utenti possono visualizzare le richieste di team non assegnate e assegnarle a se stessi o ad altri. &#x200B; Possono inoltre utilizzare il bilanciatore dei carichi di lavoro per gestire le assegnazioni dei team in base ai carichi di lavoro correnti. &#x200B;
-* **Report e dashboard personalizzati:** gli utenti possono creare report personalizzati per tenere traccia delle richieste, con controllo su nomi, filtri, visualizzazioni e raggruppamenti. &#x200B; Questo consente di tracciare chiaramente le richieste per priorità, creatore, contatto principale, assegnatario e stato. &#x200B;
+* Workfront Home
+* Area richiesta
+* Pagina Team&#x200B;
+* Rapporti e dashboard personalizzati
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
