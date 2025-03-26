@@ -1,6 +1,6 @@
 ---
 title: Creare una coda di richieste
-description: Scopri come impostare una coda di richieste e stabilire i dettagli della coda. Segui questi passaggi per aiutare la tua organizzazione a gestire l’acquisizione del lavoro.
+description: Crea code di richieste Workfront efficienti definendo le autorizzazioni di accesso, personalizzando i tipi e i campi di richiesta, attivando la coda e testandone le funzionalità per una gestione fluida dell’invio dei progetti.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -13,22 +13,26 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '244'
+ht-degree: 10%
 
 ---
 
 # Creare una coda di richieste
 
-In questo video scoprirai come:
-
-* Creare una coda di richieste creando prima un progetto
-* Configurare i dettagli della coda richieste
-* Attivare la coda
+Il video fornisce una guida dettagliata sulla creazione di una coda di richieste all’interno di Workfont. &#x200B; Il video si conclude mostrando come inviare una richiesta utilizzando la coda appena creata, mostrando il processo di immissione dei dettagli e di verifica dell’invio nella scheda &quot;richieste inviate&quot;. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Creazione di una coda di richieste:** Iniziare creando un nuovo progetto e assegnandogli un nome, che in seguito fungerà da coda di richieste. &#x200B; Accertati di selezionare la casella &quot;Pubblica come coda di richieste di aiuto&quot; per designarla ufficialmente come coda. &#x200B;
+* **Autorizzazioni di accesso:** Definisci chi può inviare richieste alla coda scegliendo tra quattro opzioni: chiunque, visualizzatori di progetti, membri della società o membri del gruppo. &#x200B;
+* **Tipi di richiesta:** Personalizzare la coda per includere tipi specifici di richieste, ad esempio problemi, report di bug, ordini di modifica o richieste generali. &#x200B; L&#39;opzione predefinita è &quot;issues&quot; (problemi) &#x200B;.
+* **Campi personalizzabili:** Imposta ulteriori dettagli quali il tempo di risposta predefinito, le autorizzazioni e altre caratteristiche della coda per personalizzarne le funzionalità. &#x200B;
+* **Attivazione coda:** Salvare le impostazioni e impostare lo stato del progetto su &quot;corrente&quot; per attivare la coda. &#x200B; Verifica la funzionalità inviando una richiesta e verificandola nella scheda &quot;Richieste inviate&quot;.
 
 ## Tutorial consigliati su questo argomento
 

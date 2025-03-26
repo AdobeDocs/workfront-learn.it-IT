@@ -1,6 +1,6 @@
 ---
 title: Creare un processo di approvazione globale e monouso
-description: Scopri come creare un processo di approvazione globale e a utente singolo per un progetto, un’attività o un problema.
+description: Migliora i flussi di lavoro di approvazione sfruttando i processi di approvazione globali e monouso per attività, progetti o problemi, implementando approvazioni in più livelli e promuovendo l’efficienza tramite la riutilizzabilità nei modelli di progetto.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 96%
+source-wordcount: '294'
+ht-degree: 25%
 
 ---
 
 # Creare un processo di approvazione globale e monouso
 
-I processi di approvazione su progetti, attività e problemi consentono a un project manager di ottenere la conferma da parte di esperti che il lavoro è stato svolto prima di procedere. Il project manager può creare un processo di approvazione per ogni situazione (noto come processo di approvazione monouso) o scegliere da un elenco di molti processi di approvazione creati in precedenza per soddisfare esigenze comuni (noti come processi di approvazione globali o esistenti).
-
-In entrambi i casi, quando lo stato dell’oggetto cambia in quello specificato nel processo di approvazione, l’approvatore viene informato in vari modi per rivedere il lavoro e approvarlo o rifiutarlo. Dato che l’intero progetto può essere messo in pausa in attesa dell’approvazione, gli approvatori dovrebbero essere consapevoli in anticipo che potrebbero essere chiamati per un’approvazione. Se un approvatore è assente dall’incarico per qualsiasi motivo, può delegare le proprie approvazioni a un sostituto qualificato. Per maggiori informazioni, consulta [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md).
-
-Questo video illustra come creare un processo di approvazione globale e un processo di approvazione monouso per un progetto, un’attività o un problema.
+Il video spiega come creare e gestire i processi di approvazione per progetti, attività o problemi, distinguendo tra processi di approvazione globali e monouso.
+Il video illustra come creare processi di approvazione, impostare approvatori, configurare stati e utilizzare fasi per approvazioni a più livelli.
+&#x200B;Evidenzia la flessibilità dei processi globali e monouso per gestire in modo efficace le approvazioni delle attività.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## Punti chiave da eliminare
+
+* **Tipi di processi di approvazione:** Esistono due tipi: i processi di approvazione globali (condivisi tra attività, progetti o problemi) e i processi di approvazione monouso (specifici di una singola attività, progetto o problema).
+* **Processi di approvazione globali:** creati nella sezione Configurazione > Processi > Approvazioni e attivabili da stati specifici. &#x200B; Possono coinvolgere più approvatori o approvazioni pronte.
+* **Processo di approvazione per singolo utilizzo:** Questi sono specifici dell&#39;oggetto e non possono essere condivisi. &#x200B; Possono essere create da zero o modificando un processo di approvazione globale e convertendolo.
+* **Approvazioni a più livelli:** i processi di approvazione possono includere più approvatori contemporaneamente o in fasi, garantendo le approvazioni sequenziali prima di inviare una notifica all&#39;approvatore successivo.
+* **Riutilizzabilità:** i processi di approvazione a utente singolo possono essere copiati con attività, progetti o problemi oppure inclusi nei modelli di progetto, consentendo una replica semplice tra progetti diversi.
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ Questo video illustra come creare un processo di approvazione globale e un proce
 >
 >Puoi impostare un’approvazione per singolo utilizzo su progetti e problemi nello stesso modo descritto per le attività nel video.
 
-## Applicare le approvazioni automatiche dei problemi in una coda di richieste
-
-Se desideri impostare approvazioni automatiche dei problemi in una coda richieste, queste possono essere eseguite solo utilizzando un processo di approvazione dei problemi globale e applicate in un [!UICONTROL argomento coda].
-
-Durante la creazione o la modifica di un [!UICONTROL argomento coda], seleziona il processo di approvazione globale nel campo **[!UICONTROL Approvazione predefinita]**.
-
-![Immagine che mostra come selezionare un processo di approvazione predefinito in un argomento coda](assets/automatic-issue-approval-1.png)
-
-Potrebbe essere necessario modificare il processo di approvazione del problema per assicurarsi che lo **[!UICONTROL stato Precedente]** non sia quello impostato per il rifiuto dell’approvazione. Questo perché lo stato precedente è **[!UICONTROL Nuovo]** e questo è anche lo stato che attiva il processo di approvazione, quindi è lo stato in cui verrà impostato quando approvato. Per evitare confusione quando l’approvazione del problema viene rifiutata, è meglio impostare lo stato su qualcosa come **[!UICONTROL Impossibile risolvere]** o uno stato personalizzato creato a questo scopo.
-
-![Immagine che mostra la modifica dello stato da utilizzare quando il problema viene rifiutato](assets/automatic-issue-approval-2.png)
 
 
 ## Tutorial consigliati su questo argomento
@@ -56,4 +52,5 @@ Potrebbe essere necessario modificare il processo di approvazione del problema p
 * [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Applicare un processo di approvazione del problema in una coda di richieste](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
