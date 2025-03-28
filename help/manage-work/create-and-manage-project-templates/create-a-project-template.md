@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 54%
@@ -35,11 +35,11 @@ Impara a creare un modello di progetto da zero e da un progetto esistente e capi
 
 ## Punti chiave da eliminare
 
-**Creazione di un modello:** scopri come creare un nuovo modello da zero assegnandogli un nome, impostando attività, timeline ed assegnando assegnazioni a ruoli. &#x200B;
-**Organizzazione attività:** Utilizza le relazioni tra attività padre e figlio per organizzare le attività in modo efficiente, fornendo un riepilogo e una struttura chiari per il progetto. &#x200B;
-**Impostazione sequenza temporale:** Imposta le sequenze temporali delle attività utilizzando le durate e i predecessori per stimare con precisione l&#39;intervallo di tempo e la sequenza delle attività. &#x200B;
-**Assegnazioni basate sul ruolo:** Assegnare attività alle mansioni anziché ai singoli utenti per utilizzare in modo efficace le funzionalità di pianificazione e pianificazione delle risorse. &#x200B;
-**Gestione modelli:** Salva i progetti esistenti come nuovi modelli per incorporare miglioramenti e gestire i modelli per evitare confusione e garantire un&#39;esecuzione efficiente del progetto. &#x200B;
+* **Creazione di un modello:** scopri come creare un nuovo modello da zero assegnandogli un nome, impostando attività, timeline ed assegnando assegnazioni a ruoli. &#x200B;
+* **Organizzazione attività:** Utilizza le relazioni tra attività padre e figlio per organizzare le attività in modo efficiente, fornendo un riepilogo e una struttura chiari per il progetto. &#x200B;
+* **Impostazione sequenza temporale:** Imposta le sequenze temporali delle attività utilizzando le durate e i predecessori per stimare con precisione l&#39;intervallo di tempo e la sequenza delle attività. &#x200B;
+* **Assegnazioni basate sul ruolo:** Assegnare attività alle mansioni anziché ai singoli utenti per utilizzare in modo efficace le funzionalità di pianificazione e pianificazione delle risorse. &#x200B;
+* **Gestione modelli:** Salva i progetti esistenti come nuovi modelli per incorporare miglioramenti e gestire i modelli per evitare confusione e garantire un&#39;esecuzione efficiente del progetto. &#x200B;
 
 
 ## Modelli creati con [!UICONTROL Blueprint]

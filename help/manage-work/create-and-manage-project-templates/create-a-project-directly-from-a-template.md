@@ -1,6 +1,6 @@
 ---
 title: Creare un progetto direttamente da un modello
-description: Scopri come creare un progetto iniziando con un modello già generato.
+description: Crea i progetti direttamente dai modelli garantendo i diritti di accesso, utilizzando il menu a tre punti per selezionare "Crea progetto", modificando i dettagli del progetto in base alle esigenze e finalizzando il processo per un’alternativa di configurazione efficiente.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 93%
+source-wordcount: '228'
+ht-degree: 20%
 
 ---
 
 # Creare un progetto direttamente da un modello
 
-Se lavori su un modello e devi creare un progetto utilizzandolo, fai clic sul menu a 3 punti accanto al nome del modello. Quindi seleziona Crea progetto.
+Il video spiega come creare un progetto da un modello. &#x200B; Se si dispone dei diritti per aprire un modello, è possibile utilizzarlo come collegamento per creare un progetto. &#x200B; A questo scopo, apri il modello, accedi al menu a tre punti e seleziona &quot;Crea progetto&quot; &#x200B;. Viene visualizzata una schermata in cui puoi modificare i dettagli del progetto. &#x200B; Una volta pronto, fai clic su &quot;Crea progetto&quot; per finalizzare. &#x200B;
 
-![Opzione Crea progetto nel menu](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-La finestra dei dettagli consente di apportare modifiche alle impostazioni del nuovo progetto.
+## Punti chiave da eliminare
 
-![Pagina di creazione del progetto](assets/direct-template-02.png)
+**Accesso al modello:** Sono necessari i diritti per aprire un modello per creare un progetto da esso. &#x200B;
+**Opzione collegamento:** L&#39;utilizzo di un modello può essere una scelta rapida utile rispetto all&#39;avvio di un progetto da zero. &#x200B;
+**Menu a tre punti:** Aprire il modello e selezionare &quot;Crea progetto&quot; dal menu a tre punti. &#x200B;
+**Modifica dettagli progetto:** Dopo aver selezionato &quot;Crea progetto&quot;, puoi modificare i dettagli del progetto prima di finalizzarlo. &#x200B;
+**Finalizza creazione:** Fai clic su &quot;Crea progetto&quot; quando sei pronto per completare il processo. &#x200B;
 
->[!NOTE]
->
->Per creare un progetto utilizzando questo metodo, è necessario accedere all’area Modelli di Workfront. Se non riesci ad accedere ai modelli, puoi comunque utilizzare un modello per creare un progetto dall’area Progetti o durante la conversione di un problema/attività.
-
->[!TIP]
->
->Se esiste un modello che usi frequentemente, aggiungilo ai preferiti! Il modello viene visualizzato nel menu Nuovo progetto, oltre a essere visualizzato nel menu Preferiti nella barra di navigazione.
-
-
-![Nuovi modelli preferiti per i progetti](assets/direct-template-03.png)
 
 ## Tutorial consigliati su questo argomento
 
