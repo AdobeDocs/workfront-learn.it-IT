@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: '453'
+ht-degree: 92%
 
 ---
 
@@ -30,12 +30,13 @@ Soluzione: fai in modo che una sola persona carichi tutti i PDF e li combini in 
 Per combinare le bozze:
 
 1. Apri la sezione [!UICONTROL Documenti] del progetto, dell’attività o del problema a cui allegare la bozza.
-2. Trascina i file nell’area di caricamento oppure sfoglia per trovarli e caricarli. In [!DNL Workfront] è possibile combinare un massimo di 50 file.
-3. Attiva l’opzione [!UICONTROL Combina tutti i file compatibili in una sola bozza].
-4. Immetti un nome per la bozza combinata. Questo campo è obbligatorio.
-5. Se lo desideri, puoi cambiare l’ordine in cui i file vengono combinati, trascinandoli nell’elenco dei file da caricare.
-6. Aggiungi i destinatari della bozza, imposta una scadenza e così via.
-7. Fai clic su [!UICONTROL Crea bozza] per completare il caricamento.
+1. Fare clic su **Aggiungi nuovo > Bozza**.
+1. Trascina i file nell’area di caricamento oppure sfoglia per trovarli e caricarli. In [!DNL Workfront] è possibile combinare un massimo di 50 file.
+1. In **Bozza singola**, attiva l&#39;opzione Combina tutti i file compatibili in un&#39;unica bozza.
+1. Immetti un nome per la bozza combinata. Questo campo è obbligatorio.
+1. Se lo desideri, puoi cambiare l’ordine in cui i file vengono combinati, trascinandoli nell’elenco dei file da caricare.
+1. Aggiungi i destinatari della bozza, imposta una scadenza e così via.
+1. Fai clic su [!UICONTROL Crea bozza] per completare il caricamento.
 
 ![Immagine della finestra [!UICONTROL Nuova bozza] con l’elenco dei file caricati e le sezioni [!UICONTROL Bozza singola] evidenziate.](assets/combine-proofs.png)
 
@@ -59,7 +60,7 @@ Siamo spiacenti, non è possibile combinare file quando nell’elenco sono prese
 >Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte della tua formazione su Workfront.
 
 
-Trova tre o quattro file (PDF, file di testo, ecc.) sul computer.
+Trovare tre o quattro file (PDF, file di testo, ecc.) sul computer.
 
 1. Apri un progetto, un’attività o un problema utilizzato per esercitarti in Workfront.
 1. Carica i file, combinandoli in un’unica bozza.
