@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 99%
+source-wordcount: '164'
+ht-degree: 75%
 
 ---
 
@@ -28,6 +28,12 @@ In questo video scoprirai:
 * Come attivare e disattivare un modello di progetto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>Se decidi di eliminare un modello, tutti i progetti creati utilizzando tale modello non subiranno modifiche. I modelli eliminati verranno spostati nel Cestino per 30 giorni e potranno essere recuperati solo dall&#39;amministratore di sistema.
+
+
 
 ## Scopri come creare una vista personalizzata per visualizzare e modificare lo stato attivo dei modelli di progetto
 
