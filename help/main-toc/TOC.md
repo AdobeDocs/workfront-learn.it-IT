@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2432'
-ht-degree: 97%
+source-wordcount: '2430'
+ht-degree: 94%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 97%
       + [Creare e gestire le mansioni](/help/administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Accedere come un altro utente](/help/administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
-   + Gestire gli elementi eliminati {#manage-deleted-items}
+   + Gestisci elementi eliminati {#manage-deleted-items}
       + [Ripristinare oggetti dal Cestino](/help/administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
-   + Configurare le impostazioni predefinite del sistema {#configure-system-defaults}
+   + Configurare i valori predefiniti di sistema {#configure-system-defaults}
       + [Creare e gestire gli stati degli oggetti](/help/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Comprendere i tipi di problemi predefiniti](/help/administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Creare uno stato del problema](/help/administration-and-setup/configure-system-defaults/create-an-issue-status.md)
@@ -102,7 +102,7 @@ ht-degree: 97%
       + [Creare un’espressione di testo IF](/help/custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [Aspetti da prendere in considerazione sulle espressioni di campo calcolato](/help/custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
-+ Gestire il lavoro {#manage-work}
++ Gestisci lavoro {#manage-work}
    + Progetti {#projects}
       + [Informazioni sulla creazione di un progetto di base](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Usare la pagina del progetto](/help/manage-work/projects/navigate-the-project-page.md)
@@ -182,9 +182,9 @@ ht-degree: 97%
       + [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Registrare e rivedere gli orari](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-   + Dati finanziari dei progetti per gli utenti {#project-finances-users}
-      + [Aggiornare e rivedere i dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
+   + Finanze del progetto per gli utenti {#project-finances-users}
       + [Trovare informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
+      + [Aggiorna dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
       + [Comprendere più tariffe di fatturazione](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Progetti intermedi {#intermediate-projects}
@@ -212,7 +212,7 @@ ht-degree: 97%
       + [Inviare e condividere i rapporti](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Comprendere le impostazioni dei rapporti](/help/reporting/basic-reporting/report-settings.md)
 
-   + Reporting intermedio {#intermediate-reporting}
+   + Reportistica intermedia {#intermediate-reporting}
       + [Creare filtri con caratteri jolly basati sull’utente](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [Creare filtri con caratteri jolly basati sulla data](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [Creare istruzioni OR nei filtri](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
@@ -230,13 +230,13 @@ ht-degree: 97%
       + [Reporting avanzato - Parte 2](/help/reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Reporting avanzato: parte 3](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
-   + Rapporto calendario {#calendar-reports}
+   + Report calendario {#calendar-reports}
       + [Informazioni sull’interfaccia del Rapporto calendario](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Creare un rapporto del calendario personalizzato](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [Informazioni sulle opzioni aggiuntive per i rapporti calendario](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Creare un proprio rapporto calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Analisi avanzata {#enhanced-analytics}
+   + Funzionalità di analisi avanzate {#enhanced-analytics}
       + [Un momento con il prodotto su [!UICONTROL Analisi avanzate]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Introduzione alle [!UICONTROL Funzionalità di analisi avanzate]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Come accedere alle [!UICONTROL Funzionalità di analisi avanzate]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -266,7 +266,7 @@ ht-degree: 97%
       + [Impostazioni di gestione delle risorse per gli utenti](/help/manage-resources/resource-management/settings-for-users.md)
       + [Impostazioni di Gestione delle risorse, Bilanciatore dei carichi di lavoro e Rapporto sull’utilizzo](/help/manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
-   + Bilanciamento del carico di lavoro {#workload-balancer}
+   + Bilanciatore dei carichi di lavoro {#workload-balancer}
       + [Trova il bilanciamento del carico di lavoro](/help/manage-resources/workload-balancer/find-the-workload-balancer.md)
       + [Filtrare il Bilanciamento del carico di lavoro](/help/manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Visualizzare le allocazioni degli utenti nel Bilanciatore dei carichi di lavoro](/help/manage-resources/workload-balancer/view-user-allocations.md)
@@ -281,7 +281,7 @@ ht-degree: 97%
       + [Visualizzare per mansione](/help/manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [Visualizzare per progetto](/help/manage-resources/resource-planning/view-by-project/view-by-project.md)
 
-   + Calendario delle ferie personali {#personal-time-off-calendar}
+   + Calendario personale indisponibilità {#personal-time-off-calendar}
       + [Perché utilizzare il calendario delle ferie?](/help/manage-resources/pto/why-use-time-off-calendar.md)
       + [In che modo le assenze influiscono sulle timeline del progetto](/help/manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Gestire le ferie di altri utenti](/help/manage-resources/pto/manage-other-users-time-off.md)
@@ -299,7 +299,7 @@ ht-degree: 97%
       + [Pubblicare uno scenario](/help/manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront Goals {#workfront-goals}
-   + Stabilire una visione per la propria organizzazione {#establish-a-vision-and-strategy}
+   + Stabilire una visione per la tua organizzazione {#establish-a-vision-and-strategy}
       + [Comprendere il funzionamento di Workfront Goals](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Comprendere in che modo Workfront Goals si inserisce nel ciclo di lavoro](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Stabilire una visione e una strategia per la propria organizzazione](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
@@ -353,7 +353,7 @@ ht-degree: 97%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’integrazione [!DNL Jira] ](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -396,7 +396,7 @@ ht-degree: 97%
       + [Accedere alla procedura dettagliata per le versioni precedenti](/help/fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
       + [Esercizio sull’accesso alle versioni precedenti](/help/fusion/12-exercises/access-previous-versions.md)
 
-   + Connettori universali e instradamento {#universal-connectors-and-routing}
+   + Connettori universali e indirizzamento {#universal-connectors-and-routing}
       + [Panoramica dell’esercizio sui connettori universali](/help/fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [Introduzione alla procedura dettagliata sui connettori universali](/help/fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
       + [Esercizio sull’introduzione ai connettori universali](/help/fusion/12-exercises/introduction-to-universal-connectors.md)
@@ -573,7 +573,7 @@ ht-degree: 97%
       + [Comprendere le lightbox come utente](/help/workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
       + [Utilizzare le risorse come utente](/help/workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
-+ Home {#home}
++ Pagina Home {#home}
    + [Rimuovere, aggiungere e ridisporre i widget nella Home](/help/workfront-home/remove-add-and-rearrange-widgets.md)
    + [Trovare il proprio lavoro](/help/workfront-home/find-your-work-in-workfront-home.md)
    + [Organizzare l’elenco attività](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
@@ -589,7 +589,7 @@ ht-degree: 97%
 
 + Agile {#agile}
 
-   + Introduzione a Gestione del lavoro Agile {#intro-to-agile}
+   + Introduzione alla gestione del lavoro Agile {#intro-to-agile}
       + [Vantaggi dell’utilizzo della metodologia Agile](/help/agile/benefits-of-using-agile.md)
       + [Che cos’è la metodologia Scrum e come funziona?](/help/agile/what-is-the-scrum-methodology.md)
       + [Che cos’è la metodologia Kanban e come funziona?](/help/agile/what-is-the-kanban-methodology.md)
@@ -616,7 +616,7 @@ ht-degree: 97%
       + [Aggiungi e modifica le impostazioni delle colonne in una bacheca](/help/boards/add-and-edit-column-settings-on-a-board.md)
       + [Aggiungere e gestire i tag per le schede](/help/boards/add-and-manage-tags-for-cards.md)
 
-+ Best Practices {#best-practices}
++ Best Practice {#best-practices}
    + [Agile](/help/best-practices/agile-bp.md)
    + [API Explorer](/help/best-practices/api-explorer-bp.md)
    + [Caso di business e ottimizzatore portfolio](/help/best-practices/business-case-and-portfolio-optimizer-bp.md)
