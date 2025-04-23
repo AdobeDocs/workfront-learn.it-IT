@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
@@ -34,6 +34,6 @@ Alcune opzioni relative alla registrazione del tempo dipendono da come Workfront
 * Potrebbe non essere possibile registrare le ore in giorni futuri.
 * Potrebbe essere necessario selezionare un tipo di ora dal menu a discesa in modo da specificare meglio come hai trascorso il tempo. Il tipo di ora può anche indicare se si tratta di tempo fatturabile o non fatturabile. Accertati di selezionare il tipo di ora prima di inserire l’ora facendo clic sul pulsante [!UICONTROL Registra ore].
 
-<!---
+<!--
 learn more URLs
---->
+-->

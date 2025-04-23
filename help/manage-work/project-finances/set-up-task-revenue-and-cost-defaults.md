@@ -1,6 +1,6 @@
 ---
 title: Impostare i valori predefiniti dei ricavi e dei costi delle attività
-description: Scopri in che modo i tipi di ricavo e di costo vengono utilizzati per calcolare le informazioni finanziarie pianificate ed effettive per un’attività.
+description: Scopri dove vengono utilizzati il tipo di ricavi e i tipi di costo e come impostare i valori predefiniti di sistema.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 15%
 
 ---
 
+
 # Impostare i valori predefiniti dei ricavi e dei costi delle attività
 
-Il tipo di ricavo e il tipo di costo vengono utilizzati per calcolare le informazioni finanziarie pianificate ed effettive per un’attività. Le informazioni predefinite per ciascuno di questi tipi possono essere impostate a livello di sistema in modo che si applichino a ogni nuova attività creata. Le informazioni possono essere modificate in singoli progetti o impostate su modelli di progetto.
+Scopri dove vengono utilizzati il tipo di ricavi e i tipi di costo e come impostare i valori predefiniti di sistema.
 
-**Sono disponibili cinque tipi di ricavi predefiniti:**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* Non Fatturabile
-* Ore Utente
-* Ore Ruolo
-* Ore Fisse
-* Reddito Fisso
+## Punti chiave da eliminare
 
-**Sono inoltre disponibili quattro tipi di costo predefiniti:**
+* **Visualizzazione dei dati su costi e ricavi:** È possibile accedere ai dettagli su costi e ricavi per le attività aprendo l&#39;attività, selezionando i dettagli dell&#39;attività e scorrendo la sezione Finanza. &#x200B;
+* **Impostazione dei valori predefiniti per le attività:** Gli amministratori di sistema possono impostare i tipi di costi e ricavi predefiniti per i project manager selezionando &quot;Configurazione > Preferenze progetto > Attività e problemi&quot; &#x200B;
+* **Impostazione predefinita tipo di retribuzione comune:** &quot;Ore ruolo&quot; è un&#39;impostazione predefinita tipica per il tipo di retribuzione, che consente di registrare il tempo registrato come potenzialmente fatturabile se l&#39;utente dispone di una mansione con un tasso di retribuzione. &#x200B;
+* **Impatto delle impostazioni dei ricavi:** Se il tipo di ricavi è impostato su &quot;Non fatturabile&quot;, non verranno registrati ricavi per l&#39;attività. &#x200B;
+* **Tipo di costo comune predefinito:** il tipo di costo predefinito è spesso &quot;Ore utente&quot;, che richiama i dati sui costi direttamente dal profilo dell&#39;utente per un tracciamento efficiente. &#x200B;
 
-* Nessun Costo
-* Ore Fisse
-* Ore Utente
-* Ore Ruolo
 
->[!NOTE]
->
->Se i tipi di ricavo o di costo sono impostati su Non fatturabile o Nessun costo, le stime dei ricavi e dei costi non vengono generate per l’attività. Pertanto, il lavoro sull’attività non contribuisce ai ricavi o ai costi a livello di progetto.
+## Tutorial consigliati su questo argomento
 
-## Impostare i ricavi e i costi predefiniti
-
-Dal menu principale, seleziona **[!UICONTROL Configurazione]**.
-
-1. Fai clic su **[!UICONTROL Preferenze progetto]** nel menu del pannello a sinistra.
-1. Quindi fai clic su **[!UICONTROL Attività e problemi]**.
-1. Nella sezione [!UICONTROL Nuova attività predefinita], seleziona il [!UICONTROL Tipo di ricavo] e il [!UICONTROL Tipo di costo] desiderati.
-1. Al termine, fai clic su Salva.
-
-![Immagine dell’impostazione di ricavi e costi predefiniti](assets/setting-up-finances-3.png)
+* [Comprendere le metriche delle prestazioni](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)

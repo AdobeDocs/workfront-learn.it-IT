@@ -1,6 +1,6 @@
 ---
 title: Impostare i tassi di cambio
-description: Scopri come utilizzare i tassi di cambio nei progetti e nei rapporti per riflettere le informazioni finanziarie nelle diverse valute di tutto il mondo.
+description: Personalizza le impostazioni della valuta con la gestione flessibile del tasso di cambio, la personalizzazione globale e a livello di progetto e le opzioni di input manuali per un tracciamento finanziario accurato.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 10%
 
 ---
 
 # Impostare i tassi di cambio
 
-[!DNL Workfront] supporta valute diverse per le organizzazioni clienti che sono multinazionali. I tassi di cambio nei progetti e nei rapporti possono essere utilizzati per riflettere le informazioni finanziarie nelle diverse valute di tutto il mondo.
+Il video fornisce una guida sulla gestione delle valute nel sistema di tracciamento finanziario di Workfront. &#x200B; Spiega che la valuta predefinita è il dollaro statunitense, ma è possibile impostare valute aggiuntive a livello globale o per singoli progetti e mansioni.
+Il video sottolinea che il sistema non fornisce i tassi di cambio correnti, quindi gli utenti devono rifornirli esternamente. &#x200B; Una volta impostati, i tassi di cambio diventano il valore predefinito per i progetti o le mansioni, ma non vengono aggiornati automaticamente; gli utenti con le autorizzazioni appropriate devono aggiornarli manualmente. &#x200B; Dopo aver impostato le valute, gli utenti possono creare nuovi progetti e selezionare tra le opzioni di valuta disponibili, con la possibilità di personalizzare i tassi di cambio per i singoli progetti. &#x200B;
 
-I tassi di cambio vengono gestiti dagli amministratori di sistema. Se necessario, è possibile impostare ulteriori valute per l’organizzazione.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-La valuta di base predefinita di Workfront è il dollaro statunitense. Questa è la valuta in cui verranno calcolate le informazioni finanziarie per impostazione predefinita. Questa impostazione predefinita può essere modificata a livello globale e su singoli progetti.
+## Punti chiave da eliminare
 
-## Impostare valute e tassi di cambio
+* **Valuta predefinita:** La valuta predefinita del sistema è il dollaro statunitense, ma può essere modificata a livello globale o per singoli progetti e mansioni. &#x200B;
+* **Aggiunta di valute:** È possibile impostare valute aggiuntive insieme ai relativi tassi di cambio nell&#39;area di impostazione. &#x200B;
+* **Aggiornamenti manuali dei tassi di cambio:** Il sistema non fornisce i tassi di cambio correnti. Gli utenti devono inserirli manualmente e esternamente. &#x200B;
+* **Personalizzazione specifica del progetto:** I tassi di cambio impostati nell&#39;area di configurazione vengono utilizzati come valori predefiniti, ma gli utenti possono personalizzare i tassi di cambio per i singoli progetti. &#x200B;
+* **Aggiornamenti e autorizzazioni:** Le modifiche nell&#39;area di installazione non aggiornano automaticamente i progetti esistenti. L’aggiornamento dei tassi di cambio per i progetti o le mansioni richiede le autorizzazioni utente appropriate.
 
-![Immagine della selezione dei tassi di cambio](assets/setting-up-finances-4.png)
+## Tutorial consigliati su questo argomento
 
-**Seleziona [!UICONTROL Configurazione] dal menu principale.**
-
-1. Espandi **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
-1. Fai clic su **[!UICONTROL Tassi di cambio]**.
-1. Fai clic sul pulsante **[!UICONTROL Aggiungi valuta]**.
-1. Seleziona la valuta del paese dal menu a discesa.
-1. Immetti il tasso di cambio desiderato per la valuta.
-1. Se la valuta di base (predefinita) del sistema di [!DNL Workfront] deve essere una valuta diversa dal dollaro statunitense, fai clic sul pulsante accanto al nome della valuta.
-1. Quando tutte le valute sono state aggiunte, fai clic su **[!UICONTROL Salva]**.
-
-![Immagine dell’aggiunta di una valuta all’elenco dei tassi di cambio](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront non aggiorna né tiene traccia dei valori di mercato correnti per i tassi di cambio. Se necessario, gli aggiornamenti devono essere eseguiti manualmente.
+* [Comprendere le metriche delle prestazioni](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)

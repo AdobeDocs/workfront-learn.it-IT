@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 27%
 
 ---
 
 # Impostare i tipi di spesa
 
-Le spese in [!DNL Workfront] rappresentano i costi non di manodopera associati a progetti e altri lavori. Le spese potrebbero essere, ad esempio, le spese di viaggio durante la visita a un cliente o l’acquisto di forniture necessarie per completare un servizio fotografico. Queste spese devono essere registrate all’interno del progetto, in modo che i costi pianificati e i costi effettivi possano essere calcolati e indicati per qualsiasi progetto.
+Il video spiega come gestire i tipi di spesa in Workfront, concentrandosi sulla creazione, l’utilizzo e l’eliminazione.
 
-[!DNL Workfront] dispone di tipi di spesa predefiniti che possono essere utilizzati quando si inseriscono le spese. Non è possibile eliminare o modificare i valori predefiniti, ma è possibile aggiungerne di nuovi.
 
-* Pubblicità
-* Consulenza
-* Intrattenimento
-* Generale
-* Materiali
-* Stampa
-* Spedizione
-* Viaggi
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-Un amministratore di sistema può aggiungere i tipi di spesa necessari per la propria organizzazione. Questi ulteriori tipi di spesa possono essere modificati, nascosti o eliminati per supportare i rapporti finanziari necessari nell’organizzazione.
+## Punti chiave da eliminare
 
-I project manager, i dirigenti e altri possono generare note spese (raggruppando le singole spese per tipo, se lo si desidera) per attività, progetti, programmi o portfolio all’interno di [!DNL Workfront]. I dati finanziari del progetto diventano molto più gestibili utilizzando i tipi di spesa.
+* **Tipi di spesa predefiniti:** Workfront include tipi di spesa predefiniti che non possono essere eliminati, nascosti o modificati, garantendo la coerenza all&#39;interno del sistema.
+* **Tipi di spesa personalizzati:** gli amministratori di sistema possono creare i propri tipi di spesa, modificabili, eliminabili e a livello di sistema. Questi possono includere unità calcolate, come i tassi di chilometraggio.
+* **Creazione spese:** Durante la creazione di una spesa, gli utenti selezionano un tipo di spesa, i dettagli di input (ad esempio, chilometraggio) e il sistema calcola automaticamente l&#39;importo pianificato in base al tasso impostato.
+* **Eliminazione dei tipi di spesa:** I tipi di spesa personalizzati possono essere eliminati solo dopo averli sostituiti in tutte le istanze in cui vengono utilizzati. È possibile generare un rapporto per identificare queste istanze.
 
-## Creare un tipo di spesa
+## Tutorial consigliati su questo argomento
 
-Dal menu principale **,** seleziona [!UICONTROL Configurazione].
-
-1. Fai clic su **[!UICONTROL Tipi di spesa]** nel menu del pannello sinistro.
-1. Fai clic sul pulsante **[!UICONTROL Nuovo tipo di spesa]**.
-1. Denomina il tipo di spesa.
-1. Se necessario, aggiungi una descrizione.
-1. Fai clic sul pulsante **[!UICONTROL Salva]**.
-
-![Immagine della creazione di un nuovo [!UICONTROL Tipo di spesa]](assets/setting-up-finances-6.png)
-
-## Utilizzo dei tipi di spesa
-
-Le opzioni di spesa vengono visualizzate nel menu a discesa **[!UICONTROL Tipo di spesa]** quando gli utenti creano una spesa per un progetto o un’attività in [!DNL Workfront].
-
-![Immagine dell’aggiunta di una nuova spesa](assets/setting-up-finances-7.png)
+* [Comprendere le metriche delle prestazioni](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)

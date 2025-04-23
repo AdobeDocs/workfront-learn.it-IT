@@ -9,10 +9,10 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '885'
-ht-degree: 100%
+ht-degree: 75%
 
 ---
 
@@ -22,13 +22,13 @@ Diverse impostazioni a livello di sistema stabiliscono valori predefiniti per il
 
 Le best practice suggeriscono di lasciare invariati i valori predefiniti globali e consentire ai project manager di apportare le modifiche necessarie a livello di progetto o nei modelli di progetto.
 
-Le preferenze globali del problema possono essere modificate, ma è consigliabile che tu e il tuo consulente di [!DNL Workfront] valutiate quali impostazioni sono necessarie per i flussi di lavoro, i processi e le esigenze di reporting dell’organizzazione. Il consulente può anche aiutarti a capire cosa succederà se alcune impostazioni vengono modificate.
+È possibile regolare le preferenze relative ai problemi globali, ma si consiglia di discutere con il consulente [!DNL Workfront] le impostazioni necessarie per i flussi di lavoro, i processi e le esigenze di reporting della propria organizzazione. Il consulente può anche aiutarti a capire cosa succederà se alcune impostazioni vengono modificate.
 
 Le preferenze dei problemi consentono agli amministratori di sistema di controllare le opzioni dei problemi convertiti in attività o progetti, come vengono calcolate le date effettive e chi ottiene l’accesso al progetto quando i problemi vengono assegnati. Vediamo dove si trovano queste impostazioni in [!DNL Workfront].
 
 ## Preferenze problema convertito
 
-Queste impostazioni controllano cosa accade a un problema quando viene convertito in un’attività o in un progetto in [!DNL Workfront].
+Queste impostazioni controllano cosa accade a un problema quando viene convertito in un&#39;attività o in un progetto in [!DNL Workfront].
 
 Finestra delle preferenze ![[!UICONTROL Attività e problemi] con evidenziata la sezione [!UICONTROL Problemi]](assets/admin-fund-issue-prefs-converting.png)
 
@@ -39,7 +39,7 @@ Finestra delle preferenze ![[!UICONTROL Attività e problemi] con evidenziata la
 1. Fai clic sulle opzioni desiderate.
 1. Al termine, salva.
 
-Esaminiamo le opzioni disponibili in questa sezione per consentirti di scegliere quelle appropriate per la tua organizzazione.
+Esaminiamo ora le opzioni disponibili in questa sezione per consentirti di scegliere quelle appropriate per la tua organizzazione.
 
 * **[!UICONTROL Aggiorna automaticamente lo stato del problema risolvibile quando lo stato dell’oggetto di risoluzione cambia]**
 
@@ -49,7 +49,7 @@ Esaminiamo le opzioni disponibili in questa sezione per consentirti di scegliere
 
   Se l’opzione è disattivata, lo stato dell’oggetto di risoluzione viene impostato automaticamente sullo stato predefinito, anziché su quello personalizzato.
 
-  Affinché questa impostazione abbia effetto, l’opzione “[!UICONTROL Mantieni il problema originale e collegane la risoluzione all’attività]” deve essere selezionata.
+  Affinché questa impostazione abbia effetto, è necessario selezionare l&#39;opzione &quot;[!UICONTROL Mantieni il problema originale e collegane la risoluzione all&#39;attività]&quot;.
 
 * **[!UICONTROL Mantieni il problema originale e collegane la risoluzione all’attività/progetto]**
 
@@ -65,22 +65,22 @@ Esaminiamo le opzioni disponibili in questa sezione per consentirti di scegliere
 
 * **[!UICONTROL Consenti la modifica delle impostazioni durante la conversione]**
 
-  Quando selezionata, questa opzione indica che le impostazioni predefinite per “[!UICONTROL Mantieni il problema originale]” e “[!UICONTROL Consenti contatto principale]” possono essere modificate dall’utente convertendo il problema. Se desideri che le impostazioni predefinite rimangano invariate, deseleziona questa opzione.
+  Se selezionata, l&#39;utente che converte il problema potrà modificare le impostazioni predefinite per &quot;[!UICONTROL Mantieni problema originale]&quot; e &quot;[!UICONTROL Consenti contatto principale]&quot;. Se desideri che le impostazioni predefinite rimangano invariate, deseleziona questa opzione.
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Issue statuses
 Create and customize system-wide statuses
---->
+-->
 
 ## Preferenze date effettive
 
-Ci sono diverse tipologie di date utilizzate in tutto il processo [!DNL Workfront]. Le date effettive sono una “marca temporale” che [!DNL Workfront] genera quando si verificano determinate modifiche di stato.
+Ci sono diverse tipologie di date utilizzate in tutto il processo [!DNL Workfront]. Le date effettive sono una &quot;marca temporale&quot; generata da [!DNL Workfront] quando si verificano determinate modifiche di stato.
 
 La marca temporale [!UICONTROL Data di inizio effettiva] viene creata quando lo stato del problema cambia da Nuovo a un altro stato. La marca temporale [!UICONTROL Data di completamento effettiva] si verifica quando lo stato del problema cambia in uno stato che indica che è chiuso.
 
-È importante tenere presente che questa preferenza controlla le impostazioni delle date effettive sia per le attività che per i problemi.
+È importante notare che questa preferenza controlla le impostazioni effettive della data sia per le attività che per i problemi.
 
 Finestra delle preferenze di ![[!UICONTROL Attività e problemi] con la sezione [!UICONTROL Date effettive] evidenziata](assets/admin-fund-issue-prefs-actual-dates.png)
 
@@ -93,15 +93,15 @@ Finestra delle preferenze di ![[!UICONTROL Attività e problemi] con la sezione 
 1. Al termine, salva.
 
 
-<!---
+<!--
 learn more URLs
 Definitions for the project, task, and issue dates within Workfront
 Configure system-wide task and issue preferences
---->
+-->
 
 ## Accesso al problema
 
-Le impostazioni di [!UICONTROL Accesso] per i problemi controllano l’accesso concesso a un utente quando gli viene assegnato un problema in Workfront. Queste impostazioni controllano l’accesso al problema stesso, oltre all’accesso al progetto a cui è associato il problema.
+Le impostazioni di [!UICONTROL Accesso] per i problemi controllano l&#39;accesso concesso a un utente quando gli viene assegnato un problema in Workfront. Queste impostazioni controllano l’accesso al problema stesso, oltre all’accesso al progetto a cui è associato il problema.
 
 Prima di modificare queste impostazioni, discuti di qualsiasi flusso di lavoro o processo necessario con i tuoi consulenti di [!DNL Workfront] e il tuo team di governance interno.
 
@@ -110,16 +110,16 @@ Finestra delle preferenze ![[!UICONTROL Attività e problemi] con la sezione [!U
 1. Fai clic su **[!UICONTROL Configurazione]** nel **[!UICONTROL Menu principale]**.
 1. Espandi la sezione **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
 1. Seleziona **[!UICONTROL Attività e problemi]**.
-1. Scorri fino alla sezione **[!UICONTROL Accesso]** e trova l’opzione “[!UICONTROL Quando a un utente viene assegnato un PROBLEMA]”.
+1. Scorri fino alla sezione **[!UICONTROL Access]** e individua l&#39;opzione &quot;[!UICONTROL Quando qualcuno è assegnato a un PROBLEMA]&quot;.
 1. Imposta l’accesso di condivisione per il problema stesso: [!UICONTROL Visualizza],[!UICONTROL  Contribuisci], o [!UICONTROL Gestisci]. [!DNL Workfront] consiglia di lasciare invariate le opzioni avanzate.
 1. Seleziona la casella se anche l’assegnatario del problema deve avere accesso al progetto
-1. Quindi seleziona l’accesso di condivisione per il progetto: [!UICONTROL Visualizza],[!UICONTROL  Contribuisci], o [!UICONTROL Gestisci]. Quando imposti le [!UICONTROL Opzioni avanzate], tieni presenti i flussi di lavoro dell’organizzazione e le esigenze di accesso.
+1. Quindi seleziona l’accesso di condivisione per il progetto: [!UICONTROL Visualizza],[!UICONTROL  Contribuisci], o [!UICONTROL Gestisci]. Quando imposti le [!UICONTROL Opzioni avanzate], tieni presenti i flussi di lavoro della tua organizzazione e le esigenze di accesso.
 1. Al termine, salva.
 
 Finestra ![[!UICONTROL Accesso] che mostra le opzioni [!UICONTROL Contribuisci]](assets/admin-fund-issue-prefs-access-2.png)
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Grant access to issues
---->
+-->

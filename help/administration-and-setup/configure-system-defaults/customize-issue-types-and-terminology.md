@@ -9,10 +9,10 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -48,10 +48,10 @@ Scheda![[!UICONTROL Problemi] della pagina [!UICONTROL Stati] in [!UICONTROL Con
 >
 >Non è possibile creare più tipi di problemi o eliminarne uno.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## Modificare il termine “problema” in Workfront
 
@@ -60,13 +60,13 @@ Gli amministratori di Workfront possono utilizzare la funzionalità del modello 
 
 Finestra![[!UICONTROL Terminologia] con [!UICONTROL Problema] evidenziato](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 Scopri come gli amministratori di sistema e di gruppo possono creare modelli di layout nel percorso di apprendimento, Nozioni di base per gli amministratori nella nuova esperienza di [!DNL Workfront]: Parte 3 Esperienza di controllo e interfaccia.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

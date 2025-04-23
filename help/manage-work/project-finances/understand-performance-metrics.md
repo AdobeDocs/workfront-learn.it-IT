@@ -1,6 +1,6 @@
 ---
 title: Comprendere le metriche delle prestazioni
-description: 'Scopri come utilizzare le metriche delle prestazioni: il [!UICONTROL Metodo indice prestazioni] ([!UICONTROL PIM]) e la [!UICONTROL Stima al completamento] ([!UICONTROL EAC]).'
+description: Scopri le metriche adattabili delle prestazioni finanziarie con metodi di calcolo flessibili, impostazioni globali predefinite e sostituzioni a livello di progetto, consentendo ad amministratori e project manager di personalizzare in modo efficace le metriche finanziarie in base alle esigenze del progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,56 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 6%
 
 ---
 
 # Comprendere le metriche delle prestazioni
 
-Due metriche delle prestazioni utilizzate dai project manager includono il [!UICONTROL Metodo indice prestazioni] ([!UICONTROL  PIM]) e la [!UICONTROL Stima al completamento] ([!UICONTROL  EAC]). È possibile configurare le impostazioni predefinite a livello di sistema in [!DNL Workfront] e applicarle ai progetti appena creati. Il [!UICONTROL PIM] può quindi essere modificato per singoli progetti.
+Il video illustra le metriche e le impostazioni delle prestazioni finanziarie per la gestione dei progetti. &#x200B; I punti chiave includono:
 
-**[!UICONTROL MIP]**
+**Panoramica delle metriche delle prestazioni:** Le metriche quali l&#39;indice delle prestazioni dei costi, l&#39;indice delle prestazioni della pianificazione, l&#39;indice delle prestazioni della pianificazione dei costi e il completamento stimato sono disponibili nella scheda Dettagli progetto e nella sezione Finanza. &#x200B; La documentazione relativa ai calcoli è accessibile tramite i collegamenti a bolle informative.
 
-Le impostazioni per il [!UICONTROL PIM] controllano il modo in cui [!DNL Workfront] calcola altre metriche delle prestazioni del progetto, ad esempio l’[!UICONTROL Indice Performance Costi] ([!UICONTROL CPI]), l’[!UICONTROL Indice Performance Costo Programmato] ([!UICONTROL CSI]), l’[!UICONTROL Indice Performance Pianificazione] ([!UICONTROL SPI]), e la [!UICONTROL Stima al completamento] ([!UICONTROL EAC]).
+**Metodo indice prestazioni (PIM):** Il project manager può selezionare il metodo per calcolare l&#39;indice prestazioni costi (CPI) e la stima al completamento (EAC), in base alle ore (completamento in ore) o in base ai costi (completamento in denaro). &#x200B; Gli amministratori di sistema possono impostare il metodo predefinito a livello globale, ma i project manager possono modificarlo per singoli progetti. &#x200B;
 
-Le opzioni per il [!UICONTROL PIM] sono basate su ore e su costi.
+**Calcolo stima al completamento (EAC):** Gli amministratori di sistema possono impostare il metodo di calcolo predefinito a livello globale, con due opzioni:
+* **Rollup da attività/sottoattività:** Aggiunge valori di stima al completamento dalle attività figlio, ma esclude le ore aggiunte direttamente alle attività padre o a livello di progetto. &#x200B;
+* **Calcolato a livello di progetto:** Include i valori stimati al completamento delle attività figlio e le ore aggiunte direttamente alle attività padre o al livello di progetto. Si tratta dell’impostazione predefinita consigliata. &#x200B;
 
-* **Basato su ore**: Workfront utilizza le ore pianificate per calcolare il CPI e l’EAC del progetto. L’EAC del progetto viene visualizzato come numero, in ore.
-* **Basato su Costo**: Workfront utilizza il costo della manodopera pianificato per calcolare il CPI e l’EAC del progetto. L’EAC viene visualizzato come valore di valuta. Quando utilizzi questa opzione, assicurati che gli assegnatari delle attività (utenti e/o mansioni) siano associati ai tassi di costo.
+Il video evidenzia la flessibilità e il controllo disponibili sia per gli amministratori di sistema che per i project manager nella gestione delle metriche e dei calcoli delle prestazioni. &#x200B;
 
-**[!UICONTROL EAC]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-L’[!UICONTROL EAC] rappresenta il costo totale previsto per l’attività o il progetto al momento del completamento. Le opzioni vengono calcolate a livello di progetto e riportate dalle attività/attività secondarie.
+## Punti chiave da eliminare
 
-* **Calcola a livello di progetto**: l’[!UICONTROL EAC] per l’attività principale e il progetto vengono determinati utilizzando le ore effettive/i costi effettivi della manodopera nelle formule [!UICONTROL EAC]. Il calcolo include le ore/i costi effettivi e le spese aggiunte direttamente all’attività principale o al progetto.
-* **Riporta dalle attività/attività secondarie**: l’[!UICONTROL EAC] per l’attività principale e il progetto vengono determinati sommando l’[!UICONTROL EAC] per ogni attività secondaria. Questo calcolo esclude le ore/i costi effettivi aggiunti direttamente a un’attività principale o a un progetto.
 
-I calcoli [!UICONTROL EAC] sono elencati in [Calcola stima al completamento (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=it).
+* **Accesso alle metriche delle prestazioni:** Le metriche chiave come l&#39;indice delle prestazioni dei costi (CPI), l&#39;indice delle prestazioni della pianificazione (SPI) e la stima al completamento (EAC) sono disponibili nella scheda Dettagli progetto della sezione Finanza, con la documentazione disponibile tramite i collegamenti a bolle di informazioni. &#x200B;
+* **Metodo indice prestazioni:** I project manager possono scegliere tra metodi basati su ore o su costi per il calcolo delle metriche, mentre gli amministratori di sistema possono impostare un valore predefinito globale.
+* **Stima alle opzioni di calcolo del completamento:** Sono disponibili due metodi:
+   * Rollup da attività/sottoattività (esclude le ore aggiunte direttamente alle attività padre o a livello di progetto). &#x200B;
+   * Calcolato a livello di progetto (include le ore aggiunte direttamente alle attività padre o a livello di progetto). Quest&#39;ultimo è raccomandato. &#x200B;
+* **Impostazioni globali e a livello di progetto:** Gli amministratori di sistema possono impostare valori predefiniti globali per il metodo di indicizzazione delle prestazioni e la stima al completamento dei calcoli, ma i project manager possono ignorare l&#39;impostazione del metodo di indicizzazione delle prestazioni per i singoli progetti. &#x200B;
+* **Flessibilità nella gestione delle metriche:** Il sistema fornisce strumenti che consentono agli amministratori e ai project manager di personalizzare e gestire in modo efficace le metriche delle prestazioni, garantendo l&#39;adattabilità alle esigenze specifiche del progetto.
 
-**Metriche delle prestazioni: impostazioni**
+## Tutorial consigliati su questo argomento
 
-Per configurare le impostazioni predefinite di sistema per [!UICONTROL PIM] e [!UICONTROL EAC]:
-
-1. Seleziona **[!UICONTROL Configurazione]** dal menu principale.
-1. Fai clic su **[!UICONTROL Preferenze progetto]** nel menu del pannello sinistro, quindi fai clic su **[!UICONTROL Progetti]**
-1. Nella sezione [!UICONTROL Stato del progetto], trova il [!UICONTROL Metodo indice prestazione]. Seleziona Basato su ore o Basato su Costo.
-1. Per [!UICONTROL Stima al completamento], seleziona Calcola a livello di progetto o Riporta da attività/attività secondaria.
-1. Fai clic su **[!UICONTROL Salva]** nella parte inferiore della finestra.
-
-![Immagine della schermata [!UICONTROL Preferenze progetto] ](assets/setting-up-finances-1.png)
-
-**Imposta il [!UICONTROL PIM] per singoli progetti**
-
-1. Vai alla pagina di destinazione di un progetto.
-1. Fai clic su **[!UICONTROL Dettagli progetto]** dal pannello a sinistra.
-1. Apri la sezione **[!UICONTROL Finanza]**.
-1. Fai doppio clic sul testo seguente **[!UICONTROL Metodo indice prestazioni]** per modificarlo.
-1. Seleziona Basato su ore o Basato su Costo.
-1. Fai clic su **[!UICONTROL Salva]** modifiche per terminare.
-
-![Immagine della schermata [!UICONTROL Dettagli progetto]](assets/setting-up-finances-2.png)
-
-Il[!UICONTROL PIM] può essere impostato su un modello di progetto, nella sezione [!UICONTROL Finanza] dei dettagli del modello.
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)

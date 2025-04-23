@@ -9,7 +9,7 @@ role: User
 level: Beginner
 jira: KT-10152
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
@@ -28,7 +28,7 @@ Rendi i tuoi progetti [!DNL  Workfront] rapidamente operativi utilizzando un mod
 
 Una volta impostato tutto, modifica lo stato del progetto in Corrente per renderlo attivo. Con l’avanzare del progetto, desidererai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande a cui è necessario dare risposta e molto altro. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
 
-<!---
+<!--
 footer urls for the LP
 Plan a project 
 Edit projects
@@ -39,4 +39,4 @@ Task duration and duration types
 Use task predecessors 
 Modify multiple user assignments in a task list
 Notifications: Information about work assigned to me 
---->
+-->

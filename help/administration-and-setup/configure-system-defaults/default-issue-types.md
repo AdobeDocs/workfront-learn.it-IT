@@ -9,10 +9,10 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 Poiché ogni tipo di problema tiene traccia di diversi tipi di informazioni, ciascuno di questi potrebbe richiedere flussi di lavoro univoci per risolverli. Personalizza gli stati di ogni tipo di problema in modo che corrispondano al flusso di lavoro di quel tipo di problema.
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## Stati predefiniti
 
@@ -42,9 +42,9 @@ Altri sei stati comuni per la gestione dei problemi includono [!DNL Workfront]:
 * Verifica Completata
 * Impossibile risolvere
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 Lo stato di un problema può essere visualizzato e modificato in [!UICONTROL Dettagli problema]. Puoi anche cambiare lo stato di un problema nell’intestazione della pagina del problema, nella parte più a destra.
@@ -55,9 +55,9 @@ L’opzione ![[!UICONTROL Stato] nell’intestazione della pagina e la pagina [!
 
 Colonna ![[!UICONTROL Stato] in una [!UICONTROL Vista]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 Diamo un’occhiata alle nozioni di base sullo stato per i problemi:
 

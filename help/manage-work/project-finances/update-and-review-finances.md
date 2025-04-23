@@ -13,9 +13,9 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
@@ -61,7 +61,7 @@ Questo video sottolinea l’importanza di una corretta configurazione e tracciam
 
 ## Tutorial consigliati su questo argomento
 
-* [Trova informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
-&lt;!—* [Aggiorna dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)—>
+* [Trovare informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
 * [Comprendere più tariffe di fatturazione](/help/manage-work/project-finances/multiple-billing-rates.md)
+  <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

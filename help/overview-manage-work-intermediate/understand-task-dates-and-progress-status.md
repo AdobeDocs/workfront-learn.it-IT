@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,8 +32,8 @@ In questo video scoprirai come:
 >Come affermato nel video, è importante che le persone cambino lo stato da **[!UICONTROL Nuovo]** a **[!UICONTROL In corso]** quando iniziano un’attività, quindi la [!UICONTROL Data di inizio effettivo] sarà corretta. Tuttavia, se si dimentica di eseguire questa operazione all’avvio, è possibile tornare indietro e modificare la [!UICONTROL Data d’inizio effettivo] in qualsiasi momento.
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->
