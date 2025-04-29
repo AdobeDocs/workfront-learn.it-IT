@@ -1,6 +1,6 @@
 ---
 title: Creare dashboard
-description: Organizza e visualizza i dati del progetto con le dashboard di Workfront, che possono essere personalizzate, facilmente accessibili, condivise e stampate per una gestione e una collaborazione fluide.
+description: 'Organizza e visualizza i dati del progetto con le dashboard di Workfront: sono facilmente accessibili e possono essere personalizzate, condivise e stampate, per agevolare la gestione dei progetti e la collaborazione.'
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '635'
-ht-degree: 33%
+ht-degree: 37%
 
 ---
 

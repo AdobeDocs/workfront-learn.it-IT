@@ -1,6 +1,6 @@
 ---
 title: Informazioni sulla creazione di un progetto di base
-description: Scopri come creare, gestire e completare i progetti in modo efficiente, gestire i problemi imprevisti ed esplorare suggerimenti intuitivi per padroneggiare le funzioni essenziali di gestione dei progetti. ​
+description: Scopri come creare, gestire e completare i progetti in modo efficiente e affrontare problemi imprevisti. Esplora suggerimenti intuitivi per padroneggiare le funzioni essenziali di gestione dei progetti.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 11%
+ht-degree: 21%
 
 ---
 
