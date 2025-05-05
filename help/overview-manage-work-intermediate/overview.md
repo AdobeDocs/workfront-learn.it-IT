@@ -38,7 +38,7 @@ Approfondisci l&#39;argomento per saperne di più su come ottenere il massimo da
 >
 >* Buona conoscenza dell’utilizzo di Workfront
 >* Tipo di licenza standard con diritti per la creazione di progetti abilitati
->* [Gestisci lavoro - guida introduttiva](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [Gestisci lavoro - guida introduttiva](https://experienceleague.adobe.com/?lang=it&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Modelli di progetto

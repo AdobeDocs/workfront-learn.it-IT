@@ -36,9 +36,9 @@ Il video evidenzia come Workfront semplifica la comunicazione, la gestione delle
 
 >[!TIP]
 >
->Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
+>Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=it#activity-1-create-a-dashboard).
 
 ## Punti chiave da eliminare
 

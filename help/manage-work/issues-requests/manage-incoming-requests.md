@@ -22,5 +22,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**Gestire le richieste** è ora incluso in **[Trova e gestisci le richieste](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
+>**Gestire le richieste** è ora incluso in **[Trova e gestisci le richieste](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=it)**.
 

@@ -26,7 +26,7 @@ Inizia il tuo percorso Workfront imparando a creare e pianificare i progetti. Wo
 
 Questa esercitazione illustra come creare un progetto, pianificarne uno, gestirlo e chiuderlo.
 
-Dopo aver completato questa esercitazione, ti consigliamo di [gestire il lavoro - intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) per affinare ulteriormente le tue abilità di gestione dei progetti.
+Dopo aver completato questa esercitazione, ti consigliamo di [gestire il lavoro - intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=it) per affinare ulteriormente le tue abilità di gestione dei progetti.
 
 >[!PREREQUISITES]
 >
