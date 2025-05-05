@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Come vengono creati i percorsi milestone
 * Come aggiungere passaggi milestone a un percorso milestone
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415914/?quality=12&learn=on&enablevpops&captions=ita)
 
 >[!NOTE]
 >

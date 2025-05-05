@@ -24,4 +24,4 @@ In questo video scoprirai:
 
 * Come utilizzare, creare e navigare tra organizzazioni, team e utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418186/?quality=12&learn=on&enablevpops&captions=ita)

@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Questo video illustra come creare iniziative come parte di un piano in [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412637/?quality=12&learn=on&enablevpops&captions=ita)

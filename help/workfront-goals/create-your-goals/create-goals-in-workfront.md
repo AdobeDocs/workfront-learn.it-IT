@@ -36,7 +36,7 @@ In questo video scoprirai come:
 
 * Navigare nella sezione [!UICONTROL Elenco obiettivi] per aggiungere un nuovo obiettivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412619/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Copiare un obiettivo esistente
 
@@ -93,5 +93,5 @@ In questo video scoprirai come:
 
 * aggiungere un’attività e convertirla in un obiettivo allineato
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416524/?quality=12&learn=on&enablevpops&captions=ita)
 

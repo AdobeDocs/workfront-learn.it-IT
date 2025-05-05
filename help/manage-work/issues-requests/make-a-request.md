@@ -24,7 +24,7 @@ ht-degree: 13%
 
 Il video fornisce una guida dettagliata su come effettuare e gestire le richieste all’interno di Workfront. Spiega il processo di creazione di una richiesta, iniziando selezionando &quot;Richieste&quot; dal menu principale e facendo clic sul pulsante &quot;Nuova richiesta&quot;. &#x200B; Gli utenti possono scegliere un tipo di richiesta tra code personalizzate in base ai flussi di lavoro dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

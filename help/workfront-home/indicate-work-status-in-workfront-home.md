@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Scopo dello stato in [!DNL  Workfront]
 * Come modificare lo stato delle assegnazioni di lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443438/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Inizio e Lavoraci
 

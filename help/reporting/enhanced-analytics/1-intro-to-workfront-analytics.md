@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Guarda questo video con Joel Pettigrew di Workfront, product manager di [!UICONTROL Funzionalità di analisi avanzate], per scoprire come è nata l’analisi e le interessanti funzionalità che rende possibili.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422287/?quality=12&learn=on&enablevpops&captions=ita)

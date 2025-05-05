@@ -23,4 +23,4 @@ In questo video scoprirai come:
 
 * Approvare tramite [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335119/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436368/?quality=12&learn=on&enablevpops&captions=ita)

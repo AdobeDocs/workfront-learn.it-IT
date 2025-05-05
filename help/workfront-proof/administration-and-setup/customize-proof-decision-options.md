@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come rinominare le opzioni di decisione bozza
 * Come nascondere le opzioni di decisione bozza non necessarie
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444657/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tocca a te
 

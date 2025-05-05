@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Come le strutture di dati supportano un archivio dati
 * Come sincronizzare i sistemi utilizzando un archivio dati
 
->[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417964/?quality=12&learn=on&enablevpops&captions=ita)

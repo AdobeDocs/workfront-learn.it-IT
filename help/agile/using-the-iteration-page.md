@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come leggere la barra di stato dell’iterazione, trovare e leggere il grafico burn-down, nonché come visualizzare e spostare le storie nello storyboard dell’iterazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412179/?quality=12&learn=on&enablevpops&captions=ita)

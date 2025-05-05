@@ -29,7 +29,7 @@ In questo video scoprirai:
 * In che modo una [!UICONTROL Vista] può aiutarti a visualizzare le informazioni di cui hai bisogno
 * Come impostare la data di inizio o di completamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448575/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

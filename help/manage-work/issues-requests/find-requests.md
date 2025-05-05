@@ -30,7 +30,7 @@ Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; E
 * Rapporti e dashboard personalizzati
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441662/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

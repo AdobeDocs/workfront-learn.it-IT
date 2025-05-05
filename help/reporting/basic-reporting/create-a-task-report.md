@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Come creare un rapporto di attività con un filtro complesso
 * Come trovare i rapporti creati
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448350/?quality=12&learn=on&captions=ita)
 
 ## Attività di &quot;Creazione di un rapporto attività&quot;
 

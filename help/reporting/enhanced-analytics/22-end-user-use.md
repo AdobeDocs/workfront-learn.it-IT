@@ -25,4 +25,4 @@ In questo video scoprirai:
 
 * Modalità di utilizzo della Pianificazione, dei grafici di lavoro e delle attività in corso da parte degli utenti finali
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437697/?quality=12&learn=on&enablevpops&captions=ita)

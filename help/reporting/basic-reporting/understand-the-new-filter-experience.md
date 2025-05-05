@@ -26,4 +26,4 @@ In questo video scoprirai come:
 * Creare e modificare filtri
 * Stack di filtri
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422817/?quality=12&learn=on&enablevpops&captions=ita)

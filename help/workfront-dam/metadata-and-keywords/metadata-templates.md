@@ -25,4 +25,4 @@ In questo video scoprirai come:
 * Configurare un modello di metadati
 * Applicare un modello a una cartella
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419482/?quality=12&learn=on&enablevpops&captions=ita)

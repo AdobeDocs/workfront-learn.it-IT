@@ -26,4 +26,4 @@ In questo video scoprirai:
 * La differenza tra array semplici e complessi
 * Come utilizzare array semplici e complessi
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417982/?quality=12&learn=on&enablevpops&captions=ita)

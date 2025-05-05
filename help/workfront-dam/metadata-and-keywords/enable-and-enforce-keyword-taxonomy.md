@@ -26,4 +26,4 @@ In questo video scoprirai come:
 * Comprendere quando gli utenti di [!UICONTROL Workfront DAM] possono immettere le proprie parole chiave
 * Impostare i facet di ricerca
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419502/?quality=12&learn=on&enablevpops&captions=ita)

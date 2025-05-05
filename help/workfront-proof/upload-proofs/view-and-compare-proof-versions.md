@@ -27,7 +27,7 @@ In questo video scoprirai come:
 * Fare commenti e markup su una versione
 * Confrontare la versione corrente con una versione precedente del file
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446904/?quality=12&learn=on&enablevpops&captions=ita)
 
 <!--
 ## Learn more

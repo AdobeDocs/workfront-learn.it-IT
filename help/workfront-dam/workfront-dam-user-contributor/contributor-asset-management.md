@@ -30,7 +30,7 @@ In questo video scoprirai come:
 * Applicare un modello di metadati a una cartella
 * Stabilire le autorizzazioni per una cartella
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414420/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Funzionamento delle versioni delle risorse
 

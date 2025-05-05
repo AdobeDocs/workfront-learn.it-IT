@@ -25,7 +25,7 @@ In questo video scoprirai:
 * La lunga strada per la creazione di un’attività in un progetto Workfront
 * Alcune scelte rapide utili per la creazione di attività
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423158/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

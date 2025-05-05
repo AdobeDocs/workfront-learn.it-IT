@@ -30,7 +30,7 @@ ht-degree: 5%
 Il video illustra il processo di applicazione di un processo di approvazione predefinito durante la creazione di una coda di richieste. &#x200B; Quando viene creata una richiesta, questa inizia con lo stato &quot;Nuovo - In attesa di approvazione&quot; e viene inviata una notifica di approvazione all&#39;approvatore designato. &#x200B; Se approvato, lo stato cambia in &quot;Nuovo&quot;, consentendo alle persone assegnate di iniziare il lavoro. &#x200B; Se viene rifiutato, lo stato potrebbe tornare erroneamente a &quot;Nuovo&quot; a causa di un errore comune nella configurazione del processo di approvazione. &#x200B;
 Nel video viene evidenziato che il processo di approvazione viene attivato quando lo stato è impostato su &quot;Nuovo&quot;, che è l’impostazione predefinita per le nuove richieste. &#x200B; Se viene rifiutato, per impostazione predefinita il sistema ripristina lo stato precedente, che non è ideale per le nuove richieste. &#x200B; È invece necessario scegliere uno stato diverso, ad esempio &quot;Non risolverai&quot;. &#x200B; Il video inoltre mostra che per impostazione predefinita non è stato fornito lo stato &quot;Rifiutato&quot;, ma che un amministratore di sistema può crearne uno se necessario. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455032/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

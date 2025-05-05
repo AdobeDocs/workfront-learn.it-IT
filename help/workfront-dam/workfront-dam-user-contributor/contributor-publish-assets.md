@@ -41,4 +41,4 @@ In questo video scoprirai come:
 * Pubblicare risorse in [!UICONTROL Brand Connect]
 * Pubblicare cartelle in [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414414/?quality=12&learn=on&enablevpops&captions=ita)

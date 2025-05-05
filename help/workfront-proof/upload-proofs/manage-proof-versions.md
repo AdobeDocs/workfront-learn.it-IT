@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Scaricare tutte le versioni di una bozza
 * Eliminare una versione di una bozza
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438650/?quality=12&learn=on&enablevpops&captions=ita)
 
 <!--
 ## Learn more

@@ -23,7 +23,7 @@ In questo video scoprirai come:
 
 * Visualizzare i tuoi obiettivi individuali nel flusso di aggiornamento [!UICONTROL Pulse]
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415930/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Filtrare le informazioni nel flusso Pulse
 

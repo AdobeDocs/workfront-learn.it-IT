@@ -26,7 +26,7 @@ Il video spiega come creare e gestire i processi di approvazione per progetti, a
 Il video illustra come creare processi di approvazione, impostare approvatori, configurare stati e utilizzare fasi per approvazioni a più livelli.
 &#x200B;Evidenzia la flessibilità dei processi globali e monouso per gestire in modo efficace le approvazioni delle attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434695/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -25,7 +25,7 @@ In questo video:
 * Consulta la vista [!UICONTROL Visualizza per progetto]
 * Scopri come vengono visualizzate le informazioni sulle risorsa in questa vista
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420156/?quality=12&learn=on&enablevpops&captions=ita)
 
 Per impostazione predefinita, l’opzione Visualizza per progetto mostra la colonna Budget, che estrae il numero stimato di risorse necessarie per un progetto da un caso di business, se è stato compilato. Ciò significa che la colonna Netto utilizza, per impostazione predefinita, i numeri della colonna Budget per indicare il numero di risorse rimanenti.
 

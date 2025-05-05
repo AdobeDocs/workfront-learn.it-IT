@@ -28,7 +28,7 @@ In questo video scoprirai come:
 * Selezionare il modello di progetto appropriato
 * Completare la conversione da richiesta a progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446630/?quality=12&learn=on&enablevpops&captions=ita)
 
 
 ## Tutorial consigliati su questo argomento

@@ -27,7 +27,7 @@ In questo video scoprirai come utilizzare:
 * il grafico di Gantt del progetto
 * Il grafico di Gantt dell’attività
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448014/?quality=12&learn=on&enablevpops&captions=ita)
 
 Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafico di Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=it).
 

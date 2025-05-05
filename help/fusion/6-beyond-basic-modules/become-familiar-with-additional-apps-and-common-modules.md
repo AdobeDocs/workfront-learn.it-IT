@@ -45,4 +45,4 @@ In questo video scoprirai:
 * Cosa sono i trigger, le azioni e le ricerche e come differiscono
 * Tipi di moduli presenti in diversi connettori di app e loro funzionamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417438/?quality=12&learn=on&enablevpops&captions=ita)

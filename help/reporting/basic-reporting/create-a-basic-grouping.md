@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come creare un raggruppamento
 * E come condividere un raggruppamento con altri utenti di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449823/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Crea un raggruppamento di base&quot;
 

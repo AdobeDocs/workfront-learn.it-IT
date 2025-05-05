@@ -55,7 +55,7 @@ Il video fornisce una guida completa sulla creazione di progetti in Workfront ut
 
 Il video sottolinea la flessibilità di Workfront nella creazione di progetti attraverso modelli, graffi, copie o importazioni, che soddisfano le diverse esigenze degli utenti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432169/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

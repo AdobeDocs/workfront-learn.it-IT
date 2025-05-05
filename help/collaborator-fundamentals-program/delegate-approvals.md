@@ -21,7 +21,7 @@ In questo video scoprirai come:
 * Terminare il periodo di delega
 * Trovare approvazioni delegate
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446384/?quality=12&learn=on&enablevpops&captions=ita)
 
 <!--
 learn more URLS

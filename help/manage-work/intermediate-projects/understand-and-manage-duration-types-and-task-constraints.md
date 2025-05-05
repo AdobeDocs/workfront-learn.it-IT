@@ -31,7 +31,7 @@ Questo video illustra le seguenti informazioni sui tipi di durata e i vincoli de
 * Best practice per il loro utilizzo
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422826/?quality=12&learn=on&enablevpops&captions=ita)
 
 
 Per informazioni su come creare una vista con tipi di durata e vincoli delle attività, consulta l’attività **Vista tipi di durata e vincoli delle attività** in [Crea una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).

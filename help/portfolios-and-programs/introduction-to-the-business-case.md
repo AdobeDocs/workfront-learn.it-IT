@@ -23,7 +23,7 @@ ht-degree: 9%
 
 Il video spiega l&#39;importanza di un caso di business nella gestione dei progetti. Il documento sottolinea che la compilazione del business case aiuta i manager ad analizzare e assegnare la priorità ai progetti che competono per le stesse risorse. &#x200B; Una volta completato, l’invio del caso di business cambia lo stato del progetto in &quot;Richiesto&quot; e ne calcola il punteggio complessivo da confrontare nello strumento di ottimizzazione Portfolio. &#x200B; Sebbene nessuno dei campi sia obbligatorio, informazioni più dettagliate migliorano il processo decisionale. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442852/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

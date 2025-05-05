@@ -24,4 +24,4 @@ In questo video scoprirai come:
 * Tracciare costi e ricavi
 * Gestire le spese
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436433/?quality=12&learn=on&enablevpops&captions=ita)

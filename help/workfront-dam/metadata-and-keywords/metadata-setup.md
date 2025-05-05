@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Usare campi di metadati esistenti
 * Creare campi di metadati personalizzati
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419518/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Best practice per i metadati
 

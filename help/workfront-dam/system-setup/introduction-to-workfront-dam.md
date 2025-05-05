@@ -35,4 +35,4 @@ In questo video:
 * Cercare e visualizzare le risorse
 * Esplorare in che modo la struttura delle cartelle influisce sull’organizzazione e l’accesso alle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420103/?quality=12&learn=on&enablevpops&captions=ita)

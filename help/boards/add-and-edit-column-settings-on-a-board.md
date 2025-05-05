@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come aggiungere e modificare le impostazioni delle colonne in una bacheca.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422931/?quality=12&learn=on&enablevpops&captions=ita)

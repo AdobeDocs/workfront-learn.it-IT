@@ -39,7 +39,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcune modalità di testo di base “pronte all’uso” che puoi utilizzare nei raggruppamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422898/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Comprendere la modalità testo di base per i raggruppamenti&quot;
 

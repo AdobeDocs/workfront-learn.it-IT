@@ -34,7 +34,7 @@ Il video sottolinea l&#39;importanza della partecipazione degli utenti e della t
 &#x200B;Sono disponibili collegamenti ad esercitazioni per la creazione di report e moduli personalizzati per ulteriori indicazioni.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450505/?quality=12&learn=on&captions=ita)
 
 ## Punti chiave da eliminare
 

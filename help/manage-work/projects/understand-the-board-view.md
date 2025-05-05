@@ -23,7 +23,7 @@ ht-degree: 10%
 
 Il video illustra la funzione di visualizzazione bacheca in Workfront, che offre un modo alternativo per visualizzare e gestire le attività del progetto. &#x200B; Nella vista Bacheca, le attività vengono visualizzate come schede su una bacheca in stile Kanban, consentendo agli utenti di ordinare, raggruppare e spostare le attività all’interno o tra le colonne. &#x200B; Lo spostamento di un&#39;attività ne aggiorna automaticamente lo stato, che si riflette nella visualizzazione elenco delle attività. &#x200B; Gli utenti possono creare nuove schede, che generano nuove attività nel progetto, e modificarle o assegnarle direttamente nella vista Bacheca. &#x200B; Le colonne e le schede possono essere configurate e le attività possono essere sequenziate utilizzando i predecessori nella vista elenco attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423279/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -52,4 +52,4 @@ In questo video scoprirai come:
 * Allineare gli obiettivi utilizzando un approccio ascendente e discendente
 * Navigare nella sezione [!UICONTROL Allineamento obiettivo]
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415968/?quality=12&learn=on&enablevpops&captions=ita)

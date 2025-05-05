@@ -50,4 +50,4 @@ In questo video vedrai:
 * Le funzionalità di base e di progettazione di Fusion
 * Uno scenario di esempio di Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416554/?quality=12&learn=on&enablevpops&captions=ita)

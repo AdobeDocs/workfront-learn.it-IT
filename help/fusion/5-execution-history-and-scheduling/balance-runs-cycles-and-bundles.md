@@ -24,4 +24,4 @@ In questo video scoprirai:
 
 * Quali esecuzioni, cicli e bundle di bilanciamento sono disponibili in Workfront Fusion?
 
->[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417426/?quality=12&learn=on&enablevpops&captions=ita)

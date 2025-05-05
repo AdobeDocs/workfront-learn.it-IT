@@ -25,4 +25,4 @@ In questo video scoprirai come:
 
 * Convertire un’attività in un obiettivo allineato
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416524/?quality=12&learn=on&enablevpops&captions=ita)

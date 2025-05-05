@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri come personalizzare le informazioni da visualizzare nella scheda di una bacheca, sia per la vista completa che per quella sintetica.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446539/?quality=12&learn=on&enablevpops&captions=ita)

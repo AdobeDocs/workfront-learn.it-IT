@@ -27,7 +27,7 @@ Workfront consiglia di utilizzare le durate e i predecessori per stabilire le se
 &#x200B;Una durata precisa è fondamentale per una pianificazione efficace del progetto e per la gestione delle risorse.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449351/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

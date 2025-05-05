@@ -24,7 +24,7 @@ ht-degree: 12%
 Il video sottolinea l&#39;importanza della comunicazione nella gestione dei progetti ed evidenzia il ruolo delle questioni come strumento chiave per facilitare la comunicazione. &#x200B; Spiega la differenza tra aggiornamenti e problemi, notando che i problemi sono più adatti per il lavoro che deve essere assegnato, tracciato e risolto prima che un progetto possa essere completato. &#x200B; Il video fornisce una guida dettagliata su come registrare i problemi. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446574/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

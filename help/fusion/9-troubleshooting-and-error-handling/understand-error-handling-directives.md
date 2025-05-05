@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Le tre direttive dell’handler degli errori che consentono la continuazione dell’esecuzione
 * Le due direttive dell’handler degli errori che interrompono l’esecuzione
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418137/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Direttive — Continuazione dello scenario
 

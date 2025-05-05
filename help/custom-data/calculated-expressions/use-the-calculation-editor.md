@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Funzioni dell’Editor di calcolo
 * Come creare un’espressione di data ADDWEEKDAYS in un campo calcolato utilizzando l’Editor di calcolo
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412697/?quality=12&learn=on&enablevpops&captions=ita)

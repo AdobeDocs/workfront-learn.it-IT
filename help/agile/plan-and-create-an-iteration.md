@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Questo video illustra come creare una nuova iterazione e selezionare/deselezionare le storie per un’iterazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412192/?quality=12&learn=on&enablevpops&captions=ita)

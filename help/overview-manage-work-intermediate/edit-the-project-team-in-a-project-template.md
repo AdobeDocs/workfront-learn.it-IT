@@ -28,7 +28,7 @@ In questo video scoprirai:
 * Come evitare di includere involontariamente **non** membri del team di progetto in un modello di progetto.
 * Come modificare il team del modello di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441558/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

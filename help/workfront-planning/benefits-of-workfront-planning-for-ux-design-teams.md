@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come Workfront Planning migliora l’efficienza del team UX centralizzando il tracciamento dei progetti e allineando il lavoro di progettazione con gli obiettivi aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452188/?learn=on&enablevpops&captions=ita)

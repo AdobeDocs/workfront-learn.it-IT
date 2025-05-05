@@ -31,7 +31,7 @@ In questo video:
 * Comprendere il valore dei modelli di progetto durante l’assegnazione delle attività
 * Comprendere il valore dell’assegnazione delle attività ai team
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445752/?quality=12&learn=on&enablevpops&captions=ita)
 
 <!--
 learn more urls:

@@ -23,7 +23,7 @@ ht-degree: 11%
 
 Questo video fornisce una guida dettagliata sulla gestione delle attività in Workfront. Consente di ottimizzare l&#39;efficienza della gestione delle attività, tra cui la modifica, l&#39;eliminazione, l&#39;aggiunta, la duplicazione e la riorganizzazione delle attività all&#39;interno di un piano di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448564/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

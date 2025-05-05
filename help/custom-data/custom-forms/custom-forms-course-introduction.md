@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Questo video illustra che cos’è un modulo personalizzato e come utilizzarlo per acquisire informazioni specifiche per l’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432753/?quality=12&learn=on&enablevpops&captions=ita)

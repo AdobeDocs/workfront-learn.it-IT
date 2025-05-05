@@ -30,7 +30,7 @@ In questo video scoprirai come:
 * Copia un progetto esistente
 * Importare un file di [!DNL Microsoft Project]
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432169/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

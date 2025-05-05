@@ -23,5 +23,5 @@ ht-degree: 100%
 
 Scopri come è possibile gestire le notifiche in-app ed e-mail, in modo da ricevere e-mail pertinenti e utili al proprio lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442815/?quality=12&learn=on&enablevpops&captions=ita)
 

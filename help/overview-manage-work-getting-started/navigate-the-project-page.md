@@ -30,7 +30,7 @@ Questo video illustra:
 * Dove caricare i documenti
 * Come visualizzare la cronologia degli aggiornamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449734/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Parti chiave della pagina del progetto
 

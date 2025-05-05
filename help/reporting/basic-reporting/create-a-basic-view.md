@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come creare e modificare una vista
 * Come condividere una vista con altri utenti di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450246/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Crea una visualizzazione di base&quot;
 

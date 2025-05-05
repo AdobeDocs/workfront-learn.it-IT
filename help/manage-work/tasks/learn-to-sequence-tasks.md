@@ -27,7 +27,7 @@ Il video illustra come impostare i predecessori per le nuove attività, garanten
 &#x200B;Sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447328/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -26,7 +26,7 @@ In questo video:
 * Scopri alcuni elementi utili per il reporting delle attività
 * Scopri come creare un tuo filtro di attività
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412673/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Comprendere i filtri attività incorporati&quot;
 

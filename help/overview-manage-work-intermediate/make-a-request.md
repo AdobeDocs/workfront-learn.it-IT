@@ -34,7 +34,7 @@ In questo video scoprirai come:
 * Trovare una bozza di una richiesta
 * Visualizza gli ultimi tre percorsi della richiesta
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

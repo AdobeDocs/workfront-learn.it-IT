@@ -24,4 +24,4 @@ Questo video illustra come:
 
 * La cronologia di esecuzione consente di supportare e risolvere i problemi relativi a Workfront Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417310/?quality=12&learn=on&enablevpops&captions=ita)

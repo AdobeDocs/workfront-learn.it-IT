@@ -31,7 +31,7 @@ Questo video fornisce una guida dettagliata sulla creazione di un flusso di rich
 Il video illustra quindi come creare argomenti della coda, collegati a regole di instradamento, gruppi di argomenti, moduli personalizzati, processi di approvazione e durate predefinite.
 Infine, il video mostra come verificare la configurazione inviando una richiesta per assicurarsi che venga instradata correttamente. &#x200B; In caso di problemi, è possibile apportare modifiche alla coda. &#x200B; Il video sottolinea l’importanza di verificare la struttura e la funzionalità del flusso di richieste per garantire il corretto indirizzamento e organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433830/?quality=12&learn=on&captions=ita)
 
 ## Punti chiave da eliminare
 

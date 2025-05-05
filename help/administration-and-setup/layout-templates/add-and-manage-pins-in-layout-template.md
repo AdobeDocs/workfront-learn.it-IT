@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Scopri cos’è un pin e come fissare pagine importanti o pertinenti per un set di utenti tramite modelli layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422808/?quality=12&learn=on&enablevpops&captions=ita)

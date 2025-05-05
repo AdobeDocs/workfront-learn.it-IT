@@ -29,7 +29,7 @@ In questo video scoprirai:
 * Eseguire un drill-down delle informazioni dettagliate delle attività
 * Come comunicare con le parti interessate
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445175/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

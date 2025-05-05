@@ -25,4 +25,4 @@ In questo video scoprirai come:
 
 * trovare informazioni finanziarie su un progetto e capire da dove proviene.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415896/?quality=12&learn=on&enablevpops&captions=ita)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come suddividere le storie in storie più piccole, assegnare loro una nuova priorità e contrassegnare le storie come pronte per essere inserite in un’iterazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412186/?quality=12&learn=on&enablevpops&captions=ita)

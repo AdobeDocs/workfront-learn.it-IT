@@ -30,7 +30,7 @@ In questo video scoprirai:
 * Informazioni su attività e problemi
 * Best practice per iniziare a creare progetti
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422291/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

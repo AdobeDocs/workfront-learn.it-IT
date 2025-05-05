@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Scopri come gli amministratori di sistema possono sfruttare gli amministratori di gruppi per gestire in modo efficiente le impostazioni e consentire ai gruppi di avere un maggiore controllo sui propri processi di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439331/?quality=12&learn=on&enablevpops&captions=ita)
 
 

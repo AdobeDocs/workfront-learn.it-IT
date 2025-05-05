@@ -29,4 +29,4 @@ In questo video scoprirai:
 * I diversi tipi di formule
 * Utilizzo corretto e non corretto dell’editor di formule
 
->[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415986/?quality=12&learn=on&enablevpops&captions=ita)

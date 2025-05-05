@@ -30,7 +30,7 @@ In questo video scoprirai come:
 
 Questo video illustra come: creare un progetto di backlog per un team agile e creare una nuova storia.
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412171/?quality=12&learn=on&enablevpops&captions=ita)
 
 Il team agile gestirà il lavoro di backlog. Questo significa che accadranno sostanzialmente tre cose.
 

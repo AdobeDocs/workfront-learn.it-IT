@@ -25,4 +25,4 @@ In questo video scoprirai come:
 * Selezionare la modalità Grafico per ottenere una visualizzazione ad alto livello dell’allocazione degli utenti
 * Mostrare un’analisi dettagliata delle allocazioni giornaliere degli utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413839/?quality=12&learn=on&enablevpops&captions=ita)

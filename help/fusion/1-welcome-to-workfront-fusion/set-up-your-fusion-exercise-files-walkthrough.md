@@ -27,4 +27,4 @@ Scopri come impostare i file degli esercizi di Fusion.
 
 1. Guarda il video per scoprire come caricare questi file in una cartella in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416548/?quality=12&learn=on&enablevpops&captions=ita)

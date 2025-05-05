@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come condividere i rapporti con chiunque
 * Cosa possono visualizzare e fare i destinatari con un rapporto di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447820/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Send and share reports&quot; (Invia e condividi rapporti)
 

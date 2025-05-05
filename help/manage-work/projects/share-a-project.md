@@ -41,7 +41,7 @@ Il video spiega come condividere i progetti in modo efficace all’interno di Wo
 
 Il video evidenzia l’utilizzo di team e modelli per una gestione efficiente della condivisione ed evidenzia il ruolo degli amministratori nella personalizzazione delle preferenze di condivisione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423149/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Obiettivi di esempio
 * L’ambito di influenza
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413133/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Designare singoli utenti responsabili
 

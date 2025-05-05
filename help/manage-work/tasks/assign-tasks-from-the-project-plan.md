@@ -25,7 +25,7 @@ ht-degree: 13%
 Il video illustra vari metodi per assegnare le attività in un piano di progetto. Viene sottolineato l’utilizzo di strumenti come filtri, modelli e funzioni di gestione delle risorse per semplificare le assegnazioni delle attività e ottimizzare i flussi di lavoro dei progetti.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445752/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

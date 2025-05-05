@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Quando un rapporto matrice può essere utile
 * E come creare un rapporto matrice
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448191/?quality=12&learn=on&captions=ita)
 
 ## Attività di &quot;Creazione di un rapporto matrice&quot;
 

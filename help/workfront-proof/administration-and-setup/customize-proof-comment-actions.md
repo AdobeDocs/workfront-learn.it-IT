@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come vengono utilizzate le azioni sui commenti
 * Come personalizzare le etichette delle azioni
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432938/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tocca a te
 

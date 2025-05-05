@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Scopri come aggiungere e rimuovere campi dalle intestazioni dei progetti tramite i modelli di layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422845?captions=ita)

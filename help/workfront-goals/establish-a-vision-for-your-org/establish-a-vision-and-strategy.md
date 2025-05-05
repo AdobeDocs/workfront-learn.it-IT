@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Obiettivi di esempio
 * L’ambito di influenza
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415998/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Pianificare una cadenza per controlli e manutenzione regolari
 

@@ -24,7 +24,7 @@ ht-degree: 20%
 
 Il video spiega come creare un progetto da un modello. &#x200B; Se si dispone dei diritti per aprire un modello, è possibile utilizzarlo come collegamento per creare un progetto. &#x200B; A questo scopo, apri il modello, accedi al menu a tre punti e seleziona &quot;Crea progetto&quot; &#x200B;. Viene visualizzata una schermata in cui puoi modificare i dettagli del progetto. &#x200B; Una volta pronto, fai clic su &quot;Crea progetto&quot; per finalizzare. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456021/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

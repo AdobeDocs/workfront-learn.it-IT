@@ -30,7 +30,7 @@ Questo video illustra come monitorare l’avanzamento del progetto utilizzando:
 * Problemi aperti
 * Colonna Aggiornamento condizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447418/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

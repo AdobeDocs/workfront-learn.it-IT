@@ -25,4 +25,4 @@ In questo video scoprirai:
 * Funzionamento dell’espressione LEFT/RIGHT
 * Come utilizzare un’espressione di testo LEFT/RIGHT in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417122/?quality=12&learn=on&enablevpops&captions=ita)

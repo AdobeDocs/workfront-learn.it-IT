@@ -22,7 +22,7 @@ In questo video scoprirai come:
 * Visualizzare le richieste inviate
 * Trovare una bozza di una richiesta
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Accedere ai percorsi della coda richieste in modo rapido e semplice
 

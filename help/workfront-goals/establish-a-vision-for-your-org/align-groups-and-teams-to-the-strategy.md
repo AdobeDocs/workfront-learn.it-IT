@@ -24,7 +24,7 @@ In questo video scoprirai come:
 * Rivedere e attivare gli obiettivi proposti
 * Sovrapporre e allineare gli obiettivi trimestrali
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416467/?quality=12&learn=on&enablevpops&captions=ita)
 
 <!--
 Pro-tips graphic

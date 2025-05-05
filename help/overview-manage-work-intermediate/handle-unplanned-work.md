@@ -28,7 +28,7 @@ In questo video scoprirai:
 * Come registrare un problema
 * Best practice per la gestione dei problemi
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446574/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

@@ -23,7 +23,7 @@ ht-degree: 37%
 Il video fornisce una guida completa per comprendere e utilizzare le dashboard in Workfront.
 &#x200B;Spiega che una dashboard è una raccolta di rapporti che consente agli utenti di organizzare e visualizzare i dati correlati in un’unica posizione.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449130/?quality=12&learn=on&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come creare e gestire gli stati di sistema e di gruppo per gli oggetti e i flussi di lavoro di Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451857/?learn=on&captions=ita)

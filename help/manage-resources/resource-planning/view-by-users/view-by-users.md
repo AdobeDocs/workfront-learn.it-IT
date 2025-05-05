@@ -26,4 +26,4 @@ In questo video:
 * Scopri come vengono visualizzate le informazioni sulle risorsa in questa vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443814/?quality=12&learn=on&enablevpops&captions=ita)

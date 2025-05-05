@@ -28,4 +28,4 @@ In questo video scoprirai come:
 * Leggere e interpretare il grafico Stato obiettivo
 * Leggere e interpretare il grafico Avanzamento obiettivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415921/?quality=12&learn=on&enablevpops&captions=ita)

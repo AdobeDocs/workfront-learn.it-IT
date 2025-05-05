@@ -24,7 +24,7 @@ In questo video scoprirai:
 * Gruppi
 * Team
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444282/?quality=12&learn=on&enablevpops&captions=ita)
 
 Prima di iniziare, ecco alcuni termini chiave con cui acquisire familiarità durante l’esplorazione delle organizzazioni di utenti in [!DNL Workfront].
 

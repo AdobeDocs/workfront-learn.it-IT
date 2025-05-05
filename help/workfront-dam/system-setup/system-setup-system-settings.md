@@ -27,4 +27,4 @@ In questo video scoprirai come:
 * Creare regole relative ai download
 * Visualizzare rapporti e registri di controllo
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414462/?quality=12&learn=on&enablevpops&captions=ita)

@@ -31,7 +31,7 @@ In questo video scoprirai:
 * Come condividere un progetto inserendolo in un portfolio
 * Best practice per condividere un progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423149/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

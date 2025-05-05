@@ -23,7 +23,7 @@ In questo video scoprirai come:
 
 * Concedere l’accesso agli obiettivi ad alcuni utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416479/?quality=12&learn=on&enablevpops&captions=ita)
 
 Gli amministratori di sistema possono tenere traccia di quante licenze di [!DNL Workfront Goals] sono state utilizzate tramite l’area **[!UICONTROL Configurazione]** di Workfront.
 

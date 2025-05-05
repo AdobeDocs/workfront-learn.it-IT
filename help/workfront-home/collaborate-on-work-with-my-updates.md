@@ -27,4 +27,4 @@ In questo video scoprirai come:
 * Utilizzare la sezione Menzioni per visualizzare gli aggiornamenti che sono stati inclusi in
 * Rispondere agli aggiornamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414234/?quality=12&learn=on&enablevpops&captions=ita)

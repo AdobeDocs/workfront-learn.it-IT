@@ -26,7 +26,7 @@ In questo video scoprirai:
 * In che modo gli utenti delle bozze possono beneficiare dei modelli di flusso di lavoro
 * Come iniziare a pianificare i modelli da creare
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441305/?quality=12&learn=on&enablevpops&captions=ita)
 
 <!--
 Learn More Icon

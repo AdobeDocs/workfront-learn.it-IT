@@ -32,7 +32,7 @@ Tuttavia, potresti essere già più avanti di quanto pensi in questo percorso di
 
 ## Quattro fasi di maturità nella gestione delle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420162/?quality=12&learn=on&enablevpops&captions=ita)
 
 
 ## Come procedere

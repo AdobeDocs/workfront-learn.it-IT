@@ -30,7 +30,7 @@ Il video illustra il processo di flusso delle richieste in Workfront e si concen
 
 Rispondendo a queste domande, gli utenti possono pianificare e configurare in modo efficace la coda di richieste in Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441913/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come aggiungere un filtro utilizzando un modulo personalizzato
 * Suggerimenti di filtraggio
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439645/?quality=12&learn=on&enablevpops&captions=ita)
 
 >[!NOTE]
 >

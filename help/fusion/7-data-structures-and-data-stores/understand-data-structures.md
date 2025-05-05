@@ -25,4 +25,4 @@ In questo video scoprirai come:
 * Comprendere l’utilizzo e le funzionalità delle strutture dati
 * Creare e utilizzare una struttura dati all’interno di uno scenario
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417952/?quality=12&learn=on&enablevpops&captions=ita)

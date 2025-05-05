@@ -25,4 +25,4 @@ In questo video scoprirai:
 * Come accedere alle impostazioni dei rapporti
 * A cosa servono alcune impostazioni comuni per i rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445871/?quality=12&learn=on&enablevpops&captions=ita)

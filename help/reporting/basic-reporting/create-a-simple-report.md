@@ -24,7 +24,7 @@ In questo video scoprirai come:
 
 * Creare un rapporto semplice utilizzando un filtro, una vista e un raggruppamento esistenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413121/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Crea un rapporto semplice&quot;
 

@@ -24,7 +24,7 @@ ht-degree: 21%
 
 Questo video illustra alcuni modi semplici e veloci per trovare i progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439556/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 

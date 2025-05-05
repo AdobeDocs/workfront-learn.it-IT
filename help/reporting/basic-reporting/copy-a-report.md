@@ -25,4 +25,4 @@ In questo video scoprirai:
 
 * Come creare rapidamente un nuovo rapporto copiandone e modificandone uno simile
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437053/?quality=12&learn=on&enablevpops&captions=ita)

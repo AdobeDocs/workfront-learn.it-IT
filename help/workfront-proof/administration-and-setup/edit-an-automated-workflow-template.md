@@ -44,7 +44,7 @@ Ogni fase di un flusso di lavoro automatizzato ha una propria sezione, che conse
 
 Questo video mostra brevemente alcune delle modifiche che puoi apportare all’area [!UICONTROL Flusso di lavoro]. Consulta l’elenco puntato sotto questo video, che esamina queste impostazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432613/?quality=12&learn=on&enablevpops&captions=ita)
 
 In qualità di revisore, ecco le modifiche che puoi apportare al modello di bozza nella sezione [!UICONTROL Flusso di lavoro]:
 

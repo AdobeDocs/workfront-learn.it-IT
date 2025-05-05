@@ -27,7 +27,7 @@ In entrambi i casi, quando lo stato dell’oggetto cambia in quello specificato 
 
 Questo video illustra come creare un processo di approvazione globale e un processo di approvazione monouso per un progetto, un’attività o un problema.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434695/?quality=12&learn=on&enablevpops&captions=ita)
 
 >[!TIP]
 >
