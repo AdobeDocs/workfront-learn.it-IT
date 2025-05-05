@@ -47,7 +47,7 @@ ht-degree: 63%
       + [Convertire un problema/richiesta in un’attività](convert-issues-to-other-work-items.md)
       + [Rapporto sui problemi](report-on-issues.md)
 
-   + Ricerca di {#digging-deeper} più approfonditi
+   + Ricerca di più approfonditi {#digging-deeper}
       + [Comprendere e gestire i tipi di durata e i vincoli delle attività](understand-and-manage-duration-types-and-task-constraints.md)
       + [Comprendere i predecessori tra progetti](understand-cross-project-predecessors.md)
       + [Predecessori avanzati](advanced-predecessors.md)

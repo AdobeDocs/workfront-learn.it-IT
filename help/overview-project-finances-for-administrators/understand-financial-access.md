@@ -51,7 +51,7 @@ Le licenze di **[!UICONTROL Revisione] possono:**
 
 * Visualizzare dati finanziari
 
-**Le autorizzazioni possono essere modificate dal [!UICONTROL  Livello di accesso]. Le tre opzioni per l’accesso ai dati finanziari sono:**
+**Le autorizzazioni possono essere modificate dal [!UICONTROL &#x200B; Livello di accesso]. Le tre opzioni per l’accesso ai dati finanziari sono:**
 
 * [!UICONTROL Nessun accesso]: l’utente non sarà in grado di visualizzare le informazioni finanziarie.
 * [!UICONTROL Visualizza]: l’utente può esaminare e condividere le informazioni.

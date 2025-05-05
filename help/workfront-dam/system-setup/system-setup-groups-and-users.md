@@ -56,7 +56,7 @@ Man mano che i gruppi vengono creati, viene loro assegnato un tipo di ruolo. Il 
 Le licenze [!UICONTROL Workfront DAM] prevedono tre tipi di ruolo:
 
 * **[!UICONTROL Brand Portal:]** questi utenti hanno accesso solo a [!UICONTROL Brand Connect], che consente loro di visualizzare e scaricare le risorse approvate.
-* **[!UICONTROL Collaboratore:]** questi utenti possono accedere a [!UICONTROL Workfront DAM] e a [!UICONTROL  Brand Connect]. Possiedono i diritti di accesso completo alle risorse e alle cartelle, ossia visualizzarle, scaricarle, caricarle, modificarle, spostarle ed eliminarle.
+* **[!UICONTROL Collaboratore:]** questi utenti possono accedere a [!UICONTROL Workfront DAM] e a [!UICONTROL &#x200B; Brand Connect]. Possiedono i diritti di accesso completo alle risorse e alle cartelle, ossia visualizzarle, scaricarle, caricarle, modificarle, spostarle ed eliminarle.
 * **[!UICONTROL Amministratore:]** gli amministratori di sistema hanno accesso a tutte le funzioni di [!UICONTROL Brand Connect] e [!UICONTROL Workfront DAM], oltre ad avere la possibilità di stabilire le impostazioni di sistema globali per ciascuno di essi. Inoltre, possono accedere alle risorse scadute o impostate come inattive.
 
 <!-- 

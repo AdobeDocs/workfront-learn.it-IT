@@ -111,9 +111,9 @@ Finestra delle preferenze ![[!UICONTROL Attività e problemi] con la sezione [!U
 1. Espandi la sezione **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
 1. Seleziona **[!UICONTROL Attività e problemi]**.
 1. Scorri fino alla sezione **[!UICONTROL Access]** e individua l&#39;opzione &quot;[!UICONTROL Quando qualcuno è assegnato a un PROBLEMA]&quot;.
-1. Imposta l’accesso di condivisione per il problema stesso: [!UICONTROL Visualizza],[!UICONTROL  Contribuisci], o [!UICONTROL Gestisci]. [!DNL Workfront] consiglia di lasciare invariate le opzioni avanzate.
+1. Imposta l’accesso di condivisione per il problema stesso: [!UICONTROL Visualizza],[!UICONTROL &#x200B; Contribuisci], o [!UICONTROL Gestisci]. [!DNL Workfront] consiglia di lasciare invariate le opzioni avanzate.
 1. Seleziona la casella se anche l’assegnatario del problema deve avere accesso al progetto
-1. Quindi seleziona l’accesso di condivisione per il progetto: [!UICONTROL Visualizza],[!UICONTROL  Contribuisci], o [!UICONTROL Gestisci]. Quando imposti le [!UICONTROL Opzioni avanzate], tieni presenti i flussi di lavoro della tua organizzazione e le esigenze di accesso.
+1. Quindi seleziona l’accesso di condivisione per il progetto: [!UICONTROL Visualizza],[!UICONTROL &#x200B; Contribuisci], o [!UICONTROL Gestisci]. Quando imposti le [!UICONTROL Opzioni avanzate], tieni presenti i flussi di lavoro della tua organizzazione e le esigenze di accesso.
 1. Al termine, salva.
 
 Finestra ![[!UICONTROL Accesso] che mostra le opzioni [!UICONTROL Contribuisci]](assets/admin-fund-issue-prefs-access-2.png)

@@ -1,6 +1,6 @@
 ---
 title: Comprendere i tipi di data e lo stato di avanzamento
-description: Scopri come visualizzare i diversi tipi di data in  [!DNL  Workfront]  e utilizza lo stato di avanzamento per aiutarti a tenere traccia dell’avanzamento del lavoro.
+description: Scopri come visualizzare i diversi tipi di data in  [!DNL &#x200B; Workfront]  e utilizza lo stato di avanzamento per aiutarti a tenere traccia dell’avanzamento del lavoro.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

@@ -1,6 +1,6 @@
 ---
 title: Chiudere un progetto
-description: Scopri quali informazioni rivedere e perché è importante disporre di dati aggiornati in un progetto prima di chiuderlo in  [!DNL  Workfront].
+description: Scopri quali informazioni rivedere e perché è importante disporre di dati aggiornati in un progetto prima di chiuderlo in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg

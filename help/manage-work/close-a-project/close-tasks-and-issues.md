@@ -1,6 +1,6 @@
 ---
 title: Chiudere attività e problemi
-description: Scopri come assicurarti che le attività e i problemi siano chiusi prima di chiudere un progetto in  [!DNL  Workfront].
+description: Scopri come assicurarti che le attività e i problemi siano chiusi prima di chiudere un progetto in  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

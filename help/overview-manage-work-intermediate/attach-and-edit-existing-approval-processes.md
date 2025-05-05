@@ -1,6 +1,6 @@
 ---
 title: Allegare e modificare i processi di approvazione esistenti
-description: Scopri come utilizzare e modificare i processi di approvazione esistenti per progetti, attività o problemi in  [!DNL  Workfront].
+description: Scopri come utilizzare e modificare i processi di approvazione esistenti per progetti, attività o problemi in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

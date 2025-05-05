@@ -33,7 +33,7 @@ L’aggiunta di un utente alla volta può risultare laborioso. [!DNL Workfront] 
 
 ![Finestra Importa persone](assets/admin-fund-adding-users-6.png)
 
-Gli utenti importati vengono visualizzati nell’elenco[!UICONTROL  Utenti]. Se necessario, modifica le informazioni per uno o più utenti.
+Gli utenti importati vengono visualizzati nell’elenco[!UICONTROL &#x200B; Utenti]. Se necessario, modifica le informazioni per uno o più utenti.
 
 ![Elenco utenti](assets/admin-fund-adding-users-7.png)
 

@@ -51,7 +51,7 @@ La fine del trimestre è vicina e desideri vedere se è stato rispettato il budg
 1. Nella scheda **[!UICONTROL Filtri]**, aggiungi due regole di filtro:
 
    * [!UICONTROL Progetto] > [!UICONTROL Stato equivale a] > [!UICONTROL Completato]
-   * [!UICONTROL Progetto] > [!UICONTROL  Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
+   * [!UICONTROL Progetto] > [!UICONTROL &#x200B; Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
 
    ![Immagine della schermata per aggiungere filtri a un rapporto](assets/chart-report-filters.png)
 

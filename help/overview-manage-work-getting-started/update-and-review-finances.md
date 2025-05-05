@@ -1,6 +1,6 @@
 ---
 title: Aggiornare e rivedere i dati finanziari
-description: Scopri come esaminare le informazioni finanziarie associate a un progetto in [!DNL  Workfront].
+description: Scopri come esaminare le informazioni finanziarie associate a un progetto in [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

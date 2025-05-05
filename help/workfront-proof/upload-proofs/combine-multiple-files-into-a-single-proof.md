@@ -1,6 +1,6 @@
 ---
 title: Combinare più file in un’unica bozza
-description: Scopri come semplificare il processo di bozze combinando più file in un’unica bozza in [!DNL  Workfront].
+description: Scopri come semplificare il processo di bozze combinando più file in un’unica bozza in [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

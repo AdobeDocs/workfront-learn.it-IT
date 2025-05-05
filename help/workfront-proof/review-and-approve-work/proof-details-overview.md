@@ -1,6 +1,6 @@
 ---
 title: Comprendere i dettagli della bozza
-description: Approfondisci i dettagli di una bozza in  [!DNL  Workfront]  tramite il pannello di riepilogo e la pagina [!UICONTROL Dettagli documento].
+description: Approfondisci i dettagli di una bozza in  [!DNL &#x200B; Workfront]  tramite il pannello di riepilogo e la pagina [!UICONTROL Dettagli documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -47,7 +47,7 @@ Per ulteriori informazioni sulla bozza, fare clic su [!UICONTROL Dettagli docume
 
 Viene visualizzata la pagina [!UICONTROL Dettagli documento] e diverse opzioni aggiuntive nel pannello a sinistra.
 
-![Immagine della pagina della bozza in [!DNL  Workfront].](assets/document-details.png)
+![Immagine della pagina della bozza in [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 È importante notare che la possibilità di visualizzare informazioni relative al processo di verifica dipende dalle autorizzazioni di verifica in [!DNL Workfront].
 
