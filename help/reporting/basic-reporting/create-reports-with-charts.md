@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 43%
+source-wordcount: '595'
+ht-degree: 33%
 
 ---
 
@@ -73,15 +73,16 @@ La fine del trimestre è vicina e desideri vedere se è stato rispettato il budg
 1. Nella scheda **[!UICONTROL Filtri]**, aggiungi due regole di filtro:
 
    * [!UICONTROL Progetto] > [!UICONTROL Stato equivale a] > [!UICONTROL Completato]
-   * [!UICONTROL Progetto] > [!UICONTROL &#x200B; Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
+   * [!UICONTROL Progetto] > [!UICONTROL  Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
 
    ![Immagine della schermata per aggiungere filtri a un rapporto](assets/chart-report-filters.png)
 
 1. Nella scheda **[!UICONTROL Grafico]**, scegli **[!UICONTROL Colonna]** per il tipo di grafico.
-1. Per [!UICONTROL Asse sinistro (Y)], scegli [!UICONTROL Progetto] > [!UICONTROL Costo pianificato].
-1. Per [!UICONTROL Asse inferiore (X)], scegli [!UICONTROL Progetto] > [!UICONTROL Nome].
-1. Fai clic sul pulsante **[!UICONTROL Grafico combinato]** e seleziona [!UICONTROL Progetto] > [!UICONTROL Costo effettivo] nel campo **[!UICONTROL Valore]**.
-1. Fai clic sulla freccia accanto alla casella del colore per cambiare il colore di [!UICONTROL Costo effettivo]. Seleziona uno dei colori visualizzati o fai clic sulla casella nell’angolo in basso a destra per visualizzare la tavolozza dei colori.
-1. Fai clic su **[!UICONTROL Salva + Chiudi]**. Quando viene richiesto il nome di un rapporto, chiamarlo &quot;Costo pianificato vs. Costo effettivo per progetto completato l’ultimo trimestre&quot;.
+1. Per l&#39;asse [!UICONTROL Sinistra], scegliere [!UICONTROL Costo pianificato].
+1. Per l&#39;asse [!UICONTROL inferiore (X)], scegliere [!UICONTROL Nome].
+1. Fare clic sul pulsante **[!UICONTROL Grafico combinato]** e selezionare [!UICONTROL Costo effettivo] nel campo **[!UICONTROL Valore]**.
+1. Nel campo **[!UICONTROL Tipo di grafico]** selezionare Riga.
+1. Fare clic sulla casella del colore per modificare il colore [!UICONTROL Costo effettivo]. Selezionare un colore.
+1. Fai clic su **[!UICONTROL Salva Chiudi]**. Quando viene richiesto il nome di un rapporto, chiamarlo &quot;Costo pianificato vs. Costo effettivo per progetto completato l’ultimo trimestre&quot;.
 
    ![Immagine della schermata per aggiungere un grafico a un rapporto](assets/chart-report-chart.png)
