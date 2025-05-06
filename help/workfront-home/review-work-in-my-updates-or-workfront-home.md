@@ -1,6 +1,6 @@
 ---
 title: Rivedere il lavoro in [!DNL My Updates] o [!DNL Home]
-description: '[!DNL  Workfront] fornisce due posizioni per accedere al lavoro assegnato all''utente per la revisione e l''approvazione - [!DNL My Updates] e [!DNL Home] '
+description: '[!DNL &#x200B; Workfront] fornisce due posizioni per accedere al lavoro assegnato all''utente per la revisione e l''approvazione - [!DNL My Updates] e [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
