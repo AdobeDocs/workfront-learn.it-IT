@@ -32,7 +32,7 @@ In questo video scoprirai come:
 
 * Installare il componente aggiuntivo di Microsoft Outlook
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3421308/?quality=12&learn=on&enablevpops&captions=ita)
 
 >[!IMPORTANT]
 >
