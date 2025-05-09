@@ -8,23 +8,35 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
+last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 78%
+source-wordcount: '467'
+ht-degree: 37%
 
 ---
 
 # Creare un rapporto semplice
 
-In questo video scoprirai come:
+Questo video spiega come creare e personalizzare i rapporti sui progetti per analizzare in modo efficace i dati. &#x200B; Per prima cosa, viene sottolineata l&#39;importanza dei report per tenere traccia dell&#39;avanzamento del progetto, del completamento dell&#39;attività, del rispetto del budget e per identificare i problemi. Nel video viene illustrato come iniziare con un rapporto sull’elenco dei progetti, come regolare filtri, visualizzazioni e raggruppamenti e come creare un rapporto personalizzato. &#x200B; &#x200B;
 
-* Creare un rapporto semplice utilizzando un filtro, una vista e un raggruppamento esistenti
+Il video evidenzia che i rapporti personalizzati mantengono le impostazioni predefinite, ma che è possibile apportare modifiche temporanee durante la visualizzazione. &#x200B; I report vengono memorizzati nella sezione &quot;I miei report&quot;, mentre i report condivisi vengono visualizzati nella &#x200B; &quot;Condivisi con me&quot;. I rapporti utilizzati di frequente possono essere bloccati o contrassegnati come preferiti per un facile accesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3413121/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+
+## Punti chiave da eliminare
+
+
+* **Scopo dei report:** i report consentono di tenere traccia dell&#39;avanzamento del progetto, del completamento dell&#39;attività, del rispetto del budget e di identificare i problemi, rendendoli essenziali per una gestione efficace del progetto.
+* **Creazione di report personalizzati:** i report personalizzati consentono di salvare filtri, visualizzazioni e raggruppamenti specifici per accedervi facilmente, eliminando la necessità di modificare ripetutamente le impostazioni. &#x200B;
+* **Passaggi per creare un report:** Selezionare il tipo di oggetto appropriato, assegnare un nome al report, applicare filtri, visualizzazioni e raggruppamenti, personalizzare le colonne e salvare il report. &#x200B;
+* **Impostazioni temporanee e predefinite&#x200B;:** Mentre i visualizzatori possono modificare temporaneamente filtri, visualizzazioni e raggruppamenti, il report tornerà sempre alle impostazioni predefinite alla riapertura. &#x200B;
+* **Organizzazione dei report:** i report personalizzati sono archiviati in &quot;I miei report&quot;, i report condivisi in &quot;Condivisi con me&quot; e i report utilizzati di frequente possono essere bloccati o contrassegnati come preferiti per l&#39;accesso rapido. &#x200B;
+
+
 
 ## Attività &quot;Crea un rapporto semplice&quot;
 
