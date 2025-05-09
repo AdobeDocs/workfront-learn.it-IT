@@ -24,7 +24,7 @@ ht-degree: 24%
 Questo video spiega come creare e gestire i raggruppamenti in Workfront per organizzare efficacemente gli elenchi dei progetti. &#x200B; I raggruppamenti sono uno dei tre elementi principali dei rapporti, insieme a filtri e visualizzazioni, e consentono di organizzare i risultati in base alle informazioni condivise. &#x200B;
 Questa esercitazione fornisce passaggi pratici per organizzare gli elenchi dei progetti al fine di semplificare il lavoro e la collaborazione giornalieri. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449823/?quality=12&learn=on&captions=ita)
 
 ## Punti chiave da eliminare
 
