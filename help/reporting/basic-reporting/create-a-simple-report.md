@@ -25,7 +25,7 @@ Questo video spiega come creare e personalizzare i rapporti sui progetti per ana
 
 Il video evidenzia che i rapporti personalizzati mantengono le impostazioni predefinite, ma che è possibile apportare modifiche temporanee durante la visualizzazione. &#x200B; I report vengono memorizzati nella sezione &quot;I miei report&quot;, mentre i report condivisi vengono visualizzati nella &#x200B; &quot;Condivisi con me&quot;. I rapporti utilizzati di frequente possono essere bloccati o contrassegnati come preferiti per un facile accesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413121/?quality=12&learn=on&captions=ita)
 
 ## Punti chiave da eliminare
 
