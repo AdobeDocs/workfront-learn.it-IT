@@ -2,7 +2,7 @@
 title: Comprendere la modalità testo di base per i raggruppamenti
 description: Scopri che cosa sono la modalità testo, la notazione a cammello e alcune modalità testo di base “pronte per l’uso” che puoi utilizzare nei raggruppamenti in Workfront.
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 97%
@@ -39,7 +39,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcune modalità di testo di base “pronte all’uso” che puoi utilizzare nei raggruppamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3422898/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Attività &quot;Comprendere la modalità testo di base per i raggruppamenti&quot;
 
