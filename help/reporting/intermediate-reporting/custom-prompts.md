@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come creare un prompt personalizzato utilizzando la modalità testo
 * Alcuni esempi che è possibile utilizzare nel reporting
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412691/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Crea prompt personalizzati&quot;
 

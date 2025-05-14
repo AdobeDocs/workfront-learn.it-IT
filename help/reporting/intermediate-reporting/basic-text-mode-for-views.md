@@ -40,7 +40,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcune modalità testo di base pronte all’uso che puoi utilizzare nelle viste
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422889/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Comprendere la modalità testo di base per le visualizzazioni&quot;
 
