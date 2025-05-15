@@ -49,7 +49,7 @@ In questo video, creerai un filtro di progetto denominato “Progetti di cui son
 
 Le istruzioni dettagliate sono riportate di seguito.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443387/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Risposta all’attività 2
 
