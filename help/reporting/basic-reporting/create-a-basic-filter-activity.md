@@ -1,6 +1,6 @@
 ---
 title: Creare attività filtro di base
-description: In questa attività creerai un filtro di progetto denominato “Progetti di cui sono Proprietario in chiusura questo mese”.
+description: In questa attività creerai un filtro per progetti denominato "Tutti i progetti nel portfolio Marketing" e un altro filtro per progetti denominato "Progetti di cui sono Proprietario che chiudono questo mese".
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg
@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8856
+last-substantial-update: 2025-05-15T00:00:00Z
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 0755d62240ab307d3759c47c4561264cb4baadab
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '458'
+ht-degree: 64%
 
 ---
 
@@ -32,13 +33,13 @@ Le istruzioni dettagliate sono riportate di seguito.
 ![Immagine della schermata per creare un nuovo filtro](assets/basic-filter-activity-1.png)
 
 1. Passa all’area [!UICONTROL Progetti] dal [!UICONTROL Menu principale]. Viene visualizzato un elenco di progetti.
-1. Fai clic sul menu **[!UICONTROL Filtro]** e seleziona [!UICONTROL Filtri legacy].
+1. Fai clic sul menu **[!UICONTROL Filtro]** e seleziona [!UICONTROL Filtri legacy], se non è già selezionato.
 1. Seleziona **[!UICONTROL Nuovo filtro]**.
 1. Denomina il filtro “Tutti i progetti nel Portfolio marketing.”
 1. Fai clic su **[!UICONTROL Aggiungi regola filtro]**.
-1. Nel campo [!UICONTROL Inizia a digitare il nome del campo], digita “[!UICONTROL Nome portfolio]”. Quindi seleziona [!UICONTROL Nome] nell’origine del campo [!UICONTROL Progetto].
+1. Fai clic sul campo **Seleziona un campo** e inizia a digitare le parole &quot;[!UICONTROL nome portfolio].&quot; Quindi seleziona [!UICONTROL Nome] nell’origine del campo [!UICONTROL Progetto].
 1. Lascia l’operatore [!UICONTROL Uguale] così com’è.
-1. Digita “[!UICONTROL marketing]” nel campo [!UICONTROL Inizia a digitare il nome].
+1. Digita &quot;[!UICONTROL marketing]&quot; nel campo di ricerca.
 1. Seleziona [!UICONTROL Portfolio marketing] supponendo di avere un portfolio con lo stesso nome su cui desideri eseguire il filtro. Diversamente, utilizza semplicemente la funzione di digitazione per trovare il portfolio desiderato.
 1. Fai clic su **[!UICONTROL Salva filtro]**.
 
@@ -48,26 +49,26 @@ In questo video, creerai un filtro di progetto denominato “Progetti di cui son
 
 Le istruzioni dettagliate sono riportate di seguito.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443387/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
 ## Risposta all’attività 2
 
-![Immagine della schermata per creare un nuovo filtro](assets/basic-filter-activity-updated-6-15-21.png)
+![Immagine della schermata per creare un nuovo filtro](assets/basic-filter-activity-2.png)
 
 1. Passa all’area [!UICONTROL Progetti] dal [!UICONTROL Menu principale]. Viene visualizzato un elenco di progetti.
-1. Fai clic sul menu **[!UICONTROL Filtro]** e seleziona [!UICONTROL Filtri legacy].
+1. Fai clic sul menu **[!UICONTROL Filtro]** e seleziona [!UICONTROL Filtri legacy], se non è già selezionato.
 1. Seleziona **[!UICONTROL Nuovo filtro]**.
 1. Denomina il filtro “Progetti di cui sono Proprietario in chiusura questo mese”.
 1. Fai clic su **[!UICONTROL Aggiungi regola filtro]**.
-1. Nel campo [!UICONTROL Inizia a digitare il nome del campo], digita “proprietario”. Quindi seleziona [!UICONTROL ID proprietario] nell’origine del campo [!UICONTROL Progetto].
+1. Fai clic sul campo **Seleziona un campo** e inizia a digitare la parola &quot;Proprietario&quot;. Ora fai clic sull&#39;ID proprietario nell&#39;origine dei campi [!UICONTROL Progetto].
 1. Lascia l’operatore [!UICONTROL Uguale] così com’è.
-1. Digita “$$” nel campo [!UICONTROL Inizia a digitare il nome].
+1. Digita &quot;$$&quot; nel campo di ricerca.
 1. Seleziona [!UICONTROL $$USER.ID]. Questo è una variabile per l’utente connesso.
-1. Fai clic nuovamente su [!UICONTROL Aggiungi regola filtro].
-1. Nel campo [!UICONTROL Inizia a digitare il nome del campo], inizia a digitare “È completo”. Quindi seleziona [!UICONTROL È completato] nell’origine del campo Progetto.
+1. Fai clic su aggiungi un’altra regola di filtro.
+1. Fai clic sul campo **Seleziona un campo** e inizia a digitare la parola &quot;È completo&quot;. Ora fai clic su &quot;È completato&quot; nell&#39;origine dei campi [!UICONTROL Progetto].
 1. Lascia l’operatore [!UICONTROL Uguale] così com’è.
 1. Seleziona “False”.
-1. Fai clic nuovamente su [!UICONTROL Aggiungi regola filtro].
-1. Nel campo [!UICONTROL Inizia a digitare il nome del campo], digita “pianificato,” quindi seleziona [!UICONTROL Data di completamento pianificata] nell’origine del campo [!UICONTROL Progetto].
+1. Fai di nuovo clic su aggiungi un’altra regola di filtro.
+1. Fai clic sul campo **Seleziona un campo** e inizia a digitare la parola &quot;Pianificato&quot;. Ora fai clic su &quot;Data di completamento pianificata&quot; nell&#39;origine campo [!UICONTROL Progetto].
 1. Cambia l’operatore [!UICONTROL Uguale] in [!UICONTROL Questo mese].
 1. Fai clic su **[!UICONTROL Salva filtro]**.
