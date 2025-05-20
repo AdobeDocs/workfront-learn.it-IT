@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 78%
+source-wordcount: '418'
+ht-degree: 48%
 
 ---
 
@@ -25,7 +26,15 @@ In questo video scoprirai:
 * Quando un rapporto matrice può essere utile
 * E come creare un rapporto matrice
 
->[!VIDEO](https://video.tv.adobe.com/v/3448191/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Punti chiave da eliminare
+
+* **Struttura report matrice:** I report matrice organizzano i dati in righe e colonne, con totali automatici di righe e colonne. &#x200B; Sono ideali per il tracciamento di metriche quali ore di lavoro, costi e ricavi. &#x200B;
+* **Impostazione filtri:** utilizza i filtri per concentrarti su dati specifici, ad esempio le ore lavorate durante l&#39;ultimo trimestre dagli utenti di un determinato team principale. &#x200B; Il campo &quot;owner field source&quot; (Origine campo proprietario) consente di identificare i membri del team rilevanti. &#x200B;
+* **Opzioni di raggruppamento:** Nel nostro esempio, le righe sono raggruppate per &quot;nome del proprietario&quot; (persona che ha lavorato le ore), mentre le colonne sono raggruppate per &quot;data di immissione ore&quot; (per mese e settimana). &#x200B;
+* **Dati riepilogati:** Per impostazione predefinita vengono riepilogate colonne quali ore, costi effettivi e ricavi, in modo che i totali vengano visualizzati nella matrice. Se necessario, queste impostazioni predefinite possono essere disattivate. &#x200B;
+* **Integrazione dei grafici:** I report matrice possono essere integrati con grafici per la visualizzazione di dati alternativi, utilizzando le stesse informazioni di raggruppamento. È possibile impostare la scheda della matrice o la scheda del grafico come visualizzazione predefinita. &#x200B;
 
 ## Attività di &quot;Creazione di un rapporto matrice&quot;
 
