@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 94%
+source-wordcount: '354'
+ht-degree: 57%
 
 ---
 
@@ -26,7 +27,16 @@ In questo video scoprirai:
 * Come condividere i rapporti con chiunque
 * Cosa possono visualizzare e fare i destinatari con un rapporto di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447820/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Punti chiave da eliminare
+
+* **Invio di report a utenti esterni:** Puoi inviare report a utenti non Workfront immettendo i loro indirizzi e-mail, semplificando la condivisione di dati all&#39;esterno della tua organizzazione. &#x200B;
+* **Visibilità controllo diritti di accesso:** La visualizzazione del report da parte del destinatario dipende dai diritti di accesso impostati, che garantiscono la sicurezza dei dati e la visibilità appropriata. &#x200B;
+* **Consegna ripetuta per istantanee:** le consegne pianificate forniscono istantanee congelate dei dati in momenti specifici, utili per tenere traccia delle tendenze e mantenere una cronologia dei dati del progetto. &#x200B;
+* **Condivisione di report con i team:** i report possono essere condivisi con singoli utenti, team o mansioni, concedendo diritti di visualizzazione o gestione. &#x200B; I rapporti condivisi vengono visualizzati nella sezione &quot;Condivisi con me&quot; degli utenti. &#x200B;
+* **Condivisione pubblica e a livello di sistema:** i report possono essere condivisi tramite collegamenti pubblici per utenti esterni o resi visibili a livello di sistema per tutti gli utenti di Workfront, offrendo flessibilità nella condivisione dei dati.
+
 
 ## Attività &quot;Send and share reports&quot; (Invia e condividi rapporti)
 
