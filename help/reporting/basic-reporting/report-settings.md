@@ -27,4 +27,4 @@ In questo video scoprirai:
 * Come eseguire il rapporto con i diritti di accesso di un utente specifico
 * Come impostare e utilizzare i prompt dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445871/?quality=12&learn=on&enablevpops&captions=ita)
