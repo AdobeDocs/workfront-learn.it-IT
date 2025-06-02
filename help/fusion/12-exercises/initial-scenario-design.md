@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
 workflow-type: tm+mt
-source-wordcount: '983'
-ht-degree: 100%
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +43,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
    ![Immagine 2 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. Nella pagina successiva, cerca Workfront e seleziona l’app. Quindi fai clic su Continua.
-1. In alto a sinistra nella schermata di progettazione dello scenario, rinomina lo scenario “Progettazione scenario iniziale”
+1. In alto a sinistra nella schermata di Progettazione scenari, rinomina lo scenario in &quot;Progettazione scenario iniziale&quot;
 1. Fai clic sul modulo trigger vuoto al centro dello schermo e seleziona l’app Workfront, quindi seleziona il modulo Scarica documento.
 
    **Autentica la connessione del modulo al tuo account Workfront.**
@@ -55,7 +56,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
    ![Immagine 4 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Inserisci l’URL dell’**istanza di Workfront**, quindi fai clic su Avanti.
+1. Immetti l&#39;URL dell&#39;**account dell&#39;unità di test di Workfront**, quindi fai clic su Avanti.
 
    ![Immagine 5 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-5.png)
 
