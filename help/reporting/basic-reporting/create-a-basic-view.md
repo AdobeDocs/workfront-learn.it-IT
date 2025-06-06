@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
 workflow-type: tm+mt
-source-wordcount: '827'
-ht-degree: 98%
+source-wordcount: '974'
+ht-degree: 75%
 
 ---
 
 # Creare una vista di base
 
-In questo video scoprirai:
+Il video illustra come creare e personalizzare visualizzazioni in Workfront per visualizzare informazioni specifiche sugli elementi di un elenco, ad esempio progetti, attività, problemi e documenti. &#x200B; Le visualizzazioni consentono agli utenti di visualizzare dettagli quali nome, descrizione, stato e altri campi relativi agli elementi. &#x200B;
 
-* Cos’è una vista in Workfront
-* Come creare e modificare una vista
-* Come condividere una vista con altri utenti di Workfront
+Il video sottolinea la flessibilità delle visualizzazioni in Workfront e fornisce istruzioni dettagliate per la creazione, la personalizzazione e la gestione delle visualizzazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450246/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Punti chiave da eliminare
+
+* **Personalizzazione delle visualizzazioni**: gli utenti possono modificare le visualizzazioni esistenti o crearne di nuove aggiungendo, rimuovendo o ridisponendo le colonne per visualizzare informazioni specifiche, ad esempio lo stato o il budget del progetto.
+* **Modifica in linea**: alcuni campi in una visualizzazione elenco possono essere aggiornati direttamente senza aprire singoli elementi, rendendo più veloce l&#39;esecuzione delle modifiche. &#x200B;
+* **Creazione di visualizzazioni da zero**: gli utenti possono progettare le visualizzazioni per soddisfare esigenze specifiche, ad esempio per tenere traccia dello stato del progetto, aggiungendo colonne rilevanti come budget, costo effettivo e stato di avanzamento. &#x200B;
+* **Condivisione e gestione delle visualizzazioni**: le visualizzazioni personalizzate possono essere condivise con i membri del team per la collaborazione o rimosse quando non sono più necessarie.
 
 ## Attività &quot;Crea una visualizzazione di base&quot;
 
@@ -52,20 +57,20 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 
 1. In un rapporto con elenco delle attività, passa al menu a discesa **[!UICONTROL Vista]** e seleziona **[!UICONTROL Nuova vista]**.
 1. Assegna alla vista il nome “Vista con stato attività”.
-1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL &#x200B; Inizia il] e[!UICONTROL &#x200B; Scade il].
+1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL  Inizia il] e[!UICONTROL  Scade il].
 1. Fai clic su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Stato” sotto all’origine del campo [!UICONTROL Attività].
 1. Fai di nuovo clic su **[!UICONTROL Aggiungi colonna]**.
-1. Nel campo[!UICONTROL &#x200B; Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL &#x200B; Attività].
+1. Nel campo[!UICONTROL  Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL  Attività].
 1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Icone di stato” sotto all’origine del campo Attività.
 1. Fai clic su **[!UICONTROL Salva]**.
 
-Passa il mouse sopra ciascuna delle icone nella colonna[!UICONTROL &#x200B; Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
+Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL  Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
 
 ### Attività 2: creare una vista Milestone
 
-Se utilizzi le milestone, questa vista rappresenta il modo più semplice per visualizzarle per nome e aggiungerle o modificarle in linea.
+Se si utilizzano le attività cardine, questa visualizzazione rappresenta il modo più semplice per visualizzare le attività cardine per nome nell&#39;elenco delle attività e per aggiungerle o rimuoverle da un&#39;attività mediante la modifica in linea.
 
 Crea una vista di attività denominata “Vista Milestone” con le seguenti colonne:
 
@@ -86,7 +91,7 @@ Crea una vista di attività denominata “Vista Milestone” con le seguenti col
 1. Nell’elenco delle attività di un progetto, vai al menu a discesa **[!UICONTROL Viste]** e seleziona **[!UICONTROL Nuova vista]**.
 1. Assegna alla vista il nome “Vista Milestone”.
 1. Fai clic sulla colonna [!UICONTROL Predecessori] per selezionarla.
-1. Nel campo [!UICONTROL Mostra in questa colonna], fai clic sull’icona X nel campo [!UICONTROL Attività >> Predecessori], quindi digita “[!UICONTROL nome milestone]” e clicca su “[!UICONTROL Nome]” nell’elenco.
+1. Nel campo [!UICONTROL Mostra in questa colonna], fai clic sull&#39;icona &quot;meno&quot; nel campo [!UICONTROL Attività >> Predecessori], quindi digita &quot;[!UICONTROL nome milestone]&quot; e fai clic su &quot;[!UICONTROL Nome]&quot; nell&#39;elenco.
 1. Fai clic su **[!UICONTROL Salva]**.
 
 ![Immagine di un elenco delle attività tramite una vista milestone](assets/view-milestone-exercise-2.png)
