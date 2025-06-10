@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
+source-git-commit: 64c683bc598a811c398561b7e1895edd316c5af3
 workflow-type: tm+mt
-source-wordcount: '2274'
+source-wordcount: '2277'
 ht-degree: 94%
 
 ---
@@ -315,6 +315,7 @@ ht-degree: 94%
    + [Creare e gestire un tipo di record](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Creare e gestire le viste tabella](/help/workfront-planning/create-and-manage-table-views.md)
    + [Creare e gestire le visualizzazioni della timeline](/help/workfront-planning/create-and-manage-timeline-views.md)
+   + [Connetti tipi di record](/help/workfront-planning/connect-record-types.md)
    + [Vantaggi dei team di progettazione Workfront Planning for UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrazioni {#integrations}
