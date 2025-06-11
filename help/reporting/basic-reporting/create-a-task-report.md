@@ -1,6 +1,6 @@
 ---
 title: Creare un rapporto di attività
-description: 'Scopri come creare un rapporto di attività con un filtro complesso e individuare i rapporti creati in Workfront. Attività: crea un rapporto di nota con indicazioni.'
+description: Scopri come creare un rapporto di attività con un filtro complesso e individuare i rapporti creati in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,32 +8,41 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
+last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
 workflow-type: tm+mt
-source-wordcount: '925'
-ht-degree: 99%
+source-wordcount: '1116'
+ht-degree: 76%
 
 ---
 
 # Creare un rapporto di attività
 
-In questo video scoprirai:
+Il video fornisce una guida dettagliata sulla creazione di un rapporto personalizzato per monitorare le attività in ritardo assegnate all’utente connesso. Spiega innanzitutto la necessità di creare rapporti personalizzati quando i filtri, le viste o i rapporti incorporati esistenti non soddisfano requisiti specifici. &#x200B; Il rapporto si chiama &quot;Late Tasks Assigned to Me&quot; (Attività in ritardo assegnate a me), con una descrizione aggiunta per chiarezza. &#x200B;
 
-* Come creare un rapporto di attività con un filtro complesso
-* Come trovare i rapporti creati
+Il rapporto risultante consente agli utenti di concentrarsi sulle attività in ritardo, fornisce informazioni approfondite sulle dipendenze e semplifica la navigazione ai progetti host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448350/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+
+## Punti chiave da eliminare
+
+* **Creazione report personalizzati:** Se i filtri esistenti e i report incorporati non soddisfano le tue esigenze, puoi creare un report personalizzato da zero per concentrarti su dati specifici, ad esempio le attività in ritardo che ti vengono assegnate. &#x200B;
+* **Impostazione filtro:** Utilizzare i filtri per definire i criteri dei rapporti, incluse le attività in ritardo, incomplete, i progetti correnti e le attività assegnate all&#39;utente connesso. &#x200B;
+* **Colonne per il contesto:** Aggiungi colonne quali &quot;Può iniziare&quot; per identificare i problemi di dipendenza e &quot;Nome progetto&quot; con collegamenti ipertestuali per facilitare la navigazione ai progetti correlati. &#x200B;
+* **Ordinamento per priorità:** Ordina le attività in base alla colonna &quot;Scadenza&quot; in ordine crescente per assegnare la priorità alle attività più scadute nella parte superiore del report. &#x200B;
+* **Accessibilità:** Salvare il report, fissarlo o contrassegnarlo come preferito per accedervi rapidamente, garantendo un monitoraggio e una gestione efficienti delle attività in ritardo.
+
 
 ## Attività di &quot;Creazione di un rapporto attività&quot;
 
 >[!TIP]
 >
 >Tira fuori spatole e ciotole per miscelare gli ingredienti e inizia a sperimentare le “ricette” presenti nel nostro [Ricettario di reportistica clienti Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). All’interno troverai istruzioni dettagliate per 10 rapporti, pronti per essere inseriti nel tuo ambiente oggi stesso.
->Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
->Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
+>>Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
+>>Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
 
 
 ### Attività 1: crea un rapporto di nota con indicazioni
@@ -114,11 +123,11 @@ Questo è un rapporto sui problemi che mostra tutti i problemi di una coda richi
 
 Questo rapporto utilizza anche un modulo personalizzato. Per informazioni su come creare un modulo personalizzato, guarda il tutorial [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=it).
 
-Il modulo personalizzato deve essere creato nel modo seguente:
+Questo modulo personalizzato deve utilizzare i tipi di oggetto Progetto e Problema e deve essere creato come segue:
 
 Nome: feedback del processo di amministrazione
 
-1. Tipo di processo (campo a discesa)
+1. Tipo di processo (campo a discesa a selezione singola)
    * livelli di accesso
    * processo di approvazione (solo globale)
    * notifiche e-mail
@@ -128,7 +137,7 @@ Nome: feedback del processo di amministrazione
    * notifiche di promemoria
    * coda richieste
 1. Nome processo (campo di testo a riga singola)
-1. Livello processo (campo a discesa)
+1. Livello processo (campo a discesa a selezione singola)
    * 1 - completamente inutile
    * 2 - non molto utile
    * 3 - buono, ma potrebbe essere ulteriormente migliorato
