@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri come collegare i tipi di record in Workfront Planning per semplificare i flussi di lavoro, aumentare la chiarezza e migliorare la responsabilità e l’efficienza del team. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463806/?learn=on&enablevpops&captions=ita)
