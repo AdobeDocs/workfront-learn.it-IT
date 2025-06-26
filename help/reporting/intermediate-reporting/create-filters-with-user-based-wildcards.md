@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 47%
+source-wordcount: '354'
+ht-degree: 46%
 
 ---
 
@@ -25,11 +26,11 @@ In questo video scoprirai come:
 * comprendere a cosa servono i caratteri jolly
 * Creare un filtro con un carattere jolly basato sull’utente
 
->[!VIDEO](https://video.tv.adobe.com/v/3412655/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->Utilizza il nome e l’origine del campo Utenti dell’assegnazione >> ID durante la creazione di filtri che esaminano le informazioni sulle assegnazioni di attività o problemi.  Questa opzione esamina tutte le   utenti assegnati all’attività o al problema, non solo il &quot;proprietario&quot; o l’assegnatario principale.
+>Utilizza il nome e l’origine del campo Utenti dell’assegnazione >> ID durante la creazione di filtri che esaminano le informazioni sulle assegnazioni di attività o problemi.  Questa opzione esamina tutti gli utenti assegnati all’attività o al problema, non solo il &quot;proprietario&quot; o l’assegnatario principale.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ In questo video scoprirai come:
 
 ### Attività 1
 
-Questa settimana hai un po&#39; di tempo in più, quindi vuoi vedere se c&#39;è qualcuno nel tuo team che potrebbe usare un po&#39; di assistenza per le sue assegnazioni. Crea un filtro attività per trovare le attività in scadenza questa settimana che non sono state completate.
+Questa settimana hai un po&#39; di tempo in più, quindi vuoi vedere se c&#39;è qualcuno nel tuo team che potrebbe usare un po&#39; di assistenza per le sue assegnazioni. Crea un filtro attività per trovare le attività assegnate al team principale in scadenza questa settimana e non ancora completate.
 
 ### Risposta 1
 
