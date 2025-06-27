@@ -29,7 +29,7 @@ In questo video scoprirai come:
 * Creare una data personalizzata utilizzando caratteri jolly, attributi, operatori e modificatori
 * Creare un intervallo di date personalizzato utilizzando caratteri jolly
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412661/?quality=12&learn=on&captions=ita)
 
 
 ## Attività &quot;Creare filtri con caratteri jolly basati su date&quot;
