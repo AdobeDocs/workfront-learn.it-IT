@@ -1,6 +1,6 @@
 ---
-title: Creare un proprio rapporto calendario
-description: Scopri come creare un calendario cliente con le attività e i problemi incompleti.
+title: 'Attività: creare un rapporto sul calendario'
+description: Istruzioni dettagliate su come creare un calendario del cliente con le attività e i problemi incompleti.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,18 +11,14 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 89%
+source-wordcount: '362'
+ht-degree: 81%
 
 ---
 
-# Creare un proprio rapporto calendario
-
-In questa attività ti occuperai della creazione del tuo calendario.
-
-## Attività: creare un calendario
+# Attività: creare un rapporto sul calendario
 
 Crea un calendario cliente denominato “Il mio lavoro incompleto”.
 
