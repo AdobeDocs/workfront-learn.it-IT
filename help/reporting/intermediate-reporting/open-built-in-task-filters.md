@@ -7,14 +7,15 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 66%
+ht-degree: 62%
 
 ---
 
@@ -26,7 +27,7 @@ In questo video:
 * Scopri alcuni elementi utili per il reporting delle attività
 * Scopri come creare un tuo filtro di attività
 
->[!VIDEO](https://video.tv.adobe.com/v/3412673/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## Attività &quot;Comprendere i filtri attività incorporati&quot;
 
@@ -45,6 +46,6 @@ Imposta la vista a colonne per includere i campi che ti interessano o che deside
 
 Puoi anche raggruppare l’elenco in base al nome del team assegnato a ogni attività.
 
-Ecco come si presenterà il rapporto:
+Ecco come potrebbe apparire il rapporto:
 
 ![Immagine di un rapporto di attività](assets/opening-built-in-task-filters-2.png)
