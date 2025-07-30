@@ -41,7 +41,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcune modalità di testo “plug and play” di base che puoi utilizzare nei filtri dei rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412684/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Comprendere la modalità testo di base per i filtri&quot;
 
