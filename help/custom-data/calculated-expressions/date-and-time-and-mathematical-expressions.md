@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -44,4 +44,7 @@ I clienti di Workfront utilizzano in genere questi due set di espressioni matema
 * SUB, SUM, DIV, PROD
 * ROUND
 
-<b>NOTA</b>: per un elenco completo delle espressioni e ulteriori informazioni su ciascuna di esse, consulta la pagina della documentazione “Espressioni di dati calcolati”.
+>[!NOTE]
+>
+>Per un elenco completo delle espressioni e per ulteriori informazioni su ognuna, visitare la pagina della documentazione [Espressioni dati calcolate](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions).
+
