@@ -1,6 +1,6 @@
 ---
 title: Comprendere la modalità testo di base per le visualizzazioni
-description: Scopri cosa sono la modalità testo, la notazione a cammello e alcune modalità testo di base pronte all’uso che puoi utilizzare nelle viste in Workfront.
+description: Scopri la modalità testo, la notazione a cammello e alcune modalità testo di base che puoi utilizzare nelle visualizzazioni dei rapporti in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 98%
+source-wordcount: '651'
+ht-degree: 93%
 
 ---
 
@@ -38,9 +39,9 @@ In questo video scoprirai:
 
 * Che cos’è la modalità testo
 * Che cos’è la notazione a cammello
-* Alcune modalità testo di base pronte all’uso che puoi utilizzare nelle viste
+* Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nelle visualizzazioni dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/3422889/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Attività &quot;Comprendere la modalità testo di base per le visualizzazioni&quot;
 

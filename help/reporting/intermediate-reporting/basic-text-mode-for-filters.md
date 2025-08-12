@@ -1,6 +1,6 @@
 ---
-title: Informazioni sulla modalità testo di base per i filtri
-description: Scopri cosa sono la modalità testo, la notazione a cammello e alcune modalità testo “plug and play” di base che puoi utilizzare nei filtri dei rapporti in Workfront.
+title: Comprendere la modalità testo di base per i filtri
+description: Scopri la modalità testo, la notazione Camel e alcune modalità testo di base che puoi utilizzare nei filtri dei rapporti in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 98%
+source-wordcount: '423'
+ht-degree: 88%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 98%
 
 In questo video scoprirai:
 
-* Che cos’è la modalità testo
-* Che cos’è la notazione a cammello
-* Alcune modalità di testo “plug and play” di base che puoi utilizzare nei filtri dei rapporti
+* Modalità testo
+* Borsa Camel
+* Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei filtri dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/3412684/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Attività &quot;Comprendere la modalità testo di base per i filtri&quot;
 
