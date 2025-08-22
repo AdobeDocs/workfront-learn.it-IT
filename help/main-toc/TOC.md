@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
 workflow-type: tm+mt
-source-wordcount: '2275'
+source-wordcount: '2281'
 ht-degree: 94%
 
 ---
@@ -193,7 +193,7 @@ ht-degree: 94%
       + [Predecessori avanzati](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Reporting {#reporting}
++ Generazione dei rapporti {#reporting}
    + Reporting di base {#basic-reporting}
       + [Comprendere gli elementi del reporting](/help/reporting/basic-reporting/reporting-elements.md)
       + [Comprendere i componenti di reporting](/help/reporting/basic-reporting/reporting-components.md)
@@ -316,6 +316,7 @@ ht-degree: 94%
    + [Creare e gestire le viste tabella](/help/workfront-planning/create-and-manage-table-views.md)
    + [Creare e gestire le visualizzazioni della timeline](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Connetti tipi di record](/help/workfront-planning/connect-record-types.md)
+   + [Creare un modulo di richiesta di tipo record](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Vantaggi dei team di progettazione Workfront Planning for UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integrazioni {#integrations}
