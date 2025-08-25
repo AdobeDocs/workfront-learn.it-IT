@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: 9a84c73e0915b4d29a6d8314aa0b251f103ecaad
+source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
 workflow-type: tm+mt
-source-wordcount: '2281'
-ht-degree: 94%
+source-wordcount: '2284'
+ht-degree: 93%
 
 ---
 
@@ -223,6 +223,7 @@ ht-degree: 94%
       + [Comprendere la modalità testo di base per le visualizzazioni](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
       + [Comprendere la modalità testo di base per i raggruppamenti](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Creare prompt personalizzati](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Comprendere i filtri EXISTS](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Reporting avanzato {#advanced-reporting}
       + [Benvenuto nel reporting avanzato](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
