@@ -19,7 +19,7 @@ ht-degree: 9%
 
 Il video offre un’esercitazione su come, perché e con quale frequenza aggiornare lo stato dell’attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471175/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 
