@@ -25,7 +25,7 @@ Questo video illustra come creare un filtro EXISTS per visualizzare &quot;Approv
 
 Per informazioni dettagliate sulla funzione EXISTS, vedere [Creare filtri in modalità testo complessi utilizzando istruzioni EXISTS](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471211/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Esempi di filtro EXISTS
 
