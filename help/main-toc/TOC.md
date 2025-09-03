@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
 workflow-type: tm+mt
-source-wordcount: '2288'
+source-wordcount: '2292'
 ht-degree: 93%
 
 ---
@@ -137,6 +137,7 @@ ht-degree: 93%
       + [Effettuare una richiesta](/help/manage-work/issues-requests/make-a-request.md)
       + [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
       + [Gestire le assegnazioni dei problemi](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [Aggiornare lo stato del problema](/help/manage-work/tasks/update-the-issue-status.md)
       + [Aggiornare una richiesta](/help/manage-work/issues-requests/update-a-request.md)
       + [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
@@ -520,7 +521,7 @@ ht-degree: 93%
 
    + Metadati e parole chiave {#metadata-and-keywords}
       + [Comprendere i metadati](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
-      + [Attivare e applicare la tassonomia delle parole chiave](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
+      + [Abilitare e applicare la tassonomia delle parole chiave](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
       + [Rivedere la terminologia dei metadati](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
       + [Cercare le risorse utilizzando metadati e parole chiave](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
       + [Configurare un modello di metadati](/help/workfront-dam/metadata-and-keywords/metadata-templates.md)
