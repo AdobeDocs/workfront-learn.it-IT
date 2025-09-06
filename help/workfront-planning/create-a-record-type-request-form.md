@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Semplifica il lavoro imparando a creare moduli di richiesta personalizzati per organizzare le attività, raccogliere informazioni chiave e migliorare l’efficienza del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471089/?learn=on&enablevpops&captions=ita)

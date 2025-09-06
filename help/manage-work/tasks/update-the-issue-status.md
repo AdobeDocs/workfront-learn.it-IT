@@ -19,7 +19,7 @@ ht-degree: 17%
 
 Questo video illustra gli stati dei problemi e le best practice per utilizzarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472973/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Punti chiave da eliminare
 
