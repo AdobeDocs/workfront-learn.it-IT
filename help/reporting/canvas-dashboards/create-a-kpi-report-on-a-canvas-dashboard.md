@@ -34,5 +34,5 @@ Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **Per ulteriori informazioni, vedere i seguenti articoli della Guida:**
-[Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Creare un rapporto KPI in un dashboard Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Creare un rapporto KPI in un dashboard Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
