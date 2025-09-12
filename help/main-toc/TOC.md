@@ -1,9 +1,9 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
+source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
 workflow-type: tm+mt
-source-wordcount: '2306'
-ht-degree: 93%
+source-wordcount: '2314'
+ht-degree: 92%
 
 ---
 
@@ -242,6 +242,7 @@ ht-degree: 93%
    + Dashboard dell’area di lavoro {#canvas-dashboards}
       + [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Creare un report KPI in un dashboard Canvas](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [Creare un rapporto di tabella su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 
 
 + Gestire le risorse {#manage-resources}
