@@ -24,7 +24,7 @@ La funzione delle dashboard di Canvas consente di creare dashboard anche in Work
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-Per ulteriori informazioni, consulta l&#39;articolo [Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Per ulteriori informazioni, consulta l&#39;articolo [Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Tutorial consigliati su questo argomento
 
