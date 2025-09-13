@@ -40,7 +40,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei raggruppamenti di rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470787/?quality=12&learn=on&captions=ita)
 
 ## Attività &quot;Comprendere la modalità testo di base per i raggruppamenti&quot;
 
