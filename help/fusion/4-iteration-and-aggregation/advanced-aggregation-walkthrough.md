@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ Chiama un servizio web per restituire dettagli su più paesi e identificare la p
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417304/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## URL di esercizio
 
@@ -53,10 +53,10 @@ Un’ombra evidenzia eventuali segmenti nello scenario da un **beginning-initiat
 
 Questa esercitazione si basa su quanto appreso nella procedura dettagliata, ma è priva di soluzione.
 
-Crea un nuovo scenario per sommare tutte le ore registrate per le attività nei progetti nel portfolio marketing. Quindi invia un’e-mail con la scritta “Il team del progetto {Project Name} ha registrato {summed hours} delle {planned hours} ore totali pianificate, portandoti a {percentage} del piano”.
+Crea un nuovo scenario per sommare tutte le ore registrate per le attività nei progetti nel portfolio marketing. Inviare quindi un&#39;e-mail con la seguente dicitura: &quot;Il team di progetto {Project Name} ha registrato {summed hours} delle {planned hours} ore pianificate totali, arrivando a {percentage} del piano.&quot;
 
 **Sfida:** prova a ripetere questo esercizio, ma solo per le ore registrate quest’anno.
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=it)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
