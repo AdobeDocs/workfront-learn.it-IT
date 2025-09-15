@@ -28,7 +28,7 @@ Scopri in cosa consiste la gestione degli errori predefinita e come aggiungere l
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335306/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418143/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 

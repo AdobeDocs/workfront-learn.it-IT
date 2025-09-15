@@ -28,7 +28,7 @@ Rivedi gli esercizi precedenti in cui sono stati utilizzati array semplici e com
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417988/?quality=12&learn=on&enablevpops&captions=ita)
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:

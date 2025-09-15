@@ -28,7 +28,7 @@ Rivedi la cronologia delle esecuzioni per lo scenario “Utilizzo del filtro pot
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417316/?quality=12&learn=on&enablevpops&captions=ita)
 
 
 ## Ricerca full-text nella scheda della cronologia

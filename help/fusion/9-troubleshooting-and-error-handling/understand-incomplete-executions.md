@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Cosa sono le esecuzioni incomplete
 * Come gestire un errore che determina un’esecuzione incompleta
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418150/?quality=12&learn=on&enablevpops&captions=ita)
 
 ## Errori che hanno dato luogo ad esecuzioni incomplete
 
