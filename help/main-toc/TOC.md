@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2322'
 ht-degree: 92%
 
 ---
@@ -195,7 +195,7 @@ ht-degree: 92%
       + [Predecessori avanzati](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ Generazione dei rapporti {#reporting}
++ Reporting {#reporting}
    + Reporting di base {#basic-reporting}
       + [Comprendere gli elementi del reporting](/help/reporting/basic-reporting/reporting-elements.md)
       + [Comprendere i componenti di reporting](/help/reporting/basic-reporting/reporting-components.md)
@@ -243,6 +243,7 @@ ht-degree: 92%
       + [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Creare un report KPI in un dashboard Canvas](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Creare un rapporto di tabella su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
+      + [Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 
 
 + Gestire le risorse {#manage-resources}

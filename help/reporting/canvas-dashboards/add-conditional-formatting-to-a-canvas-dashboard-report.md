@@ -1,14 +1,14 @@
 ---
-title: Creare un rapporto di tabella su un dashboard di Canvas
-description: Scopri come creare un rapporto di tabella su un dashboard di Canvas.
+title: Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro
+description: Scopri come aggiungere la formattazione condizionale a un rapporto del dashboard di Canvas.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18773
-last-substantial-update: 2025-09-12T00:00:00Z
+jira: KT-18771
+last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ---
 
-# Creare un rapporto di tabella su un dashboard di Canvas
+# Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 
 [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo dopo passo come eseguire entrambe queste operazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **Per ulteriori informazioni, vedere i seguenti articoli della Guida:**
 [Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
@@ -41,5 +41,5 @@ Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 
 * [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Creare un report KPI in un dashboard Canvas](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-* [Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+* [Creare un rapporto di tabella su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 
