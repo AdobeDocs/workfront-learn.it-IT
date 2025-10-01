@@ -23,7 +23,7 @@ ht-degree: 4%
 
 La funzione delle dashboard di Canvas consente di creare dashboard anche in Workfront. Attualmente si trova in General Beta, il che significa che tutti i clienti Workfront possono utilizzare la funzione, se sono iscritti alla versione beta. La registrazione deve essere eseguita da un amministratore di sistema. Questo video mostrerà loro come.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474028/?quality=12&learn=on&enablevpops&captions=ita)
 
 Per ulteriori informazioni, consulta l&#39;articolo [Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
