@@ -45,7 +45,7 @@ Il video sottolinea l&#39;importanza della partecipazione degli utenti e della t
 * **Test e accessibilità:** La coda viene testata con richieste di esempio, garantendo la funzionalità. Viene pubblicato come coda di richieste di aiuto, accessibile a tutti gli utenti, con una durata predefinita di completamento di 10 giorni.
 
 
-Per informazioni su come creare il **report di feedback del team amministratore** utilizzato nel video, consulta l&#39;esercitazione **Creare un report di feedback del team amministratore** nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Per informazioni su come creare il **report di feedback del team amministratore** utilizzato nel video, consulta l&#39;esercitazione **Creare un report di feedback del team amministratore** nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Per informazioni su come creare un modulo personalizzato, consulta il tutorial [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=it).
 
