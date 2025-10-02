@@ -25,4 +25,4 @@ In questo video scoprirai come:
 * Contrassegnare il lavoro come assegnazioni di priorità
 * Filtrare l’[!UICONTROL Elenco di lavoro] per visualizzare solo il lavoro prioritario
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438540/?quality=12&learn=on&enablevpops=1&captions=ita)

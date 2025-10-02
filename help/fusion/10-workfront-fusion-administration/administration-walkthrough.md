@@ -32,7 +32,7 @@ Questo video illustra:
 * Come creare i team
 * Come invitare utenti in un’organizzazione e in un team
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418192/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!NOTE]
 >

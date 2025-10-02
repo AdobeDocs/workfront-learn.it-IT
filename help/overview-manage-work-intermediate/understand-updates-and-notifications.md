@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Effettuare aggiornamenti personalizzati sulle richieste di approvazione
 * Trovare le notifiche in Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440155/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 learn more URLS

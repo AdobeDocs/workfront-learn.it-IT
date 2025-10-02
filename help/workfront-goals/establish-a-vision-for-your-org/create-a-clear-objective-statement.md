@@ -24,7 +24,7 @@ In questo video scoprirai come:
 * Creare un’istruzione di finalità chiara o intento del comandante
 * Scrivere obiettivi aziendali o organizzativi solidi
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416010/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 Your turn graphic

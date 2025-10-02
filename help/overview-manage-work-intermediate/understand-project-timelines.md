@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Pianificazione dei progetti dalla data di inizio o di completamento
 * Vincoli delle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435843/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!IMPORTANT]
 >

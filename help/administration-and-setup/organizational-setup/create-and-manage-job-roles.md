@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Come creare le mansioni.
 * Come applicare le mansioni agli utenti in modo che possano essere assegnati al lavoro corretto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452434/?quality=12&learn=on&enablevpops=1&captions=ita)

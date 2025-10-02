@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Che cosa sono [!UICONTROL Workfront DAM] e Brand Connect
 * Come viene utilizzato [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418756/?quality=12&learn=on&enablevpops=1&captions=ita)

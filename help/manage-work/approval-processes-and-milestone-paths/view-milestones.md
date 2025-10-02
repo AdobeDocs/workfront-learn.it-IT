@@ -27,7 +27,7 @@ In questo video scoprirai come:
 * Visualizzare le milestone in un progetto specifico
 * Leggere la vista Milestone in un elenco di progetti
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415902/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!TIP]
 >

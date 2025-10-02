@@ -22,7 +22,7 @@ ht-degree: 22%
 
 Il video illustra come convertire un problema o una richiesta in un’attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445438/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

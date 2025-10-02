@@ -28,7 +28,7 @@ In questo video scoprirai come:
 * Visualizzare i dettagli cartella
 * Visualizzare e aggiornare i metadati e le parole chiave delle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453930/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Criteri di ricerca di base
 

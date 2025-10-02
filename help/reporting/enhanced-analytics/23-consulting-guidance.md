@@ -25,4 +25,4 @@ In questo video scoprirai:
 
 * Come dare consigli per aiutare la tua organizzazione a operare in modo più efficiente
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438837/?quality=12&learn=on&enablevpops=1&captions=ita)

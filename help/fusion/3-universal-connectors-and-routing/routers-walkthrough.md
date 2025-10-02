@@ -28,7 +28,7 @@ Utilizza un router per passare i bundle Pokemon e supereroi lungo il percorso co
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416572/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## URL di esercizio
 

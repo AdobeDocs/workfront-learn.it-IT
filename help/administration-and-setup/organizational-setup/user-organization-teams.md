@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come utilizzare i team interfunzionali
 * Come creare e associare i team
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432884/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Creazione team
 

@@ -28,7 +28,7 @@ In questo video scoprirai come:
 * accedere ai grafici delle metriche del progetto
 * Personalizzare le informazioni nei grafici
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439178/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

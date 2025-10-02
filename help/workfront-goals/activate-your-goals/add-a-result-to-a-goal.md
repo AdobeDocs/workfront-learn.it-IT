@@ -23,4 +23,4 @@ In questo video scoprirai come:
 
 * Attivare un obiettivo aggiungendo un risultato
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415980/?quality=12&learn=on&enablevpops=1&captions=ita)

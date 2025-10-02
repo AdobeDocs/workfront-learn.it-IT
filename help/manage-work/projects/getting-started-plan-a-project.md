@@ -25,7 +25,7 @@ Il video fornisce indicazioni su come pianificare efficacemente un progetto in W
 
 Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità del team e pianificazione accurata per creare solide basi per il successo del progetto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448575/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -29,7 +29,7 @@ In questo video scoprirai come:
 * Aggiungere un’attività cardine a un’attività
 * Best practice per l’applicazione delle milestone
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430285/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!TIP]
 >

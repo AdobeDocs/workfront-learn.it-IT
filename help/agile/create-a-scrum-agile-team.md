@@ -40,7 +40,7 @@ In questo video scoprirai come:
 - Selezionare la metodologia Scrum
 - Determinare le impostazioni per il team Scrum
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412165/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 Hai già un team in Workfront che desideri convertire in un team agile? Nessun problema! Vai a Impostazioni team e seleziona la casella “Questo è un team agile”.
 

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Questo video illustra quali elementi, come i tipi di date e i vincoli delle attività, vengono utilizzati per creare e gestire le timeline del progetto in [!DNL  Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436748/?quality=12&learn=on&enablevpops=1&captions=ita)

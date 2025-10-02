@@ -32,7 +32,7 @@ In questo video scoprirai come:
 * Creare una documentazione dettagliata e condivisibile
 * Profondità, ambito, complessità e carico del test
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418732/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Elenco di controllo degli aspetti da considerare nei test
 

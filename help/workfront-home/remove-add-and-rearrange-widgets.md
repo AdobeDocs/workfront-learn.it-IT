@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Scopri come rimuovere, aggiungere e ridisporre i widget nella pagina Home.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448981/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 >[!NOTE]

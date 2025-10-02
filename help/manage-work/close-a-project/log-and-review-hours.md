@@ -27,7 +27,7 @@ In questo video scoprirai come:
 * Rivedi le ore registrate in un progetto
 * Approva ore progetto se necessario
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441077/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

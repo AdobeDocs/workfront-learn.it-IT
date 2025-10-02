@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Ottieni una migliore comprensione di cosa sia una bacheca e di come possa essere un vantaggio per te e/o il team nella gestione del lavoro. Scopri dove accedere alle bacheche e come crearne una di base.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422940/?quality=12&learn=on&enablevpops=1&captions=ita)

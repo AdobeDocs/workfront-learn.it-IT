@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Scopri come creare aree di lavoro in Pianificazione di Adobe Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448269/?learn=on&enablevpops=1&captions=ita)

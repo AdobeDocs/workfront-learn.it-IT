@@ -23,4 +23,4 @@ In questo video scoprirai come:
 
 * Chiudere un obiettivo per indicare quando l’obiettivo è completato o quando non ci stai più lavorando, né hai intenzione di farlo nell’immediato futuro
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415940/?quality=12&learn=on&enablevpops=1&captions=ita)

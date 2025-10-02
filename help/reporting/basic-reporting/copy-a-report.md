@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Scopri come creare rapidamente un nuovo rapporto copiandone e modificandone uno simile.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437053/?quality=12&learn=on&enablevpops=1&captions=ita)

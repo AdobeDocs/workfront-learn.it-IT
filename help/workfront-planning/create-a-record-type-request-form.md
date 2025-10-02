@@ -21,4 +21,4 @@ ht-degree: 76%
 
 Semplifica il lavoro scoprendo come creare moduli di richiesta personalizzati per organizzare le attività, raccogliere informazioni chiave e migliorare l’efficienza del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471089/?learn=on&enablevpops=1&captions=ita)

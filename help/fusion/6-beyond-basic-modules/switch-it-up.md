@@ -25,4 +25,4 @@ In questo video scoprirai:
 * Informazioni sulle funzioni e sui moduli di switch e sulle loro differenze
 * Quando utilizzare una funzione di switch rispetto a un modulo di switch
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417444/?quality=12&learn=on&enablevpops=1&captions=ita)

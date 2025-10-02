@@ -35,4 +35,4 @@ In questo video scoprirai:
 * Informazioni di riepilogo
 * E come creare un elemento di calendario ad hoc
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438769/?quality=12&learn=on&enablevpops=1&captions=ita)

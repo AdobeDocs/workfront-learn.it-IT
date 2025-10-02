@@ -25,7 +25,7 @@ Il video spiega come utilizzare lo strumento di ottimizzazione Portfolio in Work
 
 Il video sottolinea l&#39;importanza di completare i casi aziendali per effettuare confronti accurati e fornisce istruzioni dettagliate per ottimizzare e gestire in modo efficace le priorità dei progetti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446283/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

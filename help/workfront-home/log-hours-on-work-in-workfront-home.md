@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Importanza della registrazione del tempo
 * Come registrare il tempo per le assegnazioni di lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438606/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Suggerimenti per registrare le dedicate a un lavoro in [!DNL Home]
 

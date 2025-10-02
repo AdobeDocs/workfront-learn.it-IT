@@ -21,4 +21,4 @@ ht-degree: 76%
 
 Scopri come creare, importare e gestire tipi di record personalizzati in Pianificazione di Adobe Workfront per organizzare e tenere traccia degli elementi relativi al lavoro in modo efficiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448092/?learn=on&enablevpops=1&captions=ita)

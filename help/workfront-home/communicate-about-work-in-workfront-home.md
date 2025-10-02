@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Taggare gli utenti sugli aggiornamenti di [!DNL Workfront]
 * Rispondere agli aggiornamenti esistenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445285/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Suggerimenti per aggiornare il lavoro nella [!UICONTROL Home]
 

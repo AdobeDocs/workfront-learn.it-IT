@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come trovare e gestire le approvazioni di attività non risolte
 * Come trovare e gestire le approvazioni dei problemi non risolte
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439432/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

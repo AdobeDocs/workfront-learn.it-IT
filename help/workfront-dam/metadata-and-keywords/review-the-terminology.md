@@ -27,4 +27,4 @@ In questo video scoprirai:
 * Come può essere utile una tassonomia delle parole chiave
 * Ricerca di risorse tramite metadati e parole chiave
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419526/?quality=12&learn=on&enablevpops=1&captions=ita)

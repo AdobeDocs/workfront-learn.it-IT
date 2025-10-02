@@ -24,4 +24,4 @@ In questo video scoprirai:
 
 * Differenza tra percorsi di router reciprocamente esclusivi e non esclusivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417256/?quality=12&learn=on&enablevpops=1&captions=ita)

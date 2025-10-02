@@ -24,7 +24,7 @@ ht-degree: 11%
 
 Questo video spiega il concetto di code di richieste in Workfront, il loro scopo e come inviare e gestire le richieste. &#x200B; Le code di richieste fungono da posizione centralizzata per l’invio di vari tipi di richieste. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447018/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

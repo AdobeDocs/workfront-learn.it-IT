@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Aggiungere un flusso di lavoro durante la generazione della bozza
 * Aggiungere o modificare un flusso di lavoro dopo la creazione della bozza
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443476/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Chi può caricare i documenti?

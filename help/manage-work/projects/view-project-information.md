@@ -33,7 +33,7 @@ Questo video fornisce una panoramica di filtri, visualizzazioni e raggruppamenti
 
 Il video enfatizza la personalizzazione e fornisce collegamenti ai tutorial per ulteriori informazioni. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453074/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

@@ -24,7 +24,7 @@ In questo video scoprirai:
 
 * Varietà di utilizzo dei moduli di trigger, azione e ricerca nell’app Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417976/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:

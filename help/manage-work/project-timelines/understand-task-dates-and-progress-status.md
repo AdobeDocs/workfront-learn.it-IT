@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Date pianificate, previste ed effettive e
 * come utilizzarle nel calcolo dello stato di avanzamento
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436615/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!NOTE]
 >

@@ -27,4 +27,4 @@ In questo video scoprirai come:
 * Aggiungere elementi al [!UICONTROL Menu principale]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432302/?quality=12&learn=on&enablevpops=1&captions=ita)

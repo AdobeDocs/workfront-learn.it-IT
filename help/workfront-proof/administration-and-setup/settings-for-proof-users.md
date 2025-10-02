@@ -29,7 +29,7 @@ In questo video scoprirai come:
 * Regolare le impostazioni utente bozza in [!DNL  Workfront]
 * Regolare le impostazioni utente bozza nelle impostazioni back-end per le bozze
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432920/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 Lean More URLs

@@ -24,7 +24,7 @@ Nella scheda [!UICONTROL Dettagli coda] della tua coda di richieste o nel tuo pr
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434164/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 **Ho concesso agli utenti l’accesso alla coda, ma ora possono vedere anche il progetto della coda delle richieste. Perché?**
 
@@ -62,7 +62,7 @@ Per aggiungere tali informazioni ai rapporti di progetto e attività, puoi acced
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434184/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 **Qual è il modo migliore per filtrare le code di richieste in un rapporto?**
@@ -73,7 +73,7 @@ Se il filtro del progetto include **Coda>>È pubblico>>Non uguale a>>Nessuno** i
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434338/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 **È una buona idea creare uno stato personalizzato della coda richieste?**
 

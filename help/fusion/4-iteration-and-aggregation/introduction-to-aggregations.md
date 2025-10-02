@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Come utilizzare gli aggregatori
 * Diversi tipi di aggregatori
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417286/?quality=12&learn=on&enablevpops=1&captions=ita)

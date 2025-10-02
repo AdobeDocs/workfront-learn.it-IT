@@ -25,7 +25,7 @@ In questo video scoprirai:
 
 * Come vedere rapidamente quanto tempo le persone dedicano a ciascun progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437807/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Come rivedere il tempo dedicato ai progetti
 

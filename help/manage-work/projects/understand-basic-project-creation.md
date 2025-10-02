@@ -25,7 +25,7 @@ ht-degree: 21%
 Questo video spiega come creare e gestire un progetto da zero. &#x200B; Inizia creando un nuovo progetto, rinominandolo e impostando un obiettivo con una descrizione, una data di inizio e una data di completamento target. I progetti possono essere suddivisi in attività, ovvero lavoro pianificato con durate e assegnazioni stimate. &#x200B; Le attività possono essere sequenziate utilizzando i predecessori e lo stato del progetto può essere impostato su &quot;Corrente&quot; per notificare il team e includerlo nei rapporti. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435902/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

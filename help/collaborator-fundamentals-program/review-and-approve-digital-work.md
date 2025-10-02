@@ -22,7 +22,7 @@ In questo video scoprirai come:
 * Creare approvazioni per i documenti
 * Creare approvazioni per le bozze
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444954/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 learn more URLS

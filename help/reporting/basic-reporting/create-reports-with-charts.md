@@ -38,7 +38,7 @@ Il video spiega come utilizzare i grafici per visualizzare i dati in modo effica
 
 Il video evidenzia come grafici a torta e istogrammi sovrapposti possono fornire informazioni approfondite sulla distribuzione delle attività e sulle prestazioni del progetto, aiutando gli utenti a confrontare i progetti e a comprendere visivamente l’avanzamento delle attività. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3450022/?quality=12&learn=on&enablevpops=0&captions=ita
 
 ## Punti chiave da eliminare
 

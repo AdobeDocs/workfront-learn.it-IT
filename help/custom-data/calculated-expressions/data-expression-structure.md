@@ -24,4 +24,4 @@ In questo video scoprirai:
 
 * Elementi standard utilizzati per la creazione di espressioni in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416226/?quality=12&learn=on&enablevpops=1&captions=ita)

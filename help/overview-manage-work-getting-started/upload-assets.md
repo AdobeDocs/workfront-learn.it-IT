@@ -29,7 +29,7 @@ In questo video scoprirai come:
 * Caricare un documento
 * Trovare la formazione sul caricamento delle bozze
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440378/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

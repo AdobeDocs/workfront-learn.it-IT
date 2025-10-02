@@ -24,7 +24,7 @@ Nel video viene illustrato come utilizzare gli elementi di reporting di Workfron
 
 Il video illustra inoltre come personalizzare gli elementi di reporting e condividerli con altri utenti. &#x200B; Questi strumenti consentono agli utenti di personalizzare l’elenco dei rapporti in base alle loro esigenze, per migliorarne la visibilità e la gestione.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447796/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

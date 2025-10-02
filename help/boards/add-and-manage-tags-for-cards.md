@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Scopri cos’è un tag e perché è utile, nonché come crearlo, eliminarlo, aggiungerlo e rimuoverlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423031/?quality=12&learn=on&enablevpops=1&captions=ita)

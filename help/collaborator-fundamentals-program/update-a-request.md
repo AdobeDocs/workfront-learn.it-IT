@@ -20,7 +20,7 @@ In questo video scoprirai come:
 * Trovare le richieste inviate
 * Aggiornare una richiesta
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422299/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 Guide

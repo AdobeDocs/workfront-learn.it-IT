@@ -21,5 +21,5 @@ ht-degree: 100%
 
 Scopri come aggiungere utenti a Workfront copiando un utente esistente, importando nuovi utenti in blocco e creando un nuovo utente da zero.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447051/?quality=12&learn=on&enablevpops=1&captions=ita)
 

@@ -25,4 +25,4 @@ In questo video scoprirai:
 
 * Quali sono le opzioni di pianificazione, ciclo ed esecuzione di scenari in Workfront Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417322/?quality=12&learn=on&enablevpops=1&captions=ita)

@@ -28,4 +28,4 @@ In questo video scoprirai:
 * Come leggere il codice JSON e come verrà convertito in dati da utilizzare all’interno dei tuoi scenari
 * Come utilizzare i moduli JSON durante la creazione, la modifica e l’utilizzo di JSON
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418107/?quality=12&learn=on&enablevpops=1&captions=ita)

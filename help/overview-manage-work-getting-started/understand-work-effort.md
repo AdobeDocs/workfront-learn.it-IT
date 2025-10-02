@@ -28,7 +28,7 @@ In questo video scoprirai:
 * Come utilizzare l’Impegno di lavoro
 * Come creare una vista attività Impegno di lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447407/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 Per ulteriori informazioni sull’[!UICONTROL Impegno di lavoro], consulta l’articolo [Panoramica sull’impegno di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=it).
 

@@ -25,7 +25,7 @@ In questo video scoprirai come:
 * Seleziona una vista per confrontare tipi di data diversi di [!DNL Workfront's]
 * Utilizza lo stato di avanzamento per tenere traccia dell’avanzamento del lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436615/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!NOTE]
 >

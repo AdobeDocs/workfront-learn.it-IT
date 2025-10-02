@@ -29,7 +29,7 @@ Il video illustra il concetto dei componenti di reporting di Workfront, essenzia
 * **Qualificatore filtro:** definisce quali valori includere o escludere in un report, ad esempio le attività con priorità &quot;alta&quot;. &#x200B;
 
 
->[!VIDEO] (https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3447029/?quality=12&learn=on&enablevpops=0&captions=ita
 
 ## Punti chiave da eliminare
 

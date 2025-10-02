@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Cosa si intende per licenze e livelli di accesso
 * Come creare e gestire i livelli di accesso
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421302/?quality=12&learn=on&enablevpops=1&captions=ita)

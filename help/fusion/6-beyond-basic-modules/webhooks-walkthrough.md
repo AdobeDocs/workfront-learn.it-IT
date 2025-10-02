@@ -28,7 +28,7 @@ Questo scenario crea un’app per un negozio di generi alimentari in modo da pot
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417946/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Configurazione Postman

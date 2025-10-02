@@ -25,4 +25,4 @@ In questo video scoprirai come:
 
 * Passare al flusso di aggiornamento [!UICONTROL Pulse]
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415936/?quality=12&learn=on&enablevpops=1&captions=ita)

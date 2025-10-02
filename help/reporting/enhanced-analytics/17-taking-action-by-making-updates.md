@@ -25,4 +25,4 @@ In questo video scoprirai:
 
 * Come apportare aggiornamenti dall’interno dei grafici delle attività in corso
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436873/?quality=12&learn=on&enablevpops=1&captions=ita)

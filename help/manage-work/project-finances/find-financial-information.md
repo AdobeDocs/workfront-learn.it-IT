@@ -24,7 +24,7 @@ ht-degree: 20%
 
 Il video spiega come accedere e gestire le informazioni finanziarie per progetti e attività. &#x200B;Offre una panoramica completa della navigazione e della comprensione dei dati finanziari a livello di progetto e di task. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415896/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

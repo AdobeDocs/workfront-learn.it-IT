@@ -28,4 +28,4 @@ Questo tutorial video video illustra le impostazioni per:
 * Ferie personali
 * Mansioni
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420168/?quality=12&learn=on&enablevpops=1&captions=ita)

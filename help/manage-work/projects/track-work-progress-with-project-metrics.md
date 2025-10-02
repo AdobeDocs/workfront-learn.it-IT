@@ -25,7 +25,7 @@ ht-degree: 11%
 Il video spiega come tenere traccia dell’avanzamento del progetto utilizzando le metriche del progetto. &#x200B; Viene mostrato come accedere alla scheda Metriche nel pannello a sinistra di un progetto, che può richiedere lo scorrimento e il clic su &quot;Mostra altro&quot;. L&#39;area KPI nella parte superiore visualizza gli indicatori di prestazioni chiave, ad esempio le attività completate, incomplete e scadute. &#x200B; Gli utenti possono fare clic su indicatori per visualizzare attività specifiche e utilizzare grafici per raggruppare attività o problemi in base allo stato o alla priorità. &#x200B; Passando il puntatore del mouse sulle colonne vengono visualizzate le quantità e il grafico mostra il rapporto tra attività o problemi completati e incompleti. &#x200B; Le metriche possono inoltre visualizzare le attività per assegnatario in base al loro stato (completo, incompleto, in arrivo o in ritardo). &#x200B; Le preferenze per la visualizzazione delle metriche vengono salvate per le visite future. &#x200B; Infine, il video mostra come esportare la pagina delle metriche come file PNG utilizzando il pulsante Export (Esporta). &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439178/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

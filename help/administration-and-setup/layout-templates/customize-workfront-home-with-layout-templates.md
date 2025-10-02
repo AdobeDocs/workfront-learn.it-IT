@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Scopri come personalizzare l’area [!UICONTROL Home] degli utenti per accedere, tenere traccia, approvare e aggiornare il lavoro in modo rapido e semplice.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432783/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ In questo video scoprirai come:
 * Rimuovere elementi dalla [!UICONTROL Home]
 * Aggiungere elementi alla [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432314/?quality=12&learn=on&enablevpops=1&captions=ita)

@@ -25,4 +25,4 @@ In questo video scoprirai:
 * Come vengono usate iterazione e aggregazione
 * I diversi tipi di iteratori
 
->[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417280/?quality=12&learn=on&enablevpops=1&captions=ita)

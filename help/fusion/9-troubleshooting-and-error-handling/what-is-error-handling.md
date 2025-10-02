@@ -25,4 +25,4 @@ In questo video scoprirai:
 * Quali sono alcuni tipi di errore comuni e come vengono gestiti dal sistema per impostazione predefinita
 * Come applicare la gestione personalizzata degli errori utilizzando un modulo di gestione degli errori
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418131/?quality=12&learn=on&enablevpops=1&captions=ita)

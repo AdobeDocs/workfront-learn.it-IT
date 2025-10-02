@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Creare un arco temporale in un grafico
 * Come visualizzare altri grafici
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438573/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Fare clic su un grafico per ulteriori informazioni
 

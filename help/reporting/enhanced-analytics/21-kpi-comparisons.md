@@ -27,4 +27,4 @@ In questo video scoprirai:
 * Come cambiare l’intervallo di date
 * Come confrontare i KPI con due filtri diversi affiancati
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440255/?quality=12&learn=on&enablevpops=1&captions=ita)

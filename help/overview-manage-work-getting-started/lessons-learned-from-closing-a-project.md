@@ -29,7 +29,7 @@ Questo video illustra i vantaggi di:
 * Creazione di rapporti personalizzati sulle lezioni apprese
 * Creazione di un progetto basato sulle esperienze acquisite
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441020/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

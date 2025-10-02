@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Creare commenti in una bozza di un sito web statico
 * Creare commenti in una bozza di un sito web interattivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445970/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 ## Learn more

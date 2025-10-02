@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Come eseguire il drill-down di un progetto nel grafico Pianificazione in corso per visualizzare il grafico di lavoro e il grafico Attività in corso
 * Come creare un filtro per l’intervallo temporale per eseguire l&#39;ingrandimento all’interno di un intervallo di date
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437274/?quality=12&learn=on&enablevpops=1&captions=ita)

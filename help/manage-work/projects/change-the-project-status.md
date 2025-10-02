@@ -28,7 +28,7 @@ In questo video scoprirai:
 * Perché modificare lo stato del progetto in [!UICONTROL Completato]
 * Cosa fare se non è possibile modificare lo stato del progetto in [!UICONTROL Completato]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439366/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

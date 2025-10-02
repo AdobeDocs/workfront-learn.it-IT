@@ -33,7 +33,7 @@ Scopri come trovare queste richieste nelle seguenti aree:
 * In un dashboard personalizzato
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441662/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Tutorial consigliati su questo argomento

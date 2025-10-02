@@ -26,7 +26,7 @@ In questo video scoprirai come:
 
 * Rendere attivo un progetto utilizzando lo stato del progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438997/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

@@ -25,7 +25,7 @@ In questo video scoprirai come:
 * Definire cosa devete fare tu e il tuo team per raggiungere l’obiettivo di primo livello
 * Perfezionare la gerarchia degli obiettivi dalla Sezione 2: Stabilire una visione e una strategia
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416016/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 <!--
 Pro-tips graphic

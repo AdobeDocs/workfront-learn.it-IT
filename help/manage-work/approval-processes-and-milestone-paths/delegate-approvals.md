@@ -27,7 +27,7 @@ Per le approvazioni, gli utenti possono delegarle tramite il widget &quot;In att
 Le approvazioni delegate sono contrassegnate nel sistema, mostrando chi le ha delegate e a chi. &#x200B; Gli aggiornamenti relativi alle approvazioni vengono visualizzati nella scheda Aggiornamento e l’attività di sistema può essere visualizzata nella scheda Attività di sistema. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446384/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

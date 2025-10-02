@@ -21,4 +21,4 @@ ht-degree: 70%
 
 Scopri come la Pianificazione di Workfront migliora l’efficienza del team UX centralizzando il tracciamento dei progetti e allineando il lavoro di progettazione agli obiettivi aziendali.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452188/?learn=on&enablevpops=1&captions=ita)

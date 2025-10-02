@@ -25,7 +25,7 @@ Il video fornisce una guida dettagliata sulla creazione di un rapporto personali
 
 Il rapporto risultante consente agli utenti di concentrarsi sulle attività in ritardo, fornisce informazioni approfondite sulle dipendenze e semplifica la navigazione ai progetti host. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3448350/?quality=12&learn=on&enablevpops=0&captions=ita
 
 ## Punti chiave da eliminare
 

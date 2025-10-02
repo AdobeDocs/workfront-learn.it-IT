@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come condividere un modello di progetto che concede i diritti per attivarlo e disattivarlo.
 * Come attivare e disattivare un modello di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444998/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!NOTE]
 >

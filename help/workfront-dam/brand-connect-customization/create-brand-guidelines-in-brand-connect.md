@@ -24,4 +24,4 @@ In questo video scoprirai:
 * Quali sono le linee guida per i brand
 * Come creare una pagina delle linee guida per i brand in [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418763/?quality=12&learn=on&enablevpops=1&captions=ita)

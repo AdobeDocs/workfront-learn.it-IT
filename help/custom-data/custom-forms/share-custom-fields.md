@@ -23,5 +23,5 @@ ht-degree: 0%
 
 Questo video illustra come determinare chi può visualizzare e/o modificare un campo personalizzato.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446550/?quality=12&learn=on&enablevpops=1&captions=ita)
 

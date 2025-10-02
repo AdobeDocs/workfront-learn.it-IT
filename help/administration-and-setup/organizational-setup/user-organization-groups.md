@@ -27,7 +27,7 @@ In questo video scoprirai come:
 * Associare un gruppo
 * Creare e associare sottogruppi
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432872/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Amministratori di gruppi
 

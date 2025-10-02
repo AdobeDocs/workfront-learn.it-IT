@@ -27,7 +27,7 @@ In questo video:
 * Scoprire alcuni elementi di reporting utili sui problemi
 * Scoprire come creare un filtro di problema personalizzato
 
->[!VIDEO] (https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3412679/?quality=12&learn=on&enablevpops=0&captions=ita
 
 
 ## Attività &quot;Comprendere i filtri dei problemi incorporati&quot;

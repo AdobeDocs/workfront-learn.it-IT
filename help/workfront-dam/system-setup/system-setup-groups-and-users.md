@@ -28,7 +28,7 @@ In questo video scoprirai come:
 * Creare e modificare gruppi
 * Aggiungere e modificare utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414468/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Revisione di gruppi e utenti
 

@@ -21,4 +21,4 @@ ht-degree: 80%
 
 Scopri come creare, gestire e personalizzare le viste a tabella dei tipi di record in Pianificazione di Adobe Workfront per migliorare l’organizzazione del progetto e la collaborazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448157/?learn=on&enablevpops=1&captions=ita)

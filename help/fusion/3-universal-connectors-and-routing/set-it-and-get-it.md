@@ -25,4 +25,4 @@ In questo video scoprirai come:
 * Condividere dati tra percorsi diversi
 * Utilizzare le variabili Set e Get
 
->[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417268/?quality=12&learn=on&enablevpops=1&captions=ita)

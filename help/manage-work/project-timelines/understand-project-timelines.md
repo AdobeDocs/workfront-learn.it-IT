@@ -28,7 +28,7 @@ Cosa imparerai:
 * Diverse visualizzazioni in Workfront, ad esempio la visualizzazione standard per la pianificazione e la visualizzazione di stato per il monitoraggio dell&#39;avanzamento, che include flag per l&#39;avanzamento, commenti, documenti, problemi, approvazioni, percorso critico e milestone. È possibile tenere traccia delle attività recenti per visualizzare aggiornamenti e note.
 * La programmazione può essere eseguita a partire da una data di inizio o da una data di completamento, con Workfront che calcola le date corrispondenti in base alle durate delle attività e ai predecessori. Il video consiglia di pianificare da una data di inizio le date di completamento critiche per consentire un certo margine di flessibilità. Vengono inoltre trattati i vincoli di attività, ad esempio &quot;il prima possibile&quot; e &quot;il più tardi possibile&quot;, mostrando come influiscono sulla pianificazione delle attività. È possibile creare viste personalizzate per visualizzare i vincoli delle attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435843/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 >[!IMPORTANT]
 >

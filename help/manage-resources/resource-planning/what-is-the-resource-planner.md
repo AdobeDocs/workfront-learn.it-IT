@@ -25,4 +25,4 @@ Per consentire alle persone di lavorare al meglio, i manager devono pianificarne
 Questa attività può risultare un po’ più semplice grazie alla funzione Pianificazione risorse di Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437262/?quality=12&learn=on&enablevpops=1&captions=ita)

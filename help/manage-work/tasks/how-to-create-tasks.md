@@ -22,7 +22,7 @@ ht-degree: 0%
 Il video offre un’esercitazione sulla creazione di attività in un progetto Workfront, che illustra sia il metodo lungo che le pratiche scelte rapide. Enfatizza la flessibilità nella creazione delle attività e fornisce suggerimenti per una gestione efficiente delle attività.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423158/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

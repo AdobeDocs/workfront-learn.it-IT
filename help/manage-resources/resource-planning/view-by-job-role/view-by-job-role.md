@@ -26,7 +26,7 @@ In questo video:
 * Scopri come vengono visualizzate le informazioni sulle risorsa in questa vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416530/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 Per l’opzione Visualizza per mansione, l’impostazione predefinita è mostrare la colonna Budget, che estrae il numero stimato di risorse necessarie per un progetto da un Caso di business, qualora sia stato compilato. Ciò significa che la colonna Netto utilizza, per impostazione predefinita, i numeri della colonna Budget per indicare il numero di risorse rimanenti.
 

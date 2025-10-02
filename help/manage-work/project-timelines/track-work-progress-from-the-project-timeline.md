@@ -29,7 +29,7 @@ In questo video scoprirai:
 * Percentuale completata
 * Stato di avanzamento
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438216/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Tutorial consigliati su questo argomento

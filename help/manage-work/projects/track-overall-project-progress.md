@@ -25,7 +25,7 @@ Il video spiega come tenere traccia dell’avanzamento complessivo del progetto 
 
 Il video sottolinea l’importanza di aggiornamenti regolari da parte dei membri del team e della gestione proattiva dei problemi per garantire un tracciamento accurato e il completamento tempestivo del progetto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447418/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

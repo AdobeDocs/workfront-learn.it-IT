@@ -31,7 +31,7 @@ In questo video scoprirai come:
 * Delegare approvazioni per progetti, attività e problemi
 * Trovare approvazioni delegate
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446384/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Tutorial consigliati su questo argomento
 

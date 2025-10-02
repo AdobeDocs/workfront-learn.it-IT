@@ -24,4 +24,4 @@ In questo video scoprirai:
 
 * Differenza tra un documento e una bozza in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439867/?quality=12&learn=on&enablevpops=1&captions=ita)

@@ -27,4 +27,4 @@ In questo video scoprirai come:
 * Connettersi a un’API esterna
 * Utilizzare l’editor di formule per estrarre informazioni da un array
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416542/?quality=12&learn=on&enablevpops=1&captions=ita)

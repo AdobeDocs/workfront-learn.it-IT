@@ -26,4 +26,4 @@ In questo video scoprirai:
 * Modalità di trasmissione dei percorsi dei router da parte dei bundle di dati
 * Come aggiungere e utilizzare i router
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416566/?quality=12&learn=on&enablevpops=1&captions=ita)

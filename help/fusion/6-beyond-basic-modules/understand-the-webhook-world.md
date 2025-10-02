@@ -26,4 +26,4 @@ In questo video scoprirai:
 * La differenza tra webhook reattivi e passivi
 * Come creare code per i dati in arrivo con i webhook
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417940/?quality=12&learn=on&enablevpops=1&captions=ita)

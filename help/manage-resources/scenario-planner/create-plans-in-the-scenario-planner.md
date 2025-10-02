@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Questo video illustra come creare un piano in [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412631/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Stimare le informazioni sui ruoli per un piano
 

@@ -26,4 +26,4 @@ In questo video scoprirai come:
 * Riassegnare il lavoro da un utente a un altro
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413845/?quality=12&learn=on&enablevpops=1&captions=ita)

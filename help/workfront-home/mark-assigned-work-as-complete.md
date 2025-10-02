@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Perché lo stato è importante in [!DNL &#x200B; Workfront]
 * Come filtrare l’[!UICONTROL Elenco di lavoro] per visualizzare il lavoro completato
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444293/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Altri due modi per indicare il completamento del lavoro

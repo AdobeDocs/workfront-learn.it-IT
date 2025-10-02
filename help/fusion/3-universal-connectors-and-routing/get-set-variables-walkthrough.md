@@ -28,7 +28,7 @@ Cerca informazioni su un progetto in Workfront e invia un’e-mail con le inform
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417274/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 
 ## Tocca a te

@@ -36,6 +36,6 @@ In questo video scoprirai:
 * Come creare un predecessore tra progetti
 * Come tenere traccia dei predecessori tra progetti nei rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422836/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 Per scoprire come creare la vista **Predecessori e successori tra progetti** e il rapporto **Predecessori e successori tra progetti** utilizzato nel video, consulta il tutorial [Comprendere la modalità testo di base per le visualizzazioni](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=it) e assicurati di seguire i prerequisiti elencati, se necessario.

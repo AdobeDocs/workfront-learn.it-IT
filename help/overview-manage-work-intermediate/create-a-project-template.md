@@ -32,7 +32,7 @@ In questo video scoprirai come:
 * Creare un modello da zero
 * Creare un modello da un progetto esistente
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415445/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Modelli creati con [!UICONTROL Blueprint]
 

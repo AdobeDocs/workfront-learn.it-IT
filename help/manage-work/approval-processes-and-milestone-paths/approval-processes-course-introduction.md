@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Questo video illustra come i processi di approvazione possono semplificare e automatizzare il processo di revisione del lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436444/?quality=12&learn=on&enablevpops=1&captions=ita)

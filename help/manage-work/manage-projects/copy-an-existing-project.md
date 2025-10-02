@@ -27,7 +27,7 @@ Per finalizzare, fai clic su &quot;Copia progetto&quot; &#x200B;.
 I problemi non possono essere copiati direttamente durante questo processo in quanto non sono considerati lavoro pianificato. &#x200B; Per copiare i problemi, vai alla scheda Problemi, seleziona i problemi desiderati e utilizza l’opzione &quot;Copia in&quot; per trasferirli al nuovo progetto. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456046/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Punti chiave da eliminare
 

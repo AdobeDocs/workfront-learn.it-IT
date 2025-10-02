@@ -24,4 +24,4 @@ Questo tutorial video illustra:
 
 * Come ottimizzare gli strumenti di gestione delle risorse: durata e date pianificate, ore pianificate e assegnazioni di mansioni
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420174/?quality=12&learn=on&enablevpops=1&captions=ita)

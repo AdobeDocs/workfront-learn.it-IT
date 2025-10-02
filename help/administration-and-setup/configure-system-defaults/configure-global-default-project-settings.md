@@ -30,7 +30,7 @@ In questo video scoprirai come:
 * Impostare le preferenze globali del progetto
 * Creare e utilizzare pianificazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423349/?quality=12&learn=on&enablevpops=1&captions=ita)
 
 ## Impostazioni globali e di gruppo per progetti, attività e problemi
 
