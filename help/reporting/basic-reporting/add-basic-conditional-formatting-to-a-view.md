@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Cos’è la formattazione condizionale in una vista
 * Come creare e modificare la formattazione condizionale
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445449/?quality=12&learn=on&captions=ita)
 
 
 ## Riepilogo formattazione condizionale
