@@ -54,4 +54,4 @@ Crea un’attività in ogni progetto creato come parte della procedura dettaglia
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

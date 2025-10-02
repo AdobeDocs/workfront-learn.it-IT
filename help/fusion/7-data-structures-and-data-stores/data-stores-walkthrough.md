@@ -46,4 +46,4 @@ Gli archivi dati non sono progettati per essere utilizzati come data warehouse o
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
