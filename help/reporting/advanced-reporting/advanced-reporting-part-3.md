@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Gli aggregati calcolati
 * I raggruppamenti calcolati
 
->[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12&learn=on&enablevpops=1)
 
 ## Collegamenti utili
 

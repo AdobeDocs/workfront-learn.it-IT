@@ -11,7 +11,7 @@ thumbnail: 335065.png
 jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 100%
@@ -30,7 +30,7 @@ In questo video scoprirai come:
 * Impostare le preferenze globali del progetto
 * Creare e utilizzare pianificazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/3423349/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops=1)
 
 ## Impostazioni globali e di gruppo per progetti, attività e problemi
 
@@ -44,7 +44,7 @@ Quando apri le impostazioni [!UICONTROL Attività e problemi] potrai vedere qual
 
 Tuttavia, è possibile che non tutti i gruppi in [!DNL Workfront] necessitino delle stesse preferenze di progetto, attività e problema. Ad esempio, il gruppo marketing desidera che lo stato di un nuovo progetto sia Pianificazione, mentre il gruppo di project manager preferisce lo stato Richiesta.
 
-[!DNL Workfront] consente agli amministratori di gruppi di regolare alcune preferenze di progetti, attività e problemi per i loro gruppi. L’amministratore di sistema di [!DNL Workfront], mediante le opzioni di blocco/sblocco, determina quali preferenze possono essere modificate.
+[!DNL Workfront] consente agli amministratori di gruppi di regolare alcune preferenze di progetti, attività e problemi per i loro gruppi. L’amministratore di sistema di [!DNL Workfront], mediante i pulsante di attivazione di blocco/sblocco, determina quali preferenze possono essere modificate.
 
 Per iniziare, accedi all’area [!UICONTROL Configurazione]:
 

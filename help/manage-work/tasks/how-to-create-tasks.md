@@ -10,10 +10,10 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 10%
 Il video offre un’esercitazione sulla creazione di attività in un progetto Workfront, che illustra sia il metodo lungo che le pratiche scelte rapide. Enfatizza la flessibilità nella creazione delle attività e fornisce suggerimenti per una gestione efficiente delle attività.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423158/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

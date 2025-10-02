@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -35,6 +35,6 @@ In questo video scoprirai:
 * Come creare un predecessore tra progetti
 * Come tenere traccia dei predecessori tra progetti nei rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/3422836/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 Per scoprire come creare la vista **Predecessori e successori tra progetti** e il rapporto **Predecessori e successori tra progetti** utilizzato nel video, consulta il tutorial [Comprendere la modalità testo di base per le visualizzazioni](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=it) e assicurati di seguire i prerequisiti elencati, se necessario.

@@ -12,9 +12,9 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '647'
 ht-degree: 29%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 29%
 Il video fornisce una guida completa per comprendere e utilizzare le dashboard in Workfront.
 &#x200B;Spiega che una dashboard è una raccolta di rapporti che consente agli utenti di organizzare e visualizzare i dati correlati in un’unica posizione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449130/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -39,9 +39,9 @@ Il video fornisce una guida completa per comprendere e utilizzare le dashboard i
 
 ### Attività 1: creare un dashboard
 
-Crea un [!UICONTROL dashboard] contenente un solo report:&quot;Cerca note in questo progetto&quot;. Ciò è utile per trovare rapidamente qualsiasi aggiornamento apportato a un progetto, anche tra migliaia di aggiornamenti in cui cercare. In questo modo, la ricerca viene effettuata nei thread di aggiornamento per estrarre rapidamente tutti gli aggiornamenti che soddisfano i criteri specificati nelle richieste.
+Crea un [!UICONTROL dashboard] contenente un solo report:&quot;Cerca note in questo progetto&quot;. Ciò è utile per trovare rapidamente qualsiasi aggiornamento apportato a un progetto, anche tra migliaia di aggiornamenti in cui cercare. In questo modo, la ricerca viene effettuata nei thread di aggiornamento per estrarre rapidamente tutti gli aggiornamenti che soddisfano i criteri specificati nei prompt.
 
-Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; creato nell’attività &quot;Crea un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; creato nell’attività &quot;Crea un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Rimuovi il prompt Nome progetto dalla copia e rinomina il report &quot;Cerca note in questo progetto&quot;.
 * Denomina [!UICONTROL Dashboard] &quot;Note di ricerca&quot;.
@@ -50,7 +50,7 @@ Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; c
 
 ### Risposta 1
 
-1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Fai clic su **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Copia]**. [!DNL Workfront] crea un nuovo report denominato &quot;Ricerca nota (copia)&quot;.
 1. Passa ad **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Modifica]**. Fai clic su **[!UICONTROL Impostazioni report]** e cambia il nome in &quot;Cerca le note in questo progetto&quot;.
 1. Fai clic su [!UICONTROL Prompt rapporto] ed elimina il prompt [!UICONTROL Progetto] > [!UICONTROL Nome] dall’elenco.
@@ -77,5 +77,5 @@ Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; c
 1. Passa a qualsiasi progetto. Dal menu del pannello sinistro, fare clic sul pulsante **[!UICONTROL Aggiungi dashboard]**.
 1. Nel campo **[!UICONTROL Scegli un dashboard]**, digita &quot;Cerca note&quot; e seleziona [!UICONTROL dashboard] dall&#39;elenco.
 1. Nel campo **[!UICONTROL Nome collegamento rapido]** digitare &quot;Cerca note&quot;.
-1. Fare clic su **[!UICONTROL Aggiungi]**.
+1. Fai clic su **[!UICONTROL Aggiungi]**.
 1. Dal menu del pannello sinistro, individua le note di ricerca accanto alla parte inferiore. Fai clic sui punti a sinistra del nome e trascinalo verso l’alto sotto Aggiornamenti.

@@ -12,9 +12,9 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: b3cff8f86ceeb6e79e2b88ab335b2671aa25600a
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '321'
 ht-degree: 31%
 
 ---
@@ -25,7 +25,7 @@ Il video spiega come creare e utilizzare i filtri con più regole in Workfront. 
 In alternativa, è possibile modificare la logica del filtro in &quot;OR&quot;, che visualizza gli elementi che soddisfano una qualsiasi delle condizioni.
 Il video illustra anche come creare filtri per le attività utilizzando i gruppi di filtri. &#x200B; Ad esempio, puoi creare due gruppi: uno per le attività incomplete assegnate al team creativo in ritardo e un altro per le attività incomplete assegnate al team creativo non assegnate. &#x200B; All&#39;interno di ogni gruppo, si applica la logica &quot;AND&quot;, il che significa che tutte le condizioni del gruppo devono essere soddisfatte. &#x200B; La logica &quot;OR&quot; tra i gruppi consente di visualizzare le attività che soddisfano le condizioni di uno dei due gruppi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470701/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Attività filtro OR
 

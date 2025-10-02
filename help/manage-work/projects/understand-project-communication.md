@@ -12,7 +12,7 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 15%
@@ -32,13 +32,13 @@ Il video sottolinea l&#39;importanza di una comunicazione efficace per il succes
 
 Il video evidenzia come Workfront semplifica la comunicazione, la gestione delle attività e il reporting, garantendo che tutte le informazioni relative al progetto siano accessibili e organizzate. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436152/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=it#activity-1-create-a-dashboard).
+>Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
 ## Punti chiave da eliminare
 

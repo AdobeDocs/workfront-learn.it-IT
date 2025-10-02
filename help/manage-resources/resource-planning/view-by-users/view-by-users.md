@@ -11,7 +11,7 @@ thumbnail: 335168.jpeg
 jira: KT-8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 100%
@@ -26,4 +26,4 @@ In questo video:
 * Scopri come vengono visualizzate le informazioni sulle risorsa in questa vista
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3443814/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops=1)

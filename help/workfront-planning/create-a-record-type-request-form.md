@@ -1,6 +1,6 @@
 ---
 title: Creare un modulo di richiesta di tipo record
-description: Semplifica il lavoro imparando a creare moduli di richiesta personalizzati per organizzare le attività, raccogliere informazioni chiave e migliorare l’efficienza del team.
+description: Semplifica il lavoro scoprendo come creare moduli di richiesta personalizzati per organizzare le attività, raccogliere informazioni chiave e migliorare l’efficienza del team.
 feature: Workfront Planning,Requests
 topic: Administration,Collaboration
 role: Admin, Leader, User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 duration: 288
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18667
-source-git-commit: ca19e51981a9f75b0abe20349f2576632432c911
+exl-id: 23dacab2-5294-4c56-90a6-194b23c0dbdf
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 76%
 
 ---
 
-
 # Creare un modulo di richiesta di tipo record
 
-Semplifica il lavoro imparando a creare moduli di richiesta personalizzati per organizzare le attività, raccogliere informazioni chiave e migliorare l’efficienza del team.
+Semplifica il lavoro scoprendo come creare moduli di richiesta personalizzati per organizzare le attività, raccogliere informazioni chiave e migliorare l’efficienza del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471089/?learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops=1)

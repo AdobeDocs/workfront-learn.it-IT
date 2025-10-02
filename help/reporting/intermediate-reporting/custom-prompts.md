@@ -12,9 +12,9 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 5bc402119573d7ca0f478e1ed134c2bcfee52d8f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '199'
 ht-degree: 97%
 
 ---
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come creare un prompt personalizzato utilizzando la modalità testo
 * Alcuni esempi che è possibile utilizzare nel reporting
 
->[!VIDEO](https://video.tv.adobe.com/v/3412691/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Attività &quot;Crea prompt personalizzati&quot;
 

@@ -12,9 +12,9 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '534'
 ht-degree: 42%
 
 ---
@@ -29,7 +29,7 @@ Il video illustra il concetto dei componenti di reporting di Workfront, essenzia
 * **Qualificatore filtro:** definisce quali valori includere o escludere in un report, ad esempio le attività con priorità &quot;alta&quot;. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447029/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -80,5 +80,5 @@ Esempi: Nuovo, Attuale, $$TODAYbw, Descrizione
 
 >[!TIP]
 >
->Per informazioni su nomi di campo specifici in Workfront, consulta il [Glossario della terminologia di Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=it).
+>Per informazioni su specifici nomi di campo in Workfront, consulta il [Glossario della terminologia di Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=it).
 

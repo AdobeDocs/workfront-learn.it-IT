@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 9%
@@ -23,7 +23,7 @@ ht-degree: 9%
 
 Il video illustra i passaggi finali per portare in diretta un progetto cambiandone lo stato in &quot;corrente&quot; &#x200B;. Prima di procedere, si pone l&#39;accento sulla revisione degli elementi chiave del progetto, tra cui nomi delle attività, durate, ore pianificate, predecessori, date di inizio e completamento e assegnazioni, per garantire che tutto sia accurato e impostato correttamente. &#x200B; Una volta che il progetto è attivo, il project manager riceverà le notifiche in base alle impostazioni globali e personali e il progetto verrà visualizzato nei report e nei filtri per i progetti attivi. &#x200B; Questo segna l&#39;inizio ufficiale del lavoro. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3438997/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

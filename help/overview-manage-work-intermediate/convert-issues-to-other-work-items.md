@@ -12,10 +12,10 @@ recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
 exl-id: db8bce2e-86fc-49b7-b3fd-8d2d431cfaa7
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 Questo video illustra come convertire un problema o una richiesta in un’attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445438/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

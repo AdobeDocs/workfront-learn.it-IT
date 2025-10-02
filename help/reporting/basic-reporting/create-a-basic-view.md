@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '974'
-ht-degree: 75%
+source-wordcount: '977'
+ht-degree: 73%
 
 ---
 
@@ -25,7 +25,7 @@ Il video illustra come creare e personalizzare visualizzazioni in Workfront per 
 
 Il video sottolinea la flessibilità delle visualizzazioni in Workfront e fornisce istruzioni dettagliate per la creazione, la personalizzazione e la gestione delle visualizzazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450246/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -57,16 +57,16 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 
 1. In un rapporto con elenco delle attività, passa al menu a discesa **[!UICONTROL Vista]** e seleziona **[!UICONTROL Nuova vista]**.
 1. Assegna alla vista il nome “Vista con stato attività”.
-1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL &#x200B; Inizia il] e[!UICONTROL &#x200B; Scade il].
+1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL  Inizia il] e[!UICONTROL  Scade il].
 1. Fai clic su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Stato” sotto all’origine del campo [!UICONTROL Attività].
 1. Fai di nuovo clic su **[!UICONTROL Aggiungi colonna]**.
-1. Nel campo[!UICONTROL &#x200B; Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL &#x200B; Attività].
+1. Nel campo[!UICONTROL  Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL  Attività].
 1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Icone di stato” sotto all’origine del campo Attività.
 1. Fai clic su **[!UICONTROL Salva]**.
 
-Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL &#x200B; Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
+Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL  Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
 
 ### Attività 2: creare una vista Milestone
 
@@ -133,9 +133,9 @@ Modifica il [!UICONTROL Formato campo] delle colonne [!UICONTROL Inizio il] e [!
 1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita [!UICONTROL “vincolo”] quindi seleziona [!UICONTROL “Data vincolo”] nell’origine del campo Attività.
 1. Seleziona la colonna [!UICONTROL Inizio il], quindi fai clic su [!UICONTROL Opzioni avanzate].
-1. Nel menu a discesa [!UICONTROL Formato campo] seleziona [!UICONTROL “17/10/60 03.00”].
+1. Nel menu a discesa [!UICONTROL Formato campo], selezionare [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Seleziona la colonna [!UICONTROL Scadenza il], quindi fai clic su [!UICONTROL Opzioni avanzate].
-1. Nel menu a discesa [!UICONTROL Formato campo] seleziona [!UICONTROL “17/10/60 03.00”].
+1. Nel menu a discesa [!UICONTROL Formato campo], selezionare [!UICONTROL &quot;10/17/60 3:00 AM&quot;].
 1. Fai clic su **[!UICONTROL Salva]**.
 
 ### Attività 4: creare una vista dello stato attivo del modello di progetto

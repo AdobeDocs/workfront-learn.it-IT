@@ -11,7 +11,7 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come utilizzare i team interfunzionali
 * Come creare e associare i team
 
->[!VIDEO](https://video.tv.adobe.com/v/3432884/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
 
 ## Creazione team
 
@@ -35,7 +35,7 @@ In questo video scoprirai:
 1. Seleziona **[!UICONTROL Team]** dal **[!UICONTROL Menu principale]**.
 1. Seleziona **[!UICONTROL Crea team]**.
 1. Dai un nome al team.
-1. Indica se il team è un team Agile attivando l’interruttore.
+1. Indica se il team è un team Agile attivando il pulsante di attivazione.
 1. Associa il team a un gruppo di [!DNL Workfront], se desiderato.
 1. Aggiungi i membri del gruppo.
 1. Fai clic su **[!UICONTROL Crea]**.

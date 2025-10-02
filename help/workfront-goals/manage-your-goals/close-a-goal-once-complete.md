@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 100%
@@ -23,4 +23,4 @@ In questo video scoprirai come:
 
 * Chiudere un obiettivo per indicare quando l’obiettivo è completato o quando non ci stai più lavorando, né hai intenzione di farlo nell’immediato futuro
 
->[!VIDEO](https://video.tv.adobe.com/v/3415940/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops=1)

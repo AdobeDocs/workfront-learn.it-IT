@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-8756
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -24,7 +24,7 @@ In questo video scoprirai:
 * Gruppi
 * Team
 
->[!VIDEO](https://video.tv.adobe.com/v/3444282/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
 
 Prima di iniziare, ecco alcuni termini chiave con cui acquisire familiarità durante l’esplorazione delle organizzazioni di utenti in [!DNL Workfront].
 

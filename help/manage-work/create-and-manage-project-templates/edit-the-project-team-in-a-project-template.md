@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come evitare di includere involontariamente **non** membri del team di progetto in un modello di progetto.
 * Come modificare il team del modello di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441558/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

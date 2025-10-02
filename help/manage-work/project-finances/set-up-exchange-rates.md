@@ -13,10 +13,10 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 10%
+ht-degree: 17%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 Il video fornisce una guida sulla gestione delle valute nel sistema di tracciamento finanziario di Workfront. &#x200B; Spiega che la valuta predefinita è il dollaro statunitense, ma è possibile impostare valute aggiuntive a livello globale o per singoli progetti e mansioni.
 Il video sottolinea che il sistema non fornisce i tassi di cambio correnti, quindi gli utenti devono rifornirli esternamente. &#x200B; Una volta impostati, i tassi di cambio diventano il valore predefinito per i progetti o le mansioni, ma non vengono aggiornati automaticamente; gli utenti con le autorizzazioni appropriate devono aggiornarli manualmente. &#x200B; Dopo aver impostato le valute, gli utenti possono creare nuovi progetti e selezionare tra le opzioni di valuta disponibili, con la possibilità di personalizzare i tassi di cambio per i singoli progetti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

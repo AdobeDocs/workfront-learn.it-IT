@@ -1,6 +1,6 @@
 ---
 title: Comprendere i filtri dei problemi incorporati
-description: Scopri come rivedere i filtri dei problemi incorporati per vedere come vengono generati e creare un filtro dei problemi personalizzato in Workfront.
+description: Scopri come rivedere i filtri incorporati per i problemi, per capire come vengono generati e creare un filtro personalizzato per i problemi in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: 49bb67fca72deb4f679d6428353e0977cd897ec1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 49%
+source-wordcount: '274'
+ht-degree: 56%
 
 ---
 
@@ -27,7 +27,7 @@ In questo video:
 * Scoprire alcuni elementi di reporting utili sui problemi
 * Scoprire come creare un filtro di problema personalizzato
 
->[!VIDEO](https://video.tv.adobe.com/v/3412679/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&amp;learn=on&amp;enablevpops=0
 
 
 ## Attività &quot;Comprendere i filtri dei problemi incorporati&quot;

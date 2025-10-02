@@ -12,7 +12,7 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%
@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Come accedere al grafico lavoro
 * Come comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità in un progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/3438892/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
 
 ## Tracciare la velocità del progetto
 
@@ -44,7 +44,7 @@ Sul grafico puoi vedere:
 1. Numero di ore a sinistra.
 1. Le date vengono visualizzate in basso, inclusa la data di completamento pianificata del progetto, se presente nell’intervallo di date selezionato.
 1. La linea blu continua mostra la velocità del progetto (ore pianificate o durata nel tempo), trasformandosi in una linea verticale tratteggiata quando raggiunge la data di completamento pianificata per il progetto.
-1. Le linee verdi indicano quando la condizione del progetto è Puntuale.
+1. Le linee verdi indicano quando la condizione del progetto è in linea con le previsioni.
 1. Le linee arancioni indicano quando la condizione del progetto è A rischio.
 1. Le linee rosse indicano quando la condizione del progetto è In difficoltà.
 1. Le informazioni sulle attività e sulle ore (totali, importo aggiunto e importo completato) in un giorno specifico vengono visualizzate sotto l’asse x quando fai clic su un punto specifico del grafico.

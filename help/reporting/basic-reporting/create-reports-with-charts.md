@@ -12,9 +12,9 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '596'
 ht-degree: 33%
 
 ---
@@ -38,7 +38,7 @@ Il video spiega come utilizzare i grafici per visualizzare i dati in modo effica
 
 Il video evidenzia come grafici a torta e istogrammi sovrapposti possono fornire informazioni approfondite sulla distribuzione delle attività e sulle prestazioni del progetto, aiutando gli utenti a confrontare i progetti e a comprendere visivamente l’avanzamento delle attività. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450022/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -73,7 +73,7 @@ La fine del trimestre è vicina e desideri vedere se è stato rispettato il budg
 1. Nella scheda **[!UICONTROL Filtri]**, aggiungi due regole di filtro:
 
    * [!UICONTROL Progetto] > [!UICONTROL Stato equivale a] > [!UICONTROL Completato]
-   * [!UICONTROL Progetto] > [!UICONTROL &#x200B; Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
+   * [!UICONTROL Progetto] > [!UICONTROL  Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
 
    ![Immagine della schermata per aggiungere filtri a un rapporto](assets/chart-report-filters.png)
 

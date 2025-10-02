@@ -11,7 +11,7 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 99%
@@ -32,7 +32,7 @@ In questo video scoprirai come:
 * Creare una documentazione dettagliata e condivisibile
 * Profondità, ambito, complessità e carico del test
 
->[!VIDEO](https://video.tv.adobe.com/v/3418732/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## Elenco di controllo degli aspetti da considerare nei test
 
@@ -48,4 +48,4 @@ Dai priorità ai test durante l’intero ciclo di vita dell’implementazione di
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

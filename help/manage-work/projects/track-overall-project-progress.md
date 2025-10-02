@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 12%
@@ -25,7 +25,7 @@ Il video spiega come tenere traccia dell’avanzamento complessivo del progetto 
 
 Il video sottolinea l’importanza di aggiornamenti regolari da parte dei membri del team e della gestione proattiva dei problemi per garantire un tracciamento accurato e il completamento tempestivo del progetto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447418/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

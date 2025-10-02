@@ -13,7 +13,7 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 13%
@@ -24,7 +24,7 @@ ht-degree: 13%
 
 Il video fornisce una guida dettagliata su come effettuare e gestire le richieste all’interno di Workfront. Spiega il processo di creazione di una richiesta, iniziando selezionando &quot;Richieste&quot; dal menu principale e facendo clic sul pulsante &quot;Nuova richiesta&quot;. &#x200B; Gli utenti possono scegliere un tipo di richiesta tra code personalizzate in base ai flussi di lavoro dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

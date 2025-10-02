@@ -12,7 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 12%
@@ -24,7 +24,7 @@ ht-degree: 12%
 Il video spiega come utilizzare la funzione Impegno di lavoro in Workfront per stimare le ore pianificate per le attività in cui è difficile determinare stime precise.
 Viene illustrato come creare una visualizzazione personalizzata Impegno di lavoro per semplificare la gestione delle attività aggiungendo colonne rilevanti come Impegno di lavoro, Ore pianificate e Tipo di durata
 
->[!VIDEO](https://video.tv.adobe.com/v/3447407/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

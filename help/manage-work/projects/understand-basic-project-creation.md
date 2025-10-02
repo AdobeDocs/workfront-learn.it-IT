@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 21%
@@ -25,7 +25,7 @@ ht-degree: 21%
 Questo video spiega come creare e gestire un progetto da zero. &#x200B; Inizia creando un nuovo progetto, rinominandolo e impostando un obiettivo con una descrizione, una data di inizio e una data di completamento target. I progetti possono essere suddivisi in attività, ovvero lavoro pianificato con durate e assegnazioni stimate. &#x200B; Le attività possono essere sequenziate utilizzando i predecessori e lo stato del progetto può essere impostato su &quot;Corrente&quot; per notificare il team e includerlo nei rapporti. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422291/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

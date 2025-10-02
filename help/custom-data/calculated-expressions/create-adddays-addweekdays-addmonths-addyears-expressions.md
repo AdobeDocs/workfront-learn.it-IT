@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '275'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Calcolo delle espressioni ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR
 * Creare un’espressione dati ADDWEEKDAYS in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/3416190/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## Altri esempi
 
@@ -35,7 +35,7 @@ Di seguito sono riportate alcune espressioni ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEA
 
 Il cliente desiderava sapere quando l’attività avrebbe dovuto essere completata in base alla data di inizio effettiva e alla durata pianificata. In questo caso, la data di completamento prevista non funzionerà perché può essere spostata se l’attività è in ritardo e la data di completamento pianificata non aiuta se ci sono ritardi nelle attività precedenti.
 
-L’espressione creata è ADDDAYS({actualStartDate},{durationMinutes}/480)
+L&#39;espressione creata è ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 Il tempo nel campo Durata viene memorizzato in minuti. Pertanto, in questa espressione, il campo Durata non può essere autonomo se il tempo deve essere espresso in giorni. Affinché ciò accada, la Durata deve essere divisa per 480 minuti (480 minuti = 8 ore = 1 giorno)
 

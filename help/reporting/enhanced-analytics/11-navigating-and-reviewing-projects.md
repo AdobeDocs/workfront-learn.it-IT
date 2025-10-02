@@ -12,7 +12,7 @@ jira: KT-8729
 recommendations: noDisplay,catalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 100%
@@ -25,7 +25,7 @@ In questo video scoprirai:
 
 * Come leggere il grafico Pianificazione in corso
 
->[!VIDEO](https://video.tv.adobe.com/v/3439021/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
 
 ## Grafico Pianificazione in corso
 
@@ -36,7 +36,7 @@ Nel grafico puoi visualizzare:
 1. I nomi dei progetti a sinistra.
 1. Le date vengono visualizzate in basso.
 1. La linea blu verticale mostra la data specifica su cui è posizionato il cursore del mouse.
-1. Le linee blu orizzontali mostrano le date di inizio e fine pianificate del progetto.
+1. Le linee blu orizzontali mostrano le date di inizio e di fine pianificate del progetto.
 1. Le linee verdi indicano che il progetto è On Target.
 1. Le linee arancioni indicano che il progetto è A rischio.
 1. Le linee rosse indicano che il progetto è In difficoltà.

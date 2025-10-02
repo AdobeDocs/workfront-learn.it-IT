@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Per finalizzare, fai clic su &quot;Copia progetto&quot; &#x200B;.
 I problemi non possono essere copiati direttamente durante questo processo in quanto non sono considerati lavoro pianificato. &#x200B; Per copiare i problemi, vai alla scheda Problemi, seleziona i problemi desiderati e utilizza l’opzione &quot;Copia in&quot; per trasferirli al nuovo progetto. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456046/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

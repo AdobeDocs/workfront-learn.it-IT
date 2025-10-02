@@ -12,7 +12,7 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 12%
@@ -24,7 +24,7 @@ ht-degree: 12%
 Il video sottolinea l&#39;importanza della comunicazione nella gestione dei progetti ed evidenzia il ruolo delle questioni come strumento chiave per facilitare la comunicazione. &#x200B; Spiega la differenza tra aggiornamenti e problemi, notando che i problemi sono più adatti per il lavoro che deve essere assegnato, tracciato e risolto prima che un progetto possa essere completato. &#x200B; Il video fornisce una guida dettagliata su come registrare i problemi. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446574/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

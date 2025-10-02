@@ -11,7 +11,7 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -23,16 +23,16 @@ ht-degree: 0%
 In questo video scoprirai:
 
 * Come comunicare lo stato di avanzamento del lavoro
-* Perché lo stato è importante in [!DNL &#x200B; Workfront]
+* Perché lo stato è importante in [!DNL  Workfront]
 * Come filtrare l’[!UICONTROL Elenco di lavoro] per visualizzare il lavoro completato
 
->[!VIDEO](https://video.tv.adobe.com/v/3444293/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
 
 
 ## Altri due modi per indicare il completamento del lavoro
 
 * Modificare il menu a discesa [!UICONTROL Stato] in Completato.
-* Aggiornare la[!UICONTROL &#x200B; percentuale di completamento] al 100 per cento. Lo stato viene modificato automaticamente in Completato.
+* Aggiornare la[!UICONTROL  percentuale di completamento] al 100 per cento. Lo stato viene modificato automaticamente in Completato.
 
 <!--
 learn more URLs

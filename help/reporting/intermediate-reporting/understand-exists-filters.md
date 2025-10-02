@@ -1,6 +1,6 @@
 ---
 title: Comprendere i filtri EXISTS
-description: Scopri cos’è un filtro EXISTS, cosa può fare per te e come crearne uno da zero. Inoltre vedi molti utili esempi di filtri EXISTS.
+description: Scopri che cos’è un filtro EXISTS, perché ti può essere utile e come crearne uno da zero. Inoltre consulta numerosi utili esempi di filtri EXISTS.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,10 +10,11 @@ level: Intermediate
 jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
+exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '682'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -23,9 +24,9 @@ I filtri EXISTS sono filtri avanzati in modalità testo, che ci consentono di ag
 
 Questo video illustra come creare un filtro EXISTS per visualizzare &quot;Approvazioni bozza su progetti correnti&quot; in un rapporto sulle approvazioni bozza.
 
-Per informazioni dettagliate sulla funzione EXISTS, vedere [Creare filtri in modalità testo complessi utilizzando istruzioni EXISTS](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
+Per informazioni dettagliate sulla funzione EXISTS, vedere [Creare filtri in modalità testo complessi utilizzando istruzioni EXISTS](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements).
 
->[!VIDEO](https://video.tv.adobe.com/v/3471211/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Esempi di filtro EXISTS
 

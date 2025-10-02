@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 54%
@@ -22,7 +22,7 @@ ht-degree: 54%
 
 # Usare la pagina del progetto
 
-Questo video fornisce una panoramica della navigazione e della gestione della pagina del progetto in Workfront. &#x200B; Le caratteristiche principali includono:
+Questo video fornisce una panoramica della navigazione e della gestione della pagina del progetto in Workfront. &#x200B; Le sue funzionalità principali includono:
 
 * **Intestazione progetto:** Visualizza informazioni essenziali quali la percentuale di completamento, il project manager, la data di completamento pianificata, la condizione del progetto e lo stato. &#x200B; Lo stato consente di tenere traccia della fase del progetto e attiva le notifiche. &#x200B;
 * **Navigazione breadcrumb:** mostra la posizione del progetto all&#39;interno del programma e del portfolio dell&#39;organizzazione, con collegamenti selezionabili per facilitarne la navigazione. &#x200B;
@@ -33,7 +33,7 @@ Questo video fornisce una panoramica della navigazione e della gestione della pa
 * **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; I documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449734/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 
@@ -59,7 +59,7 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 5. **[!UICONTROL Percentuale di completamento:]** si aggiorna automaticamente, in base alle attività completate nel progetto.
 6. **[!UICONTROL Proprietario del progetto]:** nella maggior parte delle organizzazioni, è il project manager. Si tratta della persona responsabile della gestione del progetto in [!DNL Workfront] e della conferma del completamento.
 7. **[!UICONTROL Data di completamento pianificata]:** la data di completamento pianificata del progetto viene impostata dal project manager attraverso la timeline del progetto.
-8. **[!UICONTROL Condizione]:** la[!UICONTROL &#x200B; condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
+8. **[!UICONTROL Condizione]:** la[!UICONTROL  condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
 9. **[!UICONTROL Stato]:** lo [!UICONTROL stato] indica dove si trova il progetto all’interno di un processo, ovvero se è ancora in fase di pianificazione o è in corso, oppure se tutto il lavoro inerente il progetto è stato completato.
 10. **[!UICONTROL Nuova attività]:** fai clic su questa opzione per creare una nuova attività nel progetto. L’attività viene generata alla fine dell’elenco.
 11. **[!UICONTROL Esporta]:** esporta l’elenco attività o le attività selezionate in un file PDF, foglio di calcolo o file delimitato da tabulazioni.

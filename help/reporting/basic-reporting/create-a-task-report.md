@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '1116'
-ht-degree: 76%
+ht-degree: 77%
 
 ---
 
@@ -25,7 +25,7 @@ Il video fornisce una guida dettagliata sulla creazione di un rapporto personali
 
 Il rapporto risultante consente agli utenti di concentrarsi sulle attività in ritardo, fornisce informazioni approfondite sulle dipendenze e semplifica la navigazione ai progetti host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448350/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -41,11 +41,11 @@ Il rapporto risultante consente agli utenti di concentrarsi sulle attività in r
 >[!TIP]
 >
 >Tira fuori spatole e ciotole per miscelare gli ingredienti e inizia a sperimentare le “ricette” presenti nel nostro [Ricettario di reportistica clienti Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). All’interno troverai istruzioni dettagliate per 10 rapporti, pronti per essere inseriti nel tuo ambiente oggi stesso.
->&#x200B;>Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
->&#x200B;>Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
+>>Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
+>>Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
 
 
-### Attività 1: crea un rapporto di nota con indicazioni
+### Attività 1: crea un rapporto Nota con prompt
 
 Crea un rapporti sulle note che è possibile utilizzare per cercare note utente (ad esempio, commenti o aggiornamenti) o note di sistema in base al contenuto della nota, all’autore, alla data di immissione, al nome del progetto o al tipo di audit. Denomina il rapporto “Ricerca nota”.
 
@@ -65,7 +65,7 @@ Lascia vuota la scheda del filtro.
 
 Raggruppa per nome progetto.
 
-Includi richieste per:
+Includi prompt per:
 
 * Testo di controllo
 * Testo della Nota
@@ -178,7 +178,7 @@ Puoi filtrare in base all’ID del progetto della coda richieste in cui si trova
 
    * [!UICONTROL Problema] > [!UICONTROL Nome]
    * [!UICONTROL Contatto primario] > [!UICONTROL Nome]
-      * Nota: viene visualizzato con “Proprietario:Nome” come l’etichetta della colonna. Puoi cambiare questa impostazione in “Segnalato da”, facendo clic su Opzioni avanzate e digitando “Segnalato da” nel campo **Etichetta colonna personalizzata**.
+      * Nota: viene visualizzato con &quot;Proprietario:Name&quot; come etichetta di colonna. Puoi cambiare questa impostazione in “Segnalato da”, facendo clic su Opzioni avanzate e digitando “Segnalato da” nel campo **Etichetta colonna personalizzata**.
    * [!UICONTROL Problema] > [!UICONTROL Tipo di processo]
    * [!UICONTROL Problema] > [!UICONTROL Nome processo]
    * [!UICONTROL Problema] > [!UICONTROL Livello processo]

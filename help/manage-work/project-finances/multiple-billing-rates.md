@@ -13,10 +13,10 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 9%
 Il video spiega come gestire e personalizzare le tariffe di fatturazione per i ruoli all’interno di un progetto. &#x200B;Evidenzia la flessibilità nell’impostare più tariffe di fatturazione per lo stesso ruolo e nel garantire adeguamenti accurati basati sul tempo. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 
@@ -39,6 +39,6 @@ Il video spiega come gestire e personalizzare le tariffe di fatturazione per i r
 ## Tutorial consigliati su questo argomento
 
 * [Trovare informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
-* [Aggiorna dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Aggiornare i dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

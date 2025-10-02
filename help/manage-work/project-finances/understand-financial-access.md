@@ -13,7 +13,7 @@ exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 12%
@@ -25,7 +25,7 @@ ht-degree: 12%
 Il video illustra il ruolo dell&#39;amministratore di sistema nella gestione dell&#39;accesso alle informazioni finanziarie in Workfront. &#x200B; L’amministratore controlla l’accesso tramite i livelli di accesso.&#x200B;
 Il video sottolinea che gli utenti possono utilizzare il loro accesso finanziario solo sui progetti che creano o sui progetti in cui qualcuno con accesso finanziario lo ha condiviso con loro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

@@ -12,7 +12,7 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 3%
@@ -25,7 +25,7 @@ Il video spiega come utilizzare lo strumento di ottimizzazione Portfolio in Work
 
 Il video sottolinea l&#39;importanza di completare i casi aziendali per effettuare confronti accurati e fornisce istruzioni dettagliate per ottimizzare e gestire in modo efficace le priorità dei progetti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446283/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

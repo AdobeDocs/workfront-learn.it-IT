@@ -1,6 +1,6 @@
 ---
 title: Impostare i valori predefiniti dei ricavi e dei costi delle attività
-description: Scopri dove vengono utilizzati il tipo di ricavi e i tipi di costo e come impostare i valori predefiniti di sistema.
+description: Scopri dove vengono utilizzati il tipo di ricavi e il tipo di costi e come impostare i valori predefiniti di sistema.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,19 +13,19 @@ exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 15%
+ht-degree: 32%
 
 ---
 
 
 # Impostare i valori predefiniti dei ricavi e dei costi delle attività
 
-Scopri dove vengono utilizzati il tipo di ricavi e i tipi di costo e come impostare i valori predefiniti di sistema.
+Scopri dove vengono utilizzati il tipo di ricavi e il tipo di costi e come impostare i valori predefiniti di sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

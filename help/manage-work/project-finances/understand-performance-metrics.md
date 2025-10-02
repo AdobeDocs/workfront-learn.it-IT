@@ -13,7 +13,7 @@ exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 6%
@@ -34,7 +34,7 @@ Il video illustra le metriche e le impostazioni delle prestazioni finanziarie pe
 
 Il video evidenzia la flessibilità e il controllo disponibili sia per gli amministratori di sistema che per i project manager nella gestione delle metriche e dei calcoli delle prestazioni. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

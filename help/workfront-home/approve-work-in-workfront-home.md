@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8804
 exl-id: b5ec0919-01b1-4bc8-86bd-91ee73d925a6
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
@@ -25,7 +25,7 @@ In questo video scoprirai come:
 * Approvare o rifiutare lavori
 * Rivedere una bozza
 
->[!VIDEO](https://video.tv.adobe.com/v/3447915/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLs

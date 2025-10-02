@@ -1,6 +1,6 @@
 ---
-title: Creare e gestire regole aziendali
-description: Scopri come creare e gestire le regole aziendali.
+title: Creare e gestire le regole di business
+description: Scopri come creare e gestire le regole di business.
 feature: System Setup and Administration
 topic: Administration
 role: Admin
@@ -10,15 +10,15 @@ duration: 212
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16025
 exl-id: 856ec1cd-3099-419d-aec7-6ead21fc85b1
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 100%
 
 ---
 
-# Creare e gestire regole aziendali
+# Creare e gestire le regole di business
 
-Scopri come creare e gestire le regole aziendali.
+Scopri come creare e gestire le regole di business.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)

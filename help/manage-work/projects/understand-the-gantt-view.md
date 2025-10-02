@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 12%
@@ -40,7 +40,7 @@ Nel video viene illustrato come utilizzare il Diagramma di Gantt del progetto e 
 
 Il video sottolinea la flessibilità dei grafici di Gantt, consentendo agli utenti di personalizzare le viste e visualizzare più elementi contemporaneamente per una migliore gestione del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448014/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafico di Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=it).
 

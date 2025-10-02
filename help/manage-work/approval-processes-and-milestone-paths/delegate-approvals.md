@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 7%
@@ -27,7 +27,7 @@ Per le approvazioni, gli utenti possono delegarle tramite il widget &quot;In att
 Le approvazioni delegate sono contrassegnate nel sistema, mostrando chi le ha delegate e a chi. &#x200B; Gli aggiornamenti relativi alle approvazioni vengono visualizzati nella scheda Aggiornamento e l’attività di sistema può essere visualizzata nella scheda Attività di sistema. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446384/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

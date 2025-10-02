@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 7%
@@ -24,7 +24,7 @@ ht-degree: 7%
 Il video illustra la gestione del portfolio, incentrata sul modo in cui i manager possono ottimizzare la selezione dei progetti per allinearla agli obiettivi aziendali. &#x200B; Introduce il concetto di portfolio come insiemi di progetti in competizione per risorse condivise, budget e pianificazioni. &#x200B; I manager possono utilizzare strumenti come Portfolio Optimizer per confrontare i progetti in base a criteri quali manodopera, spese, rischi, ROI e allineamento con gli obiettivi del portfolio. &#x200B; La preparazione dei progetti per il confronto comporta la creazione di un business case per ciascuno di essi. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442836/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
 exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -31,7 +31,7 @@ In questo video scoprirai:
 * Come condividere un progetto inserendolo in un portfolio
 * Best practice per condividere un progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/3423149/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

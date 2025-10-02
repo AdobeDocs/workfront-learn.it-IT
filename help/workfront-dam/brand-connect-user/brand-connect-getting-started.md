@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '494'
 ht-degree: 100%
@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Come navigare in Brand Connect
 * Come cercare le risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/3418748/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops=1)
 
 ## Criteri di ricerca di base
 
@@ -68,7 +68,7 @@ Le linee guida del marchio sono un insieme di regole che spiegano come funziona 
 * Una panoramica della storia, della visione, della personalità e del “tono di voce” che caratterizza il tuo marchio.
 * Regole sull’utilizzo del logo aziendale (cosa fare e cosa evitare).
 * Esempi di font approvati per la stampa e il web.
-* Suddivisioni dei colori primari e secondari dell’azienda.
+* Raggruppamenti dei colori primari e secondari dell’azienda.
 * Esempi di stili di immagine e foto che funzionano bene con il marchio.
 
 Una volta effettuato l’accesso a [!UICONTROL Brand Connect], accedi alle linee guida facendo clic su Linee guida per il marchio nella barra di navigazione in alto.

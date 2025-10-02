@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8973
 exl-id: 7853a76c-02df-4f50-bb05-c03abfeafd05
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ In questo video:
 * Impostare un elenco di parole chiave
 * Creare e importare un elenco di parole chiave
 
->[!VIDEO](https://video.tv.adobe.com/v/3419510/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops=1)
 
 ## Best practice per le parole chiave
 

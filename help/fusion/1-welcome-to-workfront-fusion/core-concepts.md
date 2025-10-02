@@ -11,7 +11,7 @@ jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 100%
@@ -24,7 +24,7 @@ In questo video scoprirai:
 
 * Tre concetti di base che compongono Workfront Fusion: scenari, app e moduli
 
->[!VIDEO](https://video.tv.adobe.com/v/3415962/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
 
 ## Terminologia dei concetti di base
 

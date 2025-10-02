@@ -8,7 +8,7 @@ jira: KT-10873
 thumbnail: 346283.jpeg
 exl-id: ebd18f1d-f309-4e99-9c76-8aabd4009806
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Scopri come suddividere le storie in storie più piccole, assegnare loro una nuova priorità e contrassegnare le storie come pronte per essere inserite in un’iterazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412186/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops=1)

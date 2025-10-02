@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: 7a6bf5fe51622de59749b821009e5d645d04719f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 2%
@@ -24,7 +24,7 @@ Nel video viene illustrato come utilizzare gli elementi di reporting di Workfron
 
 Il video illustra inoltre come personalizzare gli elementi di reporting e condividerli con altri utenti. &#x200B; Questi strumenti consentono agli utenti di personalizzare l’elenco dei rapporti in base alle loro esigenze, per migliorarne la visibilità e la gestione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447796/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

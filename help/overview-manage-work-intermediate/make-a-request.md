@@ -14,7 +14,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
@@ -34,7 +34,7 @@ In questo video scoprirai come:
 * Trovare una bozza di una richiesta
 * Visualizza gli ultimi tre percorsi della richiesta
 
->[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

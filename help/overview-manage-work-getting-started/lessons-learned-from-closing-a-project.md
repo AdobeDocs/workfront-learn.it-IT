@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 58%
@@ -29,7 +29,7 @@ Questo video illustra i vantaggi di:
 * Creazione di rapporti personalizzati sulle lezioni apprese
 * Creazione di un progetto basato sulle esperienze acquisite
 
->[!VIDEO](https://video.tv.adobe.com/v/3441020/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 11%
@@ -23,7 +23,7 @@ ht-degree: 11%
 
 Questo video fornisce una guida dettagliata sulla gestione delle attività in Workfront. Consente di ottimizzare l&#39;efficienza della gestione delle attività, tra cui la modifica, l&#39;eliminazione, l&#39;aggiunta, la duplicazione e la riorganizzazione delle attività all&#39;interno di un piano di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448564/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## Punti chiave da eliminare
 

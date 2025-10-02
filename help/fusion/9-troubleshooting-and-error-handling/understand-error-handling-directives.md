@@ -11,7 +11,7 @@ jira: KT-9064
 exl-id: cb8d0880-73d2-4118-b800-a126f8509309
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -25,7 +25,7 @@ In questo video scoprirai:
 * Le tre direttive dell’handler degli errori che consentono la continuazione dell’esecuzione
 * Le due direttive dell’handler degli errori che interrompono l’esecuzione
 
->[!VIDEO](https://video.tv.adobe.com/v/3418137/?quality=12&learn=on&enablevpops&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
 
 ## Direttive — Continuazione dello scenario
 
