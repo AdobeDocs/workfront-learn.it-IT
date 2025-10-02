@@ -12,9 +12,9 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '287'
 ht-degree: 85%
 
 ---
@@ -40,7 +40,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei raggruppamenti di rapporti
 
->[!VIDEO] (https://video.tv.adobe.com/v/3470787/?quality=12&learn=on&enablevpops=0&captions=ita
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## Attività &quot;Comprendere la modalità testo di base per i raggruppamenti&quot;
 

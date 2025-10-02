@@ -12,9 +12,9 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 46%
 
 ---
@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * comprendere a cosa servono i caratteri jolly
 * Creare un filtro con un carattere jolly basato sull’utente
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412655/?quality=12&learn=on&enablevpops=0&captions=ita
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >

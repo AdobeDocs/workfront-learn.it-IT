@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '464'
 ht-degree: 95%
 
 ---
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Cos’è la formattazione condizionale in una vista
 * Come creare e modificare la formattazione condizionale
 
->[!VIDEO] (https://video.tv.adobe.com/v/3445449/?quality=12&learn=on&enablevpops=0&captions=ita
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
 ## Riepilogo formattazione condizionale

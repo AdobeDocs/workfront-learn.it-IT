@@ -12,9 +12,9 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '423'
 ht-degree: 88%
 
 ---
@@ -41,7 +41,7 @@ In questo video scoprirai:
 * Borsa Camel
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei filtri dei report
 
->[!VIDEO] (https://video.tv.adobe.com/v/3412684/?quality=12&learn=on&enablevpops=0&captions=ita
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## Attività &quot;Comprendere la modalità testo di base per i filtri&quot;
 

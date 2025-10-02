@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '635'
 ht-degree: 54%
 
 ---
@@ -31,7 +31,7 @@ Impara a creare un modello di progetto da zero e da un progetto esistente e capi
 * Una volta creato, il modello può essere utilizzato per produrre nuovi progetti. Il video illustra come creare un nuovo progetto dal modello, apportare le modifiche necessarie e aggiungere attività o modificare le durate in base alle esigenze. &#x200B; Viene inoltre illustrato come assegnare mansioni alle attività utilizzando le funzionalità di pianificazione e pianificazione delle risorse. &#x200B;
 * Il video spiega come salvare un progetto esistente come nuovo modello, consentendo aggiornamenti e miglioramenti nel flusso di lavoro. &#x200B; Evidenzia l’importanza di gestire i modelli per evitare confusione e garantire un’esecuzione dei progetti semplificata. &#x200B;
 
->[!VIDEO] (https://video.tv.adobe.com/v/3415445/?quality=12&learn=on&enablevpops=0&captions=ita
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## Punti chiave da eliminare
 
