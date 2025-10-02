@@ -1,6 +1,6 @@
 ---
 title: Modificare un modello di flusso di lavoro automatizzato
-description: Scopri come apportare modifiche a un modello di flusso di lavoro di bozza automatico esistente in  [!DNL  Workfront].
+description: Scopri come apportare modifiche a un modello di flusso di lavoro di bozza automatico esistente in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

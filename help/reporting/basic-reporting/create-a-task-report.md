@@ -25,7 +25,7 @@ Il video fornisce una guida dettagliata sulla creazione di un rapporto personali
 
 Il rapporto risultante consente agli utenti di concentrarsi sulle attività in ritardo, fornisce informazioni approfondite sulle dipendenze e semplifica la navigazione ai progetti host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -41,8 +41,8 @@ Il rapporto risultante consente agli utenti di concentrarsi sulle attività in r
 >[!TIP]
 >
 >Tira fuori spatole e ciotole per miscelare gli ingredienti e inizia a sperimentare le “ricette” presenti nel nostro [Ricettario di reportistica clienti Adobe Workfront](/help/assets/workfront-customer-reporting-cookbook.pdf). All’interno troverai istruzioni dettagliate per 10 rapporti, pronti per essere inseriti nel tuo ambiente oggi stesso.
->>Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
->>Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
+>&#x200B;>Abbiamo raccolto i rapporti preferiti dalla clientela e li abbiamo inseriti in un manuale facilmente comprensibile e riconoscibile, da riportare e testare nella cucina di Workfront.
+>&#x200B;>Questi 10 rapporti provengono da clienti che sono proprio come te. Distribuiti in vari settori, reparti, team, posizioni e tutti in diverse aziende, dobbiamo ringraziare gli incredibili clienti che hanno condiviso uno dei loro rapporti preferiti. Alcuni rapporti sono semplici (ma incredibilmente utili), mentre altri sono più complessi e possono portare la reportistica a un livello successivo.
 
 
 ### Attività 1: crea un rapporto Nota con prompt

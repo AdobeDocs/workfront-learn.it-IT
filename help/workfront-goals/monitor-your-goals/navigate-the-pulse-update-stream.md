@@ -1,6 +1,6 @@
 ---
 title: Passare al flusso di aggiornamento [!UICONTROL Pulse] in  [!DNL Goals]
-description: Scopri come passare al flusso di aggiornamento [!UICONTROL Pulse] in [!DNL   Goals].
+description: Scopri come passare al flusso di aggiornamento [!UICONTROL Pulse] in [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

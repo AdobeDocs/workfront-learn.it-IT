@@ -1,6 +1,6 @@
 ---
 title: Come assegnare le priorità al lavoro nella [!UICONTROL Home]
-description: Scopri come contrassegnare gli elementi nell’[!UICONTROL Elenco di lavoro] come assegnazioni prioritarie nella pagina Home. Quindi filtrare l’elenco per visualizzare il lavoro con priorità in  [!DNL  Workfront].
+description: Scopri come contrassegnare gli elementi nell’[!UICONTROL Elenco di lavoro] come assegnazioni prioritarie nella pagina Home. Quindi filtrare l’elenco per visualizzare il lavoro con priorità in  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: User

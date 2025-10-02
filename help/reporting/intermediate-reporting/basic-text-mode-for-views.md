@@ -41,7 +41,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nelle visualizzazioni dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0
 
 ## Attività &quot;Comprendere la modalità testo di base per le visualizzazioni&quot;
 

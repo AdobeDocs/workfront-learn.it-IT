@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * comprendere a cosa servono i caratteri jolly
 * Creare un filtro con un carattere jolly basato sull’utente
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0
 
 >[!TIP]
 >

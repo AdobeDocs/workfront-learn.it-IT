@@ -1,6 +1,6 @@
 ---
 title: Registrare e rivedere gli orari
-description: Registra le ore in sospeso e controlla quelle registrate prima di chiudere un progetto in  [!DNL  Workfront].
+description: Registra le ore in sospeso e controlla quelle registrate prima di chiudere un progetto in  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

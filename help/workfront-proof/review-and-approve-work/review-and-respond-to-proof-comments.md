@@ -1,6 +1,6 @@
 ---
 title: Rivedere e rispondere ai commenti della bozza
-description: Scopri come visualizzare e rispondere ai commenti della bozza dal Proof Viewer e dalla sezione [!UICONTROL Aggiornamenti] di  [!DNL  Workfront].
+description: Scopri come visualizzare e rispondere ai commenti della bozza dal Proof Viewer e dalla sezione [!UICONTROL Aggiornamenti] di  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

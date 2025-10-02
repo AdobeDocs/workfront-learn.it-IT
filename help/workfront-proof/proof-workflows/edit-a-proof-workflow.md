@@ -1,6 +1,6 @@
 ---
 title: Modificare un flusso di lavoro di bozza
-description: Scopri come aggiornare una scadenza bozza, aggiungere utenti a un flusso di lavoro esistente e passare a un flusso di lavoro automatizzato in  [!DNL  Workfront].
+description: Scopri come aggiornare una scadenza bozza, aggiungere utenti a un flusso di lavoro esistente e passare a un flusso di lavoro automatizzato in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -26,7 +26,7 @@ In questo video scoprirai:
 * Quando un rapporto matrice può essere utile
 * E come creare un rapporto matrice
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0
 
 ## Punti chiave da eliminare
 

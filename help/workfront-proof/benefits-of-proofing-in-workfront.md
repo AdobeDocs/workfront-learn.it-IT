@@ -1,6 +1,6 @@
 ---
 title: Scoprire i vantaggi della bozza
-description: Scopri che cos’è una bozza e i vantaggi dell’utilizzo delle bozze digitali in  [!DNL  Workfront].
+description: Scopri che cos’è una bozza e i vantaggi dell’utilizzo delle bozze digitali in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -29,7 +29,7 @@ In questo video scoprirai:
 
 ## Terminologia relativa alle bozze
 
-Prima di approfondire le impostazioni delle bozze in [!DNL  Workfront], acquisisci familiarità con la terminologia specifica utilizzata per le bozze. In questo tutorial vedrai questi termini utilizzati di frequente.
+Prima di approfondire le impostazioni delle bozze in [!DNL &#x200B; Workfront], acquisisci familiarità con la terminologia specifica utilizzata per le bozze. In questo tutorial vedrai questi termini utilizzati di frequente.
 
 * **Bozza:** versione digitale di un file che può essere rivista, contrassegnata e approvata tramite il Proofing Viewer di [!DNL Workfront's].
 * **Flusso di lavoro di bozza:** processo di creazione, indirizzamento e gestione di una bozza in [!DNL Workfront]. I passaggi seguiti per completare queste azioni.

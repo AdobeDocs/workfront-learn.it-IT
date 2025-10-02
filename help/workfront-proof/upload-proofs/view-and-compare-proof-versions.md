@@ -1,6 +1,6 @@
 ---
 title: Visualizzare e confrontare le versioni di bozze
-description: Scopri come aprire, identificare, utilizzare markup, commentare e confrontare le versioni di una bozza in  [!DNL  Workfront].
+description: Scopri come aprire, identificare, utilizzare markup, commentare e confrontare le versioni di una bozza in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

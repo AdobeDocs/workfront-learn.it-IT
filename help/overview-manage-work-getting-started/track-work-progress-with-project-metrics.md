@@ -1,6 +1,6 @@
 ---
 title: Tenere traccia dell’avanzamento del lavoro con le metriche del progetto
-description: Scopri come utilizzare i grafici delle metriche del progetto per tenere traccia dell’avanzamento del lavoro del progetto in  [!DNL  Workfront].
+description: Scopri come utilizzare i grafici delle metriche del progetto per tenere traccia dell’avanzamento del lavoro del progetto in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg

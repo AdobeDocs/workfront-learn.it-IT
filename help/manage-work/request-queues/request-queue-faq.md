@@ -1,6 +1,6 @@
 ---
 title: Risposte alle domande più comuni sulle code di richieste
-description: Ottieni risposte alle domande più comuni sulle code di richieste in [!DNL  Workfront].
+description: Ottieni risposte alle domande più comuni sulle code di richieste in [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User

@@ -32,7 +32,7 @@ Una volta che sai cosa ci si aspetta, puoi iniziare con la revisione di una bozz
 
 Quando una risorsa è pronta per la revisione e l’approvazione, riceverai una notifica e-mail.
 
-![Immagine di un messaggio e-mail di una nuova bozza che richiede la revisione e l’approvazione di due bozze in [!DNL  Workfront].](assets/new-proof-emails.png)
+![Immagine di un messaggio e-mail di una nuova bozza che richiede la revisione e l’approvazione di due bozze in [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
 
 È importante tenere presente che questo collegamento alla bozza è unico per te. Se condividi il collegamento con qualcuno, tutti i commenti e i commenti creati verranno taggati con il tuo nome.
 
@@ -63,7 +63,7 @@ Puoi anche trovare le bozze da rivedere su una dashboard di [!DNL Workfront] cre
 
 Se lavori normalmente con progetti, attività o problemi in [!DNL Workfront], è possibile aprire la bozza direttamente dalla sezione [!DNL Documents] di tale elemento.
 
-![Immagine della sezione [!UICONTROL Documenti] disponibile in un’[!DNL  Workfront]attività con il collegamento [!UICONTROL Apri bozza] evidenziato.](assets/open-proof-from-documents.png)
+![Immagine della sezione [!UICONTROL Documenti] disponibile in un’[!DNL &#x200B; Workfront]attività con il collegamento [!UICONTROL Apri bozza] evidenziato.](assets/open-proof-from-documents.png)
 
 1. Fai clic sul nome del progetto, dell’attività o del problema.
 2. Fai clic su [!UICONTROL Documenti] nel menu del pannello a sinistra della pagina dell’elemento.

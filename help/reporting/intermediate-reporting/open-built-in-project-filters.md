@@ -26,7 +26,7 @@ In questo video scoprirai come:
 * Rivedere i filtri di progetto incorporati per capire come vengono generati
 * Creare un filtro di progetto personalizzato utilizzando ciò che hai appreso
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0
 
 ## Attività &quot;Comprendere i filtri di progetto incorporati&quot;
 

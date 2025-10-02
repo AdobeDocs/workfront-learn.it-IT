@@ -41,7 +41,7 @@ In questo video scoprirai:
 * Borsa Camel
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei filtri dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0
 
 ## Attività &quot;Comprendere la modalità testo di base per i filtri&quot;
 

@@ -25,7 +25,7 @@ Il video spiega come creare e utilizzare i filtri con più regole in Workfront. 
 In alternativa, è possibile modificare la logica del filtro in &quot;OR&quot;, che visualizza gli elementi che soddisfano una qualsiasi delle condizioni.
 Il video illustra anche come creare filtri per le attività utilizzando i gruppi di filtri. &#x200B; Ad esempio, puoi creare due gruppi: uno per le attività incomplete assegnate al team creativo in ritardo e un altro per le attività incomplete assegnate al team creativo non assegnate. &#x200B; All&#39;interno di ogni gruppo, si applica la logica &quot;AND&quot;, il che significa che tutte le condizioni del gruppo devono essere soddisfatte. &#x200B; La logica &quot;OR&quot; tra i gruppi consente di visualizzare le attività che soddisfano le condizioni di uno dei due gruppi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0
 
 ## Attività filtro OR
 

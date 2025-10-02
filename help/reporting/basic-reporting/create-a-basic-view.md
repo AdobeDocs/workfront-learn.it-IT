@@ -25,7 +25,7 @@ Il video illustra come creare e personalizzare visualizzazioni in Workfront per 
 
 Il video sottolinea la flessibilità delle visualizzazioni in Workfront e fornisce istruzioni dettagliate per la creazione, la personalizzazione e la gestione delle visualizzazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -57,16 +57,16 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 
 1. In un rapporto con elenco delle attività, passa al menu a discesa **[!UICONTROL Vista]** e seleziona **[!UICONTROL Nuova vista]**.
 1. Assegna alla vista il nome “Vista con stato attività”.
-1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL  Inizia il] e[!UICONTROL  Scade il].
+1. Rimuovi queste colonne:[!UICONTROL Ore pian.], [!UICONTROL Predecessori],[!UICONTROL &#x200B; Inizia il] e[!UICONTROL &#x200B; Scade il].
 1. Fai clic su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Stato” sotto all’origine del campo [!UICONTROL Attività].
 1. Fai di nuovo clic su **[!UICONTROL Aggiungi colonna]**.
-1. Nel campo[!UICONTROL  Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL  Attività].
+1. Nel campo[!UICONTROL &#x200B; Mostra in questa colonna], digita “stato”, quindi seleziona “Stato di avanzamento” sotto all’origine del campo[!UICONTROL &#x200B; Attività].
 1. Fai clic di nuovo su **[!UICONTROL Aggiungi colonna]**.
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Icone di stato” sotto all’origine del campo Attività.
 1. Fai clic su **[!UICONTROL Salva]**.
 
-Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL  Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
+Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL &#x200B; Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
 
 ### Attività 2: creare una vista Milestone
 

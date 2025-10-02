@@ -1,6 +1,6 @@
 ---
 title: Applicare le milestone
-description: Scopri come applicare percorsi milestone a un progetto di  [!DNL  Workfront]  e associare le attività chiave come fasi cardine all’interno del progetto.
+description: Scopri come applicare percorsi milestone a un progetto di  [!DNL &#x200B; Workfront]  e associare le attività chiave come fasi cardine all’interno del progetto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial

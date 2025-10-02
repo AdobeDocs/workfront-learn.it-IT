@@ -38,7 +38,7 @@ Il video spiega come utilizzare i grafici per visualizzare i dati in modo effica
 
 Il video evidenzia come grafici a torta e istogrammi sovrapposti possono fornire informazioni approfondite sulla distribuzione delle attività e sulle prestazioni del progetto, aiutando gli utenti a confrontare i progetti e a comprendere visivamente l’avanzamento delle attività. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&amp;learn=on&amp;enablevpops=0
+>[!VIDEO] (https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0
 
 ## Punti chiave da eliminare
 
@@ -73,7 +73,7 @@ La fine del trimestre è vicina e desideri vedere se è stato rispettato il budg
 1. Nella scheda **[!UICONTROL Filtri]**, aggiungi due regole di filtro:
 
    * [!UICONTROL Progetto] > [!UICONTROL Stato equivale a] > [!UICONTROL Completato]
-   * [!UICONTROL Progetto] > [!UICONTROL  Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
+   * [!UICONTROL Progetto] > [!UICONTROL &#x200B; Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
 
    ![Immagine della schermata per aggiungere filtri a un rapporto](assets/chart-report-filters.png)
 
