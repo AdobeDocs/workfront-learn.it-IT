@@ -31,7 +31,7 @@ La percentuale di completamento di ciascuna attività lavorativa viene talvolta 
 >Sebbene la percentuale di completamento delle attività lavorative debba essere aggiornata manualmente, la percentuale di completamento di un’attività principale viene calcolata da Workfront in base alla percentuale di completamento e alla durata o alle ore pianificate di ciascuna attività secondaria. Ciò significa che otterrai una percentuale di completamento più precisa se suddividi attività di grandi dimensioni in attività secondarie più piccole.
 
 
-![Elenco attività progetto con colonna [!UICONTROL Percentuale di completamento] ](assets/planner-fund-task-percent-complete.png)
+![Elenco attività progetto con colonna [!UICONTROL Percentuale di completamento] &#x200B;](assets/planner-fund-task-percent-complete.png)
 
 Esistono tre casi in cui la percentuale di completamento cambia automaticamente:
 
@@ -55,4 +55,4 @@ A volte i vincoli delle attività vengono modificati e potresti non accorgertene
 
 Crea una vista personalizzata che includa la colonna [!UICONTROL Vincolo attività] per visualizzare queste informazioni nell’elenco delle attività. Se il progetto è stato pianificato da una data di inizio, si desidera che le attività abbiano il vincolo [!UICONTROL Il prima possibile] ([!UICONTROL ASAP]).
 
-Per ulteriori dettagli sui vincoli delle attività consulta[ Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=it).
+Per ulteriori dettagli sui vincoli delle attività consulta[&#x200B; Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=it).
