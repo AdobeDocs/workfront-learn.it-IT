@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 70%
@@ -29,7 +29,7 @@ In questo video scoprirai come:
 * Creare una data personalizzata utilizzando caratteri jolly, attributi, operatori e modificatori
 * Creare un intervallo di date personalizzato utilizzando caratteri jolly
 
->[!VIDEO](https://video.tv.adobe.com/v/3412661/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## Attività &quot;Creare filtri con caratteri jolly basati su date&quot;

@@ -1,8 +1,8 @@
 ---
 user-guide-description: Tutorial su Workfront
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
-source-wordcount: '2331'
+source-wordcount: '2339'
 ht-degree: 92%
 
 ---
@@ -240,8 +240,9 @@ ht-degree: 92%
       + [Attività: creare un rapporto sul calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Dashboard dell’area di lavoro {#canvas-dashboards}
-      + [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
-      + [Creare un report KPI in un dashboard Canvas](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [Introduzione alle dashboard dell’area di lavoro](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Creare un rapporto KPI in una dashboard dell’area di lavoro](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [Creare un rapporto di grafico su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [Creare un rapporto di tabella su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
       + [Utilizzare un filtro OR in un rapporto del dashboard di Canvas](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
@@ -342,7 +343,7 @@ ht-degree: 92%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’Integrazione  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -520,7 +521,7 @@ ht-degree: 92%
       + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

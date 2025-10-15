@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 72%
@@ -27,7 +27,7 @@ In questo video:
 * Scopri alcuni elementi utili per il reporting delle attività
 * Scopri come creare un tuo filtro di attività
 
->[!VIDEO](https://video.tv.adobe.com/v/3412673/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## Attività &quot;Comprendere i filtri attività incorporati&quot;
 
