@@ -343,7 +343,7 @@ ht-degree: 92%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’Integrazione  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -521,7 +521,7 @@ ht-degree: 92%
       + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
@@ -590,8 +590,8 @@ ht-degree: 92%
       + [Trovare e creare una bacheca di base](/help/boards/find-and-create-a-basic-board.md)
       + [Gestire le colonne di una bacheca](/help/boards/manage-board-columns.md)
       + [Aggiungere schede a una bacheca](/help/boards/add-cards-to-a-board.md)
-      + [Gestire le schede su una bacheca](/help/boards/manage-cards-on-a-board.md)
-      + [Personalizzare le schede in una bacheca](/help/boards/customize-cards-on-a-board.md)
+      + [Gestire le schede di una bacheca](/help/boards/manage-cards-on-a-board.md)
+      + [Personalizzare le schede di una bacheca](/help/boards/customize-cards-on-a-board.md)
       + [Aggiungere e gestire i membri del gruppo di una bacheca](/help/boards/add-and-manage-team-members-for-a-board.md)
       + [Aggiungi e modifica le impostazioni delle colonne in una bacheca](/help/boards/add-and-edit-column-settings-on-a-board.md)
       + [Aggiungere e gestire i tag per le schede](/help/boards/add-and-manage-tags-for-cards.md)

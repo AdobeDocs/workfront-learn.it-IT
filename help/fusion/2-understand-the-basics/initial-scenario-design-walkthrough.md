@@ -33,9 +33,9 @@ In questo video scoprirai come:
 * Utilizzare il designer di scenari
 * Creare uno scenario di base
 
->[!VIDEO](https://video.tv.adobe.com/v/3415974/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
