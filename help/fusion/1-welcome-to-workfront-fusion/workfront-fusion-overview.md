@@ -60,6 +60,6 @@ Le sfide sono per coloro che vogliono provare qualcosa che coinvolge altri conce
 
 Le istruzioni dettagliate sono fornite per aiutarti a superare gli esercizi della procedura dettagliata.
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
 È inoltre disponibile una [Community di Workfront Fusion 2.0](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) dove puoi pubblicare le domande.
