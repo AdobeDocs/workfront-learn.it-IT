@@ -18,5 +18,5 @@ ht-degree: 100%
 
 # Esportare un modulo personalizzato come PDF
 
->[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3477602/?captions=ita&quality=12&learn=on&enablevpops=1)
 
