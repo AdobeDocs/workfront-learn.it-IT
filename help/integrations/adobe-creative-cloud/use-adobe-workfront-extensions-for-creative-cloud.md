@@ -47,4 +47,4 @@ Questo video illustra come eseguire le seguenti operazioni dallâ€™interno dellâ€
 * Registra ore
 * Contrassegnare il lavoro come completato
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420645/?captions=ita&quality=12&learn=on&enablevpops=1)
