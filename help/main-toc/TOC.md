@@ -36,17 +36,17 @@ ht-degree: 91%
       + [Configurare le preferenze globali dei problemi predefiniti](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Creare e gestire le regole di business](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
-   + Modelli di layout {#layout-templates}
-      + [Cosa sono i modelli di layout?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
-      + [Trovare i modelli di layout](/help/administration-and-setup/layout-templates/find-layout-templates.md)
-      + [Personalizzare la terminologia con i modelli di layout](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
-      + [Personalizzare il [!UICONTROL Menu principale] con i modelli di layout](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-      + [Aggiungere e gestire i pin tramite un modello di layout](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
-      + [Personalizzare la pagina Home con i modelli di layout](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+   + Modelli layout {#layout-templates}
+      + [Cosa sono i modelli layout?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
+      + [Trovare i modelli layout](/help/administration-and-setup/layout-templates/find-layout-templates.md)
+      + [Personalizzare la terminologia con i modelli layout](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
+      + [Personalizzare il [!UICONTROL Menu principale] con i modelli layout](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Aggiungere e gestire elementi fissati tramite un modello layout](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
+      + [Personalizzare la pagina Home con i modelli layout](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Assegnare e gestire l’accesso ai modelli layout](/help/administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
-      + [Personalizzare le aree degli oggetti con un modello di layout](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
-      + [Personalizzare i dettagli del progetto con i modelli di layout](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
-      + [Personalizzare le intestazioni di progetto con i modelli di layout](/help/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
+      + [Personalizzare le aree degli oggetti con un modello layout](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
+      + [Personalizzare i dettagli del progetto con i modelli layout](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [Personalizzare le intestazioni di progetto con i modelli layout](/help/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [Personalizza gli elenchi di reporting con i modelli layout](/help/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
 
@@ -300,7 +300,7 @@ ht-degree: 91%
       + [Panoramica di [!UICONTROL Workfront Goals]](/help/workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Configurare [!UICONTROL Workfront Goals] per la propria organizzazione](/help/workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Concedere l’accesso agli obiettivi ad alcuni utenti](/help/workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
-      + [Creare un modello di layout per gli utenti di [!UICONTROL Workfront Goals]](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
+      + [Creare un modello layout per gli utenti di [!UICONTROL Workfront Goals]](/help/workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Creare gli obiettivi](/help/workfront-goals/create-your-goals/create-goals-in-workfront.md)
 
    + Attivare gli obiettivi {#activate-goals}
@@ -344,7 +344,7 @@ ht-degree: 91%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’Integrazione  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -522,7 +522,7 @@ ht-degree: 91%
       + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
@@ -607,7 +607,7 @@ ht-degree: 91%
    + [Documenti](/help/best-practices/documents-bp.md)
    + [Filtri, viste e raggruppamenti](/help/best-practices/filters-views-groupings-bp.md)
    + [Mansioni](/help/best-practices/job-roles-bp.md)
-   + [Modelli di layout](/help/best-practices/layout-templates-bp.md)
+   + [Modelli layout](/help/best-practices/layout-templates-bp.md)
    + [Licenze e livelli di accesso](/help/best-practices/licenses-access-levels-bp.md)
    + [Onboarding e adozione](/help/best-practices/onboarding-adoption-bp.md)
    + [Unità organizzative](/help/best-practices/organizational-units-bp.md)
@@ -615,7 +615,7 @@ ht-degree: 91%
    + [Anteprima sandbox](/help/best-practices/preview-sandbox-bp.md)
    + [Preferenze di progetto, attività e problema](/help/best-practices/project-task-issue-preferences-bp.md)
    + [Modelli di progetto](/help/best-practices/project-templates-bp.md)
-   + [Verifica](/help/best-practices/proofing-bp.md)
+   + [Verifica bozze](/help/best-practices/proofing-bp.md)
    + [Coda di richieste](/help/best-practices/request-queues-bp.md)
    + [Pianificazione risorse](/help/best-practices/resource-planner-bp.md)
    + [Gruppi di risorse](/help/best-practices/resource-pools-bp.md)
