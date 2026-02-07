@@ -1,5 +1,5 @@
 ---
-title: Utilizzare le attività
+title: Gestione efficiente delle attività in Workfront
 description: Migliora la gestione delle attività con la modifica in linea, i backup nel Cestino per le attività eliminate, le aggiunte di strutture padre-figlio, la duplicazione delle attività e gli strumenti di riorganizzazione intuitivi come il trascinamento della selezione in Workfront.
 activity: use
 feature: Work Management
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 11%
+source-wordcount: '211'
+ht-degree: 9%
 
 ---
 
-# Utilizzare le attività
+# Gestione efficiente delle attività in Workfront
 
 Questo video fornisce una guida dettagliata sulla gestione delle attività in Workfront. Consente di ottimizzare l&#39;efficienza della gestione delle attività, tra cui la modifica, l&#39;eliminazione, l&#39;aggiunta, la duplicazione e la riorganizzazione delle attività all&#39;interno di un piano di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448564/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Modifica in linea per modifiche rapide:** Fare doppio clic su un campo per modificare direttamente le informazioni sull&#39;attività e utilizzare il tasto TAB per spostarsi tra i campi per velocizzare gli aggiornamenti. &#x200B;
 * **Eliminazione di attività con backup del cestino:** Le attività eliminate vengono spostate nel cestino per 30 giorni, accessibili solo dagli amministratori di sistema, garantendo la ripristinabilità se necessario. &#x200B;

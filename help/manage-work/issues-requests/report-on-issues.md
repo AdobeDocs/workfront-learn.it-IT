@@ -1,5 +1,5 @@
 ---
-title: Rapporto sui problemi
+title: Creare rapporti personalizzati per la gestione dei problemi
 description: Scopri come creare rapporti personalizzati per la gestione dei problemi e dei progetti, incluso come centralizzare e tenere traccia dei problemi aperti, personalizzare colonne e filtri e ottimizzare la gestione di progetti e problemi.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 6%
+source-wordcount: '382'
+ht-degree: 4%
 
 ---
 
-# Rapporto sui problemi
+# Creare rapporti personalizzati per la gestione dei problemi
 
 Il video fornisce una guida dettagliata sulla creazione di due tipi di rapporti per gestire e tenere traccia dei problemi e dei progetti. &#x200B;
 
@@ -31,7 +31,7 @@ Il video enfatizza la personalizzazione di colonne e filtri per adattare i rappo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Rapporti personalizzati per la gestione dei problemi:** Nel video viene illustrato come creare rapporti personalizzati per centralizzare e tenere traccia dei problemi aperti, semplificandone la gestione e la risoluzione. &#x200B;
 * **Dettagli report di problemi:** Il report di problemi include colonne quali l&#39;oggetto di risoluzione e la data di immissione, ordinate in base alle voci più recenti. &#x200B; Consente di identificare se i problemi sono stati assegnati o convertiti in attività o progetti. &#x200B;

@@ -1,5 +1,5 @@
 ---
-title: Trovare e gestire le richieste
+title: Trovare e gestire le richieste in modo efficiente
 description: Scopri come utilizzare i filtri, gestire le assegnazioni dei team, creare rapporti e dashboard personalizzati e chiarire il significato di "personale" in contesti diversi per una gestione efficace delle richieste.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 14%
+source-wordcount: '229'
+ht-degree: 13%
 
 ---
 
-# Trovare e gestire le richieste
+# Trovare e gestire le richieste in modo efficiente
 
 Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; Esso copre quattro settori principali:
 
@@ -30,9 +30,9 @@ Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; E
 * Rapporti e dashboard personalizzati
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441662/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Ricerca di richieste nella home di Workfront:** gli utenti possono visualizzare le richieste assegnate a loro o a coloro che sono in attesa di approvazione, a seconda del loro ruolo. &#x200B;
 * **Utilizzo di filtri nell&#39;area richieste:** I filtri come &quot;Le mie richieste&quot; e &quot;Le mie richieste aperte&quot; consentono agli utenti di visualizzare le richieste create. &#x200B;

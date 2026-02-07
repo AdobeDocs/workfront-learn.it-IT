@@ -1,5 +1,5 @@
 ---
-title: Scopri quattro modi per creare un progetto
+title: Esplora quattro metodi per creare un progetto
 description: Scopri come creare progetti in Workfront in modo efficiente utilizzando i modelli, partendo da zero, copiando progetti esistenti o importando file di progetto Microsoft, in base alle esigenze di diversi utenti.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Scopri quattro modi per creare un progetto
+# Esplora quattro metodi per creare un progetto
 
 Il video fornisce una guida completa sulla creazione di progetti in Workfront utilizzando vari metodi:
 
@@ -55,9 +55,9 @@ Il video fornisce una guida completa sulla creazione di progetti in Workfront ut
 
 Il video sottolinea la flessibilità di Workfront nella creazione di progetti attraverso modelli, graffi, copie o importazioni, che soddisfano le diverse esigenze degli utenti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432169/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Modelli per semplificare la creazione del progetto:**
 * L’utilizzo di un modello è vivamente consigliato, in quanto può preimpostare dettagli chiave come attività, moduli e opzioni di condivisione, risparmiando tempo e fatica. &#x200B;

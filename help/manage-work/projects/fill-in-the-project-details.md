@@ -1,5 +1,5 @@
 ---
-title: Compilare i dettagli del progetto
+title: Inserisci i dettagli essenziali del progetto
 description: Ottimizza l’efficienza della gestione dei progetti utilizzando nomi descrittivi, impostando gli stati appropriati, scegliendo la modalità di pianificazione corretta, sfruttando modelli e moduli personalizzati e gestendo le risorse con pool di risorse e pianificazioni.
 activity: use
 team: Technical Marketing
@@ -12,21 +12,21 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 27%
+ht-degree: 23%
 
 ---
 
-# Compilare i dettagli del progetto
+# Inserisci i dettagli essenziali del progetto
 
 Questo video illustra le impostazioni di progetto più comuni necessarie per la creazione di un progetto.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Utilizza nomi di progetto descrittivi:** Per evitare confusione, assegna nomi descrittivi ai progetti anziché utilizzare titoli generici. &#x200B; L’organizzazione dei progetti in portfolio e programmi migliora le attività di reporting e la coerenza. &#x200B;
 * **Imposta lo stato appropriato del progetto:** Inizia con lo stato &quot;Pianificazione&quot; durante la creazione di un progetto, quindi passa a &quot;Corrente&quot; quando il progetto diventa attivo. &#x200B; Gli stati non &quot;Correnti&quot; mettono in pausa le notifiche, consentendo una ripianificazione senza interruzioni. &#x200B;

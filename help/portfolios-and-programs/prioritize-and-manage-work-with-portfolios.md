@@ -1,5 +1,5 @@
 ---
-title: Comprendere [!UICONTROL Portfolio Optimizer]
+title: Ottimizzare le priorità dei progetti con lo strumento di ottimizzazione Portfolio
 description: Ottimizza la gestione dei progetti in Workfront completando i casi aziendali per confronti equi, filtrando i progetti in base allo stato, regolando i punteggi in modo dinamico, assegnando priorità ai progetti in modo efficace e allineando la pianificazione delle risorse con gli obiettivi del portfolio.
 activity: use
 team: Technical Marketing
@@ -12,22 +12,22 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 3%
+source-wordcount: '291'
+ht-degree: 4%
 
 ---
 
-# Comprendere [!UICONTROL Portfolio Optimizer]
+# Ottimizzare le priorità dei progetti con lo strumento di ottimizzazione Portfolio
 
 Il video spiega come utilizzare lo strumento di ottimizzazione Portfolio in Workfront per valutare e assegnare la priorità ai progetti all’interno di un portfolio. &#x200B; Inizia con l&#39;invio di un business case per un progetto, il suo stato cambia in &quot;richiesto&quot; e l&#39;abilitazione delle opzioni per approvarlo o rifiutarlo. &#x200B; Prima dell’approvazione, gli utenti possono confrontare il progetto con altri nel portfolio utilizzando lo strumento di ottimizzazione Portfolio. &#x200B;
 
 Il video sottolinea l&#39;importanza di completare i casi aziendali per effettuare confronti accurati e fornisce istruzioni dettagliate per ottimizzare e gestire in modo efficace le priorità dei progetti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446283/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Casi aziendali completi per confronti equi:** Verificare che tutti i progetti siano stati completati e inviati prima di confrontarli nello strumento di ottimizzazione Portfolio per evitare la perdita di dati e valutazioni imprecise. &#x200B;
 * **Filtra progetti per stato:** Utilizza i filtri per concentrarti su stati di progetto specifici (ad esempio richiesti, approvati, correnti) per semplificare i confronti e il processo decisionale. &#x200B;

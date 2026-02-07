@@ -1,5 +1,5 @@
 ---
-title: Comprendere le attività principali e secondarie
+title: Comprendere le relazioni tra attività padre e figlio
 description: Ottimizza la gestione dei progetti con le attività come base, utilizzando le strutture padre-figlio, il completamento automatico delle attività padre, strumenti di organizzazione flessibili e la strutturazione personalizzata delle attività per una maggiore efficienza.
 activity: use
 feature: Work Management
@@ -12,21 +12,21 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 
-# Comprendere le attività principali e secondarie
+# Comprendere le relazioni tra attività padre e figlio
 
 Questo video spiega la struttura delle attività in Workfront. Le attività sono componenti essenziali di un progetto e rappresentano gli elementi di lavoro necessari per il completamento&#x200B; Il video sottolinea l&#39;importanza di organizzare le attività in modo accurato come un passaggio chiave nella pianificazione e nella gestione del progetto. Viene illustrato come iniziare a utilizzare le attività e vengono illustrate le relazioni tra attività padre e figlio.
 &#x200B;Le attività padre fungono da organizzatori e raggruppano il progetto in fasi, fasi o fasi cardine e non sono assegnate a singoli utenti. Le attività secondarie, o sottoattività, rappresentano il lavoro utilizzabile assegnato ai membri del team.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Attività come backbone del progetto:** Le attività rappresentano gli elementi di lavoro necessari per completare un progetto e sono fondamentali per una pianificazione e una gestione efficaci del progetto. &#x200B;
 * **Struttura attività padre-figlio:** Le attività padre raggruppano il progetto in fasi, fasi o fasi cardine, mentre le attività figlio (sottoattività) rappresentano il lavoro utilizzabile assegnato ai membri del team. &#x200B;

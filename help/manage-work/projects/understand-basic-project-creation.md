@@ -1,5 +1,5 @@
 ---
-title: Informazioni sulla creazione di un progetto di base
+title: Creare e gestire un progetto da zero
 description: Scopri come creare, gestire e completare i progetti in modo efficiente e affrontare problemi imprevisti. Esplora suggerimenti intuitivi per padroneggiare le funzioni essenziali di gestione dei progetti.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 21%
+source-wordcount: '249'
+ht-degree: 18%
 
 ---
 
-# Informazioni sulla creazione di un progetto di base
+# Creare e gestire un progetto da zero
 
 Questo video spiega come creare e gestire un progetto da zero. &#x200B; Inizia creando un nuovo progetto, rinominandolo e impostando un obiettivo con una descrizione, una data di inizio e una data di completamento target. I progetti possono essere suddivisi in attività, ovvero lavoro pianificato con durate e assegnazioni stimate. &#x200B; Le attività possono essere sequenziate utilizzando i predecessori e lo stato del progetto può essere impostato su &quot;Corrente&quot; per notificare il team e includerlo nei rapporti. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435902/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Creazione di un progetto:** Iniziare creando un nuovo progetto, rinominandolo e impostando un obiettivo, una descrizione, una data di inizio e una data di completamento della destinazione.
 * **Suddivisione del lavoro:** Suddividi il progetto in singole attività, stima della durata, assegna responsabilità e sequenzia attività utilizzando i predecessori. &#x200B;

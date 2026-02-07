@@ -1,5 +1,5 @@
 ---
-title: Creare le attività
+title: Creare le attività in modo efficiente in Workfront
 description: Semplifica la creazione di attività con opzioni per la modifica dettagliata o in linea, il riposizionamento flessibile, viste personalizzate per campi aggiuntivi e il posizionamento specifico, ad esempio utilizzando "Inserisci attività sotto" in Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,21 +10,21 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 
-# Creare le attività
+# Creare le attività in modo efficiente in Workfront
 
 Il video offre un’esercitazione sulla creazione di attività in un progetto Workfront, che illustra sia il metodo lungo che le pratiche scelte rapide. Enfatizza la flessibilità nella creazione delle attività e fornisce suggerimenti per una gestione efficiente delle attività.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423158/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Metodi di creazione attività:** Utilizzare il pulsante &quot;Nuova attività&quot; per la creazione di attività dettagliate o il pulsante &quot;Aggiungi altre attività&quot; per la modifica rapida in linea.
 * **Campi obbligatori:** &#x200B;solo il nome dell&#39;attività è obbligatorio; altri campi come descrizione, durata e assegnazioni sono facoltativi e possono essere aggiunti in seguito. &#x200B;

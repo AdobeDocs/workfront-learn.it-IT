@@ -1,5 +1,5 @@
 ---
-title: Effettuare una richiesta
+title: Creare e gestire le richieste in Workfront
 description: Migliora l’efficienza in Workfront con la creazione semplificata delle richieste, flussi di lavoro personalizzabili, bozze di salvataggio automatico, strumenti di tracciamento e filtro e la possibilità di copiare e riutilizzare le richieste.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 13%
+source-wordcount: '260'
+ht-degree: 11%
 
 ---
 
-# Effettuare una richiesta
+# Creare e gestire le richieste in Workfront
 
 Il video fornisce una guida dettagliata su come effettuare e gestire le richieste all’interno di Workfront. Spiega il processo di creazione di una richiesta, iniziando selezionando &quot;Richieste&quot; dal menu principale e facendo clic sul pulsante &quot;Nuova richiesta&quot;. &#x200B; Gli utenti possono scegliere un tipo di richiesta tra code personalizzate in base ai flussi di lavoro dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Creazione semplificata delle richieste:** Gli utenti possono creare facilmente le richieste selezionando &quot;Richieste&quot; dal menu principale, scegliendo un tipo di richiesta, compilando i campi obbligatori e allegando i documenti rilevanti. &#x200B;
 * **Flussi di lavoro personalizzabili:** Le code di richieste e i moduli sono personalizzati in base ai flussi di lavoro organizzativi, consentendo agli utenti di specificare dettagli (ad esempio in negozio, all&#39;aperto, social media) e priorità.

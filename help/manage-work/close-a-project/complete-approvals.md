@@ -1,5 +1,5 @@
 ---
-title: Completare le approvazioni
+title: Risolvere le approvazioni di attività e problemi
 description: Scopri come identificare e risolvere le approvazioni incomplete per chiudere il progetto.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 85%
 
 ---
 
-# Completare le approvazioni
+# Risolvere le approvazioni di attività e problemi
 
 In questo video scoprirai:
 
 * Come trovare e gestire le approvazioni di attività non risolte
 * Come trovare e gestire le approvazioni dei problemi non risolte
 
->[!VIDEO](https://video.tv.adobe.com/v/3439432/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

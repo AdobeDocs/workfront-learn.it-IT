@@ -1,5 +1,5 @@
 ---
-title: Introduzione alla gestione di un progetto
+title: Gestire un progetto con lo stato corrente
 description: Monitora l’avanzamento del progetto con rapporti efficaci, gestisci le dipendenze tramite le visualizzazioni di Gantt, monitora le attività e le approvazioni, migliora la comunicazione del team e garantisce flussi di lavoro fluidi con aggiornamenti frequenti.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 
-# Introduzione alla gestione di un progetto
+# Gestire un progetto con lo stato corrente
 
 Il video offre una panoramica sulla gestione di un progetto dopo che il suo stato è cambiato in &quot;Attuale&quot; &#x200B;.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445175/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Monitoraggio avanzamento:** i progetti con stato &quot;Corrente&quot; vengono visualizzati nei report, consentendo ai manager di tenere traccia dell&#39;avanzamento (in programma, in ritardo o in ritardo).
 * **Dipendenze tra progetti:** Le dipendenze possono essere gestite e visualizzate nella visualizzazione Gantt del progetto, con opzioni per l&#39;espansione per informazioni dettagliate.

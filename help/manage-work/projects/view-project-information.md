@@ -1,5 +1,5 @@
 ---
-title: Visualizzare le informazioni sul progetto
+title: Esplora filtri, visualizzazioni e raggruppamenti per la gestione dei progetti
 description: Semplifica i flussi di lavoro dei progetti con filtri personalizzabili, viste dettagliate, raggruppamenti efficienti, strumenti di gestione delle attività e funzioni di tracciamento dei problemi per migliorarne l’organizzazione e la chiarezza.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 5%
+source-wordcount: '427'
+ht-degree: 4%
 
 ---
 
-# Visualizzare le informazioni sul progetto
+# Esplora filtri, visualizzazioni e raggruppamenti per la gestione dei progetti
 
 Questo video fornisce una panoramica di filtri, visualizzazioni e raggruppamenti in Workfront per aiutare gli utenti a gestire e analizzare in modo efficiente progetti, attività e problemi. &#x200B; I punti chiave includono:
 
@@ -33,9 +33,9 @@ Questo video fornisce una panoramica di filtri, visualizzazioni e raggruppamenti
 
 Il video enfatizza la personalizzazione e fornisce collegamenti ai tutorial per ulteriori informazioni. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453074/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Filtri personalizzabili:** Filtri come &quot;Progetti di mia proprietà&quot; e &quot;In ritardo sulla pianificazione&quot; consentono di limitare gli elenchi dei progetti e gli utenti possono personalizzare o sovrapporre filtri per risultati più specifici. &#x200B;
 * **Visualizzazioni dettagliate:** visualizzazioni quali &quot;Visualizzazione tutte le date&quot; e &quot;Visualizzazione storia reale&quot; forniscono informazioni approfondite sulle date pianificate, previste ed effettive, nonché sui riepiloghi del progetto e sugli aggiornamenti delle condizioni. &#x200B;

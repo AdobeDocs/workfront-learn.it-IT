@@ -1,5 +1,5 @@
 ---
-title: Crea un modello di progetto e scopri [!UICONTROL Blueprint]
+title: Creare un modello di progetto ed esplorare i blueprint
 description: Impara a creare un modello di progetto da zero e da un progetto esistente e comprendi come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '633'
 ht-degree: 54%
 
 ---
 
-# Creare un modello di progetto e informazioni sui [!UICONTROL Blueprint]
+# Creare un modello di progetto ed esplorare i blueprint
 
 
 Impara a creare un modello di progetto da zero e da un progetto esistente e capisci come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
@@ -31,9 +31,9 @@ Impara a creare un modello di progetto da zero e da un progetto esistente e capi
 * Una volta creato, il modello può essere utilizzato per produrre nuovi progetti. Il video illustra come creare un nuovo progetto dal modello, apportare le modifiche necessarie e aggiungere attività o modificare le durate in base alle esigenze. &#x200B; Viene inoltre illustrato come assegnare mansioni alle attività utilizzando le funzionalità di pianificazione e pianificazione delle risorse. &#x200B;
 * Il video spiega come salvare un progetto esistente come nuovo modello, consentendo aggiornamenti e miglioramenti nel flusso di lavoro. &#x200B; Evidenzia l’importanza di gestire i modelli per evitare confusione e garantire un’esecuzione dei progetti semplificata. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415445/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Creazione di un modello:** scopri come creare un nuovo modello da zero assegnandogli un nome, impostando attività, timeline ed assegnando assegnazioni a ruoli. &#x200B;
 * **Organizzazione attività:** Utilizza le relazioni tra attività padre e figlio per organizzare le attività in modo efficiente, fornendo un riepilogo e una struttura chiari per il progetto. &#x200B;

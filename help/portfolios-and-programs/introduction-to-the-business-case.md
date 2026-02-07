@@ -1,5 +1,5 @@
 ---
-title: Comprendere il [!UICONTROL Caso di business]
+title: Creazione di un business case completo
 description: Crea casi aziendali completi in Workfront per assegnare priorità ai progetti includendo informazioni dettagliate sui progetti, spese, analisi dei rischi e della manodopera, scorecard e moduli personalizzati per una gestione informata del portfolio.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 9%
+source-wordcount: '245'
+ht-degree: 7%
 
 ---
 
-# Comprendere il [!UICONTROL Caso di business]
+# Creazione di un business case completo
 
 Il video spiega l&#39;importanza di un caso di business nella gestione dei progetti. Il documento sottolinea che la compilazione del business case aiuta i manager ad analizzare e assegnare la priorità ai progetti che competono per le stesse risorse. &#x200B; Una volta completato, l’invio del caso di business cambia lo stato del progetto in &quot;Richiesto&quot; e ne calcola il punteggio complessivo da confrontare nello strumento di ottimizzazione Portfolio. &#x200B; Sebbene nessuno dei campi sia obbligatorio, informazioni più dettagliate migliorano il processo decisionale. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442852/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 Il video illustra le sezioni principali del business case, tra cui:
 

@@ -1,5 +1,5 @@
 ---
-title: Comprendere le sequenze temporali dei progetti
+title: Esplorare le timeline dei progetti in Workfront
 description: Scopri come assegnare le attività, utilizzare i grafici di Gantt e le funzioni per percorsi critici, monitorare i progetti tramite visualizzazioni, pianificare le attività in modo efficiente e applicare vincoli per una pianificazione ottimale del progetto.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '705'
 ht-degree: 10%
 
 ---
 
-# Comprendere le timeline dei progetti
+# Esplorare le timeline dei progetti in Workfront
 
 Cosa imparerai:
 
@@ -28,13 +28,13 @@ Cosa imparerai:
 * Diverse visualizzazioni in Workfront, ad esempio la visualizzazione standard per la pianificazione e la visualizzazione di stato per il monitoraggio dell&#39;avanzamento, che include flag per l&#39;avanzamento, commenti, documenti, problemi, approvazioni, percorso critico e milestone. È possibile tenere traccia delle attività recenti per visualizzare aggiornamenti e note.
 * La programmazione può essere eseguita a partire da una data di inizio o da una data di completamento, con Workfront che calcola le date corrispondenti in base alle durate delle attività e ai predecessori. Il video consiglia di pianificare da una data di inizio le date di completamento critiche per consentire un certo margine di flessibilità. Vengono inoltre trattati i vincoli di attività, ad esempio &quot;il prima possibile&quot; e &quot;il più tardi possibile&quot;, mostrando come influiscono sulla pianificazione delle attività. È possibile creare viste personalizzate per visualizzare i vincoli delle attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435843/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
 >Per una spiegazione più completa dei tipi di durata e dei vincoli delle attività, consulta [Comprendere e gestire i tipi di durata e i vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Gestione e assegnazione attività:** Le attività padre raggruppano diverse sottoattività, che vengono assegnate a mansioni e successivamente a utenti con le competenze necessarie. &#x200B; I predecessori indicano relazioni sequenziali, mentre le attività senza predecessori possono essere eseguite in parallelo. &#x200B;
 * **Grafico di Gantt e percorso critico:** Il diagramma di Gantt fornisce una sequenza temporale visiva del progetto e la caratteristica Percorso critico evidenzia le attività che potrebbero ritardare il progetto in caso di slittamento. &#x200B;

@@ -1,5 +1,5 @@
 ---
-title: Aggiornare una richiesta
+title: Aggiornare una richiesta in Workfront
 description: Semplifica la gestione delle richieste in Workfront utilizzando i filtri per individuare le richieste, aggiornando in modo efficiente stato e dettagli, accedendo a informazioni complete e promuovendo la collaborazione centralizzata per flussi di lavoro semplificati.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 7%
+source-wordcount: '252'
+ht-degree: 5%
 
 ---
 
-# Aggiornare una richiesta
+# Aggiornare una richiesta in Workfront
 
 Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &#x200B; Dopo aver inviato una richiesta, è possibile aggiungere informazioni o porre domande per garantire che gli utenti che vi lavorano dispongano dei dettagli più recenti. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3422299/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Individua facilmente le richieste:** Utilizza filtri come &quot;Le mie richieste aperte&quot; o &quot;Le mie richieste&quot; nella sezione &quot;Richieste&quot; per trovare le richieste inviate. &#x200B; Regola i filtri per visualizzare le richieste create da altri o completate.
 * **Verifica lo stato prima dell&#39;aggiornamento:** Controlla le colonne &quot;stato&quot; e &quot;convertito in&quot; per determinare se la richiesta è stata risolta o convertita in un&#39;attività o un progetto. &#x200B; Potrebbe essere necessario aggiornare l&#39;elemento convertito. &#x200B;

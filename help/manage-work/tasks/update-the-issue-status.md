@@ -1,5 +1,5 @@
 ---
-title: Aggiornare lo stato del problema
+title: Aggiornare gli stati dei problemi in modo efficace
 description: Scopri gli stati dei problemi e le best practice per utilizzarli.
 feature: Work Management
 type: Tutorial
@@ -9,20 +9,20 @@ last-substantial-update: 2025-09-03T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 17%
+ht-degree: 14%
 
 ---
 
-# Aggiornare lo stato del problema
+# Aggiornare gli stati dei problemi in modo efficace
 
 Questo video illustra gli stati dei problemi e le best practice per utilizzarli.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472973/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Quali sono le differenze tra i problemi e le attività?** I problemi sono diversi dalle attività in quanto un problema rappresenta un lavoro non pianificato. Se un problema deve essere incluso come lavoro pianificato, deve essere convertito in un&#39;attività o in un progetto.
 * **Perché è importante esaminare rapidamente i problemi in un progetto?** In caso di problemi aperti in un progetto, questi rappresentano un rischio potenziale per la pianificazione o il budget del progetto e devono essere assegnati rapidamente a un utente in grado di esaminarli e di intraprendere o consigliare azioni appropriate.

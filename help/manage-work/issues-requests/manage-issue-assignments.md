@@ -1,5 +1,5 @@
 ---
-title: Gestire le assegnazioni dei problemi
+title: Gestire le assegnazioni dei problemi in modo efficace
 description: Gestisci in modo efficace i problemi in Workfront utilizzando la modifica in linea e il bilanciatore dei carichi di lavoro per le assegnazioni, il tracciamento e l’aggiornamento dell’avanzamento, la modifica degli stati dei problemi e il rispetto dei flussi di lavoro specifici del team per una perfetta esecuzione dei progetti.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 25%
+source-wordcount: '291'
+ht-degree: 23%
 
 ---
 
-# Gestire le assegnazioni dei problemi
+# Gestire le assegnazioni dei problemi in modo efficace
 
 La gestione dei problemi è una responsabilità importante del project manager e di coloro a cui è assegnato il lavoro su tali problemi.
 
@@ -30,9 +30,9 @@ In questo video scoprirai come:
 * Aggiornare lo stato di avanzamento sui problemi
 * Aggiornare lo stato del problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3446963/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Assegnazione problemi:** Utilizza la modifica in linea nel campo Assegnazioni per assegnare problemi a utenti o team e assicurati di fare clic su &quot;salva&quot; dopo aver effettuato le assegnazioni. &#x200B; I responsabili del team possono utilizzare il bilanciatore dei carichi di lavoro per assegnare le attività trascinandole e rilasciandole sui calendari dei membri del team. &#x200B;
 * **Ricerca di problemi assegnati:** i problemi assegnati all&#39;utente vengono visualizzati nell&#39;elenco di lavoro dell&#39;area Home, che può essere filtrato. &#x200B; I problemi assegnati al team sono visibili nella sezione della richiesta del team, in cui i membri del team possono accettare o riassegnare le attività. &#x200B; Questi problemi vengono visualizzati anche nel bilanciatore dei carichi di lavoro per una migliore visibilità. &#x200B;

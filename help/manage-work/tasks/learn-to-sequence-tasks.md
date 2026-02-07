@@ -1,5 +1,5 @@
 ---
-title: Scoprire come ordinare le attività
+title: Sequenza efficace delle attività in Workfront
 description: Semplifica la gestione dei progetti definendo l'ordine delle attività con i predecessori, impostando le tempistiche attraverso le durate, semplificando le sequenze utilizzando i modelli, evitando vincoli manuali e perfezionando le competenze con la pratica.
 activity: use
 feature: Work Management
@@ -13,23 +13,23 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 10%
+source-wordcount: '222'
+ht-degree: 7%
 
 ---
 
-# Scoprire come ordinare le attività
+# Sequenza efficace delle attività in Workfront
 
 Il video spiega come ordinare le attività in Workfront utilizzando i predecessori e le durate per gestire in modo efficace le timeline dei progetti.
 Il video illustra come impostare i predecessori per le nuove attività, garantendo un ordine sequenziale e date di inizio precise.
 &#x200B;Sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447328/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Predecessori Definisci l&#39;ordine delle attività:** I Predecessori stabiliscono la sequenza delle attività, assicurandosi che alcune attività vengano completate prima che altre possano iniziare, il che è fondamentale per il successo del progetto. &#x200B;
 * **Timeline di impatto durata:** Le durate delle attività impostano l&#39;intervallo di tempo per il lavoro e regolano le date di inizio e di completamento, creando un effetto a catena sulle attività dipendenti. &#x200B;

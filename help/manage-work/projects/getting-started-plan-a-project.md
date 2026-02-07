@@ -1,5 +1,5 @@
 ---
-title: Introduzione alla pianificazione di un progetto
+title: Pianificare un progetto in modo efficace in Workfront
 description: Semplifica la pianificazione dei progetti concentrandosi sui campi chiave, impostando lo stato su "Pianificazione", utilizzando viste appropriate, selezionando date di inizio realistiche e sfruttando le modalità di pianificazione per calendari precisi.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,22 +12,22 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 14%
+source-wordcount: '275'
+ht-degree: 11%
 
 ---
 
-# Introduzione alla pianificazione di un progetto
+# Pianificare un progetto in modo efficace in Workfront
 
 Il video fornisce indicazioni su come pianificare efficacemente un progetto in Workfront. &#x200B; Sottolinea l&#39;importanza di gettare solide basi per garantire che il progetto termini in tempo e abbia successo. &#x200B; I passaggi chiave includono la comprensione di cinque campi critici: attività, assegnazioni, durate, ore pianificate e predecessori. &#x200B; Questi campi consentono di apportare modifiche rapide e precise al piano di progetto. &#x200B;
 
 Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità del team e pianificazione accurata per creare solide basi per il successo del progetto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448575/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Concentrati su cinque campi chiave:** Comprendi le attività, le assegnazioni, le durate, le ore pianificate e i predecessori per apportare modifiche efficaci e accurate al piano del progetto. &#x200B;
 * **Impostare lo stato del progetto su &quot;Pianificazione&quot;:** Verificare che lo stato del progetto sia impostato su &quot;Pianificazione&quot; per evitare notifiche non necessarie durante la modifica del piano. &#x200B;

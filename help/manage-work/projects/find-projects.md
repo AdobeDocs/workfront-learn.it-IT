@@ -1,5 +1,5 @@
 ---
-title: Trovare i progetti
+title: Trovare i progetti in modo efficiente
 description: Semplifica la gestione dei progetti con filtri, strumenti di ricerca, elenchi recenti, preferiti, progetti bloccati e rapporti o dashboard personalizzati per un accesso rapido e organizzato ai progetti.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 21%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
-# Trovare i progetti
+# Trovare i progetti in modo efficiente
 
 Questo video illustra alcuni modi semplici e veloci per trovare i progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439556/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Filtri e opzioni di ricerca:** Utilizzare i filtri e gli strumenti di ricerca, inclusa la ricerca avanzata, per individuare rapidamente progetti specifici in base a nomi, descrizioni o campi dati personalizzati. &#x200B;
 * **Elenco recenti:** I progetti visualizzati di recente vengono visualizzati automaticamente nell&#39;elenco Recenti, che può contenere fino a 20 progetti per l&#39;accesso rapido. &#x200B;

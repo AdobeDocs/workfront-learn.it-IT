@@ -1,5 +1,5 @@
 ---
-title: Comprendere l’[!UICONTROL Impegno di lavoro]
+title: Stimare le ore di attività con Impegno di lavoro
 description: Semplifica la pianificazione delle attività in Workfront con la funzione Impegno di lavoro, consentendo stime delle ore pianificate personalizzabili, modifica in linea e in blocco e viste personalizzate per una gestione efficiente del progetto.
 activity: use
 team: Technical Marketing
@@ -12,21 +12,21 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 12%
+source-wordcount: '289'
+ht-degree: 10%
 
 ---
 
-# Comprendere l’[!UICONTROL Impegno di lavoro]
+# Stimare le ore di attività con Impegno di lavoro
 
 Il video spiega come utilizzare la funzione Impegno di lavoro in Workfront per stimare le ore pianificate per le attività in cui è difficile determinare stime precise.
 Viene illustrato come creare una visualizzazione personalizzata Impegno di lavoro per semplificare la gestione delle attività aggiungendo colonne rilevanti come Impegno di lavoro, Ore pianificate e Tipo di durata
 
->[!VIDEO](https://video.tv.adobe.com/v/3447407/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Funzione Impegno di lavoro per la stima delle ore pianificate:** La funzione Impegno di lavoro in Workfront consente di stimare le ore pianificate per le attività in base alla loro durata, semplificando la creazione di piani di progetto quando le ore pianificate sono difficili da stimare. &#x200B;
 * **Percentuali di impegno di lavoro personalizzabili:** Workfront calcola le ore pianificate utilizzando percentuali di durata dell&#39;attività (ad esempio, Impegno di lavoro Medium = 50%, Impegno di lavoro elevato = 75%) e queste percentuali possono essere regolate in base alle esigenze. &#x200B;

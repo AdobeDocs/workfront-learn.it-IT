@@ -1,5 +1,5 @@
 ---
-title: Aggiornare lo stato dell’attività
+title: Aggiorna stato attività per rapporti accurati
 description: Scopri come, perché e con quale frequenza aggiornare lo stato dell’attività.
 feature: Work Management
 type: Tutorial
@@ -9,20 +9,20 @@ last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
 exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '159'
 ht-degree: 16%
 
 ---
 
-# Aggiornare lo stato dell’attività
+# Aggiorna stato attività per rapporti accurati
 
 Il video offre un’esercitazione su come, perché e con quale frequenza aggiornare lo stato dell’attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471175/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Come aggiornare lo stato dell&#39;attività?** In diversi luoghi è possibile aggiornare lo stato dell&#39;attività. Il più comune si trova nell’elenco delle attività nella pagina del progetto.
 * **Perché è importante aggiornare lo stato dell&#39;attività?** Rapporti precisi e tempestivi su progetti e attività dipendono interamente dagli aggiornamenti di stato dei singoli collaboratori. Senza aggiornamenti coerenti, la visibilità ne risente, le decisioni si arrestano e i rischi di avanzamento non sono più validi.
