@@ -23,7 +23,7 @@ ht-degree: 8%
 
 Il video illustra come convertire un problema o una richiesta in un progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446630/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
