@@ -1,6 +1,6 @@
 ---
 title: Esplora la vista Bacheca per la gestione delle attività
-description: Semplifica la gestione delle attività in Workfront con l'interfaccia [!UICONTROL della visualizzazione ]Bacheca [!DNL Kanban] , offrendo l'ordinamento, la creazione, la personalizzazione e l'integrazione perfetta con la visualizzazione elenco attività per un'organizzazione efficiente del progetto.
+description: Semplifica la gestione delle attività in Workfront con l'interfaccia [!UICONTROL della visualizzazione &#x200B;]Bacheca [!DNL Kanban] , offrendo l'ordinamento, la creazione, la personalizzazione e l'integrazione perfetta con la visualizzazione elenco attività per un'organizzazione efficiente del progetto.
 activity: use
 team: Technical Marketing
 feature: Work Management
