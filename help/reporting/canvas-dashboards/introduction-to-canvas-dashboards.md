@@ -1,5 +1,5 @@
 ---
-title: Introduzione alle dashboard di Canvas
+title: Esplorare i dashboard di Canvas in Workfront
 description: Scopri come passare e spostarti all’interno delle dashboard dell’area di lavoro e come creare una dashboard semplice con i rapporti esistenti.
 activity: use
 team: Technical Marketing
@@ -12,20 +12,20 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 18%
 
 ---
 
-# Introduzione alle dashboard di Canvas
+# Esplorare i dashboard di Canvas in Workfront
 
 La funzione delle dashboard di Canvas consente di creare dashboard anche in Workfront. Attualmente si trova in General Beta, il che significa che tutti i clienti Workfront possono utilizzare la funzione, se sono iscritti alla versione beta. La registrazione deve essere eseguita da un amministratore di sistema. Questo video mostrerà loro come.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474028/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Per ulteriori informazioni, consulta l&#39;articolo [Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
+Per ulteriori informazioni, consulta l&#39;articolo [Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview).
 
 ## Tutorial consigliati su questo argomento
 

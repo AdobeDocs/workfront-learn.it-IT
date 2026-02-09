@@ -1,6 +1,6 @@
 ---
-title: Utilizzare un filtro OR in un rapporto del dashboard di Canvas
-description: Scopri come utilizzare un filtro OR in un rapporto del dashboard di Canvas.
+title: Applicare un filtro OR in un rapporto del dashboard di Canvas
+description: Scopri come utilizzare un filtro OR in un rapporto della dashboard dell’area di lavoro.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,14 +11,15 @@ jira: KT-18770
 last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+exl-id: 5be25b98-892e-4027-99fc-d03e2d6cc9cf
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 9%
+ht-degree: 18%
 
 ---
 
-# Utilizzare un filtro OR in un rapporto del dashboard di Canvas
+# Applicare un filtro OR in un rapporto del dashboard di Canvas
 
 >[!PREREQUISITES]
 >
@@ -31,11 +32,11 @@ Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 
 [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo dopo passo come eseguire entrambe queste operazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475389/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
 
 **Per ulteriori informazioni, vedere i seguenti articoli della Guida:**
-[Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Modificare i filtri dei report in un dashboard Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Modificare i filtri dei report in un dashboard Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## Tutorial consigliati su questo argomento
 

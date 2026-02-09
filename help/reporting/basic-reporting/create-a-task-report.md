@@ -1,5 +1,5 @@
 ---
-title: Creare un rapporto di attività
+title: Crea un report attività per le assegnazioni in ritardo
 description: Scopri come creare un rapporto di attività con un filtro complesso e individuare i rapporti creati in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,22 +12,22 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 77%
+source-wordcount: '1121'
+ht-degree: 76%
 
 ---
 
-# Creare un rapporto di attività
+# Crea un report attività per le assegnazioni in ritardo
 
 Il video fornisce una guida dettagliata sulla creazione di un rapporto personalizzato per monitorare le attività in ritardo assegnate all’utente connesso. Spiega innanzitutto la necessità di creare rapporti personalizzati quando i filtri, le viste o i rapporti incorporati esistenti non soddisfano requisiti specifici. &#x200B; Il rapporto si chiama &quot;Late Tasks Assigned to Me&quot; (Attività in ritardo assegnate a me), con una descrizione aggiunta per chiarezza. &#x200B;
 
 Il rapporto risultante consente agli utenti di concentrarsi sulle attività in ritardo, fornisce informazioni approfondite sulle dipendenze e semplifica la navigazione ai progetti host. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448350/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Creazione report personalizzati:** Se i filtri esistenti e i report incorporati non soddisfano le tue esigenze, puoi creare un report personalizzato da zero per concentrarti su dati specifici, ad esempio le attività in ritardo che ti vengono assegnate. &#x200B;
 * **Impostazione filtro:** Utilizzare i filtri per definire i criteri dei rapporti, incluse le attività in ritardo, incomplete, i progetti correnti e le attività assegnate all&#39;utente connesso. &#x200B;
@@ -131,7 +131,7 @@ Nome: feedback del processo di amministrazione
    * livelli di accesso
    * processo di approvazione (solo globale)
    * notifiche e-mail
-   * modello di layout
+   * modello layout
    * percorso milestone
    * modello di progetto
    * notifiche di promemoria

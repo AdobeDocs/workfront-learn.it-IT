@@ -1,5 +1,5 @@
 ---
-title: Comprendere la modalità testo di base per i filtri
+title: Esplora la modalità testo di base per i filtri in Workfront
 description: Scopri la modalità testo, la notazione Camel e alcune modalità testo di base che puoi utilizzare nei filtri dei rapporti in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 88%
+source-wordcount: '427'
+ht-degree: 86%
 
 ---
 
-# Informazioni sulla modalità testo di base per i filtri
+# Esplora la modalità testo di base per i filtri in Workfront
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ In questo video scoprirai:
 * Borsa Camel
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei filtri dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/3412684/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## Attività &quot;Comprendere la modalità testo di base per i filtri&quot;
 

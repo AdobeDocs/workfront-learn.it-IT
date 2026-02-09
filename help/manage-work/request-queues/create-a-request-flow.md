@@ -1,5 +1,5 @@
 ---
-title: Creare un flusso di richieste
+title: Creare un flusso di richieste in Workfront
 description: Ottimizza la gestione delle richieste creando regole di instradamento per assegnazioni efficienti, organizzando le richieste con gruppi di argomenti nidificati, collegando gli argomenti della coda ai flussi di lavoro, testando la funzionalità del flusso di richieste e apportando modifiche flessibili per garantire precisione ed efficienza.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 9%
+source-wordcount: '406'
+ht-degree: 7%
 
 ---
 
-# Creare un flusso di richieste
+# Creare un flusso di richieste in Workfront
 
 >[!PREREQUISITES]
 >
@@ -31,9 +31,9 @@ Questo video fornisce una guida dettagliata sulla creazione di un flusso di rich
 Il video illustra quindi come creare argomenti della coda, collegati a regole di instradamento, gruppi di argomenti, moduli personalizzati, processi di approvazione e durate predefinite.
 Infine, il video mostra come verificare la configurazione inviando una richiesta per assicurarsi che venga instradata correttamente. &#x200B; In caso di problemi, è possibile apportare modifiche alla coda. &#x200B; Il video sottolinea l’importanza di verificare la struttura e la funzionalità del flusso di richieste per garantire il corretto indirizzamento e organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433830/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Impostazione delle regole di routing:** Le regole di routing determinano la modalità di assegnazione delle richieste, sia a team (ad esempio, team Creative) che a singoli utenti (ad esempio, Jennifer Campbell o Mark Lewis). &#x200B; Queste regole vengono create assegnando loro un nome, aggiungendo descrizioni e selezionando gli assegnatari o i team predefiniti.
 * **Creazione di gruppi di argomenti:** I gruppi di argomenti consentono di organizzare le richieste in categorie quali &quot;Digitale&quot; e &quot;Stampa&quot; &#x200B;. Non esiste alcun limite al numero di gruppi di argomenti che è possibile creare e che possono essere nidificati fino a 10 livelli di profondità.

@@ -1,5 +1,5 @@
 ---
-title: Comprendere le impostazioni per un flusso di richieste
+title: Organizzare le impostazioni del flusso di richieste
 description: Ottimizza la gestione delle richieste di Workfront definendo gli argomenti della coda, utilizzando i gruppi di argomenti, impostando le regole di instradamento, pianificando in anticipo e garantendo che gli invii non vengano trascurati per una maggiore efficienza.
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '285'
+ht-degree: 7%
 
 ---
 
-# Comprendere le impostazioni per un flusso di richieste
+# Organizzare le impostazioni del flusso di richieste
 
 Il video illustra il processo di flusso delle richieste in Workfront e si concentra sulla gestione delle code, sulle regole di instradamento, sui gruppi di argomenti e sugli argomenti della coda. &#x200B; Sottolinea l&#39;importanza di organizzare la coda di richieste rispondendo a tre domande chiave:
 
@@ -30,9 +30,9 @@ Il video illustra il processo di flusso delle richieste in Workfront e si concen
 
 Rispondendo a queste domande, gli utenti possono pianificare e configurare in modo efficace la coda di richieste in Workfront. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441913/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Argomenti coda:** Definisci e organizza diversi tipi di richieste in argomenti coda per semplificare la categorizzazione e la personalizzazione. &#x200B;
 * **Gruppi di argomenti:** Utilizzare i gruppi di argomenti per organizzare ulteriormente gli argomenti della coda, semplificando l&#39;individuazione delle richieste correlate (ad esempio, raggruppando le categorie &quot;Stampa&quot; e &quot;Digitale&quot;). &#x200B;

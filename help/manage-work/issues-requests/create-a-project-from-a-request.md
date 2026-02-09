@@ -12,10 +12,10 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 14%
+source-wordcount: '235'
+ht-degree: 8%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 14%
 
 Il video illustra come convertire un problema o una richiesta in un progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446630/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Processo di conversione:** Per convertire un problema o una richiesta in un progetto, selezionare il problema, utilizzare il menu a tre punti e scegliere un&#39;opzione di conversione, preferibilmente utilizzando un modello. &#x200B;
 * **Selezione modello:** L&#39;utilizzo di un modello è consigliato per coerenza e semplicità. &#x200B; Puoi rivedere e selezionare il modello appropriato in base ai requisiti del progetto. &#x200B;

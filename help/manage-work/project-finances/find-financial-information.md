@@ -1,5 +1,5 @@
 ---
-title: Trovare informazioni finanziarie
+title: Accesso e gestione delle informazioni finanziarie per progetti e attività
 description: Scopri come accedere, analizzare e gestire in modo efficiente i dati finanziari per progetti e attività, includendo budget, ricavi, costi e metriche delle prestazioni sia a livello di progetto che di attività.
 activity: use
 feature: Work Management
@@ -13,20 +13,20 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 20%
+source-wordcount: '217'
+ht-degree: 17%
 
 ---
 
-# Trovare informazioni finanziarie
+# Accesso e gestione delle informazioni finanziarie per progetti e attività
 
 Il video spiega come accedere e gestire le informazioni finanziarie per progetti e attività. &#x200B;Offre una panoramica completa della navigazione e della comprensione dei dati finanziari a livello di progetto e di task. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415896/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Accesso alle informazioni finanziarie:** I dettagli finanziari di un progetto si trovano nella pagina contabilità, accessibili tramite &quot;Dettagli progetto&quot;, mentre i dati finanziari a livello di attività si trovano in &quot;Dettagli attività&quot;.
 * **Campi modificabili:** Gli utenti con i diritti appropriati possono modificare campi quali budget, benefit pianificati, benefit effettivi, ricavi fissi e costi fissi.

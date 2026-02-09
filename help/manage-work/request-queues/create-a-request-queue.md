@@ -1,5 +1,5 @@
 ---
-title: Creare una coda di richieste
+title: Creare una coda di richieste in Workfront
 description: Crea code di richieste Workfront efficienti definendo le autorizzazioni di accesso, personalizzando i tipi e i campi di richiesta, attivando la coda e testandone le funzionalità per una gestione fluida dell’invio dei progetti.
 activity: deploy
 feature: Work Management
@@ -13,20 +13,20 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 10%
+source-wordcount: '248'
+ht-degree: 8%
 
 ---
 
-# Creare una coda di richieste
+# Creare una coda di richieste in Workfront
 
 Il video fornisce una guida dettagliata sulla creazione di una coda di richieste all’interno di Workfont. &#x200B; Il video si conclude mostrando come inviare una richiesta utilizzando la coda appena creata, mostrando il processo di immissione dei dettagli e di verifica dell’invio nella scheda &quot;richieste inviate&quot;. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Creazione di una coda di richieste:** Iniziare creando un nuovo progetto e assegnandogli un nome, che in seguito fungerà da coda di richieste. &#x200B; Accertati di selezionare la casella &quot;Pubblica come coda di richieste di aiuto&quot; per designarla ufficialmente come coda. &#x200B;
 * **Autorizzazioni di accesso:** Definisci chi può inviare richieste alla coda scegliendo tra quattro opzioni: chiunque, visualizzatori di progetti, membri della società o membri del gruppo. &#x200B;

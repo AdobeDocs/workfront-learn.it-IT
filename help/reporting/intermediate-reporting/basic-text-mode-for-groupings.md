@@ -1,5 +1,5 @@
 ---
-title: Comprendere la modalità testo di base per i raggruppamenti
+title: Esplora la modalità testo di base per i raggruppamenti in Workfront
 description: Scopri la modalità testo, la notazione Camel e alcune modalità testo di base che puoi utilizzare nei raggruppamenti di rapporti in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 85%
+source-wordcount: '291'
+ht-degree: 80%
 
 ---
 
-# Comprendere la modalità testo di base per i raggruppamenti
+# Esplora la modalità testo di base per i raggruppamenti in Workfront
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ In questo video scoprirai:
 * Che cos’è la notazione a cammello
 * Alcuni _blocchi di codice in modalità testo_ che puoi utilizzare nei raggruppamenti di rapporti
 
->[!VIDEO](https://video.tv.adobe.com/v/3470787/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## Attività &quot;Comprendere la modalità testo di base per i raggruppamenti&quot;
 

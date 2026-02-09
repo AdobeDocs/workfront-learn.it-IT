@@ -1,5 +1,5 @@
 ---
-title: Creare prompt personalizzati
+title: Creare prompt personalizzati utilizzando la modalità testo
 description: Scopri che cos’è un prompt personalizzato, come crearne uno personalizzato utilizzando la modalità testo e alcuni esempi che è possibile utilizzare nel reporting in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 97%
+source-wordcount: '204'
+ht-degree: 92%
 
 ---
 
-# Creare prompt personalizzati
+# Creare prompt personalizzati utilizzando la modalità testo
 
 In questo video scoprirai:
 
@@ -27,7 +27,7 @@ In questo video scoprirai:
 * Come creare un prompt personalizzato utilizzando la modalità testo
 * Alcuni esempi che è possibile utilizzare nel reporting
 
->[!VIDEO](https://video.tv.adobe.com/v/3412691/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Attività &quot;Crea prompt personalizzati&quot;
 

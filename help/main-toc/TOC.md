@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutorial su Workfront
 user-guide-description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '2428'
-ht-degree: 83%
+source-wordcount: '2483'
+ht-degree: 76%
 
 ---
 
@@ -119,8 +119,8 @@ ht-degree: 83%
       + [Esplora filtri, visualizzazioni e raggruppamenti per la gestione dei progetti](/help/manage-work/projects/view-project-information.md)
       + [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
       + [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [Comprendere la vista [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [Comprendere la vista [!UICONTROL Bacheca]](/help/manage-work/projects/understand-the-board-view.md)
+      + [Esplora la vista Gantt per la gestione dei progetti](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)
 
    + Attività {#tasks}
       + [Creare le attività in modo efficiente in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -141,14 +141,14 @@ ht-degree: 83%
       + [Aggiornare gli stati dei problemi in modo efficace](/help/manage-work/tasks/update-the-issue-status.md)
       + [Aggiornare una richiesta in Workfront](/help/manage-work/issues-requests/update-a-request.md)
       + [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Creare rapporti personalizzati per la gestione dei problemi](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Code di richieste {#request-queues}
-      + [Comprendere le code di richieste](/help/manage-work/request-queues/understand-request-queues.md)
-      + [Creare una coda di richieste](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [Comprendere le impostazioni per un flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [Esplorare le code di richieste in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Creare una coda di richieste in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [Organizzare le impostazioni del flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
       + [Creare una coda richieste di feedback dell’amministratore di sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Risposte alle domande più comuni sulle code di richieste](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -183,50 +183,50 @@ ht-degree: 83%
       + [Risolvere le approvazioni di attività e problemi](/help/manage-work/close-a-project/complete-approvals.md)
       + [Caricare e gestire le risorse del progetto](/help/manage-work/close-a-project/upload-assets.md)
       + [Registrare gli insegnamenti appresi per i progetti futuri](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [Registrare e rivedere gli orari](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [Registra e rivedi le ore del progetto](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Finanze del progetto per gli utenti {#project-finances-users}
-      + [Trovare informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
-      + [Aggiorna dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [Comprendere più tariffe di fatturazione](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [Accesso e gestione delle informazioni finanziarie per progetti e attività](/help/manage-work/project-finances/find-financial-information.md)
+      + [Aggiorna i dati finanziari per i progetti client](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [Personalizzare le tariffe di fatturazione per le mansioni](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Progetti intermedi {#intermediate-projects}
-      + [Comprendere e gestire i tipi di durata e i vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [Comprendere i predecessori tra progetti](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [Predecessori avanzati](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [Tipi di durata principale e vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Stabilire le dipendenze con i predecessori tra progetti](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Dipendenze attività avanzate principali](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Generazione dei rapporti {#reporting}
    + Reporting di base {#basic-reporting}
-      + [Comprendere gli elementi del reporting](/help/reporting/basic-reporting/reporting-elements.md)
-      + [Comprendere i componenti di reporting](/help/reporting/basic-reporting/reporting-components.md)
+      + [Esplora gli elementi di reporting di Workfront](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Esplorare i componenti di reporting in Workfront](/help/reporting/basic-reporting/reporting-components.md)
       + [Creare un raggruppamento di base](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [Creare una vista di base](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Aggiungere la formattazione condizionale di base a una vista](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Creare un filtro di base](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [Comprendere la nuova esperienza di filtro](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [Esplora la nuova esperienza di filtro](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Creare attività filtro di base](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Creare un rapporto semplice](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [Creare un rapporto di attività](/help/reporting/basic-reporting/create-a-task-report.md)
-      + [Copiare un rapporto](/help/reporting/basic-reporting/copy-a-report.md)
-      + [Creare rapporti con grafici](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [Crea un report attività per le assegnazioni in ritardo](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [Copiare e modificare un rapporto](/help/reporting/basic-reporting/copy-a-report.md)
+      + [Visualizzare i dati con i grafici nei rapporti](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [Creare un rapporto matrice](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [Creare dashboard](/help/reporting/basic-reporting/create-dashboards.md)
-      + [Inviare e condividere i rapporti](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [Comprendere le impostazioni dei rapporti](/help/reporting/basic-reporting/report-settings.md)
+      + [Creare dashboard in Workfront](/help/reporting/basic-reporting/create-dashboards.md)
+      + [Inviare e condividere i rapporti in modo efficace](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [Esplora le impostazioni del rapporto e i prompt](/help/reporting/basic-reporting/report-settings.md)
 
    + Reportistica intermedia {#intermediate-reporting}
       + [Creare filtri con caratteri jolly basati sull’utente](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [Creare filtri con caratteri jolly basati sulla data](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [Creare istruzioni OR nei filtri](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [Comprendere i filtri di progetto incorporati](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [Comprendere i filtri attività incorporati](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [Comprendere i filtri dei problemi incorporati](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [Informazioni sulla modalità testo di base per i filtri](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [Comprendere la modalità testo di base per le visualizzazioni](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [Comprendere la modalità testo di base per i raggruppamenti](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [Creare prompt personalizzati](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [Comprendere i filtri EXISTS](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [Esplora i filtri di progetto incorporati](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [Esplora i filtri attività incorporati](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [Esplora i filtri dei problemi incorporati](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [Esplora la modalità testo di base per i filtri in Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [Esplora la modalità testo di base per le visualizzazioni in Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Esplora la modalità testo di base per i raggruppamenti in Workfront](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [Creare prompt personalizzati utilizzando la modalità testo](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Creare filtri EXISTS per reporting complesso](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Reporting avanzato {#advanced-reporting}
       + [Benvenuto nel reporting avanzato](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -235,18 +235,18 @@ ht-degree: 83%
       + [Reporting avanzato: parte 3](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + Report calendario {#calendar-reports}
-      + [Informazioni sull’interfaccia del Rapporto calendario](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [Esplora l’interfaccia del report calendario](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Creare un rapporto del calendario personalizzato](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [Informazioni sulle opzioni aggiuntive per i rapporti calendario](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [Esplora le funzionalità avanzate dei report calendario](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Attività: creare un rapporto sul calendario](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Dashboard dell’area di lavoro {#canvas-dashboards}
-      + [Introduzione alle dashboard dell’area di lavoro](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [Esplora i dashboard di Canvas in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [Creare un rapporto KPI in una dashboard dell’area di lavoro](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Creare un rapporto di grafico su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [Creare un rapporto di tabella su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [Utilizzare un filtro OR in un rapporto del dashboard di Canvas](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [Applicare un filtro OR in un rapporto del dashboard di Canvas](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + Gestire le risorse {#manage-resources}
    + Gestione delle risorse {#resource-management}
@@ -344,7 +344,7 @@ ht-degree: 83%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’Integrazione  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -522,7 +522,7 @@ ht-degree: 83%
       + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

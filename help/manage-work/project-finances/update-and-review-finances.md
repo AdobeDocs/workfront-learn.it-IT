@@ -1,5 +1,5 @@
 ---
-title: Aggiorna dati finanziari
+title: Aggiorna i dati finanziari per i progetti client
 description: Semplifica il tracciamento dei costi e la fatturazione definendo tariffe, assegnando tipi di costi e ricavi alle attività, gestendo le spese e creando record di fatturazione. Workfront non esegue la fatturazione effettiva.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# Aggiorna dati finanziari
+# Aggiorna i dati finanziari per i progetti client
 
 Questo video offre una guida dettagliata su come tracciare i tempi, le spese e creare record di fatturazione per i progetti dei clienti. &#x200B; I punti chiave includono:
 
@@ -49,7 +49,7 @@ Questo video sottolinea l’importanza di una corretta configurazione e tracciam
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 
 * **Imposta tariffe di costo e fatturazione:** Assicurati che gli utenti o le mansioni abbiano tariffe di costo e fatturazione definite nei loro profili per tenere traccia in modo accurato delle spese del progetto. &#x200B;

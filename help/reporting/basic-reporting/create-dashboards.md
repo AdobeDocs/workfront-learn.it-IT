@@ -1,5 +1,5 @@
 ---
-title: Creare dashboard
+title: Creare dashboard in Workfront
 description: 'Organizza e visualizza i dati del progetto con le dashboard di Workfront: sono facilmente accessibili e possono essere personalizzate, condivise e stampate, per agevolare la gestione dei progetti e la collaborazione.'
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '650'
 ht-degree: 29%
 
 ---
 
-# Creare dashboard
+# Creare dashboard in Workfront
 
 Il video fornisce una guida completa per comprendere e utilizzare le dashboard in Workfront.
 &#x200B;Spiega che una dashboard è una raccolta di rapporti che consente agli utenti di organizzare e visualizzare i dati correlati in un’unica posizione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449130/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Dashboard in Workfront:** Un dashboard è una raccolta di report che consente agli utenti di organizzare e visualizzare i dati correlati, ad esempio progetti, attività e problemi, in un&#39;unica vista centralizzata. &#x200B;
 * **Creazione di dashboard:** è possibile personalizzare i dashboard selezionando un layout, aggiungendo report, calendari personalizzati o pagine esterne e disponendoli in modo da ottenere una visualizzazione ottimale. &#x200B; Gli utenti possono inoltre personalizzare le colonne da visualizzare nei rapporti affiancati all’interno del dashboard. &#x200B;
@@ -41,7 +41,7 @@ Il video fornisce una guida completa per comprendere e utilizzare le dashboard i
 
 Crea un [!UICONTROL dashboard] contenente un solo report:&quot;Cerca note in questo progetto&quot;. Ciò è utile per trovare rapidamente qualsiasi aggiornamento apportato a un progetto, anche tra migliaia di aggiornamenti in cui cercare. In questo modo, la ricerca viene effettuata nei thread di aggiornamento per estrarre rapidamente tutti gli aggiornamenti che soddisfano i criteri specificati nei prompt.
 
-Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; creato nell’attività &quot;Crea un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; creato nell’attività &quot;Crea un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 
 * Rimuovi il prompt Nome progetto dalla copia e rinomina il report &quot;Cerca note in questo progetto&quot;.
 * Denomina [!UICONTROL Dashboard] &quot;Note di ricerca&quot;.
@@ -50,7 +50,7 @@ Crea questo rapporto effettuando una copia del rapporto &quot;Cerca note&quot; c
 
 ### Risposta 1
 
-1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+1. Esegui il rapporto creato nell’attività &quot;Creare un rapporto di nota&quot;. Non l&#39;hai ancora creato? Fare clic qui per visualizzare l&#39;attività nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 1. Fai clic su **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Copia]**. [!DNL Workfront] crea un nuovo report denominato &quot;Ricerca nota (copia)&quot;.
 1. Passa ad **[!UICONTROL Azioni rapporto]** e seleziona **[!UICONTROL Modifica]**. Fai clic su **[!UICONTROL Impostazioni report]** e cambia il nome in &quot;Cerca le note in questo progetto&quot;.
 1. Fai clic su [!UICONTROL Prompt rapporto] ed elimina il prompt [!UICONTROL Progetto] > [!UICONTROL Nome] dall’elenco.

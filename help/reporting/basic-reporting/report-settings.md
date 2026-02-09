@@ -1,5 +1,5 @@
 ---
-title: Comprendere le impostazioni dei rapporti
+title: Esplora le impostazioni del rapporto e i prompt
 description: Scopri come accedere alle impostazioni dei rapporti di Workfront e per cosa vengono utilizzate alcune impostazioni comuni.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8871
 last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '58'
+ht-degree: 46%
 
 ---
 
-# Comprendere le impostazioni dei rapporti
+# Esplora le impostazioni del rapporto e i prompt
 
 In questo video scoprirai:
 
@@ -27,4 +27,4 @@ In questo video scoprirai:
 * Come eseguire il rapporto con i diritti di accesso di un utente specifico
 * Come impostare e utilizzare i prompt dei report
 
->[!VIDEO](https://video.tv.adobe.com/v/3445871/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)

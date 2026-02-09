@@ -1,5 +1,5 @@
 ---
-title: Inviare e condividere i rapporti
+title: Inviare e condividere i rapporti in modo efficace
 description: Scopri come inviare i rapporti a utenti, team o qualsiasi indirizzo e-mail e come condividerli con chiunque in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 57%
+source-wordcount: '356'
+ht-degree: 55%
 
 ---
 
-# Inviare e condividere i rapporti
+# Inviare e condividere i rapporti in modo efficace
 
 In questo video scoprirai:
 
@@ -27,9 +27,9 @@ In questo video scoprirai:
 * Come condividere i rapporti con chiunque
 * Cosa possono visualizzare e fare i destinatari con un rapporto di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447820/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Invio di report a utenti esterni:** Puoi inviare report a utenti non Workfront immettendo i loro indirizzi e-mail, semplificando la condivisione di dati all&#39;esterno della tua organizzazione. &#x200B;
 * **Visibilità controllo diritti di accesso:** La visualizzazione del report da parte del destinatario dipende dai diritti di accesso impostati, che garantiscono la sicurezza dei dati e la visibilità appropriata. &#x200B;

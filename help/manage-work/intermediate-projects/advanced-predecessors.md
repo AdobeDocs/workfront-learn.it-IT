@@ -1,5 +1,5 @@
 ---
-title: Predecessori avanzati
+title: Dipendenze attività avanzate principali
 description: Informazioni su tipi di dipendenza dei predecessori, tipi di attesa, predecessori applicati, errori del ciclo di dipendenza e alcune scelte rapide e best practice.
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -12,14 +12,14 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 92%
 
 ---
 
-# Predecessori avanzati
+# Dipendenze attività avanzate principali
 
 
 >[!PREREQUISITES]
@@ -36,7 +36,7 @@ In questo video scoprirai:
 * Errori del ciclo di dipendenza
 * Scelte rapide e best practice
 
->[!VIDEO](https://video.tv.adobe.com/v/3454537/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
 Per ulteriori informazioni sull’utilizzo dei predecessori, consulta [Utilizza i predecessori delle attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=it).
 

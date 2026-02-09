@@ -1,5 +1,5 @@
 ---
-title: Comprendere le code di richieste
+title: Esplorare le code di richieste in Workfront
 description: Semplifica le operazioni in Workfront con code di richieste centralizzate per l’invio, gestione efficiente delle code e accesso semplificato alle richieste inviate per migliorare i flussi di lavoro dei progetti.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,20 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 11%
+source-wordcount: '225'
+ht-degree: 9%
 
 ---
 
-# Comprendere le code di richieste
+# Esplorare le code di richieste in Workfront
 
 Questo video spiega il concetto di code di richieste in Workfront, il loro scopo e come inviare e gestire le richieste. &#x200B; Le code di richieste fungono da posizione centralizzata per l’invio di vari tipi di richieste. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447018/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Scopo delle code di richieste:** Le code di richieste in Workfront forniscono una posizione centralizzata per l&#39;invio di vari tipi di richieste, ad esempio richieste PTO, aggiornamenti software, suggerimenti client e esigenze di formazione.
 * **Invio di una richiesta:** Gli utenti possono inviare le richieste accedendo all&#39;area Richiesta, selezionando il tipo di richiesta, compilando campi come Oggetto, Descrizione, campi facoltativi (ad esempio Documento) e completando un modulo personalizzato. &#x200B;

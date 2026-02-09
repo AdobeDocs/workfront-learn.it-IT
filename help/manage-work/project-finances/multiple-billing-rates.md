@@ -1,5 +1,5 @@
 ---
-title: Comprendere più tariffe di fatturazione
+title: Personalizzare le tariffe di fatturazione per le mansioni
 description: Personalizza e gestisci le tariffe di fatturazione per le mansioni a livello di progetto.
 activity: use
 team: Technical Marketing
@@ -13,22 +13,22 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
 
-# Comprendere più tariffe di fatturazione
+# Personalizzare le tariffe di fatturazione per le mansioni
 
 Il video spiega come gestire e personalizzare le tariffe di fatturazione per i ruoli all’interno di un progetto. &#x200B;Evidenzia la flessibilità nell’impostare più tariffe di fatturazione per lo stesso ruolo e nel garantire adeguamenti accurati basati sul tempo. &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 
 * **Tariffa di fatturazione predefinita:** L&#39;amministratore di sistema imposta una tariffa di fatturazione predefinita per ogni mansione, ma può essere personalizzata per i singoli progetti. &#x200B;

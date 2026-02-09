@@ -1,5 +1,5 @@
 ---
-title: Convertire un problema/richiesta in un’attività
+title: Convertire un problema o una richiesta in un'attività
 description: Converti facilmente i problemi in attività in Workfront con nomi modificabili, allegati di moduli personalizzati, selezione flessibile dei progetti, opzioni di conversione e aggiornamenti dello stato sincronizzati per flussi di lavoro semplificati.
 activity: use
 team: Technical Marketing
@@ -11,20 +11,20 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 22%
+source-wordcount: '247'
+ht-degree: 17%
 
 ---
 
-# Convertire un problema/richiesta in un’attività
+# Convertire un problema o una richiesta in un&#39;attività
 
 Il video illustra come convertire un problema o una richiesta in un’attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445438/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Processo di conversione semplice:** Per convertire un problema o una richiesta in un&#39;attività, aprire il problema, fare clic sul menu a tre punti e selezionare &quot;Converti in attività&quot; &#x200B; Il nome e la descrizione dell’attività vengono copiati per impostazione predefinita, ma possono essere modificati. &#x200B;
 * **Selezione progetto di destinazione:** È possibile scegliere il progetto di destinazione dell&#39;attività, il progetto predefinito in cui risiede il problema o un altro progetto a cui si ha accesso. &#x200B;
@@ -38,7 +38,7 @@ Il video illustra come convertire un problema o una richiesta in un’attività.
 
 >[!NOTE]
 >
->Non è possibile aggiungere problemi alla sequenza temporale del progetto, poiché rappresentano “lavoro non pianificato”. La timeline del progetto è per “lavoro pianificato”, ovvero attività.
+>Non è possibile aggiungere problemi alla timeline del progetto, poiché rappresentano “lavoro non pianificato”. La timeline del progetto è per “lavoro pianificato”, ovvero attività.
 
 ## Tutorial consigliati su questo argomento
 

@@ -1,5 +1,5 @@
 ---
-title: Creare rapporti con grafici
+title: Visualizzare i dati con i grafici nei rapporti
 description: I grafici migliorano la visualizzazione dei dati organizzando le informazioni sui dati tramite filtri, raggruppamenti e formati di colonna sovrapposti personalizzabili, per rendere l’analisi più chiara e fruibile.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 33%
+source-wordcount: '599'
+ht-degree: 32%
 
 ---
 
-# Creare rapporti con grafici
+# Visualizzare i dati con i grafici nei rapporti
 
 Il video spiega come utilizzare i grafici per visualizzare i dati in modo efficace, in particolare per tenere traccia delle attività dei progetti. &#x200B; Viene illustrata la creazione di due tipi di rapporti in Workfront:
 
@@ -38,9 +38,9 @@ Il video spiega come utilizzare i grafici per visualizzare i dati in modo effica
 
 Il video evidenzia come grafici a torta e istogrammi sovrapposti possono fornire informazioni approfondite sulla distribuzione delle attività e sulle prestazioni del progetto, aiutando gli utenti a confrontare i progetti e a comprendere visivamente l’avanzamento delle attività. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450022/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **I grafici migliorano la chiarezza dei dati**: la visualizzazione dei dati con grafici, ad esempio a torta o a colonne, semplifica la comprensione della distribuzione delle attività e dell&#39;avanzamento del progetto rispetto ai report elenco. &#x200B;
 * **Filtro per approfondimenti specifici**: l&#39;applicazione di filtri (ad esempio, attività incomplete e in ritardo nei progetti correnti) consente di concentrarsi sui dati rilevanti per l&#39;analisi mirata. &#x200B;
@@ -73,7 +73,7 @@ La fine del trimestre è vicina e desideri vedere se è stato rispettato il budg
 1. Nella scheda **[!UICONTROL Filtri]**, aggiungi due regole di filtro:
 
    * [!UICONTROL Progetto] > [!UICONTROL Stato equivale a] > [!UICONTROL Completato]
-   * [!UICONTROL Progetto] > [!UICONTROL &#x200B; Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
+   * [!UICONTROL Progetto] > [!UICONTROL  Data di completamento effettiva] > [!UICONTROL Ultimo Trimestre]
 
    ![Immagine della schermata per aggiungere filtri a un rapporto](assets/chart-report-filters.png)
 

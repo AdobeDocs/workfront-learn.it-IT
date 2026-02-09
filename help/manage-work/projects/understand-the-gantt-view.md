@@ -1,5 +1,5 @@
 ---
-title: Comprendere la vista [!UICONTROL Gantt]
+title: Esplora la visualizzazione [!UICONTROL Gantt] per la gestione dei progetti
 description: Massimizza l’efficienza del progetto con i grafici di Gantt, che offrono viste d’insieme, monitoraggio dell’avanzamento, gestione delle milestone, approfondimenti sui predecessori e opzioni personalizzabili per semplificare la gestione delle attività e delle risorse.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 12%
+source-wordcount: '369'
+ht-degree: 11%
 
 ---
 
-# Comprendere la vista [!UICONTROL Gantt]
+# Esplora la visualizzazione [!UICONTROL Gantt] per la gestione dei progetti
 
 Nel video viene illustrato come utilizzare il Diagramma di Gantt del progetto e il Diagramma di Gantt delle attività per visualizzare e gestire attività e progetti in modo efficace. &#x200B; I diagrammi di Gantt forniscono una visione d’insieme di attività, modelli e progetti e vengono comunemente utilizzati all’interno dei portfolio per comprendere le relazioni tra i progetti, in particolare quelli che condividono risorse. &#x200B;
 
@@ -40,11 +40,11 @@ Nel video viene illustrato come utilizzare il Diagramma di Gantt del progetto e 
 
 Il video sottolinea la flessibilità dei grafici di Gantt, consentendo agli utenti di personalizzare le viste e visualizzare più elementi contemporaneamente per una migliore gestione del progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448014/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
 Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafico di Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=it).
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Panoramica generale:** i diagrammi di Gantt forniscono una panoramica completa di attività, progetti e portfolio, semplificando la comprensione delle relazioni e della condivisione delle risorse tra i progetti. &#x200B;
 * **Tracciamento avanzamento:** gli indicatori di stato avanzamento (verde, giallo, rosso e azzurro) consentono di monitorare le timeline dei progetti e delle attività, evidenziando gli stati puntuale, a rischio, in ritardo o in ritardo. &#x200B;

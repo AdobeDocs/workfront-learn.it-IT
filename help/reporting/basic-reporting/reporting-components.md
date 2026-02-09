@@ -1,5 +1,5 @@
 ---
-title: Comprendere i componenti di reporting
+title: Esplorare i componenti di reporting in Workfront
 description: I componenti di reporting di Workfront perfezionano la visualizzazione dei dati con filtri basati su oggetti, viste dinamiche, raggruppamenti strutturati e funzionalità con caratteri jolly per ottenere informazioni personalizzate.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 42%
+source-wordcount: '537'
+ht-degree: 41%
 
 ---
 
-# Comprendere i componenti di reporting
+# Esplorare i componenti di reporting in Workfront
 
 Il video illustra il concetto dei componenti di reporting di Workfront, essenziali per la creazione di filtri, visualizzazioni e raggruppamenti. I componenti chiave includono:
 
@@ -29,9 +29,9 @@ Il video illustra il concetto dei componenti di reporting di Workfront, essenzia
 * **Qualificatore filtro:** definisce quali valori includere o escludere in un report, ad esempio le attività con priorità &quot;alta&quot;. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447029/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Componenti di reporting:** i componenti di reporting di Workfront includono il tipo di oggetto, l&#39;origine del campo, il nome del campo, i qualificatori di filtro e il campo valore, essenziali per la creazione di filtri, visualizzazioni e raggruppamenti. &#x200B;
 * **Specificità del tipo di oggetto:** filtri, visualizzazioni e raggruppamenti sono associati a tipi di oggetto specifici, ad esempio progetti, attività o ore, in modo da garantire che i report siano personalizzati in base ai dati pertinenti. &#x200B;
