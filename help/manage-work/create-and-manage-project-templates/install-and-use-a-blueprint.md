@@ -23,7 +23,7 @@ ht-degree: 24%
 Scopri come un amministratore installa una blueprint e come un utente la imposta per utilizzarla. In questo esempio verrà installato il blueprint &quot;Workfront Training for New Users&quot; e verranno utilizzati i modelli e le visualizzazioni creati come elenco di controllo per la formazione per agevolare l’accesso degli utenti a Workfront.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479843/?captions=ita&quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 
