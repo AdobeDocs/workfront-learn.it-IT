@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
+source-git-commit: be157b67df534e0be0f58e8aa04a6646950541d0
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 77%
@@ -50,19 +50,19 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
 1. Prima di connettersi a un’istanza di Workfront, è necessario creare un connettore OAuth 2.0 in tale istanza di Workfront. Per eseguire l&#39;accesso all&#39;istanza di Workfront, passare a **Configurazione > Sistema > Applicazioni OAuth2** e fare clic su **Crea integrazione app**.
 
-Compila la prima pagina del modulo come mostrato di seguito e fai clic su **Crea**.
+   Compila la prima pagina del modulo come mostrato di seguito e fai clic su **Crea**.
 
-![Immagine progettazione scenario iniziale 3a](../12-exercises/assets/initial-scenario-design-3a.png)
+   ![Immagine progettazione scenario iniziale 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-Quando viene visualizzata la schermata successiva, compila il campo **URL di reindirizzamento** con il seguente URL:
+1. Quando viene visualizzata la schermata successiva, compila il campo **URL di reindirizzamento** con il seguente URL:
 
-`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
+   `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-![Immagine progettazione scenario iniziale 3b](../12-exercises/assets/initial-scenario-design-3b.png)
+   ![Immagine progettazione scenario iniziale 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-Quindi fare clic sul pulsante **Aggiungi segreto client**. Verrà visualizzato il segreto client. Copiatelo e salvatelo in un luogo in cui potete recuperarlo per un passaggio futuro. Ne avrai bisogno nello scenario Fusion. Copia e salva anche il **ID client** per un passaggio futuro. Al termine della copia, fare clic su **Salva** nella parte inferiore dell&#39;applicazione.
+1. Quindi fare clic sul pulsante **Aggiungi segreto client**. Verrà visualizzato il segreto client. Copiatelo e salvatelo in un luogo in cui potete recuperarlo per un passaggio futuro. Ne avrai bisogno nello scenario Fusion. Copia e salva anche il **ID client** per un passaggio futuro. Al termine della copia, fare clic su **Salva** nella parte inferiore dell&#39;applicazione.
 
-![Immagine progettazione scenario iniziale 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+   ![Immagine progettazione scenario iniziale 3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
 1. In Fusion, fai clic sul pulsante **Aggiungi** per creare una connessione con Workfront.
 
