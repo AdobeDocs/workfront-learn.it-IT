@@ -13,7 +13,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 82%
@@ -34,9 +34,9 @@ In questo video scoprirai come:
 * Utilizzare il designer di scenari
 * Creare uno scenario di base
 
->[!VIDEO](https://video.tv.adobe.com/v/3415974/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
-## Questo è l&#39;URL da incollare nel campo **URL di reindirizzamento** durante la creazione di un&#39;integrazione dell&#39;app OAuth nell&#39;istanza dell&#39;unità di test
+**Questo è l&#39;URL da incollare nel campo &quot;URL di reindirizzamento&quot; durante la creazione di un&#39;integrazione dell&#39;app OAuth nell&#39;istanza dell&#39;unità di test**
 
 ```
 https://app.workfrontfusion.com/oauth/cb/workfront-workfront
@@ -44,4 +44,4 @@ https://app.workfrontfusion.com/oauth/cb/workfront-workfront
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 
-[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/it/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Documentazione di Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
