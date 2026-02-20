@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 97%
+source-wordcount: '1181'
+ht-degree: 77%
 
 ---
 
@@ -48,19 +48,37 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
    **Autentica la connessione del modulo al tuo account Workfront.**
 
-1. Per creare una connessione per la prima volta, fai clic sul pulsante Aggiungi.
+1. Prima di connettersi a un’istanza di Workfront, è necessario creare un connettore OAuth 2.0 in tale istanza di Workfront. Per eseguire l&#39;accesso all&#39;istanza di Workfront, passare a **Configurazione > Sistema > Applicazioni OAuth2** e fare clic su **Crea integrazione app**.
 
-   ![Immagine 3 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-3.png)
+Compila la prima pagina del modulo come mostrato di seguito e fai clic su **Crea**.
 
-1. Assegna alla connessione un nome, ad esempio “Il mio Workfront 2020”
+![Immagine progettazione scenario iniziale 3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![Immagine 4 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-4.png)
+Quando viene visualizzata la schermata successiva, compila il campo **URL di reindirizzamento** con il seguente URL:
 
-1. Immetti l&#39;URL dell&#39;**account dell&#39;unità di test di Workfront**, quindi fai clic su Avanti.
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![Immagine 5 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-5.png)
+![Immagine progettazione scenario iniziale 3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. Inserisci la password e fai clic su Accedi.
+Quindi fare clic sul pulsante **Aggiungi segreto client**. Verrà visualizzato il segreto client. Copiatelo e salvatelo in un luogo in cui potete recuperarlo per un passaggio futuro. Ne avrai bisogno nello scenario Fusion. Copia e salva anche il **ID client** per un passaggio futuro. Al termine della copia, fare clic su **Salva** nella parte inferiore dell&#39;applicazione.
+
+![Immagine progettazione scenario iniziale 3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. In Fusion, fai clic sul pulsante **Aggiungi** per creare una connessione con Workfront.
+
+   ![Immagine progettazione scenario iniziale 3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. Seleziona **Adobe Workfront auth** come tipo di connessione e seleziona la casella **Mostra impostazioni avanzate**. Quindi fare clic su **Continua**.
+
+   ![Immagine progettazione scenario iniziale 4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. Utilizza il **ID client** e il **Segreto client** che hai salvato in precedenza per compilare qui. Per l&#39;**URL autenticazione** è più semplice copiare l&#39;URL di autenticazione predefinito specificato sotto il campo e sostituire `oauth.my` con `<domain name>.testdrive`, quindi fare clic su **Continua**.
+
+   ![Immagine progettazione scenario iniziale 5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. Autenticazione della connessione in corso. Potrebbe essere necessario accedere a Workfront. Fare clic su **Consenti accesso**.
+
+   ![Immagine progettazione scenario iniziale 5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **La connessione è stata stabilita. Immetti ora l’ID documento del documento che desideri scaricare da Workfront.**
 
@@ -81,7 +99,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
    ![Immagine 9 progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-9.png)
 
 1. Rinomina questo modulo “Analizza elenco progetti”.
-1. Nella parte inferiore della schermata di progettazione dello scenario, fai clic su Salva per salvare lo scenario.
+1. Nella parte inferiore del designer di scenari, fai clic su Salva per salvare lo scenario.
 1. Fai clic su Esegui una volta per visualizzare l’output.
 
    >[!NOTE]
@@ -117,7 +135,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
    >[!NOTE]
    >
-   >Se non fai clic su OK e torni accidentalmente alla finestra di progettazione, il lavoro non viene salvato e dovrai eseguire nuovamente la mappatura.
+   >Se non fai clic su OK e torni accidentalmente al designer, il lavoro non viene salvato e dovrai eseguire nuovamente la mappatura.
 
 1. Fai clic con il pulsante destro del mouse sul modulo Workfront e rinominalo “Crea progetti Workfront”.
 1. Salva lo scenario e fai clic sul pulsante Run once (Esegui una volta).
@@ -129,7 +147,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
    **Utilizzo delle note**
 
-1. Le note contribuiscono a creare maggiore visibilità nella progettazione dello scenario. Per aggiungere una nota al modulo Create Workfront projects (Crea progetti Workfront), fai clic con il pulsante destro del mouse e seleziona Aggiungi una nota. Viene visualizzato un pannello a destra della finestra di progettazione in cui puoi aggiungere una nota al modulo. Digita “Crea un progetto con nome, data di inizio pianificata e priorità mappate dal file CSV”.
+1. Le note contribuiscono a creare maggiore visibilità nella progettazione dello scenario. Per aggiungere una nota al modulo Create Workfront projects (Crea progetti Workfront), fai clic con il pulsante destro del mouse e seleziona Aggiungi una nota. Viene visualizzato un pannello a destra del designer in cui puoi aggiungere una nota al modulo. Digita “Crea un progetto con nome, data di inizio pianificata e priorità mappate dal file CSV”.
 1. Aggiungi un’altra nota per descrivere l’azione del modulo trigger (il primo modulo Workfront).
 1. Chiudi il pannello delle note facendo clic sulla X nell’angolo in alto a destra.
 
