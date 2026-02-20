@@ -34,7 +34,7 @@ In questo video scoprirai come:
 * Utilizzare il designer di scenari
 * Creare uno scenario di base
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415974/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 **Questo è l&#39;URL da incollare nel campo &quot;URL di reindirizzamento&quot; durante la creazione di un&#39;integrazione dell&#39;app OAuth nell&#39;istanza dell&#39;unità di test**
 
