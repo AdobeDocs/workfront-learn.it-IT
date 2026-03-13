@@ -1,10 +1,10 @@
 ---
 user-guide-title: Tutorial su Workfront
-user-guide-description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzioni e le impostazioni di Workfront.
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+user-guide-description: Raccolta di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '2488'
-ht-degree: 76%
+source-wordcount: '2485'
+ht-degree: 77%
 
 ---
 
@@ -22,10 +22,10 @@ ht-degree: 76%
       + [Creare e gestire le mansioni](/help/administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Accedere come un altro utente](/help/administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
-   + Gestisci elementi eliminati {#manage-deleted-items}
+   + Gestire gli elementi eliminati {#manage-deleted-items}
       + [Ripristinare oggetti dal Cestino](/help/administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
-   + Configurare i valori predefiniti di sistema {#configure-system-defaults}
+   + Configurare le impostazioni predefinite del sistema {#configure-system-defaults}
       + [Creare e gestire gli stati degli oggetti](/help/administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Comprendere i tipi di problemi predefiniti](/help/administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Creare uno stato del problema](/help/administration-and-setup/configure-system-defaults/create-an-issue-status.md)
@@ -103,7 +103,7 @@ ht-degree: 76%
       + [Creare un’espressione di testo IF](/help/custom-data/calculated-expressions/create-an-if-text-expression.md)
       + [Aspetti da prendere in considerazione sulle espressioni di campo calcolato](/help/custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
-+ Gestisci lavoro {#manage-work}
++ Gestire il lavoro {#manage-work}
    + Progetti {#projects}
       + [Creare e gestire un progetto da zero](/help/manage-work/projects/understand-basic-project-creation.md)
       + [Usare la pagina del progetto](/help/manage-work/projects/navigate-the-project-page.md)
@@ -122,7 +122,7 @@ ht-degree: 76%
       + [Esplora la vista Gantt per la gestione dei progetti](/help/manage-work/projects/understand-the-gantt-view.md)
       + [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)
 
-   + Attività {#tasks}
+   + Tasks {#tasks}
       + [Creare le attività in modo efficiente in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
       + [Comprendere le relazioni tra attività padre e figlio](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [Gestione efficiente delle attività in Workfront](/help/manage-work/tasks/work-with-tasks.md)
@@ -158,7 +158,7 @@ ht-degree: 76%
       + [Ottimizzare le priorità dei progetti con lo strumento di ottimizzazione Portfolio](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Processi di approvazione e percorsi milestone {#approval-processes-and-milestone-paths}
-      + [Creare un processo di approvazione globale e monouso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Creare e gestire i processi di approvazione](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Applicare un processo di approvazione del problema in una coda di richieste](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [Rivedere e approvare il lavoro digitale](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Delega in modo efficace attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
@@ -327,7 +327,7 @@ ht-degree: 76%
    + [Creare e gestire un tipo di record](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Creare e gestire le viste tabella](/help/workfront-planning/create-and-manage-table-views.md)
    + [Creare e gestire le visualizzazioni della timeline](/help/workfront-planning/create-and-manage-timeline-views.md)
-   + [Connetti tipi di record](/help/workfront-planning/connect-record-types.md)
+   + [Collegare tipi di record](/help/workfront-planning/connect-record-types.md)
    + [Creare un modulo di richiesta di tipo record](/help/workfront-planning/create-a-record-type-request-form.md)
    + [Vantaggi dei team di progettazione Workfront Planning for UX](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
@@ -345,7 +345,7 @@ ht-degree: 76%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’Integrazione  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -523,7 +523,7 @@ ht-degree: 76%
       + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

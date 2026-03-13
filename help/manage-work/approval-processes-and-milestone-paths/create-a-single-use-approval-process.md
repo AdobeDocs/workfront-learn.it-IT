@@ -1,5 +1,5 @@
 ---
-title: Creare un processo di approvazione globale e monouso
+title: Creare e gestire i processi di approvazione
 description: Migliora i flussi di lavoro di approvazione sfruttando i processi di approvazione globali e monouso per attività, progetti o problemi, implementando approvazioni in più livelli e promuovendo l’efficienza tramite la riutilizzabilità nei modelli di progetto.
 activity: use
 feature: Approvals
@@ -13,22 +13,22 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 25%
+source-wordcount: '288'
+ht-degree: 20%
 
 ---
 
-# Creare un processo di approvazione globale e monouso
+# Creare e gestire i processi di approvazione
 
 Il video spiega come creare e gestire i processi di approvazione per progetti, attività o problemi, distinguendo tra processi di approvazione globali e monouso.
 Il video illustra come creare processi di approvazione, impostare approvatori, configurare stati e utilizzare fasi per approvazioni a più livelli.
 &#x200B;Evidenzia la flessibilità dei processi globali e monouso per gestire in modo efficace le approvazioni delle attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434695/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Tipi di processi di approvazione:** Esistono due tipi: i processi di approvazione globali (condivisi tra attività, progetti o problemi) e i processi di approvazione monouso (specifici di una singola attività, progetto o problema).
 * **Processi di approvazione globali:** creati nella sezione Configurazione > Processi > Approvazioni e attivabili da stati specifici. &#x200B; Possono coinvolgere più approvatori o approvazioni pronte.
