@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Gestisci lavoro - Intermedio
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 63%
+ht-degree: 64%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 63%
 # Gestisci lavoro - Intermedio {#manage-work-intermediate}
 
 + [Gestisci lavoro - Intermedio](overview.md)
-+ Gestisci lavoro - intermedio {#manage-work-intermediate}
++ Gestisci lavoro - Intermedio {#manage-work-intermediate}
    + Modelli di progetto {#project-templates}
       + [Creare un modello di progetto e informazioni sui blueprint](create-a-project-template.md)
       + [Creare un progetto direttamente da un modello](create-a-project-directly-from-a-template.md)
@@ -37,7 +37,7 @@ ht-degree: 63%
       + [Applicare le milestone](apply-milestones.md)
       + [Visualizzare le milestone](view-milestones.md)
 
-   + Come lavorare con i problemi {#how-to-work-with-issues}
+   + Come risolvere i problemi {#how-to-work-with-issues}
       + [Gestire il lavoro non pianificato](handle-unplanned-work.md)
       + [Effettuare una richiesta](make-a-request.md)
       + [Trovare e gestire le richieste](find-requests.md)
@@ -47,7 +47,7 @@ ht-degree: 63%
       + [Convertire un problema/richiesta in un’attività](convert-issues-to-other-work-items.md)
       + [Rapporto sui problemi](report-on-issues.md)
 
-   + Ricerca di più approfonditi {#digging-deeper}
+   + Approfondimento {#digging-deeper}
       + [Comprendere e gestire i tipi di durata e i vincoli delle attività](understand-and-manage-duration-types-and-task-constraints.md)
       + [Comprendere i predecessori tra progetti](understand-cross-project-predecessors.md)
       + [Predecessori avanzati](advanced-predecessors.md)

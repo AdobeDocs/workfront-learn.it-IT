@@ -1,6 +1,6 @@
 ---
 title: Gestire il lavoro - guida introduttiva
-description: Inizia il tuo percorso Workfront imparando a creare e pianificare i progetti. Workfront consiglia di semplificare le cose.
+description: Inizia il tuo percorso in Workfront apprendendo a creare e pianificare i progetti. Workfront consiglia di semplificare le cose.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,29 +11,29 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '943'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # Gestire il lavoro - guida introduttiva {#overview}
 
-Inizia il tuo percorso Workfront imparando a creare e pianificare i progetti. Workfront consiglia di semplificare le cose.
+Inizia il tuo percorso in Workfront apprendendo a creare e pianificare i progetti. Workfront consiglia di semplificare le cose.
 
 Questa esercitazione illustra come creare un progetto, pianificarne uno, gestirlo e chiuderlo.
 
-Dopo aver completato questa esercitazione, ti consigliamo di [gestire il lavoro - intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=it) per affinare ulteriormente le tue abilità di gestione dei progetti.
+Dopo aver completato questa esercitazione, ti consigliamo di [gestire il lavoro - intermedio](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) per affinare ulteriormente le tue abilità di gestione dei progetti.
 
 >[!PREREQUISITES]
 >
 >* Buona conoscenza dell’utilizzo di Workfront
 >* Tipo di licenza standard con diritti per la creazione di progetti abilitati
 
-## Crea un Progetto
+## Crea un progetto
 
 Scopri cos’è un progetto in Adobe Workfront, come avviarlo e come crearlo nel modo più comune.
 

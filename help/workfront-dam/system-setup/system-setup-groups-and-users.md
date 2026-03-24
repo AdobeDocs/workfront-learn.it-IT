@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 95%
@@ -28,7 +28,7 @@ In questo video scoprirai come:
 * Creare e modificare gruppi
 * Aggiungere e modificare utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3414468/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
 ## Revisione di gruppi e utenti
 
@@ -56,10 +56,11 @@ Man mano che i gruppi vengono creati, viene loro assegnato un tipo di ruolo. Il 
 Le licenze [!UICONTROL Workfront DAM] prevedono tre tipi di ruolo:
 
 * **[!UICONTROL Brand Portal:]** questi utenti hanno accesso solo a [!UICONTROL Brand Connect], che consente loro di visualizzare e scaricare le risorse approvate.
-* **[!UICONTROL Collaboratore:]** questi utenti possono accedere a [!UICONTROL Workfront DAM] e a [!UICONTROL &#x200B; Brand Connect]. Possiedono i diritti di accesso completo alle risorse e alle cartelle, ossia visualizzarle, scaricarle, caricarle, modificarle, spostarle ed eliminarle.
+* **[!UICONTROL Collaboratore:]** questi utenti possono accedere a [!UICONTROL Workfront DAM] e a [!UICONTROL  Brand Connect]. Possiedono i diritti di accesso completo alle risorse e alle cartelle, ossia visualizzarle, scaricarle, caricarle, modificarle, spostarle ed eliminarle.
 * **[!UICONTROL Amministratore:]** gli amministratori di sistema hanno accesso a tutte le funzioni di [!UICONTROL Brand Connect] e [!UICONTROL Workfront DAM], oltre ad avere la possibilità di stabilire le impostazioni di sistema globali per ciascuno di essi. Inoltre, possono accedere alle risorse scadute o impostate come inattive.
 
 <!-- 
 Learn more graphic & documentation article link, below
 * Understanding the difference between Workfront licenses and Workfront DAM role types
-* -->
+* 
+-->

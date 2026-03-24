@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 100%
@@ -18,7 +18,9 @@ ht-degree: 100%
 
 # Introduzione ai campi calcolati e alle espressioni
 
-<!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
+<!--
+**Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.
+-->
 
 Workfront offre una varietà di campi comuni a più aree aziendali che vengono regolarmente utilizzati per la gestione del lavoro. Campi come data di completamento pianificata, budget del progetto, nome dell&#39;assegnatario dell&#39;attività, ecc.
 

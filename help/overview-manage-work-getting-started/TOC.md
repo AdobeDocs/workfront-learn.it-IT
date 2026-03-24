@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Gestire il lavoro - guida introduttiva
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 68%
+ht-degree: 71%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 68%
 # Gestire il lavoro - guida introduttiva {#manage-work-getting-started}
 
 + [Gestire il lavoro - guida introduttiva](overview.md)
-+ Gestisci lavoro - guida introduttiva {#manage-work-getting-started}
++ Gestire il lavoro - guida introduttiva {#manage-work-getting-started}
    + Crea un progetto {#create-a-project}
       + [Informazioni sulla creazione di un progetto di base](understand-basic-project-creation.md)
       + [Convertire un problema o una richiesta in un progetto](create-a-project-from-a-request.md)
@@ -25,7 +25,7 @@ ht-degree: 68%
       + [Compilare i dettagli del progetto](fill-in-the-project-details.md)
       + [Usare la pagina del progetto](navigate-the-project-page.md)
 
-   + Pianifica un progetto {#plan-a-project}
+   + Pianificare un progetto {#plan-a-project}
       + [Introduzione alla pianificazione di un progetto](getting-started-plan-a-project.md)
       + [Creare le attività](how-to-create-tasks.md)
       + [Comprendere le attività principali e secondarie](understand-parent-child-tasks.md)
@@ -39,7 +39,7 @@ ht-degree: 68%
       + [Comprendere l’[!UICONTROL Impegno di lavoro]](understand-work-effort.md)
       + [Lancia un progetto live](take-a-project-live.md)
 
-   + Gestisci un progetto {#manage-a-project}
+   + Gestire un progetto {#manage-a-project}
       + [Introduzione alla gestione di un progetto](getting-started-manage-a-project.md)
       + [Trovare i progetti](find-projects.md)
       + [Condividere un progetto](share-a-project.md)
