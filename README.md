@@ -1,7 +1,7 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: ht
-source-wordcount: '424'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ Il modo in cui si contribuisce dipende dal proprio ruolo e dalle modifiche che s
 
 ### Modifiche minori
 
-Se stai apportando aggiornamenti minori a titolo personale, visita l’articolo e seleziona **Modifica** per accedere alla fonte GitHub dell’articolo. Utilizza quindi l’interfaccia utente di GitHub per apportare modifiche. Per ulteriori informazioni, vedi la [Guida per i collaboratori Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it) generale.
+Se stai apportando aggiornamenti minori a titolo personale, visita l’articolo e fai clic su **Modifica** per accedere alla fonte GitHub dell’articolo. Utilizza quindi l’interfaccia utente di GitHub per apportare modifiche. Per ulteriori informazioni, vedi la [Guida per i collaboratori Adobe Docs](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=it) generale.
 
 Le correzioni o spiegazioni minori inviate per la documentazione e gli esempi di codice in questo archivio sono coperte dalle condizioni d’uso di Adobe.
 
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Modifiche sostanziali da parte dei dipendenti Adobe
 
-Se sei un redattore tecnico, un responsabile di programma o uno sviluppatore del team di prodotto di una soluzione di Adobe Experience Cloud e il tuo lavoro consiste nel contribuire o scrivere articoli tecnici, utilizza l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`.
+Se sei un redattore tecnico, un responsabile di programma o uno sviluppatore del team di prodotto di una soluzione di Adobe Experience Cloud ed è tuo compito creare o contribuire ad articoli tecnici, utilizza l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
