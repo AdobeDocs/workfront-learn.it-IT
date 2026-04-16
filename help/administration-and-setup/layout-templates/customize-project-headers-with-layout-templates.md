@@ -1,25 +1,25 @@
 ---
 title: Personalizzare le intestazioni di progetto con i modelli di layout
-description: Scopri come aggiungere e rimuovere campi dalle intestazioni dei progetti tramite i modelli di layout.
+description: Scopri come personalizzare le intestazioni dei progetti, evidenziare i dettagli chiave e semplificare i flussi di lavoro con i modelli di layout nella piattaforma Adobe.
 feature: System Setup and Administration
-activity: deploy
-team: Technical Marketing
+topic: Personalization
 role: Admin
-level: Intermediate
-type: Tutorial
-thumbnail: null
-jira: KT-11108
-doc-type: video
-exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+level: Beginner
+doc-type: Feature Video
+duration: 240
+last-substantial-update: 2026-04-15T00:00:00Z
+jira: KT-20209
+source-git-commit: 58bb8b11c151c3b8c72d0518a11acb78dfa58ce5
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 
-# Personalizzare le intestazioni di progetto con i modelli di layout
 
-Scopri come aggiungere e rimuovere campi dalle intestazioni dei progetti tramite i modelli di layout.
+# Personalizzare le intestazioni di progetto con i modelli layout
 
->[!VIDEO](https://video.tv.adobe.com/v/3422845?captions=ita)
+Scopri come adattare le intestazioni del progetto per visualizzare solo le informazioni più rilevanti utilizzando i modelli di layout. Scopri come rimuovere i campi non necessari, aggiungere campi personalizzati e organizzarli in modo efficace. In questo modo i team possono accedere rapidamente ai dettagli critici del progetto, migliorando la chiarezza e l’efficienza. Guarda il video seguente per una guida dettagliata sull’ottimizzazione delle intestazioni dei progetti.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483471/?captions=ita&learn=on&enablevpops)
+
