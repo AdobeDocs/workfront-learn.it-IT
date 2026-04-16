@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Scopri come utilizzare le espressioni Logica di visualizzazione avanzata per controllare la visibilità dei campi e delle sezioni dei moduli personalizzati. Questa funzione consente di creare moduli più dinamici e personalizzati, in linea con le esigenze specifiche degli utenti e migliorando l’efficienza del flusso di lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483459/?captions=ita&learn=on&enablevpops)
 

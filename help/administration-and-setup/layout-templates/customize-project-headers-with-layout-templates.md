@@ -21,5 +21,5 @@ ht-degree: 7%
 
 Scopri come adattare le intestazioni del progetto per visualizzare solo le informazioni più rilevanti utilizzando i modelli di layout. Scopri come rimuovere i campi non necessari, aggiungere campi personalizzati e organizzarli in modo efficace. In questo modo i team possono accedere rapidamente ai dettagli critici del progetto, migliorando la chiarezza e l’efficienza. Guarda il video seguente per una guida dettagliata sull’ottimizzazione delle intestazioni dei progetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483471/?captions=ita&learn=on&enablevpops)
 
