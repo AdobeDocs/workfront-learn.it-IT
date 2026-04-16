@@ -20,5 +20,5 @@ ht-degree: 0%
 
 Scopri come aggiungere logica di convalida ai moduli personalizzati per garantire la precisione dei dati. Implementando la logica di convalida è possibile evitare errori, semplificare i processi e migliorare l’efficienza del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483434/?captions=ita&learn=on&enablevpops)
 
