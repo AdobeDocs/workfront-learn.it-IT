@@ -10,7 +10,7 @@ team: Technical Marketing
 last-substantial-update: 2026-04-20T00:00:00Z
 jira: KT-20256
 doc-type: video
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: e90a7ab4dcb8341ab1f942c50a018ad429550570
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Questo video sottolinea l’importanza di utilizzare linee di base, istantanee e
 * **Le istantanee acquisiscono tutti i dati del progetto:** A differenza delle previsioni, le istantanee vengono create manualmente e acquisiscono tutti i campi progetto, attività, problema e personalizzati, offrendo un record completo in qualsiasi momento.
 * **Confronto flessibile e creazione di rapporti:** gli utenti possono confrontare i dati del progetto corrente con le baseline o tra snapshot utilizzando report e visualizzazioni personalizzati, consentendo l&#39;analisi dettagliata delle modifiche e dell&#39;avanzamento.
 * **Creazione di rapporti periodici automatizzati con i rapporti inviati:** La funzione &#39;Invia rapporto&#39; consente agli utenti di pianificare e ricevere rapporti e-mail regolari, fornendo un modo automatico di tenere traccia e archiviare i dati del progetto nel tempo.
-
