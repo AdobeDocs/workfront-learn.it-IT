@@ -22,7 +22,7 @@ ht-degree: 0%
 Questo video sottolinea l’importanza di utilizzare linee di base, istantanee e rapporti inviati per un monitoraggio efficace dei progetti, un’analisi storica e una comunicazione efficace con le parti interessate.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483625/?captions=ita&quality=12&learn=on&enablevpops)
 
 ## Concetti chiave
 
