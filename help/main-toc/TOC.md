@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutorial su Workfront
 user-guide-description: Raccolta di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
 workflow-type: tm+mt
-source-wordcount: '2494'
+source-wordcount: '2508'
 ht-degree: 77%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 77%
       + [Personalizzare i tipi di problemi e la terminologia](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Configurare le preferenze globali dei problemi predefiniti](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Creare e gestire le regole di business](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [Configura localizzazione definita dall&#39;utente](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + Modelli layout {#layout-templates}
       + [Cosa sono i modelli layout?](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -88,6 +89,8 @@ ht-degree: 77%
       + [Allegare un modulo personalizzato a un oggetto](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Aggiungere interruzioni di sezione e logiche a un modulo personalizzato](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Esportare un modulo personalizzato come PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [Aggiungi logica di convalida a Forms personalizzato](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [Configurare la logica di visualizzazione avanzata](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + Espressioni calcolate {#calculated-expressions}
       + [Introduzione ai campi calcolati e alle espressioni](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -346,7 +349,7 @@ ht-degree: 77%
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
    + Jira {#jira}
-      + [Creare visibilità con l’Integrazione  [!DNL Jira] &#x200B;](/help/integrations/jira/jira.md)
+      + [Creare visibilità con l’Integrazione  [!DNL Jira] ](/help/integrations/jira/jira.md)
 
    + Microsoft Outlook {#outlook}
       + [Installare il componente aggiuntivo di Microsoft Outlook](/help/integrations/outlook/integrations-microsoft-outlook.md)
@@ -524,7 +527,7 @@ ht-degree: 77%
       + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
       + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
       + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
