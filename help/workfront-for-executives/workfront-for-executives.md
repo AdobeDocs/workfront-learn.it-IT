@@ -12,10 +12,10 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '513'
+ht-degree: 91%
 
 ---
 
@@ -32,7 +32,7 @@ In qualità di dirigente, Adobe Workfront può:
 
 ## Report e dashboard
 
-### Report
+### Rapporti
 
 I rapporti in Workfront rappresentano la spina dorsale per prendere decisioni migliori, più velocemente. Puoi visualizzarli ovunque tu ti sposti, nell’area progetti, nell’area persone o in una pagina di destinazione dell’attività.
 
@@ -40,7 +40,7 @@ Leader e dirigenti possono accedere all’area dei rapporti per visualizzare que
 
 ### Dashboard
 
-Utilizzando una dashboard, i leader possono visualizzare e analizzare rapidamente qualsiasi parte del lavoro attualmente svolto dall’organizzazione. La dashboard è semplicemente una raccolta di rapporti che forniscono informazioni che i leader potrebbero dover visualizzare regolarmente. Le dashboard sono completamente personalizzabili in modo che chiunque utilizzi Workfront possa vedere il lavoro che gli interessa.
+Utilizzando un dashboard, i leader possono visualizzare e analizzare rapidamente in profondità qualsiasi parte del lavoro su cui sta lavorando la propria organizzazione.La dashboard è semplicemente una raccolta di rapporti che forniscono informazioni che i responsabili potrebbero dover visualizzare regolarmente. Le dashboard sono completamente personalizzabili in modo che chiunque utilizzi Workfront possa vedere il lavoro che gli interessa.
 
 Fai clic su Dashboard dall’icona del menu principale nell’angolo superiore destro per accedere all’area Dashboard.
 
@@ -79,7 +79,7 @@ In questo video scoprirai come:
 * Effettuare una richiesta
 * Visualizzare le richieste inviate
 
->[!VIDEO](https://video.tv.adobe.com/v/3413115/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3413115/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Elementi in attesa di approvazione
 

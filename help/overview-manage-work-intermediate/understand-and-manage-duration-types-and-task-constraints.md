@@ -13,10 +13,10 @@ jira: KT-13530
 doc-type: video
 hide: true
 exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '188'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Questo video illustra le seguenti informazioni sui tipi di durata e i vincoli de
 * Best practice per il loro utilizzo
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422826/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3422826/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 Per informazioni su come creare una vista con tipi di durata e vincoli delle attività, consulta la relativa attività in [Creare una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).

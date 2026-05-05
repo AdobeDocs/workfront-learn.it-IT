@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ In questo video scoprirai come:
 * Seleziona una vista per confrontare tipi di data diversi di [!DNL Workfront's]
 * Utilizza lo stato di avanzamento per tenere traccia dell’avanzamento del lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/3436615/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3436615/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

@@ -14,10 +14,10 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c099efa5-fee9-4214-b95f-e45a33aa5491
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ In questo video scoprirai:
 * Contenuto della durata di un’attività in [!DNL Workfront]
 * Effetti delle durate sulle date di inizio e di completamento delle attività
 * In che modo le durate vengono incluse nelle timenline dei progetti
-* Raccomandazioni sulle best practice per l’utilizzo delle durate delle attività
+* Consigli sulle best practice per l’utilizzo delle durate delle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/3449351/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3449351/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

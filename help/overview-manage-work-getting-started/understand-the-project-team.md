@@ -14,7 +14,7 @@ jira: KT-14781
 doc-type: video
 hide: true
 exl-id: bcaaccdf-ccf8-4bbf-8344-bd55a655c510
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
@@ -27,7 +27,7 @@ In questo video scoprirai:
 
 * A che cosa serve il team di progetto e come gestirlo
 
->[!VIDEO](https://video.tv.adobe.com/v/3444597/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3444597/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

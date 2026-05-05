@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 hide: true
 exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ In questo video scoprirai:
 * Come utilizzare la vista [!UICONTROL Bacheca]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423279/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3423279/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 
