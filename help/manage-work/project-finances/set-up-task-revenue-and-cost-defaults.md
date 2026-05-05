@@ -25,7 +25,7 @@ ht-degree: 38%
 
 Scopri dove vengono utilizzati il tipo di ricavi e il tipo di costi e come impostare i valori predefiniti di sistema.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484188/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

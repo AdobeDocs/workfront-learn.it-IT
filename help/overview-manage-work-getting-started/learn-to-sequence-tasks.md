@@ -31,7 +31,7 @@ In questo video scoprirai:
 * Come l’impostazione della data di inizio di un’attività influisce sul vincolo attività
 * Come inserire i predecessori
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447328/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

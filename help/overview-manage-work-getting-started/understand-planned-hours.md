@@ -30,7 +30,7 @@ In questo video scoprirai:
 * Come stimare le ore pianificate
 * Come aggiungere ore pianificate alle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445341/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 ## Tutorial e articoli consigliati su questo argomento
