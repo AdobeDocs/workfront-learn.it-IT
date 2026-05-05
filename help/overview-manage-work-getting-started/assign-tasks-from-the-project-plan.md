@@ -14,10 +14,10 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ In questo video:
 * Comprendere il valore dei modelli di progetto durante l’assegnazione delle attività
 * Comprendere il valore dell’assegnazione delle attività ai team
 
->[!VIDEO](https://video.tv.adobe.com/v/3445752/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:

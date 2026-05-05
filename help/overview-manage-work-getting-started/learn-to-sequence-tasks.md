@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
@@ -31,7 +31,7 @@ In questo video scoprirai:
 * Come l’impostazione della data di inizio di un’attività influisce sul vincolo attività
 * Come inserire i predecessori
 
->[!VIDEO](https://video.tv.adobe.com/v/3447328/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

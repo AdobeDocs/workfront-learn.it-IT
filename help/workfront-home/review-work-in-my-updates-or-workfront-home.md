@@ -1,6 +1,6 @@
 ---
 title: Rivedere il lavoro in [!DNL My Updates] o [!DNL Home]
-description: '[!DNL &#x200B; Workfront] fornisce due posizioni per accedere al lavoro assegnato all''utente per la revisione e l''approvazione - [!DNL My Updates] e [!DNL Home] '
+description: '[!DNL  Workfront] fornisce due posizioni per accedere al lavoro assegnato all''utente per la revisione e l''approvazione - [!DNL My Updates] e [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 hide: true
-source-git-commit: d35545dcc670baef47834464a0a7aae9e50daf18
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 92%
@@ -27,10 +27,10 @@ In Workfront sono disponibili due posizioni per accedere al lavoro assegnato per
 
 La pagina [!DNL My Updates] semplifica le cose mostrando tutte le richieste di approvazione che ti sono state assegnate, oltre agli aggiornamenti in cui sei incluso. Per impostazione predefinita, questa pagina viene caricata per gli utenti con licenza Revisione quando si accede a Workfront, a meno che l’amministratore di sistema dell’organizzazione non abbia impostato una pagina di destinazione diversa.
 
-![Immagine della pagina[!DNL My Updates] &#x200B;](assets/my-updates-overview.png)
+![Immagine della pagina[!DNL My Updates] ](assets/my-updates-overview.png)
 
 [!DNL Home] può essere utilizzato per qualcosa di più delle semplici approvazioni. Se disponi di una licenza Lavoro o Pianificazione in Workfront, le tue assegnazioni da progetti e richieste si trovano nella Home. La Home potrebbe essere la pagina a cui sei indirizzato quando accedi a Workfront oppure, in alternativa, potresti dover selezionare la Home dal menu principale, a seconda delle configurazioni del sistema Workfront dell’organizzazione.
 
-![Immagine della pagina [!DNL Home] &#x200B;](assets/home-overview.png)
+![Immagine della pagina [!DNL Home] ](assets/home-overview.png)
 
 La sezione da utilizzare per gestire le richieste di approvazione dipende dai processi dell’organizzazione per la revisione e l’approvazione del lavoro. Rivolgiti al tuo manager, amministratore di sistema o team interno di Workfront per determinare quale sezione utilizzare per supportare al meglio il flusso di lavoro.
