@@ -10,13 +10,13 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: 2026-04-28T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 65eba30ab660e44b8adca2238d743f1f38bec75e
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 17%
+source-wordcount: '271'
+ht-degree: 19%
 
 ---
 
@@ -27,7 +27,7 @@ Il video sottolinea che il sistema non fornisce i tassi di cambio correnti, quin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Valuta predefinita:** La valuta predefinita del sistema è il dollaro statunitense, ma può essere modificata a livello globale o per singoli progetti e mansioni. &#x200B;
 * **Aggiunta di valute:** È possibile impostare valute aggiuntive insieme ai relativi tassi di cambio nell&#39;area di impostazione. &#x200B;
