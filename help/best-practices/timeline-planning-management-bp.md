@@ -6,10 +6,16 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/dHR6MHjya-MlhyDeL6MJvMPzaIkPpp91zfYe6ebcbL0
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1110'
-ht-degree: 100%
+source-wordcount: 1117
+ht-degree: 96%
 
 ---
 
@@ -25,7 +31,7 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
+L’area &quot;Perché queste best practice?&quot;, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché vengono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
@@ -97,7 +103,7 @@ Se possibile, utilizza le durate delle attività e i predecessori per generare e
 
 **Ecco perché**
 
-L’utilizzo di durate e predecessori insieme a vincoli di attività flessibili (Il più presto possibile e Il più tardi possibile) consente di apportare modifiche automatiche alla data della sequenza temporale che “si sovrappongono” al piano del progetto. Quando ad esempio la durata di un’attività aumenta di un giorno, viene modificata la data di completamento pianificata dell’attività, che a sua volta determina la modifica delle date di completamento delle attività seguenti.
+L’utilizzo di durate e predecessori insieme a vincoli di attività flessibili (Il più presto possibile e Il più tardi possibile) consente di apportare modifiche automatiche alle date della timeline che “si sovrappongono” al piano del progetto. Quando ad esempio la durata di un’attività aumenta di un giorno, viene modificata la data di completamento pianificata dell’attività, che a sua volta determina la modifica delle date di completamento delle attività seguenti.
 
 Se si selezionano date di inizio e di completamento specifiche per le attività, il vincolo dell’attività viene modificato in un vincolo che “blocca” la data (Deve iniziare il, Deve finire il, Date fisse), il che significa che è necessario eseguire manualmente alcuni aggiornamenti delle date della timeline.
 
@@ -153,4 +159,4 @@ Posiziona Project Metrics (Metriche del progetto) nella parte superiore del menu
 
 **Ecco perché**
 
-La maggior parte dei leader, dei dirigenti e degli altri utenti che non gestiscono progetti o eseguono assegnazioni di attività apprezzerebbe vedere questo livello di metriche del progetto alla prima apertura del progetto. Utilizza un modello di layout per spostare Project Metrics (Metriche del progetto) nella parte superiore del menu del pannello a sinistra in una pagina di progetto, per renderlo più visibile e più facile da accedere per gli utenti.
+La maggior parte dei leader, dei dirigenti e degli altri utenti che non gestiscono progetti o eseguono assegnazioni di attività apprezzerebbe vedere questo livello di metriche del progetto alla prima apertura del progetto. Utilizza un modello layout per spostare Metriche del progetto nella parte superiore del menu del pannello a sinistra in una pagina di progetto, per renderlo più visibile e più facilmente accessibile da parte degli utenti.

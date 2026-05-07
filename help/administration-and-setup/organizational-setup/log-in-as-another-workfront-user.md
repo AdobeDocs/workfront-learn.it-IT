@@ -1,6 +1,6 @@
 ---
 title: Accedere come un altro utente
-description: Scopri come gli amministratori di Workfront possono accedere come altri utenti per testare le impostazioni di sistema, i modelli di layout, i rapporti, ecc.
+description: Scopri come gli amministratori di Workfront possono accedere come altri utenti per testare le impostazioni di sistema, i modelli layout, i rapporti, ecc.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,9 +10,15 @@ level: Beginner
 thumbnail: 10104.jpeg
 jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/J87mQcZGFozOPxxPbvRpBdmfOLMVmYbpsK-Id4hjtpE
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: 255
 ht-degree: 100%
 
 ---
@@ -27,7 +33,7 @@ Pagina![[!UICONTROL Accedi come] nell’area [!UICONTROL Configurazione] ](asset
 
 Questa funzione è utile per diversi motivi:
 
-* Gli amministratori possono visualizzare in anteprima i modelli di layout assegnati agli utenti per garantire che le voci di menu o le dashboard vengano visualizzati correttamente.
+* Gli amministratori possono visualizzare in anteprima i modelli layout assegnati agli utenti per garantire che le voci di menu o le dashboard vengano visualizzati correttamente.
 * È utile durante il test del flusso di lavoro, per garantire che le autorizzazioni di un utente siano impostate correttamente.
 * Gli amministratori possono anche utilizzare questa funzione per contrassegnare un’attività come completata o effettuare un’approvazione per qualcuno che non può farlo.
 

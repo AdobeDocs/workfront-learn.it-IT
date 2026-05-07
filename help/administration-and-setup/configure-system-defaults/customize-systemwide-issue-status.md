@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/Wo7ObQJmkrsaYDXxaPMYQvDFfQx8wtC8qYi3Nvc6DkY
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: 392
 ht-degree: 100%
 
 ---
@@ -37,7 +43,7 @@ Scheda ![[!UICONTROL Problemi] nella pagina [!UICONTROL Stati] in [!UICONTROL Co
 1. Seleziona **[!UICONTROL Stati]**.
 1. Seleziona la scheda **[!UICONTROL Problemi]** e assicurati che [!UICONTROL Stati del sistema] venga visualizzato nell’angolo superiore destro.
 1. Seleziona **[!UICONTROL Elenco principale]** per visualizzare gli stati di tutti i tipi di problema. In questa fase è possibile creare o modificare lo stato di un problema.
-1. Passa il puntatore del mouse sul lato destro dello stato che desideri rinominare e fai clic su **[!UICONTROL Modifica]**.
+1. Passa il puntatore sul lato destro dello stato che desideri rinominare e fai clic su **[!UICONTROL Modifica]**.
 1. Assegna un nuovo nome allo stato o modifica eventuali altre informazioni, a seconda delle esigenze.
 1. Blocca lo stato se queste impostazioni devono essere applicate a tutti gli utenti nella tua istanza di [!DNL Workfront].
 1. Sblocca lo stato per consentire agli amministratori di gruppo di modificare lo stato solo per i loro gruppi.

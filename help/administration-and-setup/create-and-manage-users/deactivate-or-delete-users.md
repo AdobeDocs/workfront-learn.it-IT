@@ -10,10 +10,16 @@ level: Beginner
 thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/bOJ2ng-HrOD5SA9-uAItNK1rFF90zSnuxjeSiyh9LXk
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: 281
+ht-degree: 87%
 
 ---
 
@@ -35,7 +41,7 @@ In rari casi, ad esempio se si tratta di una voce errata o di un utente di prova
 
 L’**unico** caso in cui [!DNL Workfront] consiglia di eliminare un utente è quando non è mai stato assegnato al lavoro o non ha alcuna esperienza con gli elementi di Workfront.
 
-[!DNL Workfront] consiglia **vivamente** di disattivare un utente invece di eliminarlo. La disattivazione mantiene le informazioni utente in [!DNL Workfront], che potrebbero essere necessarie per il reporting accurato, la gestione dei progetti, ecc. Se hai domande su come disattivare o eliminare un utente, contatta il tuo consulente [!DNL Workfront] o l’assistenza clienti di [!DNL Workfront].
+[!DNL Workfront] consiglia **vivamente** di disattivare un utente invece di eliminarlo. La disattivazione mantiene le informazioni utente in [!DNL Workfront], che potrebbero essere necessarie per reportistica accurata, gestione dei progetti, ecc. Se hai domande sulla necessità di disattivare o eliminare un utente, contatta il tuo consulente [!DNL Workfront] o l&#39;assistenza clienti [!DNL Workfront].
 
 ![Menu Altro che mostra opzioni sulla pagina [!DNL Users] ](assets/admin-fund-adding-users-11.png)
 

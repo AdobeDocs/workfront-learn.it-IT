@@ -1,16 +1,22 @@
 ---
 title: 'Best practice: bozza'
-description: Esplora i consigli sulle best practice degli esperti di Adobe Workfront sulla configurazione, la gestione e l’utilizzo delle bozze in Workfront.
+description: Esplora i consigli sulle best practice degli esperti di Adobe Workfront sulla configurazione, la gestione e l’utilizzo della verifica delle bozze in Workfront.
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
-last-substantial-update: 2024-11-06T00:00:00Z
+last-substantial-update: 2024-11-06T00:00:00.000Z
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
-workflow-type: ht
-source-wordcount: '1182'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/GB0kExlH19phGvui4KUhtsrOk-U2mPGnSrXf-5PerpQ
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 1198
+ht-degree: 96%
 
 ---
 
@@ -33,7 +39,7 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 
 ## Best practice sulla bozza in Workfront
 
-* Prenditi tempo per creare i modelli di flusso di lavoro delle bozze.
+* Prenditi tempo per creare i modelli di flusso di lavoro per la verifica delle bozze.
 
 * Nelle impostazioni di Workfront, disabilita l’impostazione “Invia e-mail da Workfront quando viene fatto un commento su una bozza”.
 
@@ -62,7 +68,7 @@ Scorrendo questa pagina, troverai innanzitutto un elenco di alto livello di tutt
 
 **Best practice**
 
-Prenditi tempo per creare i modelli di flusso di lavoro delle bozze.
+Prenditi tempo per creare i modelli di flusso di lavoro per la verifica delle bozze.
 
 **Ecco perché**
 
@@ -149,7 +155,7 @@ Questa opzione di decisione causa spesso confusione tra gli approvatori, in quan
 
 L’opzione Non pertinente non è necessaria nella maggior parte dei flussi di lavoro di bozza.
 
-**Nota**: questa impostazione si trova nel menu principale di Workfront > Bozze > Impostazioni account > Decisioni.
+**Nota**: questa impostazione si trova nel menu principale di Workfront > Verifica nozze > Impostazioni account > Decisioni.
 
 </br>
 </br>
@@ -166,7 +172,7 @@ Ogni impostazione di decisione bozza contiene un valore/peso specifico che, se r
 
 
 
-**Nota**: questa impostazione si trova nel menu principale di Workfront > Bozze > Impostazioni account > Decisioni.
+**Nota**: questa impostazione si trova nel menu principale di Workfront > Verifica bozze > Impostazioni account > Decisioni.
 
 </br>
 </br>
@@ -183,7 +189,7 @@ Queste impostazioni vengono compilate automaticamente durante l’assegnazione d
 
 
 
-**Nota**: le impostazioni predefinite dell’utente si trovano nel menu principale di Workfront > Bozze > Impostazioni account > Utenti > e selezionando l’utente per cui impostarle.
+**Nota**: le impostazioni predefinite dell’utente si trovano nel menu principale di Workfront > Verifica bozze > Impostazioni account > Utenti > e selezionando l’utente per cui impostarle.
 
 </br>
 </br>
@@ -220,6 +226,6 @@ Evita l’opzione di avviso e-mail “Tutte le attività di bozza”.
 
 **Ecco perché**
 
-Questa opzione invia una notifica e-mail relativa alla bozza ogni volta che si verifica un evento relativo a essa: viene inserito un commento, viene inviata una risposta, viene presa una decisione, ecc. In sostanza, il destinatario visualizza l’attività della bozza non appena si verifica.
+Questa opzione invia una notifica e-mail relativa alla bozza ogni volta che si verifica un evento con una bozza: viene inserito un commento, viene inviata una risposta, viene presa una decisione, ecc. In sostanza, il destinatario vede l’attività della bozza così come si verifica.
 
 Per i proprietari e i creatori di bozze, l’avviso e-mail Decisioni funziona meglio per i flussi di lavoro di bozza a più fasi, mentre Decisione finale funziona meglio per i flussi di lavoro a fase singola. In genere, tutti gli altri possono essere impostati su Disabilitato, a meno che non desiderino essere informati se altri utenti inseriscono commenti o decisioni (nel qual caso, una delle opzioni di e-mail di riepilogo potrebbe essere più utile).

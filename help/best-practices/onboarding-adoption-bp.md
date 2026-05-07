@@ -6,10 +6,15 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
+TQID: https://experienceleague.adobe.com/VfjNfCN64fc1OMDRdyu-YYZouHpXJQjnpGQHABfwdHc
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '1057'
-ht-degree: 100%
+source-wordcount: 1062
+ht-degree: 86%
 
 ---
 
@@ -25,14 +30,14 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
+L’area &quot;Perché queste best practice?&quot;, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché vengono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
 
 ## Best practice per l’onboarding e l’adozione
 
-* Assicurati di dedicare almeno 1 ora al mese a comunicare il “Perché?” quando viene implementato un nuovo processo o un nuovo software, ad esempio Adobe Workfront.
+* Assicurati di trascorrere almeno 1 ora al mese comunicando il &quot;Perché?&quot; quando viene implementato un nuovo processo o software, come Adobe Workfront.
 
 * Prima di creare video o guide di formazione, controlla cosa è disponibile su Experience League.
 
@@ -58,7 +63,7 @@ La sezione “Perché queste sono best practice?”, che si trova dopo l’elenc
 
 **Best practice**
 
-Assicurati di dedicare almeno 1 ora al mese a comunicare il “Perché?” quando viene implementato un nuovo processo o un nuovo software, ad esempio Adobe Workfront.
+Assicurati di trascorrere almeno 1 ora al mese comunicando il &quot;Perché?&quot; quando viene implementato un nuovo processo o software, come Adobe Workfront.
 
 **Ecco perché**
 
@@ -75,7 +80,7 @@ Prima di creare video o guide di formazione, controlla cosa è disponibile su Ex
 
 **Ecco perché**
 
-Se non devi creare corsi di formazione per i tuoi utenti su Workfront, non farlo. Naturalmente puoi creare i tuoi materiali di formazione, ma se non hai il tempo di prepararli o il budget per acquistarli, su Experience League puoi trovare ottime risorse per i tuoi utenti, a prescindere dal loro ruolo.
+Se non devi creare corsi di formazione per i tuoi utenti su Workfront, non farlo. Naturalmente puoi creare il tuo corso di formazione, ma se non hai il tempo per farlo autonomamente o i soldi per acquistare corsi di formazione personalizzati, su Experience League sono disponibili ottime risorse per rendere operativi i tuoi utenti, indipendentemente dal loro ruolo
 
 Inoltre, consulta la pagina Guida introduttiva dove puoi trovare corsi di base utili per iniziare a usare Workfront.
 

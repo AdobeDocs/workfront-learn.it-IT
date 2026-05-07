@@ -9,10 +9,16 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/Ox5zZ29nZxPd801bzB5A8nu-PHDrS4OuaD-3E--tkRs
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 369
+ht-degree: 100%
 
 ---
 
@@ -44,7 +50,7 @@ In qualità di amministratore di sistema, puoi creare nuove gravità, se necessa
 
 Pagina ![[!UICONTROL Gravità] in [!UICONTROL Configurazione]](assets/admin-fund-severity-section.png)
 
-1. Fai clic **[!UICONTROL Configurazione]** nel **[!UICONTROL Menu principale]**.
+1. Fai clic su **[!UICONTROL Configurazione]** nel **[!UICONTROL Menu principale]**.
 1. Espandi la sezione **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
 1. Seleziona **[!UICONTROL Gravità]**.
 1. Fai clic su **[!UICONTROL Aggiungi nuova gravità]**.

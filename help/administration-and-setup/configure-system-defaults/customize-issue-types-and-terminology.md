@@ -9,10 +9,16 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/twVXujg-A2HhqTJAPyGB4E7ER59CcV7Prubge9OV2Cs
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 323
+ht-degree: 100%
 
 ---
 
@@ -56,7 +62,7 @@ Customize default issue types
 ## Modificare il termine “problema” in Workfront
 
 Alcune organizzazioni utilizzano un termine diverso da “problema” per fare riferimento a elementi di lavoro non pianificati. Problema è il termine predefinito e appare in tutto il software: menu, rapporti, nomi di campi, ecc.
-Gli amministratori di Workfront possono utilizzare la funzionalità del modello di layout per rinominare l’elemento del problema in modo che corrisponda alla terminologia della propria organizzazione. Il nuovo termine viene quindi visualizzato in [!DNL Workfront] per gli utenti assegnati al modello di layout.
+Gli amministratori di Workfront possono utilizzare la funzionalità del modello layout per rinominare l’elemento del problema in modo che corrisponda alla terminologia della propria organizzazione. Il nuovo termine viene quindi visualizzato in [!DNL Workfront] per gli utenti assegnati al modello layout.
 
 Finestra![[!UICONTROL Terminologia] con [!UICONTROL Problema] evidenziato](assets/admin-fund-issue-custom-terminology.png)
 
@@ -64,7 +70,7 @@ Finestra![[!UICONTROL Terminologia] con [!UICONTROL Problema] evidenziato](asset
 paragraph below needs a hyperlink
 -->
 
-Scopri come gli amministratori di sistema e di gruppo possono creare modelli di layout nel percorso di apprendimento, Nozioni di base per gli amministratori nella nuova esperienza di [!DNL Workfront]: Parte 3 Esperienza di controllo e interfaccia.
+Scopri come gli amministratori di sistema e di gruppi possono creare modelli layout nel percorso di apprendimento, Nozioni di base per gli amministratori nella nuova esperienza di [!DNL Workfront]: Parte 3 Esperienza di controllo e interfaccia.
 
 <!--
 learn more URLs
