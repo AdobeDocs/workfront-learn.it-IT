@@ -32,7 +32,7 @@ In questo video scoprirai:
 * Calcolo delle espressioni ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR
 * Creare un’espressione dati ADDWEEKDAYS in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416190/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Altri esempi
 

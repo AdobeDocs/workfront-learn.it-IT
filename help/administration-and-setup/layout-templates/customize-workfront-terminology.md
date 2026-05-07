@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Questo video illustra come impostare la terminologia con un modello layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445482/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -36,4 +36,4 @@ In questo video scoprirai come:
 * Passare all’area dei dettagli del progetto
 * Personalizzare i campi dei dettagli del progetto utilizzando un modello layout
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432901/?captions=ita&quality=12&learn=on&enablevpops=1)

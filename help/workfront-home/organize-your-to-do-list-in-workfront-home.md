@@ -40,7 +40,7 @@ In questo video scoprirai come:
 * Individuare i lavori pronti per iniziare
 * Accettare le assegnazioni di lavoro
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445086/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

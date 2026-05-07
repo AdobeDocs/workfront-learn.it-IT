@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri come aggiungere e rimuovere singoli utenti e team da una bacheca in modo che possano accedere alle sue informazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423042/?captions=ita&quality=12&learn=on&enablevpops=1)

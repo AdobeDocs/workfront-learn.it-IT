@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Questo video illustra come allegare un modulo personalizzato a oggetti in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431638/?captions=ita&quality=12&learn=on&enablevpops=1)

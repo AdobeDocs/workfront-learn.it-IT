@@ -32,6 +32,6 @@ In questo video scoprirai:
 * Calcolo delle espressioni DATEDIFF e WEEKDAYDIFF
 * Come creare un’espressione di dati WEEKDAYDIFF in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417116/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 **Nota**: l’espressione dati WEEKDAYDIFF NON tiene conto delle festività specificate dall’organizzazione.

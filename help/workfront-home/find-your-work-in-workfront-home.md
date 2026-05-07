@@ -40,4 +40,4 @@ In questo video scoprirai come:
 * Trovare le assegnazioni lavori in entrata ed esistenti
 * Rivedere le informazioni sulle assegnazioni
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432293/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri come riorganizzare, copiare, archiviare, eliminare e disconnettere le schede di una bacheca.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422921/?captions=ita&quality=12&learn=on&enablevpops=1)

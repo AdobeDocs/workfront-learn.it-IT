@@ -37,4 +37,4 @@ In questo video scoprirai come:
 * Assegnare modelli layout a utenti, gruppi o team
 * Controlla chi può gestire l’accesso ai modelli layout
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432333/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -38,4 +38,4 @@ ht-degree: 100%
 
 Scopri come collegare i tipi di record in Pianificazione Workfront per semplificare i flussi di lavoro, aumentare la chiarezza e migliorare la responsabilità e l’efficienza del team. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463806/?captions=ita&learn=on&enablevpops=1)

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri come aggiungere schede a una bacheca nuova o da un elemento di lavoro preesistente.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423051/?captions=ita&quality=12&learn=on&enablevpops=1)

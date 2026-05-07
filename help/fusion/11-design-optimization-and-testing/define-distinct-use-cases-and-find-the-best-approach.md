@@ -44,7 +44,7 @@ In questo video scoprirai come:
 * Stabilisci la progettazione ideale per prestazioni elevate
 * Sfidare i presupposti e fornire consigli migliori agli stakeholder
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418198/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Desideri ulteriori informazioni? Consigliamo quanto segue:
 

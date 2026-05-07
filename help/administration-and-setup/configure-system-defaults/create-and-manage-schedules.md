@@ -32,5 +32,5 @@ ht-degree: 100%
 
 Scopri lo scopo delle pianificazioni, come crearle e modificarle e le impostazioni aggiuntive per determinare meglio quando è possibile svolgere il lavoro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423340/?captions=ita&quality=12&learn=on&enablevpops=1)
 

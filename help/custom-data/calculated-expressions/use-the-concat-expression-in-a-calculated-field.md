@@ -32,4 +32,4 @@ Questo video illustra:
 * Che cosa fa l’espressione CONCAT
 * Come creare un’espressione di testo CONCAT in un campo calcolato
 
->[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417110/?captions=ita&quality=12&learn=on&enablevpops=1)

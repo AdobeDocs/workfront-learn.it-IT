@@ -38,7 +38,7 @@ In questo video scoprirai come:
 * Rimuovere filtri, visualizzazioni e raggruppamenti
 * Aggiungere filtri, visualizzazioni e raggruppamenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432912/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Impostare le impostazioni predefinite dell’elenco
 

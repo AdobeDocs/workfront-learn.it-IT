@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Scopri cos’è un elemento fissato e come fissare pagine importanti o pertinenti per un set di utenti tramite modelli layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422808/?captions=ita&quality=12&learn=on&enablevpops=1)

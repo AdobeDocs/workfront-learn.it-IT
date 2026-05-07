@@ -36,4 +36,4 @@ In questo video scoprirai:
 * Trovare i modelli layout nell’area [!UICONTROL Configurazione]
 * Iniziare a creare modelli layout in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413109/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -34,4 +34,4 @@ In questo video:
 * Panoramica della navigazione in [!DNL Scenario Planner]
 * Informazioni su come [!DNL Scenario Planner] può aiutare ad allineare le decisioni ai risultati per la tua azienda.
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414402/?captions=ita&quality=12&learn=on&enablevpops=1)

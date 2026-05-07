@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Scopri come modificare, aggiungere, ridisporre ed eliminare colonne in una bacheca.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422950/?captions=ita&quality=12&learn=on&enablevpops=1)
