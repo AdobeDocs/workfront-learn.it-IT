@@ -113,7 +113,7 @@ Passando attraverso ogni fase e con l’aiuto dell’elenco di controllo Istanza
 </br>
 
 Ulteriori informazioni sono disponibili di seguito:
-* [Webinar: suggerimenti per acquisire un’istanza ereditata](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [Webinar: suggerimenti per acquisire un’istanza ereditata](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=it)
 * [Definizione degli obiettivi per l’implementazione di Workfront](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=it)
-* [Post sul blog: Sponsorizzazione esecutiva e valore per la leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Post di blog: introduzione ai KPI di Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Post sul blog: Sponsorizzazione esecutiva e valore per la leadership](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=it)
+* [Post di blog: introduzione ai KPI di Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=it)
