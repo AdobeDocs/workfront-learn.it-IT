@@ -10,11 +10,16 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T20:28:55.491Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -62,7 +67,7 @@ Man mano che i gruppi vengono creati, viene loro assegnato un tipo di ruolo. Il 
 Le licenze [!UICONTROL Workfront DAM] prevedono tre tipi di ruolo:
 
 * **[!UICONTROL Brand Portal:]** questi utenti hanno accesso solo a [!UICONTROL Brand Connect], che consente loro di visualizzare e scaricare le risorse approvate.
-* **[!UICONTROL Collaboratore:]** questi utenti possono accedere a [!UICONTROL Workfront DAM] e a [!UICONTROL  Brand Connect]. Possiedono i diritti di accesso completo alle risorse e alle cartelle, ossia visualizzarle, scaricarle, caricarle, modificarle, spostarle ed eliminarle.
+* **[!UICONTROL Collaboratore:]** questi utenti possono accedere a [!UICONTROL Workfront DAM] e a [!UICONTROL &#x200B; Brand Connect]. Possiedono i diritti di accesso completo alle risorse e alle cartelle, ossia visualizzarle, scaricarle, caricarle, modificarle, spostarle ed eliminarle.
 * **[!UICONTROL Amministratore:]** gli amministratori di sistema hanno accesso a tutte le funzioni di [!UICONTROL Brand Connect] e [!UICONTROL Workfront DAM], oltre ad avere la possibilità di stabilire le impostazioni di sistema globali per ciascuno di essi. Inoltre, possono accedere alle risorse scadute o impostate come inattive.
 
 <!-- 

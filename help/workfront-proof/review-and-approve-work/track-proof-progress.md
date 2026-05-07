@@ -1,6 +1,6 @@
 ---
 title: Tracciare l’avanzamento bozza
-description: Scopri come utilizzare indicatori [!UICONTROL SOCD], avanzamento bozza e rapporti per monitorare l’avanzamento di una bozza in  [!DNL  Workfront].
+description: Scopri come utilizzare indicatori [!UICONTROL SOCD], avanzamento bozza e rapporti per monitorare l’avanzamento di una bozza in  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,11 +10,16 @@ level: Beginner
 thumbnail: track-proof-progress.png
 jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
-subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:53:35.724Z'
 source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
@@ -33,7 +38,7 @@ Per visualizzare lo stato di avanzamento della bozza in [!DNL Workfront], è nec
 
 Ottieni una visione di alto livello dell’avanzamento bozza attraverso il processo di revisione e approvazione utilizzando le icone [!UICONTROL SOCD] nell’elenco dei [!UICONTROL Documenti]. Queste icone indicano le azioni specifiche eseguite sulla bozza.
 
-![Immagine dell’elenco dei [!UICONTROL Documenti] in un progetto [!DNL  Workfront] con le icone [!UICONTROL SOCD] evidenziate.](assets/manage-proofs-socd.png)
+![Immagine dell’elenco dei [!UICONTROL Documenti] in un progetto [!DNL &#x200B; Workfront] con le icone [!UICONTROL SOCD] evidenziate.](assets/manage-proofs-socd.png)
 
 Le icone indicano il lavoro svolto su una bozza dal momento dell’invio della bozza ai destinatari al momento in cui questi prendono una decisione sulla bozza.
 
@@ -65,7 +70,7 @@ Se desideri conoscere l’andamento di ogni singolo destinatario di bozza, apri 
 
 Lo stato della bozza si basa sullo stato dei destinatari della bozza della fase. Lo stato generale della bozza è visibile sulla pagina [!UICONTROL Documenti] a destra degli indicatori [!UICONTROL SOCD], in modo da poter facilmente stabilire la presenza di una decisione di bozza.
 
-![Immagine dell’elenco dei [!UICONTROL Documenti] in un progetto [!DNL  Workfront] con lo stato generale della bozza evidenziato.](assets/manage-proofs-overall-status.png)
+![Immagine dell’elenco dei [!UICONTROL Documenti] in un progetto [!DNL &#x200B; Workfront] con lo stato generale della bozza evidenziato.](assets/manage-proofs-overall-status.png)
 
 Questo stato della bozza indica lo stato generale della bozza. Ad esempio, se due destinatari hanno approvato la bozza, i loro stati individuali mostreranno [!UICONTROL Approvata]. Tuttavia, il terzo destinatario non ha ancora preso una decisione, quindi lo stato della persona è [!UICONTROL In sospeso]. Pertanto, lo stato generale è indicato come [!UICONTROL In sospeso].
 
@@ -85,11 +90,11 @@ Puoi anche sfruttare le funzionalità di reporting di [!DNL Workfront's] per ten
 
 Un rapporto di approvazione bozza consente di tenere traccia delle approvazioni in sospeso per garantirne il rispetto delle scadenze.
 
-![Immagine di un rapporto di approvazione bozza in [!DNL  Workfront].](assets/proof-approval-report.png)
+![Immagine di un rapporto di approvazione bozza in [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Un rapporto sulla versione del documento consente di gestire e tenere traccia delle versioni di una bozza.
 
-![Immagine di un rapporto sulla versione del documento in [!DNL  Workfront].](assets/document-version-report.png)
+![Immagine di un rapporto sulla versione del documento in [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 Ti consigliamo di lavorare con il consulente di [!DNL Workfront] per creare rapporti che soddisfino i requisiti dell’organizzazione. Alcuni dei rapporti richiedono familiarità con il reporting in modalità testo di [!DNL Workfront's].
 
