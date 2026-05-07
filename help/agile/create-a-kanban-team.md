@@ -7,10 +7,19 @@ level: Intermediate
 jira: KT-10881
 thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/x-DvyAjjY5OoH2GXXMP2GwbUEdOslwrTCNz-bzJ8DmY
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: 406
+ht-degree: 92%
 
 ---
 
@@ -24,7 +33,7 @@ Kanban funziona per i team che non vogliono definire su cosa stanno lavorando in
 
 Passiamo da un team di marketing creativo a un team Scrum e ancora a un team Kanban [1]. Apporta questa modifica nella sezione Agile delle impostazioni del team.
 
-Dopo aver modificato la metodologia, è necessario specificare di quante storie alla volta può disporre un team Kanban in ciascuna colonna modificando il “Limite WIP.” [2]. WIP (Work in Progress) sta per lavoro in corso. Il numero che scegli di inserire qui dipende da quanti elementi attivi il team può gestire. Verrà visualizzato nello storyboard del team per ricordare ai membri del team se è presente una sovrassegnazione o meno. Ogni membro del team con diritti di modifica, potrà cambiare il limite WIP direttamente dallo storyboard.
+Dopo aver modificato la metodologia, è necessario specificare il numero di storie che un team Kanban può avere alla volta in ogni colonna modificando il &quot;limite WIP&quot;. [2]. WIP (Work in Progress) sta per lavoro in corso. Il numero che scegli di inserire qui dipende da quanti elementi attivi il team può gestire. Verrà visualizzato nello storyboard del team per ricordare ai membri del team se è presente una sovrassegnazione o meno. Ogni membro del team con diritti di modifica, potrà cambiare il limite WIP direttamente dallo storyboard.
 
 ![Pagina Impostazioni team](assets/teamspage-01.png)
 

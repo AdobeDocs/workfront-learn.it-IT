@@ -6,10 +6,24 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/2tq7aNHE96fep1EFCPrjcCo13t5lQ24A6c-ORDUmlpY
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 100%
+source-wordcount: 638
+ht-degree: 93%
 
 ---
 
@@ -25,7 +39,7 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
+L’area &quot;Perché queste best practice?&quot;, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché vengono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
@@ -99,4 +113,4 @@ Mantieni i progetti brevi.
 
 **Ecco perché**
 
-Ogni volta che salvi un progetto o un’attività all’interno del progetto, viene eseguito un calcolo della sequenza temporale per aggiornare tutte le dipendenze. A seconda del numero di attività nel progetto, l’esecuzione del ricalcolo può richiedere molto tempo.
+Ogni volta che salvi un progetto o un’attività all’interno del progetto, viene eseguito un calcolo della timeline per aggiornare tutte le dipendenze. A seconda del numero di attività nel progetto, l’esecuzione del ricalcolo può richiedere molto tempo.

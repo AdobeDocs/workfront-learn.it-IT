@@ -10,9 +10,20 @@ level: Intermediate
 thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/VpeDSuAKqWlXviBhwNl8oV2LJ8LRQCjfhu0-XqIRZ6k
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: 625
 ht-degree: 100%
 
 ---
@@ -40,14 +51,14 @@ L’elenco [!UICONTROL Notifiche eventi] è raggruppato per tipo. Per ogni notif
 * **[!UICONTROL Attivo]:** la colonna [!UICONTROL Attivo] consente di attivare o disattivare una notifica a livello di sistema.
 * **[!UICONTROL Nome]:** è il nome della notifica all’interno di [!DNL Workfront].
 * **[!UICONTROL Descrizione]:** fornisce una breve spiegazione di quale azione è stata eseguita per attivare una notifica o deve essere intrapresa in risposta alla ricezione della notifica.
-* **[!UICONTROL Oggetto e-mail]:** testo da inserire nella riga dell’oggetto quando l’e-mail viene inviata agli utenti.
+* **[!UICONTROL Oggetto e-mail]:** testo da visualizzare nella riga dell’oggetto quando l’e-mail viene inviata agli utenti.
 * **[!UICONTROL Accesso ai gruppi]:** sblocca le notifiche in modo che possano essere gestite dagli amministratori dei gruppi.
 
 ## Attiva le notifiche
 
 Per gestire le notifiche a livello di sistema globale, assicurati che la barra di ricerca indichi [!UICONTROL Notifiche eventi di sistema].
 
-Per attivare una notifica specifica e renderla disponibile per tutti gli utenti, fai clic sull’interruttore in modo che diventi blu. Se il blu è nascosto, la notifica è disattivata.
+Per attivare una notifica specifica e renderla disponibile per tutti gli utenti, fai clic sul pulsante di attivazione in modo che diventi blu. Se il blu è nascosto, la notifica è disattivata.
 
 ![[!UICONTROL Colonna Attivo] sulla pagina [!UICONTROL Notifiche e-mail]](assets/admin-fund-notifications-2.png)
 
@@ -65,13 +76,13 @@ Per consentire agli amministratori dei gruppi di gestire le notifiche per i prop
 
 * Assicurati che la barra di ricerca indichi Notifiche eventi di sistema.
 
-* Per sbloccar una singola notifica per tutti gli amministratori dei gruppi, fai clic sull’interruttore nella colonna Accesso ai gruppi, in modo che diventi blu.
+* Per sbloccare una singola notifica per tutti gli amministratori dei gruppi, fai clic sul pulsante di attivazione nella colonna Accesso ai gruppi, in modo che diventi blu.
 
 * Per sbloccare più notifiche contemporaneamente, seleziona la casella a sinistra di ciascuna notifica e fai clic sull’icona di sblocco nella barra degli strumenti sopra l’elenco.
 
 ![[!UICONTROL Colonna Accesso ai gruppi] sulla pagina [!UICONTROL Notifiche e-mail]](assets/ganotifications_02.png)
 
-Per bloccare una notifica sbloccata, fai clic sull’interruttore in modo che diventi grigio. Per bloccare più notifiche contemporaneamente, selezionane le caselle di controllo e fai clic sull’icona Sblocca nella barra degli strumenti.
+Per bloccare una notifica sbloccata, fai clic sul pulsante di attivazione in modo che diventi grigio. Per bloccare più notifiche contemporaneamente, selezionane le caselle di controllo e fai clic sull’icona Sblocca nella barra degli strumenti.
 
 ![[!UICONTROL Colonna Accesso ai gruppi] sulla pagina [!UICONTROL Notifiche e-mail]](assets/ganotifications_03.png)
 

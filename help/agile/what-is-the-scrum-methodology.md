@@ -7,16 +7,25 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: 37a1c8c492af68ccdee9bd7688ff4d07b41c71e7
-workflow-type: ht
-source-wordcount: '774'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/vdFb9-34gvRIM8TN-3TfnF4uBfpRsIyuOhiGytlBnCw
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+workflow-type: tm+mt
+source-wordcount: 777
+ht-degree: 91%
 
 ---
 
 # Che cos’è la metodologia Scrum e come funziona?
 
-La metodologia Scrum comprende il modello di flessibilità ma differisce dalle altre metodologie in quanto definisce determinati ruoli per coloro che fanno parte del team, come proprietario del prodotto, Scrum Master, ecc. e pratiche per definire e completare il lavoro.
+La metodologia Scrum comprende il modello di flessibilità, ma differisce da altre metodologie in quanto ha definito i ruoli per coloro che fanno parte del team (come Proprietario del prodotto, Maestro di squadra, ecc.) e le pratiche per definire e completare il lavoro.
 
 ## Panoramica del team Scrum
 
@@ -64,7 +73,7 @@ Una volta che le storie principali sono state create, il team deve gestire il ba
 
 ### Pianificazione dell’iterazione
 
-Dopo aver organizzato e dato priorità al backlog, è il momento di pianificare l’iterazione. Molte organizzazioni usano le parole “sprint” e “iterazione” in modo intercambiabile. Il team decide quali storie completare in base a quelle considerate pronte per essere avviate. Il team effettua le assegnazioni e decide la durata dell’iterazione.
+Dopo aver organizzato e dato priorità al backlog, è il momento di pianificare l’iterazione. Molte organizzazioni utilizzano le parole &quot;sprint&quot; e &quot;iterazione&quot; in modo intercambiabile. Il team decide quali storie completare in base alle storie che sono considerate pronte. Il team effettua le assegnazioni e decide la durata dell’iterazione.
 
 
 

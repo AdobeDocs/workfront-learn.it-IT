@@ -6,10 +6,23 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10918
 exl-id: 321af897-3791-4b06-a9dd-241b5246b2a0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/2Nc0Sj-3xZ-H8ir2OvXLhRJFEEKZu0DM8jIbFvizqlM
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '702'
-ht-degree: 100%
+source-wordcount: 704
+ht-degree: 89%
 
 ---
 
@@ -25,7 +38,7 @@ Mentre esamini questi consigli, tieni presente che alcune best practice di Workf
 
 Mentre scorri questa pagina, troverai innanzitutto un elenco di alto livello di tutte le best practice per questo argomento. Questo ti consente di rivedere i consigli senza entrare nei dettagli del “perché”.
 
-La sezione “Perché queste sono best practice?”, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul motivo per cui sono considerate un processo, uno strumento ecc. da implementare con la tua istanza di Workfront.
+L’area &quot;Perché queste best practice?&quot;, che si trova dopo l’elenco di alto livello, fornisce maggiori dettagli su alcune delle best practice e sul perché vengono considerate un processo, uno strumento, ecc., è consigliabile implementarle con l’istanza di Workfront.
 
 </br>
 </br>
@@ -67,7 +80,7 @@ Imposta la preferenza per lo stato di un nuovo progetto su Pianificazione o Idea
 
 **Ecco perché**
 
-Uno stato corrente indica che un progetto è in esecuzione e il lavoro viene svolto attivamente. È raro che un progetto debba trovarsi in questo stato al momento della creazione. Anche se utilizzi un modello di progetto, è necessaria una certa “pianificazione” per ottenere le assegnazioni delle attività, modificare la data di completamento pianificata del progetto, ecc. Lo stato Pianificazione elimina inoltre le notifiche agli assegnatari dell’attività e ai membri del team del progetto. Ricevere notifiche prima che il progetto sia in esecuzione può confondere gli interessati.
+Uno stato corrente indica che un progetto è in esecuzione e il lavoro viene svolto attivamente. È raro che un progetto debba trovarsi in questo stato al momento della creazione. Anche se si utilizza un modello di progetto, è necessaria una certa &quot;pianificazione&quot; per ottenere assegnazioni di attività, regolare la data di completamento pianificata del progetto e così via. Lo stato Pianificazione sopprime inoltre le notifiche agli assegnatari dei task e ai membri del team di progetto. Ricevere notifiche prima che il progetto sia in esecuzione può confondere gli interessati.
 
 </br>
 </br>

@@ -11,10 +11,23 @@ thumbnail: 335160.png
 jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/4rHGdoRjx3CEfBiMkQqHvHMlwrpjFqe9MwSQToDtCAQ
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 100%
+source-wordcount: 364
+ht-degree: 92%
 
 ---
 
@@ -32,14 +45,14 @@ Tuttavia, potresti essere già più avanti di quanto pensi in questo percorso di
 
 ## Quattro fasi di maturità nella gestione delle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/3420162/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3420162/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 ## Come procedere
 
 Hai individuato la fase in cui si trova la tua organizzazione? Se sì, ottimo. Ora puoi iniziare a pianificare il resto del percorso nella gestione delle risorse.
 
-&lt;!Insieme a questo percorso di apprendimento, troverai una guida, Crescita della maturità nella gestione delle risorse, che offre alcuni spunti su come progredire attraverso le diverse fasi di gestione delle risorse.&gt;
+&lt;!Oltre a questo percorso di apprendimento, troverai una guida, Resource Maturità Growth, che presenta idee su come passare da una fase di gestione delle risorse a un'altra.&gt;
 
 In caso contrario, non preoccuparti. Anche con queste definizioni può essere difficile determinare esattamente dove ti trovi.
 

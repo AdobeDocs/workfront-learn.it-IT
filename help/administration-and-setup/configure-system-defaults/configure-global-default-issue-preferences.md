@@ -9,9 +9,22 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/yTBd9pAA4m4fbXniB-givgEjA5Ble6N6Xv5c1JgM4bc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: 887
 ht-degree: 75%
 
 ---
@@ -89,7 +102,7 @@ Finestra delle preferenze di ![[!UICONTROL Attività e problemi] con la sezione 
 1. Seleziona **[!UICONTROL Attività e problemi]**.
 1. Scorri fino alla sezione **[!UICONTROL Date effettive]**.
 1. Seleziona l’opzione desiderata per la **[!UICONTROL Data d’inizio effettiva]**: [!UICONTROL Ora] (data e ora correnti) oppure [!UICONTROL Data d’inizio pianificata] (la [!UICONTROL Data d’inizio effettiva] corrisponde alla data di inizio impostata nei dettagli del problema).
-1. Ora seleziona l’opzione per la **[!UICONTROL Data di completamento effettiva]**: [!UICONTROL Ora] (data e ora correnti) oppure [!UICONTROL Data di completamento pianificata] (la [!UICONTROL Data d’inizio effettiva] corrisponde alla data impostata nei dettagli del problema).
+1. Ora seleziona l’opzione per la **[!UICONTROL Data di completamento effettiva]**: [!UICONTROL Ora] (data e ora correnti) oppure [!UICONTROL Data di completamento pianificata] (la [!UICONTROL Data di inizio effettiva] corrisponde alla data impostata nei dettagli del problema).
 1. Al termine, salva.
 
 
