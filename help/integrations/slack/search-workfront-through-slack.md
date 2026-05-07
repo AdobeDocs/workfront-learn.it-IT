@@ -34,4 +34,4 @@ In questo video scoprirai come:
 
 * Cercare [!DNL Workfront] tramite [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437520/?captions=ita&quality=12&learn=on&enablevpops=1)

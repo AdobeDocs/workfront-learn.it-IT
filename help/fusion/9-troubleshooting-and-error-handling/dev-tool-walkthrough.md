@@ -39,7 +39,7 @@ Installa e utilizza le diverse aree del DevTool di Workfront per approfondire ri
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418125/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 ## Scaricare DevTool

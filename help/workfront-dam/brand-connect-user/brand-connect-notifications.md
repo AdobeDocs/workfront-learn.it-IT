@@ -36,4 +36,4 @@ In questo video scoprirai come:
 * Modificare le impostazioni di notifica
 * Creare una rubrica
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414450/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -35,7 +35,7 @@ In questo video scoprirai:
 
 * Tre concetti di base che compongono Workfront Fusion: scenari, app e moduli
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415962/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Terminologia dei concetti di base
 

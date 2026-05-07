@@ -42,7 +42,7 @@ In questo video scoprirai:
 * In che modo le durate vengono incluse nelle timenline dei progetti
 * Consigli sulle best practice per l’utilizzo delle durate delle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449351/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

@@ -37,7 +37,7 @@ In questo video scoprirai come:
 * Usa un processo di approvazione esistente
 * Modificare un processo di approvazione esistente per un progetto, attività o problema specifico
 
->[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414474/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

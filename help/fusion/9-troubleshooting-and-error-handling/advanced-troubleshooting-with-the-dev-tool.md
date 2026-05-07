@@ -36,4 +36,4 @@ In questo video scoprirai:
 * Come installare e utilizzare il DevTool di Workfront Fusion
 * Come rivedere i diversi strumenti avanzati di progettazione degli scenari
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418119/?captions=ita&quality=12&learn=on&enablevpops=1)

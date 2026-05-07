@@ -36,7 +36,7 @@ In questo video:
 * Impostare un elenco di parole chiave
 * Creare e importare un elenco di parole chiave
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419510/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Best practice per le parole chiave
 

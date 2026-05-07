@@ -43,7 +43,7 @@ In questo video scoprirai come:
 
 * Creare e analizzare JSON all’interno di uno scenario per supportare le tue esigenze di progettazione
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418113/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 

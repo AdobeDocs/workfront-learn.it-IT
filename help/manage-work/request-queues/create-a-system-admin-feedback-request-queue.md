@@ -45,7 +45,7 @@ Il video sottolinea l&#39;importanza della partecipazione degli utenti e della t
 &#x200B;Per ulteriori informazioni, consulta i collegamenti alle esercitazioni per la creazione di rapporti e moduli personalizzati.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450505/?captions=ita&quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 

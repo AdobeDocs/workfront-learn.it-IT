@@ -42,7 +42,7 @@ In questo video:
 
 * Introduzione a [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418792/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more graphic and link to article, below

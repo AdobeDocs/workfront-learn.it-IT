@@ -37,7 +37,7 @@ In questo video scoprirai come:
 * Impostare le date di scadenza per risorse singole
 * Modificare le impostazioni delle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419545/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Cartelle delle risorse
 

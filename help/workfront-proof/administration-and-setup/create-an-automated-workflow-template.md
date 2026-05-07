@@ -40,7 +40,7 @@ In questo video scoprirai come:
 * Impostare una scadenza per il processo di revisione e approvazione
 * Condividere il modello di flusso di lavoro automatizzato con altri utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454259/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Opzioni aggiuntive di attivazione della fase
 

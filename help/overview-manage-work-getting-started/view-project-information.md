@@ -39,7 +39,7 @@ Questo video illustra come utilizzare filtri, viste e raggruppamenti per visuali
 * Informazioni a livello di attività
 * Informazioni a livello di problema
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453074/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

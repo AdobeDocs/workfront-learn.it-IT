@@ -37,7 +37,7 @@ In questo video scoprirai:
 * Come accedere al grafico lavoro
 * Come comprendere la relazione tra le ore rimanenti, la condizione del progetto e la velocità in un progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438892/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tracciare la velocità del progetto
 

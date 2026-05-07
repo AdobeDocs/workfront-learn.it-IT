@@ -36,7 +36,7 @@ In questo video scoprirai:
 
 * Come leggere il grafico Pianificazione in corso
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439021/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Grafico Pianificazione in corso
 

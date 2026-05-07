@@ -35,7 +35,7 @@ In questo video scoprirai:
 * Le 6 fasi di un tipico ciclo di vita lavorativa
 * Elementi di base della “fase strategica” del ciclo di vita lavorativa
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415992/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

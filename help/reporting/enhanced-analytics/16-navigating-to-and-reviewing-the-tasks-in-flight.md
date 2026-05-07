@@ -37,7 +37,7 @@ In questo video scoprirai:
 * Come accedere al grafico Attività in corso
 * Come vedere rapidamente quali attività non sono state completate in un progetto
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437008/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Dati a livello di attività
 

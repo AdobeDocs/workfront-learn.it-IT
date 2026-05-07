@@ -36,7 +36,7 @@ In questo video scoprirai:
 
 * Come confrontare i progetti in base agli utenti connessi, alle modifiche dello stato e alle attività completate
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437444/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Confrontare il lavoro del progetto
 

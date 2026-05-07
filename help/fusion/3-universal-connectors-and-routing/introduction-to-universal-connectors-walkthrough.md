@@ -41,7 +41,7 @@ Utilizzando un carattere Pokemon in un foglio di calcolo, richiama l’API Poke 
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416560/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ### URL di esercizio
 

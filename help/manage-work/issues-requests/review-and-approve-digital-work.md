@@ -42,7 +42,7 @@ Il video spiega come rivedere e approvare il lavoro digitale utilizzando il widg
 
 Il video sottolinea la flessibilità nella revisione e approvazione del lavoro, con opzioni per aggiungere commenti e specificare le modifiche necessarie. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444954/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

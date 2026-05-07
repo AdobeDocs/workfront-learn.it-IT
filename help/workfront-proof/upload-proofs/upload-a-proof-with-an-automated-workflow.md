@@ -37,7 +37,7 @@ In questo video scoprirai:
 * Come applicare un flusso di lavoro utilizzando un modello di bozza
 * Come impostare un flusso di lavoro automatizzato da zero
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453019/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 

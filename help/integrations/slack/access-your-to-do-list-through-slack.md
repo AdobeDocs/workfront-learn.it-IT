@@ -34,4 +34,4 @@ In questo video scoprirai come:
 
 * Accedere all’elenco attività in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437928/?captions=ita&quality=12&learn=on&enablevpops=1)

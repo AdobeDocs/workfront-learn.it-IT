@@ -37,4 +37,4 @@ In questo video scoprirai come:
 * Visualizzare i commenti della bozza nella sezione [!UICONTROL Aggiornamenti]
 * Rispondere a un commento della bozza dalla sezione [!UICONTROL Aggiornamenti]
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438661/?captions=ita&quality=12&learn=on&enablevpops=1)

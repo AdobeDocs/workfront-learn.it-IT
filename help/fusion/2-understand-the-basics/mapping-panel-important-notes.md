@@ -35,4 +35,4 @@ In questo video scoprirai:
 
 * L’importanza di utilizzare gli operatori forniti nel pannello di mappatura
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416004/?captions=ita&quality=12&learn=on&enablevpops=1)

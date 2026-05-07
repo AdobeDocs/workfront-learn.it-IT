@@ -38,7 +38,7 @@ In questo video scoprirai come:
 * Collaborazione con una lightbox
 * Condividere il contenuto di una lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420180/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Cartelle e lightbox
 

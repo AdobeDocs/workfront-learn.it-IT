@@ -36,7 +36,7 @@ In questo video scoprirai come:
 * Caricare un sito web come bozza statica
 * Caricare un sito web come bozza interattiva
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445075/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 ## Considerazioni sul contenuto interattivo

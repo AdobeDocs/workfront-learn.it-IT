@@ -34,4 +34,4 @@ In questo video scoprirai come:
 
 * Assegnare attività in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441525/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -37,4 +37,4 @@ In questo video scoprirai come:
 * Utilizzare i filtri come criteri di ricerca all’interno di un modulo
 * Esaminare la valutazione del filtro nella cronologia di esecuzione
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416473/?captions=ita&quality=12&learn=on&enablevpops=1)

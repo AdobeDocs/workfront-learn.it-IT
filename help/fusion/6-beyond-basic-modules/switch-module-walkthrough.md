@@ -39,7 +39,7 @@ Scopri come utilizzare il modulo Switch quando devi eseguire trasformazioni di d
 
 Workfront consiglia di guardare il video della procedura dettagliata relativa all’esercizio, prima di provare a ricrearlo nel proprio ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/335290/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417934/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 

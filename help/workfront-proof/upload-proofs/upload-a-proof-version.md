@@ -36,7 +36,7 @@ In questo video scoprirai come:
 * Caricare una nuova versione di una bozza
 * Applicare un flusso di lavoro di bozza alla versione
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441860/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Caricare una versione da Proofing Viewer
 

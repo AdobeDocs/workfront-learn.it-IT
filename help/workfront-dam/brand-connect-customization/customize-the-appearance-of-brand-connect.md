@@ -35,7 +35,7 @@ In questo video scoprirai come:
 * Personalizzare la barra di navigazione e il piè di pagina
 * Personalizzare la home page e la pagina di accesso
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418777/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Impostazione aggiuntiva dell’[!UICONTROL Aspetto]
 

@@ -40,7 +40,7 @@ In questo video scoprirai:
 * Come aggiungere ed eliminare le attività
 * Come cambiare l’ordine delle attività
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448564/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 

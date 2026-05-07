@@ -37,4 +37,4 @@ In questo video scoprirai come:
 * Pianificare la manutenzione di metadati e parole chiave
 * Stabilire best practice di [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419474/?captions=ita&quality=12&learn=on&enablevpops=1)

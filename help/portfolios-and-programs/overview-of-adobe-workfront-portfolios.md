@@ -35,7 +35,7 @@ ht-degree: 7%
 Il video illustra la gestione del portfolio, incentrata sul modo in cui i manager possono ottimizzare la selezione dei progetti per allinearla agli obiettivi aziendali. &#x200B; Introduce il concetto di portfolio come insiemi di progetti in competizione per risorse condivise, budget e pianificazioni. I &#x200B; Manager possono utilizzare strumenti come Portfolio Optimizer per confrontare i progetti in base a criteri quali manodopera, spese, rischi, ROI e allineamento con gli obiettivi del portfolio. &#x200B; la preparazione dei progetti per il confronto comporta la creazione di un business case per ciascuno di essi. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442836/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

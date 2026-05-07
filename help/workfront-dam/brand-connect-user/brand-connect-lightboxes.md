@@ -38,7 +38,7 @@ In questo video scoprirai come:
 * Guardare e gestire lightbox
 * Collaborare a una lightbox
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454358/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Lightbox vs cartelle
 

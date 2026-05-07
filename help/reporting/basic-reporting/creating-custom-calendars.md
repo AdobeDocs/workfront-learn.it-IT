@@ -45,5 +45,5 @@ In questo video scoprirai come:
 * Aggiungi elementi di lavoro al raggruppamento del calendario
 * Creare un calendario delle ferie
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452401/?captions=ita&quality=12&learn=on&enablevpops=1)
 

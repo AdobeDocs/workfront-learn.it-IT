@@ -92,7 +92,7 @@ In questo video scoprirai come:
 * Effettuare una richiesta
 * Visualizzare le richieste inviate
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413115/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Elementi in attesa di approvazione
 

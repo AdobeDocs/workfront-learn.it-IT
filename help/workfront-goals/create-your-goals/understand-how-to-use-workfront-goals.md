@@ -35,4 +35,4 @@ In questo video scoprirai come:
 * Navigare nei Grafici
 * Navigare nell’Allineamento obiettivo
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421296/?captions=ita&quality=12&learn=on&enablevpops=1)

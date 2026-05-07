@@ -35,4 +35,4 @@ In questo video scoprirai come:
 * visualizzare le risorse in Brand Connect
 * Visualizzare i dati di una risorsa, inclusi i metadati e le parole chiave
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418740/?captions=ita&quality=12&learn=on&enablevpops=1)

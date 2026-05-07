@@ -35,4 +35,4 @@ In questo video scoprirai come:
 * Condividere una lightbox con gli utenti di Brand Connect o con le parti interessate esterne
 * Scaricare una o più risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414456/?captions=ita&quality=12&learn=on&enablevpops=1)

@@ -38,4 +38,4 @@ In questo video scoprirai come:
 * Visualizzare le milestone in un progetto specifico
 * Leggere la vista Milestone nell’area [!UICONTROL Progetto]
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415902/?captions=ita&quality=12&learn=on&enablevpops=1)
