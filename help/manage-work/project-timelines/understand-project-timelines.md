@@ -8,14 +8,20 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-11-01T00:00:00Z
+last-substantial-update: '2024-11-01T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:48:54.364Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: 700
 ht-degree: 10%
 
 ---
@@ -28,7 +34,7 @@ Cosa imparerai:
 * Diverse visualizzazioni in Workfront, ad esempio la visualizzazione standard per la pianificazione e la visualizzazione di stato per il monitoraggio dell&#39;avanzamento, che include flag per l&#39;avanzamento, commenti, documenti, problemi, approvazioni, percorso critico e milestone. È possibile tenere traccia delle attività recenti per visualizzare aggiornamenti e note.
 * La programmazione può essere eseguita a partire da una data di inizio o da una data di completamento, con Workfront che calcola le date corrispondenti in base alle durate delle attività e ai predecessori. Il video consiglia di pianificare da una data di inizio le date di completamento critiche per consentire un certo margine di flessibilità. Vengono inoltre trattati i vincoli di attività, ad esempio &quot;il prima possibile&quot; e &quot;il più tardi possibile&quot;, mostrando come influiscono sulla pianificazione delle attività. È possibile creare viste personalizzate per visualizzare i vincoli delle attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435843/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
@@ -36,11 +42,11 @@ Cosa imparerai:
 
 ## Concetti chiave
 
-* **Gestione e assegnazione attività:** Le attività padre raggruppano diverse sottoattività, che vengono assegnate a mansioni e successivamente a utenti con le competenze necessarie. &#x200B; I predecessori indicano relazioni sequenziali, mentre le attività senza predecessori possono essere eseguite in parallelo. &#x200B;
+* **Gestione e assegnazione attività:** Le attività padre raggruppano diverse sottoattività, che vengono assegnate a mansioni e successivamente a utenti con le competenze necessarie. &#x200B; Predecessori indicano relazioni sequenziali, mentre le attività senza predecessori possono essere eseguite in parallelo. &#x200B;
 * **Grafico di Gantt e percorso critico:** Il diagramma di Gantt fornisce una sequenza temporale visiva del progetto e la caratteristica Percorso critico evidenzia le attività che potrebbero ritardare il progetto in caso di slittamento. &#x200B;
 * **Visualizzazioni e monitoraggio:** diverse visualizzazioni in Workfront, ad esempio la visualizzazione standard per la pianificazione e la visualizzazione dello stato per il monitoraggio, includono flag per l&#39;avanzamento, commenti, documenti, problemi, approvazioni, percorso critico e milestone. È inoltre possibile tenere traccia delle attività recenti. &#x200B;
-* **Opzioni di pianificazione:** è possibile programmare i progetti da una data di inizio o una data di completamento. Le date corrispondenti vengono calcolate da Workfront in base alle durate e ai predecessori delle attività. &#x200B; La pianificazione da una data di inizio è consigliata per date di completamento critiche per consentire un certo margine di flessibilità. &#x200B;
-* **Vincoli attività:** I vincoli attività come &quot;non appena possibile&quot; e &quot;il più tardi possibile&quot; influiscono sulla pianificazione delle attività. &#x200B; La modifica della modalità di programmazione dopo la creazione del progetto può influire sui vincoli delle attività e sulle date pianificate. &#x200B; È possibile creare viste personalizzate per visualizzare i vincoli delle attività. &#x200B;
+* **Opzioni di pianificazione:** è possibile programmare i progetti da una data di inizio o una data di completamento. Le date corrispondenti vengono calcolate da Workfront in base alle durate e ai predecessori delle attività. &#x200B; la pianificazione da una data di inizio è consigliata per date di completamento critiche per consentire un certo margine di flessibilità. &#x200B;
+* **Vincoli attività:** I vincoli attività come &quot;non appena possibile&quot; e &quot;il più tardi possibile&quot; influiscono sulla pianificazione delle attività. &#x200B; La modifica della modalità di programmazione dopo la creazione del progetto può influire sui vincoli delle attività e sulle date pianificate. &#x200B; è possibile creare viste personalizzate per visualizzare i vincoli delle attività. &#x200B;
 
 
 ## Per modificare o non modificare le date nelle sequenze temporali del &#x200B;progetto...

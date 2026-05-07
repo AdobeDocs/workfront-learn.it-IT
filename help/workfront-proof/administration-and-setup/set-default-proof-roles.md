@@ -9,12 +9,18 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
 jira: KT-10235
-last-substantial-update: 2024-01-24T00:00:00Z
+last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: 30748311c14fb8aa6b10c03a74e83f46bdb5dfbf
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:03:40.797Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 100%
+source-wordcount: 362
+ht-degree: 87%
 
 ---
 
@@ -24,7 +30,7 @@ ht-degree: 100%
 
 La prima impostazione predefinita da completare consiste nel determinare un ruolo di bozza predefinito che verrà assegnato quando vengono creati nuovi utenti o si apre una bozza.
 
-I ruoli di bozza determinano cosa un utente è in grado di fare con una bozza: esaminarla, creare commenti, approvarla, ecc. [!DNL Workfront] consiglia di impostare le impostazioni predefinite del ruolo di bozza per tutti gli utenti, in modo da velocizzare e semplificare l’aggiunta di destinatari alle bozze e la configurazione dei flussi di lavoro.
+I ruoli di bozza determinano ciò che un utente è in grado di fare con una bozza: basta guardarla, fare commenti, approvarla, ecc. [!DNL Workfront] consiglia di impostare le impostazioni predefinite del ruolo di bozza per tutti gli utenti, per rendere più rapida e semplice l&#39;aggiunta di destinatari alle bozze e l&#39;impostazione di flussi di lavoro.
 
 ![È possibile selezionare i ruoli di bozza durante il caricamento della bozza](assets/proof-system-setups-proof-role-example.png)
 

@@ -11,9 +11,15 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:55:03.417Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: 727
 ht-degree: 91%
 
 ---
@@ -32,7 +38,7 @@ Una volta che sai cosa ci si aspetta, puoi iniziare con la revisione di una bozz
 
 Quando una risorsa è pronta per la revisione e l’approvazione, riceverai una notifica e-mail.
 
-![Immagine di un messaggio e-mail di una nuova bozza che richiede la revisione e l’approvazione di due bozze in [!DNL &#x200B; Workfront].](assets/new-proof-emails.png)
+![Immagine di un messaggio e-mail di una nuova bozza che richiede la revisione e l’approvazione di due bozze in [!DNL  Workfront].](assets/new-proof-emails.png)
 
 È importante tenere presente che questo collegamento alla bozza è unico per te. Se condividi il collegamento con qualcuno, tutti i commenti e i commenti creati verranno taggati con il tuo nome.
 
@@ -63,7 +69,7 @@ Puoi anche trovare le bozze da rivedere su una dashboard di [!DNL Workfront] cre
 
 Se lavori normalmente con progetti, attività o problemi in [!DNL Workfront], è possibile aprire la bozza direttamente dalla sezione [!DNL Documents] di tale elemento.
 
-![Immagine della sezione [!UICONTROL Documenti] disponibile in un’[!DNL &#x200B; Workfront]attività con il collegamento [!UICONTROL Apri bozza] evidenziato.](assets/open-proof-from-documents.png)
+![Immagine della sezione [!UICONTROL Documenti] disponibile in un’[!DNL  Workfront]attività con il collegamento [!UICONTROL Apri bozza] evidenziato.](assets/open-proof-from-documents.png)
 
 1. Fai clic sul nome del progetto, dell’attività o del problema.
 2. Fai clic su [!UICONTROL Documenti] nel menu del pannello a sinistra della pagina dell’elemento.

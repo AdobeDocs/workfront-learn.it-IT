@@ -7,16 +7,22 @@ thumbnail: 3426779.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-01-09T00:00:00Z
+last-substantial-update: '2024-01-09T00:00:00.000Z'
 recommendations: noDisplay,catalog
 team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:59:01.715Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 187
+ht-degree: 66%
 
 ---
 
@@ -27,7 +33,7 @@ In questo video scoprirai:
 * Come condividere un modello di progetto che concede i diritti per attivarlo e disattivarlo.
 * Come attivare e disattivare un modello di progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444998/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -37,7 +43,7 @@ In questo video scoprirai:
 
 ## Scopri come creare una vista personalizzata per visualizzare e modificare lo stato attivo dei modelli di progetto
 
-Per creare una vista del modello di progetto con una colonna di stato attiva, consulta l’attività **Visualizzazione stato attivo del modello di progetto** in [Creare una vista di base](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
+Per creare una vista del modello di progetto con una colonna di stato attiva, consulta l’attività **Visualizzazione stato attivo del modello di progetto** in [Creare una vista di base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view).
 
 ## Tutorial consigliati su questo argomento
 

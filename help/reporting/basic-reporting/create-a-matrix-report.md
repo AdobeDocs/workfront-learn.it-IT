@@ -9,13 +9,19 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-last-substantial-update: 2025-05-20T00:00:00Z
+last-substantial-update: '2025-05-20T00:00:00.000Z'
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:21:46.565Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 48%
+source-wordcount: 411
+ht-degree: 49%
 
 ---
 
@@ -26,11 +32,11 @@ In questo video scoprirai:
 * Quando un rapporto matrice può essere utile
 * E come creare un rapporto matrice
 
->[!VIDEO](https://video.tv.adobe.com/v/3448191/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
-* **Struttura report matrice:** I report matrice organizzano i dati in righe e colonne, con totali automatici di righe e colonne. &#x200B; Sono ideali per il tracciamento di metriche quali ore di lavoro, costi e ricavi. &#x200B;
+* **Struttura report matrice:** I report matrice organizzano i dati in righe e colonne, con totali automatici di righe e colonne. &#x200B; Sono ideali per il tracciamento di metriche quali ore lavorate, costi e ricavi. &#x200B;
 * **Impostazione filtri:** utilizza i filtri per concentrarti su dati specifici, ad esempio le ore lavorate durante l&#39;ultimo trimestre dagli utenti di un determinato team principale. &#x200B; Il campo &quot;owner field source&quot; (Origine campo proprietario) consente di identificare i membri del team rilevanti. &#x200B;
 * **Opzioni di raggruppamento:** Nel nostro esempio, le righe sono raggruppate per &quot;nome del proprietario&quot; (persona che ha lavorato le ore), mentre le colonne sono raggruppate per &quot;data di immissione ore&quot; (per mese e settimana). &#x200B;
 * **Dati riepilogati:** Per impostazione predefinita vengono riepilogate colonne quali ore, costi effettivi e ricavi, in modo che i totali vengano visualizzati nella matrice. Se necessario, queste impostazioni predefinite possono essere disattivate. &#x200B;

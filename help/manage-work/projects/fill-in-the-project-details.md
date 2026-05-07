@@ -8,14 +8,20 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-06-21T00:00:00Z
+last-substantial-update: '2024-06-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:47:36.241Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 23%
+source-wordcount: 217
+ht-degree: 28%
 
 ---
 
@@ -28,8 +34,8 @@ Questo video illustra le impostazioni di progetto più comuni necessarie per la 
 
 ## Concetti chiave
 
-* **Utilizza nomi di progetto descrittivi:** Per evitare confusione, assegna nomi descrittivi ai progetti anziché utilizzare titoli generici. &#x200B; L’organizzazione dei progetti in portfolio e programmi migliora le attività di reporting e la coerenza. &#x200B;
-* **Imposta lo stato appropriato del progetto:** Inizia con lo stato &quot;Pianificazione&quot; durante la creazione di un progetto, quindi passa a &quot;Corrente&quot; quando il progetto diventa attivo. &#x200B; Gli stati non &quot;Correnti&quot; mettono in pausa le notifiche, consentendo una ripianificazione senza interruzioni. &#x200B;
+* **Utilizza nomi di progetto descrittivi:** Per evitare confusione, assegna nomi descrittivi ai progetti anziché utilizzare titoli generici. &#x200B; l’organizzazione dei progetti in portfolio e programmi migliora la generazione dei rapporti e la coerenza. &#x200B;
+* **Imposta lo stato appropriato del progetto:** Inizia con lo stato &quot;Pianificazione&quot; durante la creazione di un progetto, quindi passa a &quot;Corrente&quot; quando il progetto diventa attivo. &#x200B; stati non &quot;correnti&quot; mettono in pausa le notifiche, consentendo una ripianificazione senza interruzioni. &#x200B;
 * **Utilizzo di modelli e Forms personalizzati:** Utilizzare i modelli di progetto per coerenza e moduli personalizzati per memorizzare dati di progetto univoci. &#x200B; Questi strumenti semplificano la configurazione e garantiscono l&#39;acquisizione delle informazioni essenziali.
 * **Utilizzare i gruppi di risorse e le pianificazioni:** Assegnare i gruppi di risorse ai progetti per una gestione efficace delle risorse e applicare la pianificazione corretta per riflettere giorni lavorativi, ore e festività. &#x200B; In questo modo l’esecuzione del progetto e l’allocazione delle risorse sono fluide.
 

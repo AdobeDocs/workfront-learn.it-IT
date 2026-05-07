@@ -8,14 +8,20 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-04-25T00:00:00Z
+last-substantial-update: '2024-04-25T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:44:38.813Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 12%
+source-wordcount: 239
+ht-degree: 14%
 
 ---
 
@@ -25,14 +31,14 @@ Il video spiega come tenere traccia dell’avanzamento complessivo del progetto 
 
 Il video sottolinea l’importanza di aggiornamenti regolari da parte dei membri del team e della gestione proattiva dei problemi per garantire un tracciamento accurato e il completamento tempestivo del progetto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447418/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Calcolo percentuale di completamento:** L&#39;avanzamento complessivo del progetto viene calcolato in base ai valori di percentuale di completamento delle singole attività, ponderati in base alla durata o alle ore pianificate. &#x200B;
-* **Date pianificate e date previste:** Workfront calcola le date di inizio/completamento pianificate e previste in base alle durate e ai predecessori dell&#39;attività. &#x200B; Le discrepanze tra queste date indicano potenziali ritardi. &#x200B;
+* **Date pianificate e date previste:** Workfront calcola le date di inizio/completamento pianificate e previste in base alle durate e ai predecessori dell&#39;attività. &#x200B; Discrepanze tra queste date indicano potenziali ritardi. &#x200B;
 * **Stato condizione progetto:** Il campo della condizione (ad esempio In Target, A rischio, In difficoltà) riflette lo stato del progetto e può essere impostato manualmente o automaticamente utilizzando la modalità Stato di avanzamento. &#x200B;
-* **Gestione problemi aperti:** I problemi aperti segnalano potenziali rischi. &#x200B; Per mantenere le tempistiche dei progetti è essenziale rivederle e convertirle in attività in modo tempestivo. &#x200B;
+* **Gestione problemi aperti:** I problemi aperti segnalano potenziali rischi. &#x200B; Per mantenere le sequenze temporali dei progetti è fondamentale rivederle e convertirle in attività in modo tempestivo. &#x200B;
 * **Colonna aggiornamento condizione:** Gli aggiornamenti settimanali del project manager nella colonna Aggiornamento condizione forniscono un chiaro riepilogo dell&#39;avanzamento e consentono di tenere traccia degli ultimi sviluppi. &#x200B;
 
 

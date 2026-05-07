@@ -9,30 +9,36 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-last-substantial-update: 2025-05-08T00:00:00Z
+last-substantial-update: '2025-05-08T00:00:00.000Z'
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:37.684Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 24%
+source-wordcount: 409
+ht-degree: 25%
 
 ---
 
 # Creare un raggruppamento di base
 
-Questo video spiega come creare e gestire i raggruppamenti in Workfront per organizzare efficacemente gli elenchi dei progetti. &#x200B; I raggruppamenti sono uno dei tre elementi principali dei rapporti, insieme a filtri e visualizzazioni, e consentono di organizzare i risultati in base alle informazioni condivise. &#x200B;
+Questo video spiega come creare e gestire i raggruppamenti in Workfront per organizzare efficacemente gli elenchi dei progetti. &#x200B; raggruppamenti sono uno dei tre elementi principali di reporting, insieme a filtri e visualizzazioni, e aiutano a organizzare i risultati in base alle informazioni condivise. &#x200B;
 Questa esercitazione fornisce passaggi pratici per organizzare gli elenchi dei progetti al fine di semplificare il lavoro e la collaborazione giornalieri. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3449823/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Scopo dei raggruppamenti:** i raggruppamenti sono un elemento di reporting chiave in Workfront che organizza gli elenchi dei progetti in base a informazioni condivise, ad esempio date di completamento, portfolio o programmi. &#x200B;
 * **Creazione di raggruppamenti:** Puoi creare raggruppamenti personalizzati con un massimo di tre livelli di criteri. &#x200B; Ad esempio, per una migliore organizzazione è possibile raggruppare prima i progetti per portfolio e poi per programma. &#x200B;
-* **Modifica e salvataggio dei raggruppamenti:** i raggruppamenti incorporati non possono essere sovrascritti, ma è possibile salvare le modifiche come un nuovo raggruppamento. &#x200B; I raggruppamenti personalizzati devono avere nomi chiari e descrittivi per una facile identificazione. &#x200B;
+* **Modifica e salvataggio dei raggruppamenti:** i raggruppamenti incorporati non possono essere sovrascritti, ma è possibile salvare le modifiche come un nuovo raggruppamento. &#x200B; Raggruppamenti personalizzati devono avere nomi chiari e descrittivi per una facile identificazione. &#x200B;
 * **Condivisione di raggruppamenti:** i raggruppamenti possono essere condivisi con altri utenti, con autorizzazioni di visualizzazione predefinite che consentono loro di utilizzare e condividere il raggruppamento, ma non di modificarlo. Le autorizzazioni &quot;&#x200B;Gestisci&quot; consentono la modifica e l’eliminazione. &#x200B;
-* **Rimozione dei raggruppamenti:** L&#39;eliminazione di un raggruppamento creato comporta anche la rimozione del raggruppamento dagli elenchi di utenti con cui è stato condiviso. &#x200B; I raggruppamenti condivisi vengono visualizzati nella sezione &quot;Condivisi con me&quot; per gli altri utenti. &#x200B;
+* **Rimozione dei raggruppamenti:** L&#39;eliminazione di un raggruppamento creato comporta anche la rimozione del raggruppamento dagli elenchi di utenti con cui è stato condiviso. &#x200B; raggruppamenti condivisi vengono visualizzati nella sezione &quot;Condivisi con me&quot; per gli altri utenti. &#x200B;
 
 ## Attività &quot;Crea un raggruppamento di base&quot;
 

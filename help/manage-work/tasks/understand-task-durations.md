@@ -9,14 +9,20 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8776
-last-substantial-update: 2024-06-03T00:00:00Z
+last-substantial-update: '2024-06-03T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:12.123Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 9%
+source-wordcount: 216
+ht-degree: 10%
 
 ---
 
@@ -27,9 +33,9 @@ Workfront consiglia di utilizzare le durate e i predecessori per stabilire le se
 &#x200B;Una durata precisa è fondamentale per una pianificazione efficace del progetto e per la gestione delle risorse.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449351/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Definizione della durata dell&#39;attività:** La durata dell&#39;attività è la differenza tra la data di inizio pianificata e la data di completamento pianificata di un&#39;attività, che rappresenta la finestra temporale per il completamento del lavoro. &#x200B;
 * **Impatto sulla sequenza temporale del progetto:** Le durate delle attività influiscono direttamente sulla lunghezza complessiva del progetto e sulla data di completamento pianificata, rendendole fondamentali per una pianificazione accurata del progetto. &#x200B;

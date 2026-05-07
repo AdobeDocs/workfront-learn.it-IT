@@ -8,15 +8,21 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: 2024-07-09T00:00:00Z
+last-substantial-update: '2024-07-09T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:54:50.397Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 11%
+source-wordcount: 257
+ht-degree: 12%
 
 ---
 
@@ -24,13 +30,13 @@ ht-degree: 11%
 
 Il video fornisce una guida dettagliata su come effettuare e gestire le richieste all’interno di Workfront. Spiega il processo di creazione di una richiesta, iniziando selezionando &quot;Richieste&quot; dal menu principale e facendo clic sul pulsante &quot;Nuova richiesta&quot;. &#x200B; Gli utenti possono scegliere un tipo di richiesta tra code personalizzate in base ai flussi di lavoro dell’organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413115/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
 * **Creazione semplificata delle richieste:** Gli utenti possono creare facilmente le richieste selezionando &quot;Richieste&quot; dal menu principale, scegliendo un tipo di richiesta, compilando i campi obbligatori e allegando i documenti rilevanti. &#x200B;
 * **Flussi di lavoro personalizzabili:** Le code di richieste e i moduli sono personalizzati in base ai flussi di lavoro organizzativi, consentendo agli utenti di specificare dettagli (ad esempio in negozio, all&#39;aperto, social media) e priorità.
-* **Funzione di salvataggio automatico bozze:** le bozze vengono salvate automaticamente quando gli utenti compilano il campo dell&#39;oggetto, assicurandosi che non venga perso alcun dato in caso di pausa o spostamento. &#x200B; È possibile accedere alle bozze in un secondo momento per completarle o eliminarle, se non necessario. &#x200B;
+* **Funzione di salvataggio automatico bozze:** le bozze vengono salvate automaticamente quando gli utenti compilano il campo dell&#39;oggetto, assicurandosi che non venga perso alcun dato in caso di pausa o spostamento. &#x200B; bozze possono essere utilizzate in un secondo momento per il completamento o eliminate, se non necessario. &#x200B;
 * **Tracciamento e filtraggio delle richieste:** le richieste inviate possono essere tracciate nella pagina &quot;Inviate&quot;, con filtri disponibili per visualizzare le richieste aperte, non risolte o tutte le richieste basate sulle autorizzazioni utente. &#x200B;
 * **Richieste di copia e riutilizzo:** gli utenti possono copiare le richieste esistenti per crearne di nuove, semplificando l&#39;invio di richieste simili senza iniziare da zero.
 

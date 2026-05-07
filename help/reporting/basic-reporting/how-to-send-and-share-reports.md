@@ -9,12 +9,18 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: 354
 ht-degree: 55%
 
 ---
@@ -27,14 +33,14 @@ In questo video scoprirai:
 * Come condividere i rapporti con chiunque
 * Cosa possono visualizzare e fare i destinatari con un rapporto di Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3447820/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 
 * **Invio di report a utenti esterni:** Puoi inviare report a utenti non Workfront immettendo i loro indirizzi e-mail, semplificando la condivisione di dati all&#39;esterno della tua organizzazione. &#x200B;
 * **Visibilità controllo diritti di accesso:** La visualizzazione del report da parte del destinatario dipende dai diritti di accesso impostati, che garantiscono la sicurezza dei dati e la visibilità appropriata. &#x200B;
 * **Consegna ripetuta per istantanee:** le consegne pianificate forniscono istantanee congelate dei dati in momenti specifici, utili per tenere traccia delle tendenze e mantenere una cronologia dei dati del progetto. &#x200B;
-* **Condivisione di report con i team:** i report possono essere condivisi con singoli utenti, team o mansioni, concedendo diritti di visualizzazione o gestione. &#x200B; I rapporti condivisi vengono visualizzati nella sezione &quot;Condivisi con me&quot; degli utenti. &#x200B;
+* **Condivisione di report con i team:** i report possono essere condivisi con singoli utenti, team o mansioni, concedendo diritti di visualizzazione o gestione. &#x200B; report condivisi vengono visualizzati nella sezione &quot;Condivisi con me&quot; degli utenti. &#x200B;
 * **Condivisione pubblica e a livello di sistema:** i report possono essere condivisi tramite collegamenti pubblici per utenti esterni o resi visibili a livello di sistema per tutti gli utenti di Workfront, offrendo flessibilità nella condivisione dei dati.
 
 

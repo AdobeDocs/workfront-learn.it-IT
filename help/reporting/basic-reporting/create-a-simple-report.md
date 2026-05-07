@@ -8,26 +8,32 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
-last-substantial-update: 2025-05-09T00:00:00Z
+last-substantial-update: '2025-05-09T00:00:00.000Z'
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:04.500Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '467'
-ht-degree: 37%
+source-wordcount: 458
+ht-degree: 38%
 
 ---
 
 # Creare un rapporto semplice
 
-Questo video spiega come creare e personalizzare i rapporti sui progetti per analizzare in modo efficace i dati. &#x200B; Per prima cosa, viene sottolineata l&#39;importanza dei report per tenere traccia dell&#39;avanzamento del progetto, del completamento dell&#39;attività, del rispetto del budget e per identificare i problemi. Nel video viene illustrato come iniziare con un rapporto sull’elenco dei progetti, come regolare filtri, visualizzazioni e raggruppamenti e come creare un rapporto personalizzato. &#x200B; &#x200B;
+Questo video spiega come creare e personalizzare i rapporti sui progetti per analizzare in modo efficace i dati. &#x200B; Inizia evidenziando l’importanza dei rapporti nel monitorare l’avanzamento del progetto, il completamento delle attività, il rispetto del budget e l’identificazione dei problemi. Nel video viene illustrato come iniziare con un rapporto sull’elenco dei progetti, come regolare filtri, visualizzazioni e raggruppamenti e come creare un rapporto personalizzato. &#x200B; &#x200B;
 
-Il video evidenzia che i rapporti personalizzati mantengono le impostazioni predefinite, ma che è possibile apportare modifiche temporanee durante la visualizzazione. &#x200B; I report vengono memorizzati nella sezione &quot;I miei report&quot;, mentre i report condivisi vengono visualizzati nella &#x200B; &quot;Condivisi con me&quot;. I rapporti utilizzati di frequente possono essere bloccati o contrassegnati come preferiti per un facile accesso. &#x200B;
+Il video evidenzia che i rapporti personalizzati mantengono le impostazioni predefinite, ma che è possibile apportare modifiche temporanee durante la visualizzazione. &#x200B; i report vengono memorizzati nella sezione &quot;I miei report&quot;, mentre i report condivisi vengono visualizzati in &quot;Condivisi con me&quot;. &#x200B; I rapporti utilizzati di frequente possono essere bloccati o contrassegnati come preferiti per un facile accesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3413121/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 
 * **Scopo dei report:** i report consentono di tenere traccia dell&#39;avanzamento del progetto, del completamento dell&#39;attività, del rispetto del budget e di identificare i problemi, rendendoli essenziali per una gestione efficace del progetto.

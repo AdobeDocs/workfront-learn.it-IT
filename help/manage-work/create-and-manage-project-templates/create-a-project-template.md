@@ -1,6 +1,6 @@
 ---
 title: Creare un modello di progetto ed esplorare i blueprint
-description: Impara a creare un modello di progetto da zero e da un progetto esistente e comprendi come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
+description: Impara a creare un modello di progetto da zero e da un progetto esistente e capisci come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,15 +8,21 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-10-11T00:00:00Z
+last-substantial-update: '2024-10-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T15:00:48.755Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 54%
+source-wordcount: 629
+ht-degree: 55%
 
 ---
 
@@ -27,11 +33,11 @@ Impara a creare un modello di progetto da zero e da un progetto esistente e capi
 
 ## Creare un modello di progetto
 
-* Il video fornisce una guida dettagliata sulla creazione e l’utilizzo di modelli per la produzione video di marketing. Comincia spiegando come creare un nuovo modello da zero, denominandolo e salvandolo. &#x200B; Il processo prevede tre passaggi principali: la creazione di attività, l&#39;impostazione della timeline utilizzando le durate e i predecessori e l&#39;assegnazione di mansioni piuttosto che di singoli utenti. &#x200B; Il video evidenzia come organizzare le attività utilizzando le relazioni padre-figlio per una migliore riepilogazione ed efficienza. &#x200B;
+* Il video fornisce una guida dettagliata sulla creazione e l’utilizzo di modelli per la produzione video di marketing. Comincia spiegando come creare un nuovo modello da zero, denominandolo e salvandolo. &#x200B; Il processo prevede tre passaggi principali: la creazione di attività, l&#39;impostazione della timeline utilizzando le durate e i predecessori e l&#39;assegnazione a mansioni piuttosto che a singoli utenti. &#x200B; Il video enfatizza l’organizzazione delle attività utilizzando le relazioni padre-figlio per un riepilogo e un’efficienza migliori. &#x200B;
 * Una volta creato, il modello può essere utilizzato per produrre nuovi progetti. Il video illustra come creare un nuovo progetto dal modello, apportare le modifiche necessarie e aggiungere attività o modificare le durate in base alle esigenze. &#x200B; Viene inoltre illustrato come assegnare mansioni alle attività utilizzando le funzionalità di pianificazione e pianificazione delle risorse. &#x200B;
 * Il video spiega come salvare un progetto esistente come nuovo modello, consentendo aggiornamenti e miglioramenti nel flusso di lavoro. &#x200B; Evidenzia l’importanza di gestire i modelli per evitare confusione e garantire un’esecuzione dei progetti semplificata. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415445/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 

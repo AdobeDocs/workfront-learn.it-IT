@@ -11,20 +11,26 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: cdfcda76-1d05-4faa-910e-9f3413896fd8
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:16:48.513Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 237
 ht-degree: 0%
 
 ---
 
 # Esplora gli elementi di reporting di Workfront
 
-Nel video viene illustrato come utilizzare gli elementi di reporting di Workfront, ovvero filtri, visualizzazioni e raggruppamenti, per accedere e perfezionare informazioni importanti nei report elenco per progetti, attività e altri oggetti. &#x200B; I filtri consentono di restringere gli elenchi in base a criteri specifici, ad esempio per visualizzare solo i progetti o le attività attivi assegnati. &#x200B; Le visualizzazioni determinano le informazioni visualizzate nelle colonne, evidenziando campi specifici come ricavi o spese. &#x200B; I raggruppamenti organizzano gli elenchi in base a criteri quali la data di completamento pianificata o lo stato di avanzamento.
+Nel video viene illustrato come utilizzare gli elementi di reporting di Workfront, ovvero filtri, visualizzazioni e raggruppamenti, per accedere e perfezionare informazioni importanti nei report elenco per progetti, attività e altri oggetti. I filtri &#x200B; consentono di restringere gli elenchi in base a criteri specifici, ad esempio per visualizzare solo i progetti o le attività attive assegnate all&#39;utente. Le visualizzazioni &#x200B; determinano le informazioni visualizzate nelle colonne, evidenziando campi specifici come ricavi o spese. &#x200B; raggruppamenti organizzano gli elenchi in base a criteri quali la data di completamento pianificata o lo stato di avanzamento.
 
-Il video illustra inoltre come personalizzare gli elementi di reporting e condividerli con altri utenti. &#x200B; Questi strumenti consentono agli utenti di personalizzare l’elenco dei rapporti in base alle loro esigenze, per migliorarne la visibilità e la gestione.
+Il video illustra inoltre come personalizzare gli elementi di reporting e condividerli con altri utenti. &#x200B; Questi strumenti consentono agli utenti di personalizzare i rapporti in base alle proprie esigenze per migliorarne la visibilità e la gestione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447796/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

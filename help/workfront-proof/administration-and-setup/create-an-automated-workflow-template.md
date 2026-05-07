@@ -9,13 +9,19 @@ level: Intermediate
 team: Technical Marketing
 thumbnail: 335130.png
 jira: KT-8830
-last-substantial-update: 2024-01-24T00:00:00Z
+last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: eac89e40-d3ea-4376-82a2-16bec550d131
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:09:06.617Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 100%
+source-wordcount: 435
+ht-degree: 91%
 
 ---
 
@@ -28,7 +34,7 @@ In questo video scoprirai come:
 * Impostare una scadenza per il processo di revisione e approvazione
 * Condividere il modello di flusso di lavoro automatizzato con altri utenti
 
->[!VIDEO](https://video.tv.adobe.com/v/3454259/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
 
 ## Opzioni aggiuntive di attivazione della fase
 
@@ -44,4 +50,4 @@ Se utilizzi “[!UICONTROL Scadenza fase precedente oltrepassata]”, è importa
 |---|---|
 | Imposta il ruolo bozza del Creatore della bozza su Revisore. | Il ruolo bozza Revisore consente al creatore della bozza di inserire commenti e accedere ai commenti lasciati da altri utenti. Nella maggior parte dei casi, il creatore della bozza non è tenuto a prendere una decisione su una bozza caricata. I ruoli bozza Approvatore, Revisore e Approvatore, Autore o Moderatore richiedono tutti di prendere una decisione. Se al creatore della bozza viene assegnato uno di questi ruoli bozza ma non prende mai decisioni, ciò può influire negativamente sulle scadenze della bozza. |
 | Evita di utilizzare il ruolo bozza Approvatore. | Il ruolo bozza Approvatore non consente all’utente di aggiungere commenti alla bozza. Questo potrebbe comportare il rifiuto della bozza da parte di un utente senza alcuna spiegazione, in quanto l’utente non è in grado di aggiungere commenti. Utilizza invece il ruolo bozza Revisore e Approvatore in modo che l’utente possa fornire un feedback. |
-| Evita l’opzione di avviso e-mail “Tutte le attività di bozza”. | Questa opzione invia una notifica e-mail relativa alla bozza ogni volta che si verifica un evento relativo a essa: viene inserito un commento, viene inviata una risposta, viene presa una decisione, ecc. In sostanza, il destinatario visualizza l’attività della bozza non appena si verifica.<br><br>Per i proprietari e i creatori di bozze, l’avviso e-mail Decisioni funziona meglio per i flussi di lavoro di bozza a più fasi, mentre Decisione finale funziona meglio per i flussi di lavoro a fase singola. In genere, tutti gli altri possono essere impostati su Disabilitato, a meno che non desiderino essere informati se altri utenti inseriscono commenti o decisioni (nel qual caso, una delle opzioni di e-mail di riepilogo potrebbe essere più utile). |
+| Evita l’opzione di avviso e-mail “Tutte le attività di bozza”. | Questa opzione invia una notifica e-mail relativa alla bozza ogni volta che si verifica un evento con una bozza: viene inserito un commento, viene inviata una risposta, viene presa una decisione, ecc. In sostanza, il destinatario vede l’attività della bozza così come si verifica.<br><br>Per i proprietari e i creatori di bozze, l’avviso e-mail Decisioni funziona meglio per i flussi di lavoro di bozza a più fasi, mentre Decisione finale funziona meglio per i flussi di lavoro a fase singola. In genere, tutti gli altri possono essere impostati su Disabilitato, a meno che non desiderino essere informati se altri utenti inseriscono commenti o decisioni (nel qual caso, una delle opzioni di e-mail di riepilogo potrebbe essere più utile). |

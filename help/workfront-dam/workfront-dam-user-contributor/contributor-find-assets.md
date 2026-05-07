@@ -10,10 +10,16 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:25:54.114Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 407
+ht-degree: 89%
 
 ---
 
@@ -28,7 +34,7 @@ In questo video scoprirai come:
 * Visualizzare i dettagli cartella
 * Visualizzare e aggiornare i metadati e le parole chiave delle risorse
 
->[!VIDEO](https://video.tv.adobe.com/v/3453930/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
 
 ## Criteri di ricerca di base
 
@@ -62,4 +68,4 @@ Se desideri escludere una parola dai risultati della ricerca, inserisci un segno
 
 ### Operatore campo vuoto
 
-Per trovare risorse prive di informazioni in un campo di metadati specifico, inserisci il campo in cui desideri eseguire la ricerca usando questo formato: ?[xxxxx]. Ad esempio, se desideri trovare risorse alle quali non sono state assegnate parole chiave, immetti ?[parola chiave] nel campo di ricerca.
+Per trovare le risorse prive di informazioni in un campo di metadati specifico, immettere il campo che si desidera cercare in questo formato: ?[xxxxx]. Ad esempio, se desideri trovare risorse alle quali non sono state assegnate parole chiave, immetti ?[parola chiave] nel campo di ricerca.

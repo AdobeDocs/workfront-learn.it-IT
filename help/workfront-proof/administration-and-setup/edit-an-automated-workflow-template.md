@@ -1,6 +1,6 @@
 ---
 title: Modificare un modello di flusso di lavoro automatizzato
-description: Scopri come apportare modifiche a un modello di flusso di lavoro di bozza automatico esistente in  [!DNL &#x200B; Workfront].
+description: Scopri come apportare modifiche a un modello di flusso di lavoro di bozza automatico esistente in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,20 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-last-substantial-update: 2024-08-08T00:00:00Z
+last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:38.512Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 578
+ht-degree: 100%
 
 ---
 
@@ -44,7 +50,7 @@ Ogni fase di un flusso di lavoro automatizzato ha una propria sezione, che conse
 
 Questo video mostra brevemente alcune delle modifiche che puoi apportare all’area [!UICONTROL Flusso di lavoro]. Consulta l’elenco puntato sotto questo video, che esamina queste impostazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432613/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 In qualità di revisore, ecco le modifiche che puoi apportare al modello di bozza nella sezione [!UICONTROL Flusso di lavoro]:
 

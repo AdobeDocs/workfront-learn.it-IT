@@ -11,10 +11,16 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:45:52.312Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 100%
+source-wordcount: 493
+ht-degree: 94%
 
 ---
 
@@ -78,7 +84,7 @@ Chiamare un servizio web per restituire dettagli su più paesi e identificare la
 1. Il modulo di origine è il modulo iteratore.
 1. La funzione di aggregazione è SUM.
 1. Il valore è [data:population] dal modulo Ottieni dettagli paese.
-1. Fai clic sull’opzione Mostra impostazioni avanzate nella parte inferiore e raggruppa per [data:subregion] dal modulo Ottieni dettagli paese.
+1. Fai clic sull&#39;opzione Mostra impostazioni avanzate nella parte inferiore e raggruppa per [dati:subregion] dal modulo Ottieni dettagli paese.
 
    ![Aggregazione avanzata Immagine 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
