@@ -2,9 +2,16 @@
 title: Tutorial su Workfront
 description: Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.  È inclusa una raccolta di best practice, con esercizi selezionati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:00:42.557Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: 136
 ht-degree: 100%
 
 ---
@@ -13,7 +20,7 @@ ht-degree: 100%
 
 Una libreria di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.  È inclusa una raccolta di best practice, con esercizi selezionati e altre risorse che aiuteranno te e la tua organizzazione ad avere successo con Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422437/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3422437/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 <!-- 
 
@@ -38,13 +45,13 @@ See other user landing pages to get ideas.
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
-      <img alt="Trovare e creare modelli di layout" src="/help/assets/ltemp_01.png"/>
+      <img alt="Trovare e creare modelli layout" src="/help/assets/ltemp_01.png"/>
       </a>
       <div>
-         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Trovare e creare modelli di layout</strong></a>
+         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Trovare e creare modelli layout</strong></a>
       </div>
       <p>
-         <em>Scopri come creare un modello di layout di base.</em>
+         <em>Scopri come creare un modello layout di base.</em>
       </p>
     </td>
    <td>

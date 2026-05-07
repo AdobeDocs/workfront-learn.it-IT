@@ -10,11 +10,20 @@ role: User
 level: Intermediate
 jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-last-substantial-update: 2025-08-11T00:00:00Z
+last-substantial-update: '2025-08-11T00:00:00.000Z'
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T02:11:54.379Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 318
 ht-degree: 31%
 
 ---
@@ -23,7 +32,7 @@ ht-degree: 31%
 
 Il video spiega come creare e utilizzare i filtri con più regole in Workfront. &#x200B; Per impostazione predefinita, Workfront utilizza &quot;AND&quot; tra le regole del filtro, il che significa che tutte le condizioni devono essere true affinché un elemento venga visualizzato nell’elenco.
 In alternativa, è possibile modificare la logica del filtro in &quot;OR&quot;, che visualizza gli elementi che soddisfano una qualsiasi delle condizioni.
-Il video illustra anche come creare filtri per le attività utilizzando i gruppi di filtri. &#x200B; Ad esempio, puoi creare due gruppi: uno per le attività incomplete assegnate al team creativo in ritardo e un altro per le attività incomplete assegnate al team creativo non assegnate. &#x200B; All&#39;interno di ogni gruppo, si applica la logica &quot;AND&quot;, il che significa che tutte le condizioni del gruppo devono essere soddisfatte. &#x200B; La logica &quot;OR&quot; tra i gruppi consente di visualizzare le attività che soddisfano le condizioni di uno dei due gruppi.
+Il video illustra anche come creare filtri per le attività utilizzando i gruppi di filtri. &#x200B; Ad esempio, puoi creare due gruppi: uno per le attività incomplete assegnate al team creativo in ritardo e un altro per le attività incomplete assegnate al team creativo non assegnate. &#x200B; All’interno di ciascun gruppo, si applica la logica &quot;AND&quot;, il che significa che tutte le condizioni del gruppo devono essere soddisfatte. &#x200B; La logica &quot;OR&quot; tra i gruppi garantisce la visualizzazione delle attività che soddisfano le condizioni di uno dei due gruppi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470701/?captions=ita&quality=12&learn=on&enablevpops=0)
 

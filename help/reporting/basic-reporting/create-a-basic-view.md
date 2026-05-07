@@ -8,26 +8,37 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2025-06-06T00:00:00Z
+last-substantial-update: '2025-06-06T00:00:00.000Z'
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:22:21.695Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '976'
-ht-degree: 73%
+source-wordcount: 984
+ht-degree: 70%
 
 ---
 
 # Creare una vista di base
 
-Il video illustra come creare e personalizzare visualizzazioni in Workfront per visualizzare informazioni specifiche sugli elementi di un elenco, ad esempio progetti, attività, problemi e documenti. &#x200B; Le visualizzazioni consentono agli utenti di visualizzare dettagli quali nome, descrizione, stato e altri campi relativi agli elementi. &#x200B;
+Il video illustra come creare e personalizzare visualizzazioni in Workfront per visualizzare informazioni specifiche sugli elementi di un elenco, ad esempio progetti, attività, problemi e documenti. Le visualizzazioni &#x200B; consentono agli utenti di visualizzare dettagli quali nome, descrizione, stato e altri campi relativi agli elementi. &#x200B;
 
 Il video sottolinea la flessibilità delle visualizzazioni in Workfront e fornisce istruzioni dettagliate per la creazione, la personalizzazione e la gestione delle visualizzazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450246/?captions=ita&quality=12&learn=on&enablevpops=0)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Personalizzazione delle visualizzazioni**: gli utenti possono modificare le visualizzazioni esistenti o crearne di nuove aggiungendo, rimuovendo o ridisponendo le colonne per visualizzare informazioni specifiche, ad esempio lo stato o il budget del progetto.
 * **Modifica in linea**: alcuni campi in una visualizzazione elenco possono essere aggiornati direttamente senza aprire singoli elementi, rendendo più veloce l&#39;esecuzione delle modifiche. &#x200B;
@@ -66,7 +77,7 @@ Crea una vista attività denominata “Vista con stato attività” con le segue
 1. Nel campo [!UICONTROL Mostra in questa colonna], digita “stato”, quindi seleziona “Icone di stato” sotto all’origine del campo Attività.
 1. Fai clic su **[!UICONTROL Salva]**.
 
-Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL &#x200B; Icone di stato] per vedere cosa rappresentano. Se sono disattivate (in grigio), significa che l’attività non contiene note, documenti, processi di approvazione, ecc. Se un’icona appare a colori, almeno uno di quegli elementi è associato all’attività. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
+Passa il puntatore su ciascuna delle icone nella colonna[!UICONTROL &#x200B; Icone di stato] per vedere cosa rappresentano. Se sono disattivate, significa che l&#39;attività non contiene note, documenti, processi di approvazione e così via. Se viene visualizzata un&#39;icona a colori, all&#39;attività è associato almeno un elemento. Facendo clic sulle icone della nota o del documento si passa a tale elemento.
 
 ### Attività 2: creare una vista Milestone
 

@@ -11,9 +11,20 @@ thumbnail: 335134.png
 jira: KT-8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:52:27.954Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: 240
 ht-degree: 100%
 
 ---
@@ -26,7 +37,7 @@ In questo video scoprirai come:
 * Aggiungere un flusso di lavoro durante la generazione della bozza
 * Aggiungere o modificare un flusso di lavoro dopo la creazione della bozza
 
->[!VIDEO](https://video.tv.adobe.com/v/3443476/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3443476/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 ## Chi può caricare i documenti?

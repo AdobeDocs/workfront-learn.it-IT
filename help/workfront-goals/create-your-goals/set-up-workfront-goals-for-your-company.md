@@ -9,9 +9,20 @@ role: User
 level: Beginner
 jira: KT-10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:19:31.722Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: 352
 ht-degree: 100%
 
 ---
@@ -31,7 +42,7 @@ Prima di poter accedere a [!DNL   Goals], è necessario soddisfare le seguenti c
 * L’organizzazione deve acquistare una licenza [!DNL Workfront Goals], oltre alla licenza [!DNL Workfront].
 * L’organizzazione deve utilizzare la nuova versione dell’interfaccia dell’esperienza [!DNL Workfront]. [!DNL Workfront Goals] non è disponibile nell’interfaccia classica di [!DNL Workfront].
 * Gli utenti [!DNL Workfront Goals] devono avere accesso a [!DNL Workfront Goals] nel loro livello di accesso.
-* È necessario assegnare un modello di layout che includa l’area di [!DNL Workfront Goals] nel menu principale per consentire agli utenti di accedere alle funzionalità.
+* È necessario assegnare un modello layout che includa l’area di [!DNL Workfront Goals] nel menu principale per consentire agli utenti di accedere alle funzionalità.
 
 ## Chi può utilizzare [!DNL Workfront Goals]
 

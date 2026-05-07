@@ -9,13 +9,24 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-last-substantial-update: 2025-05-28T00:00:00Z
+last-substantial-update: '2025-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:51.376Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '650'
-ht-degree: 29%
+source-wordcount: 689
+ht-degree: 27%
 
 ---
 
@@ -29,8 +40,8 @@ Il video fornisce una guida completa per comprendere e utilizzare le dashboard i
 ## Concetti chiave
 
 * **Dashboard in Workfront:** Un dashboard è una raccolta di report che consente agli utenti di organizzare e visualizzare i dati correlati, ad esempio progetti, attività e problemi, in un&#39;unica vista centralizzata. &#x200B;
-* **Creazione di dashboard:** è possibile personalizzare i dashboard selezionando un layout, aggiungendo report, calendari personalizzati o pagine esterne e disponendoli in modo da ottenere una visualizzazione ottimale. &#x200B; Gli utenti possono inoltre personalizzare le colonne da visualizzare nei rapporti affiancati all’interno del dashboard. &#x200B;
-* **Accesso alle dashboard:** le dashboard si trovano in &quot;Dashboard personali&quot;, &quot;Dashboard condivise&quot; o &quot;Tutte le dashboard&quot; nell&#39;area delle dashboard. &#x200B; Le dashboard utilizzate di frequente possono essere bloccate o aggiunte ai preferiti per un accesso rapido. &#x200B;
+* **Creazione di dashboard:** è possibile personalizzare i dashboard selezionando un layout, aggiungendo report, calendari personalizzati o pagine esterne e disponendoli in modo da ottenere una visualizzazione ottimale. &#x200B; Gli utenti possono anche personalizzare quali colonne vengono visualizzate nei rapporti affiancati all’interno del dashboard. &#x200B;
+* **Accesso alle dashboard:** le dashboard si trovano in &quot;Dashboard personali&quot;, &quot;Dashboard condivise&quot; o &quot;Tutte le dashboard&quot; nell&#39;area delle dashboard. &#x200B; dashboard utilizzati di frequente possono essere bloccati o aggiunti ai preferiti per un accesso rapido. &#x200B;
 * **Condivisione di dashboard:** le dashboard possono essere condivise con altri utenti di Workfront, inclusi tutti i report nel dashboard, tramite il menu &quot;Azioni dashboard&quot;. &#x200B;
 * **Stampa dashboard:** è possibile stampare dashboard direttamente dal menu &quot;Azioni dashboard&quot;, semplificando la condivisione di copie fisiche dei dati. &#x200B;
 

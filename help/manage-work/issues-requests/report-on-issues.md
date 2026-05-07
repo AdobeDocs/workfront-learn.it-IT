@@ -8,14 +8,26 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-07-24T00:00:00Z
+last-substantial-update: '2024-07-24T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:53:16.394Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 4%
+source-wordcount: 373
+ht-degree: 5%
 
 ---
 
@@ -24,7 +36,7 @@ ht-degree: 4%
 Il video fornisce una guida dettagliata sulla creazione di due tipi di rapporti per gestire e tenere traccia dei problemi e dei progetti. &#x200B;
 
 * **Report problemi:** questo report consente di verificare se un problema è stato assegnato o convertito in un&#39;attività o in un progetto (oggetto di risoluzione). &#x200B; Include colonne quali la risoluzione dell&#39;oggetto e la data di immissione, ordinate in base alle voci più recenti. I filtri vengono applicati per mostrare solo i problemi di code di richieste specifiche non ancora completate. &#x200B;
-* **Report di progetto:** Questo report è incentrato sui progetti originati da problemi, mostrando i dettagli sui problemi originali e sull&#39;avanzamento dei progetti. &#x200B; Include colonne quali data di inserimento del problema convertito, nome del problema, nome del creatore, stato del progetto e stato di avanzamento. I filtri garantiscono che vengano visualizzati solo i progetti convertiti dai problemi e non ancora completati. &#x200B;
+* **Report di progetto:** Questo report è incentrato sui progetti originati da problemi, mostrando i dettagli sui problemi originali e sull&#39;avanzamento dei progetti. &#x200B; Include colonne come la data di inserimento del problema convertito, il nome del problema, il nome del creatore, lo stato del progetto e lo stato di avanzamento. I filtri garantiscono che vengano visualizzati solo i progetti convertiti dai problemi e non ancora completati. &#x200B;
 
 Il video enfatizza la personalizzazione di colonne e filtri per adattare i rapporti alle esigenze specifiche, semplificando la gestione e la risoluzione dei problemi in modo efficiente. &#x200B;
 

@@ -10,9 +10,20 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:53:14.058Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: 457
 ht-degree: 92%
 
 ---
@@ -23,7 +34,7 @@ La combinazione di più file in un’unica bozza spesso semplifica il processo d
 
 L’opzione “combina” è utile quando singoli file sono correlati o fanno parte di uno stesso deliverable e tutti i file devono essere rivisti dalle stesse persone entro la stessa scadenza.
 
-Ad esempio, il team creativo ha progettato un opuscolo. Quattro designer hanno creato le pagine e le hanno salvate come singoli PDF. Se ogni progettista caricasse queste bozze come singole bozze, i revisori avrebbero quattro bozze distinte da rivedere. Inoltre, sarebbe più difficile assicurare coerenza tra le diverse parti dell’opuscolo.
+Ad esempio, il team creativo ha progettato un opuscolo. Quattro designer hanno creato le pagine e le hanno salvate come singoli PDF. Se ogni designer caricasse queste bozze come singole bozze, i revisori avrebbero quattro bozze distinte da rivedere. Inoltre, sarebbe più difficile assicurare coerenza tra le diverse parti dell’opuscolo.
 
 Soluzione: fai in modo che una sola persona carichi tutti i PDF e li combini in un’unica bozza al momento del caricamento. I revisori potranno così visualizzare l’opuscolo nel suo insieme, anziché le parti disconnesse.
 
@@ -60,7 +71,7 @@ Siamo spiacenti, non è possibile combinare file quando nell’elenco sono prese
 >Non dimenticare di ricordare ai tuoi colleghi che stai inviando loro una bozza come parte della tua formazione su Workfront.
 
 
-Trovare tre o quattro file (PDF, file di testo, ecc.) sul computer.
+Trova tre o quattro file (PDF, file di testo, ecc.) sul computer.
 
 1. Apri un progetto, un’attività o un problema utilizzato per esercitarti in Workfront.
 1. Carica i file, combinandoli in un’unica bozza.

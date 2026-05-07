@@ -10,22 +10,34 @@ team: Technical Marketing
 thumbnail: 335222.jpeg
 jira: KT-8959
 recommendations: noDisplay,catalog
-last-substantial-update: 2024-08-12T00:00:00Z
+last-substantial-update: '2024-08-12T00:00:00.000Z'
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:39:31.882Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 7%
+source-wordcount: 272
+ht-degree: 8%
 
 ---
 
 # Organizzare le impostazioni del flusso di richieste
 
-Il video illustra il processo di flusso delle richieste in Workfront e si concentra sulla gestione delle code, sulle regole di instradamento, sui gruppi di argomenti e sugli argomenti della coda. &#x200B; Sottolinea l&#39;importanza di organizzare la coda di richieste rispondendo a tre domande chiave:
+Il video illustra il processo di flusso delle richieste in Workfront e si concentra sulla gestione delle code, sulle regole di instradamento, sui gruppi di argomenti e sugli argomenti della coda. &#x200B; sottolinea l’importanza di organizzare la coda di richieste rispondendo a tre domande chiave:
 
-1. **Quali argomenti sono necessari?** &#x200B;: si tratta di argomenti della coda che suddividono in categorie le richieste inviate, facilitandone la gestione e la personalizzazione. &#x200B;
-1. **È possibile organizzare ulteriormente gli argomenti?** &#x200B; - I gruppi di argomenti consentono di raggruppare gli argomenti della coda correlati per una migliore organizzazione (ad esempio, brochure, biglietti da visita e cartelloni pubblicitari in &quot;Stampa&quot;). &#x200B;
+1. **Quali argomenti sono necessari?** &#x200B;: si tratta di argomenti della coda che organizzano in categorie le richieste inviate, facilitandone la gestione e la personalizzazione. &#x200B;
+1. **Posso organizzare ulteriormente i miei argomenti?** &#x200B; - I gruppi di argomenti consentono di raggruppare gli argomenti correlati alla coda per una migliore organizzazione (ad esempio, brochure, biglietti da visita e cartelloni sotto &quot;Stampa&quot;). &#x200B;
 1. **A chi deve essere assegnata la richiesta?** &#x200B;: le regole di indirizzamento indirizzano automaticamente gli invii a team, ruoli o utenti specifici, garantendo che le richieste non passino inosservate. &#x200B;
 
 Rispondendo a queste domande, gli utenti possono pianificare e configurare in modo efficace la coda di richieste in Workfront. &#x200B;

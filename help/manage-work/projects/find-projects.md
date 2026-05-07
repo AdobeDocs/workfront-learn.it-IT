@@ -8,15 +8,26 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-03-11T00:00:00Z
+last-substantial-update: '2024-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:47:13.116Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 20%
+source-wordcount: 169
+ht-degree: 21%
 
 ---
 
@@ -30,8 +41,8 @@ Questo video illustra alcuni modi semplici e veloci per trovare i progetti.
 
 * **Filtri e opzioni di ricerca:** Utilizzare i filtri e gli strumenti di ricerca, inclusa la ricerca avanzata, per individuare rapidamente progetti specifici in base a nomi, descrizioni o campi dati personalizzati. &#x200B;
 * **Elenco recenti:** I progetti visualizzati di recente vengono visualizzati automaticamente nell&#39;elenco Recenti, che può contenere fino a 20 progetti per l&#39;accesso rapido. &#x200B;
-* **Preferiti:** Contrassegnare i progetti come preferiti facendo clic sull&#39;icona a forma di stella. &#x200B; I Preferiti rimangono accessibili fino a quando non vengono rimossi manualmente, rendendoli ideali per i progetti a cui si accede di frequente. &#x200B;
-* **Blocco di progetti:** Aggiungi progetti per mantenerli facilmente accessibili. &#x200B; I progetti bloccati rimangono visibili finché non vengono sbloccati.
+* **Preferiti:** Contrassegnare i progetti come preferiti facendo clic sull&#39;icona a forma di stella. &#x200B; Preferiti rimangono accessibili finché non vengono rimossi manualmente, rendendoli ideali per i progetti a cui si accede di frequente. &#x200B;
+* **Blocco di progetti:** Aggiungi progetti per mantenerli facilmente accessibili. &#x200B; progetti bloccati rimangono visibili finché non vengono sbloccati.
 * **Report e dashboard personalizzati:** creare report e dashboard personalizzati per organizzare e accedere in modo efficiente a tutti i progetti rilevanti. &#x200B;
 
 

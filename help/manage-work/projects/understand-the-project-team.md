@@ -8,15 +8,26 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-02-07T00:00:00Z
+last-substantial-update: '2024-02-07T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:42:45.518Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 11%
+source-wordcount: 217
+ht-degree: 12%
 
 ---
 
@@ -24,9 +35,9 @@ ht-degree: 11%
 
 Questo video illustra cosa può essere utilizzato il team di progetto e come gestirlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444597/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3444597/?captions=ita&quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 * **Compilazione automatica team:** Il team di progetto viene popolato automaticamente quando agli utenti vengono assegnate delle attività o vengono designati come proprietari del progetto. &#x200B; Tuttavia, gli utenti non vengono rimossi automaticamente quando le loro assegnazioni vengono rimosse; questa operazione deve essere eseguita manualmente. &#x200B;
 * **Aggiornamenti manuali:** è possibile aggiungere o rimuovere manualmente persone dal team del progetto, anche se non dispongono di assegnazioni, garantendo che l&#39;elenco del team rimanga accurato e aggiornato. &#x200B;

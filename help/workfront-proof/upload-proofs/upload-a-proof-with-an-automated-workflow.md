@@ -11,10 +11,21 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:50:37.203Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 582
+ht-degree: 100%
 
 ---
 
@@ -26,7 +37,7 @@ In questo video scoprirai:
 * Come applicare un flusso di lavoro utilizzando un modello di bozza
 * Come impostare un flusso di lavoro automatizzato da zero
 
->[!VIDEO](https://video.tv.adobe.com/v/3453019/?quality=12&learn=on&enablevpops=1&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/3453019/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 
@@ -37,7 +48,7 @@ Le impostazioni nella parte inferiore della finestra di caricamento della bozza 
 ![Immagine della finestra [!UICONTROL Nuova bozza]con [!UICONTROL Impostazioni fase] evidenziato.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Fase di blocco]:** in questo modo le persone in questa fase del flusso di lavoro non possono aggiungere commenti o modificare le decisioni una volta completata la fase del flusso di lavoro.
-* **[!UICONTROL Trasferisci i diritti di decisione primari a]:** accelera il processo di verifica designando un responsabile delle decisioni principale. Una volta impostato, [!DNL Workfront] riconosce la decisione di bozza da parte di questa persona come LA decisione. Una volta che quella persona prende la sua decisione, la fase è finita e non sono necessarie altre decisioni.
+* **[!UICONTROL Trasferisci i diritti di decisione primari a]:** accelera il processo di verifica delle bozze designando un responsabile delle decisioni principale. Una volta impostato, [!DNL Workfront] riconosce la decisione di bozza da parte di questa persona come LA decisione. Una volta che quella persona prende la sua decisione, la fase è finita e non sono necessarie altre decisioni.
 * **[!UICONTROL Richiedi una sola decisione per questa fase]:** un altro modo per semplificare il processo di verifica consiste nel richiedere una sola decisione sulla bozza. Con questa opzione attivata, indipendentemente dal numero di approvatori in quella fase, una volta che uno di loro prende una decisione, quella fase è completa.
 * **[!UICONTROL Rendi privata questa fase]:** per impostazione predefinita, i commenti sulla bozza sono visibili a tutti in tutte le fasi. Impedisci ai destinatari delle bozze in altre fasi di visualizzare i commenti aggiunti in questa fase facendo clic sulla casella.
 

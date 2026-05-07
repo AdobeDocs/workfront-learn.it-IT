@@ -9,13 +9,24 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
-last-substantial-update: 2024-05-29T00:00:00Z
+last-substantial-update: '2024-05-29T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:37:25.499Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 10%
+source-wordcount: 295
+ht-degree: 14%
 
 ---
 
@@ -30,9 +41,9 @@ Viene illustrato come creare una visualizzazione personalizzata Impegno di lavor
 
 * **Funzione Impegno di lavoro per la stima delle ore pianificate:** La funzione Impegno di lavoro in Workfront consente di stimare le ore pianificate per le attività in base alla loro durata, semplificando la creazione di piani di progetto quando le ore pianificate sono difficili da stimare. &#x200B;
 * **Percentuali di impegno di lavoro personalizzabili:** Workfront calcola le ore pianificate utilizzando percentuali di durata dell&#39;attività (ad esempio, Impegno di lavoro Medium = 50%, Impegno di lavoro elevato = 75%) e queste percentuali possono essere regolate in base alle esigenze. &#x200B;
-* **Requisito tipo di durata semplice:** Impegno di lavoro è disponibile solo per le attività con tipo di durata semplice. &#x200B; Le attività con altri tipi di durata devono essere modificate in semplici prima di utilizzare Impegno di lavoro. &#x200B;
+* **Requisito tipo di durata semplice:** Impegno di lavoro è disponibile solo per le attività con tipo di durata semplice. &#x200B; le attività con altri tipi di durata devono essere modificate in semplici prima di utilizzare Impegno di lavoro. &#x200B;
 * **Opzioni di modifica in linea e in blocco:** L&#39;impegno di lavoro può essere regolato per singole attività utilizzando Modifica in linea o per più attività contemporaneamente utilizzando la funzione Modifica in blocco. &#x200B;
-* **Creazione di una visualizzazione delle risorse di lavoro personalizzata:** Gli utenti possono creare una visualizzazione delle risorse di lavoro personalizzata per gestire e modificare facilmente le impostazioni delle risorse di lavoro. &#x200B; Ciò comporta l’aggiunta di colonne per Impegno di lavoro e altri campi rilevanti, come Ore pianificate o Tipo di durata. &#x200B;
+* **Creazione di una visualizzazione delle risorse di lavoro personalizzata:** Gli utenti possono creare una visualizzazione delle risorse di lavoro personalizzata per gestire e modificare facilmente le impostazioni delle risorse di lavoro. &#x200B; Questo comporta l’aggiunta di colonne per Impegno di lavoro e altri campi rilevanti, come Ore pianificate o Tipo di durata. &#x200B;
 
 
 Per ulteriori informazioni sull’[!UICONTROL Impegno di lavoro], consulta l’articolo [Panoramica sull’impegno di lavoro](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=it).

@@ -10,9 +10,20 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: cb72c429f0ef4cd9945282876aa49189dab1bd96
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:56:45.995Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: 1038
 ht-degree: 57%
 
 ---
@@ -68,11 +79,11 @@ Queste impostazioni consentono di controllare l’accesso alla bozza stessa.
 ![Immagine delle [!UICONTROL Impostazioni Proofing Viewer] dalla pagina della bozza con l’opzione [!UICONTROL Impostazioni Proofing Viewer] evidenziata nel menu del pannello a sinistra.](assets/proofing-settings-on-details-page.png)
 
 * **[!UICONTROL Accesso obbligatorio. Questa bozza non può essere condivisa con utenti guest].** La bozza può essere condivisa solo con persone che hanno una licenza per le bozze di [!DNL Workfront].
-* **[!UICONTROL Richiede che le decisioni siano firmate elettronicamente] —** Quando si condivide una bozza, è necessario che il destinatario disponga delle autorizzazioni di verifica in [!DNL Workfront] e che &quot;firmi elettronicamente&quot; la bozza immettendo la password di verifica quando prende una decisione in merito alla bozza. (Nota: la password per la bozza è diversa dalla tua password di [!DNL Workfront]. La password di verifica non è facilmente accessibile, pertanto la maggior parte dei destinatari non la conosce.) Adobe consiglia di contattare il consulente [!DNL Workfront] prima di utilizzare questa funzione.
+* **[!UICONTROL Richiede che le decisioni siano firmate elettronicamente] —** Quando si condivide una bozza, è necessario che il destinatario disponga delle autorizzazioni di verifica in [!DNL Workfront] e che &quot;firmi elettronicamente&quot; la bozza immettendo la password di verifica quando prende una decisione in merito alla bozza. (Nota: la password per la bozza è diversa dalla tua password di [!DNL Workfront]. La password di verifica non è facilmente accessibile, pertanto la maggior parte dei destinatari non la conosce.) Adobe consiglia di parlare con il tuo consulente [!DNL Workfront] prima di utilizzare questa funzione.
 * **[!UICONTROL Blocca la bozza quando vengono prese tutte le decisioni necessarie]:** questa opzione blocca la bozza per qualsiasi ulteriore commento, risposta, decisione, ecc., una volta che le decisioni sono state prese. Questa opzione blocca l’intera versione della bozza, non solo una fase specifica del flusso di lavoro.
 * **[!UICONTROL Consenti il download del file originale] —** I destinatari della bozza possono scaricare il file di origine originale della bozza dal visualizzatore di bozze.
-* **[!UICONTROL Consenti condivisione bozze tramite URL pubblico o codice di incorporamento]:** i destinatari della bozza possono condividere con chiunque un collegamento alla bozza accessibile al pubblico.
-* **[!UICONTROL Consenti la sottoscrizione alla bozza tramite URL pubblico o codice di incorporamento]:** chiunque riceve l’URL pubblico può aggiungersi alla bozza con il proprio indirizzo e-mail e nome (se non è un utente della bozza) o il proprio indirizzo e-mail e password della bozza (se è un utente della bozza). (Nota: la password della bozza non uguale a una password di [!DNL Workfront].)
+* **[!UICONTROL Consenti condivisione bozze tramite URL pubblico o codice da incorporare]:** i destinatari della bozza possono condividere con chiunque un collegamento alla bozza accessibile al pubblico.
+* **[!UICONTROL Consenti la sottoscrizione alla bozza tramite URL pubblico o codice da incorporare]:** chiunque riceve l’URL pubblico può aggiungersi alla bozza con il proprio indirizzo e-mail e nome (se non è un utente della bozza) o il proprio indirizzo e-mail e password della bozza (se è un utente della bozza). (Nota: la password della bozza non uguale a una password di [!DNL Workfront].)
 
 
 ### [!UICONTROL Attività bozza]

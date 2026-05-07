@@ -10,23 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-last-substantial-update: 2025-04-23T00:00:00Z
+last-substantial-update: '2025-04-23T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T14:49:39.708Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: 419
+ht-degree: 7%
 
 ---
 
 # Comprendere le metriche delle prestazioni
 
-Il video illustra le metriche e le impostazioni delle prestazioni finanziarie per la gestione dei progetti. &#x200B; I punti chiave includono:
+Il video illustra le metriche e le impostazioni delle prestazioni finanziarie per la gestione dei progetti. &#x200B; punti chiave includono:
 
-**Panoramica delle metriche delle prestazioni:** Le metriche quali l&#39;indice delle prestazioni dei costi, l&#39;indice delle prestazioni della pianificazione, l&#39;indice delle prestazioni della pianificazione dei costi e il completamento stimato sono disponibili nella scheda Dettagli progetto e nella sezione Finanza. &#x200B; La documentazione relativa ai calcoli è accessibile tramite i collegamenti a bolle informative.
+**Panoramica delle metriche delle prestazioni:** Le metriche quali l&#39;indice delle prestazioni dei costi, l&#39;indice delle prestazioni della pianificazione, l&#39;indice delle prestazioni della pianificazione dei costi e il completamento stimato sono disponibili nella scheda Dettagli progetto e nella sezione Finanza. &#x200B; Documentazione per i calcoli è accessibile tramite i collegamenti a bolle di informazioni.
 
-**Metodo indice prestazioni (PIM):** Il project manager può selezionare il metodo per calcolare l&#39;indice prestazioni costi (CPI) e la stima al completamento (EAC), in base alle ore (completamento in ore) o in base ai costi (completamento in denaro). &#x200B; Gli amministratori di sistema possono impostare il metodo predefinito a livello globale, ma i project manager possono modificarlo per singoli progetti. &#x200B;
+**Metodo indice prestazioni (PIM):** Il project manager può selezionare il metodo per calcolare l&#39;indice prestazioni costi (CPI) e la stima al completamento (EAC), in base alle ore (completamento in ore) o in base ai costi (completamento in denaro). &#x200B; gli amministratori di sistema possono impostare il metodo predefinito a livello globale, ma i project manager possono modificarlo per singoli progetti. &#x200B;
 
 **Calcolo stima al completamento (EAC):** Gli amministratori di sistema possono impostare il metodo di calcolo predefinito a livello globale, con due opzioni:
 * **Rollup da attività/sottoattività:** Aggiunge valori di stima al completamento dalle attività figlio, ma esclude le ore aggiunte direttamente alle attività padre o a livello di progetto. &#x200B;
@@ -36,7 +47,7 @@ Il video evidenzia la flessibilità e il controllo disponibili sia per gli ammin
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
 
-## Punti chiave da eliminare
+## Concetti chiave
 
 
 * **Accesso alle metriche delle prestazioni:** Le metriche chiave come l&#39;indice delle prestazioni dei costi (CPI), l&#39;indice delle prestazioni della pianificazione (SPI) e la stima al completamento (EAC) sono disponibili nella scheda Dettagli progetto della sezione Finanza, con la documentazione disponibile tramite i collegamenti a bolle di informazioni. &#x200B;

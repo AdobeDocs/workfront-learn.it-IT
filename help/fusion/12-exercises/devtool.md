@@ -11,9 +11,20 @@ jira: KT-11057
 thumbnail: KT11057.png
 recommendations: noDisplay,catalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:22.352Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '624'
+source-wordcount: 630
 ht-degree: 100%
 
 ---
@@ -39,7 +50,7 @@ Installa e utilizza le diverse aree del DevTool di Workfront per approfondire ri
 1. Scarica il documento “workfront-fusion-devtool.zip” che si trova nella cartella dei file di esercizio di Fusion nell’unità di prova.
 1. Estrai i file compressi in una cartella.
 1. Apri una scheda in Chrome e digita **chrome://estensioni**.
-1. Attiva la Modalità sviluppatore utilizzando l’interruttore in alto a destra, quindi fai clic sul pulsante “Carica estensione non pacchettizzata” visualizzato in alto a sinistra. Seleziona la cartella contenente DevTool (la cartella in cui è stato decompresso).
+1. Attiva la Modalità sviluppatore utilizzando il pulsante di attivazione in alto a destra, quindi fai clic sul pulsante “Carica estensione non pacchettizzata” visualizzato in alto a sinistra. Seleziona la cartella contenente DevTool (la cartella in cui è stato decompresso).
 
    ![Immagine 2 di DevTool](../12-exercises/assets/devtool-walkthrough-2.png)
 

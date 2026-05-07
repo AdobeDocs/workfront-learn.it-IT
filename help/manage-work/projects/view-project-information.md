@@ -8,28 +8,39 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-05-01T00:00:00Z
+last-substantial-update: '2024-05-01T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:42:28.854Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: 410
 ht-degree: 4%
 
 ---
 
 # Esplora filtri, visualizzazioni e raggruppamenti per la gestione dei progetti
 
-Questo video fornisce una panoramica di filtri, visualizzazioni e raggruppamenti in Workfront per aiutare gli utenti a gestire e analizzare in modo efficiente progetti, attività e problemi. &#x200B; I punti chiave includono:
+Questo video fornisce una panoramica di filtri, visualizzazioni e raggruppamenti in Workfront per aiutare gli utenti a gestire e analizzare in modo efficiente progetti, attività e problemi. &#x200B; punti chiave includono:
 
-* **Filtri di progetto:** I filtri possono essere personalizzati per limitare gli elenchi dei progetti. &#x200B; Alcuni esempi includono &quot;Progetti di mia proprietà&quot;, &quot;Progetti a cui collaboro&quot;, &quot;Attuali&quot; e &quot;In ritardo sulla programmazione&quot; &#x200B;. Filtri come &quot;A rischio&quot; e &quot;Indietro rispetto alla pianificazione&quot; sono spiegati in dettaglio, mostrando come si basano su campi diversi.
-* **Visualizzazioni progetto:** Le visualizzazioni visualizzano vari dettagli del progetto, ad esempio date pianificate, previste ed effettive di inizio/completamento. &#x200B; Alcuni esempi includono &quot;Visualizzazione standard&quot;, &quot;Visualizzazione tutte le date&quot; e &quot;Visualizzazione storia reale&quot;, che fornisce aggiornamenti e riepiloghi delle condizioni. &#x200B;
+* **Filtri di progetto:** I filtri possono essere personalizzati per limitare gli elenchi dei progetti. &#x200B; esempi includono &quot;Progetti di mia proprietà&quot;, &quot;Progetti a cui collaboro&quot;, &quot;Attuali&quot; e &quot;In ritardo sulla programmazione&quot;. &#x200B; filtri come &quot;A rischio&quot; e &quot;Indietro rispetto alla pianificazione&quot; vengono spiegati in dettaglio, mostrando come si basano su campi diversi.
+* **Visualizzazioni progetto:** Le visualizzazioni visualizzano vari dettagli del progetto, ad esempio date pianificate, previste ed effettive di inizio/completamento. &#x200B; esempi includono &quot;Visualizzazione standard&quot;, &quot;Visualizzazione tutte le date&quot; e &quot;Visualizzazione storia reale&quot;, che fornisce aggiornamenti e riepiloghi delle condizioni. &#x200B;
 * **Raggruppamenti di progetti:** è possibile raggruppare i progetti per campi, ad esempio stato di avanzamento o data di completamento per mese, in modo da migliorare l&#39;organizzazione e l&#39;analisi. &#x200B;
-* **Filtri attività:** I filtri consentono di identificare le attività non assegnate o rilevanti per ruoli specifici. &#x200B; Se si cancellano i filtri, viene visualizzata la struttura dell’attività padre e l’ordinamento può essere modificato in base al numero dell’attività. &#x200B;
+* **Filtri attività:** I filtri consentono di identificare le attività non assegnate o rilevanti per ruoli specifici. &#x200B; Cancellazione dei filtri mostra la struttura dell’attività padre e l’ordinamento può essere regolato in base al numero dell’attività. &#x200B;
 * **Visualizzazioni attività:** Visualizzazioni come &quot;Visualizzazione stato&quot; mostrano stati e flag di attività per avanzamento, commenti, documenti, problemi, approvazioni, percorsi critici e milestone.
 * **Raggruppamenti attività:** Analogamente ai raggruppamenti dei progetti, le attività possono essere raggruppate per campi come stato di avanzamento. &#x200B;
-* **Problemi:** i filtri, le visualizzazioni e i raggruppamenti per i problemi sono simili a quelli per i progetti e le attività. &#x200B; Le visualizzazioni più comuni includono &quot;Informazioni di ingresso&quot; e raggruppamenti come &quot;Contatto principale&quot; per organizzare i problemi. &#x200B;
+* **Problemi:** i filtri, le visualizzazioni e i raggruppamenti per i problemi sono simili a quelli per i progetti e le attività. &#x200B; le visualizzazioni più comuni includono &quot;Informazioni di ingresso&quot; e raggruppamenti come &quot;Contatto principale&quot; per organizzare i problemi. &#x200B;
 
 Il video enfatizza la personalizzazione e fornisce collegamenti ai tutorial per ulteriori informazioni. &#x200B;
 

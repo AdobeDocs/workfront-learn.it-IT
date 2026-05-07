@@ -9,9 +9,20 @@ role: User
 level: Beginner
 jira: KT-10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:13:12.001Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: 473
 ht-degree: 100%
 
 ---
@@ -40,7 +51,7 @@ Puoi condividere un obiettivo, creato da te o da qualcun altro, per il quale dis
    * Seleziona l’impostazione [!UICONTROL Gestisci a livello di sistema] per concedere autorizzazioni di gestione a chiunque nel sistema abbia accesso in modifica a [!DNL Goals] attraverso il proprio livello di accesso in [!DNL Workfront]. Questa opzione è deselezionata per impostazione predefinita per tutti i nuovi obiettivi.
    * Inizia a digitare il nome dell’utente a cui vuoi dare autorizzazione di [!UICONTROL Gestione] nella casella [!UICONTROL Concedi accesso in gestione a]. Seleziona il nome quando viene visualizzato nel’elenco.
 
-1. Fai clic su [!UICONTROL **Condividi**]. Nel campo [!UICONTROL Accesso in gestione] del pannello [!UICONTROL Dettagli obiettivo], compare un’etichetta “a livello di sistema” o i nomi degli utenti che dispongono delle autorizzazioni di gestione dell’obiettivo.
+1. Fai clic su [!UICONTROL **Condividi**]. Nel campo [!UICONTROL Accesso in gestione] del pannello [!UICONTROL Dettagli obiettivo], viene visualizzata un’etichetta “a livello di sistema” o i nomi degli utenti che dispongono delle autorizzazioni di gestione dell’obiettivo.
 
 ## Rapporto sulle informazioni sugli obiettivi
 

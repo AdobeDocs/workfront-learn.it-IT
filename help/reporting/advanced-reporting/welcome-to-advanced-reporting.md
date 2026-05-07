@@ -10,10 +10,21 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: cec4c78b-dd2b-46ec-b824-6ca30f0eb7b2
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+autotag-review: '2026-05-06T14:27:36.353Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 100%
+source-wordcount: 512
+ht-degree: 99%
 
 ---
 
@@ -40,7 +51,7 @@ Prima di guardare questi tutorial, acquisisci:
 * Una buona conoscenza dell’utilizzo dei moduli personalizzati, in particolare dei campi personalizzati calcolati.
 * Un tipo di licenza [!UICONTROL Pianificazione] con i diritti abilitati per la creazione di rapporti e filtri.
 * Dovresti aver seguito questi corsi:
-   * [[!UICONTROL Elementi di reporting di base]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=it)
+   * [[!UICONTROL Elementi report di base]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=it)
    * [[!UICONTROL Creare rapporti e dashboard personalizzati]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=it)
    * [[!UICONTROL Creare filtri intermedi]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=it)
 * Dovresti aver seguito anche questi tutorial:

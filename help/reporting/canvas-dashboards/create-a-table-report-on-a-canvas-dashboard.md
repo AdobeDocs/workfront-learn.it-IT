@@ -1,6 +1,6 @@
 ---
 title: Creare un rapporto di tabella su un dashboard di Canvas
-description: Scopri come creare un rapporto di tabella su un dashboard di Canvas.
+description: Scopri come creare un rapporto della tabella su una dashboard dell’area di lavoro.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -8,14 +8,25 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-18773
-last-substantial-update: 2025-09-12T00:00:00Z
+last-substantial-update: '2025-09-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 1204fc4f-c73d-49eb-981d-712524271ce9
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:14:15.199Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 9%
+source-wordcount: 160
+ht-degree: 17%
 
 ---
 
@@ -28,15 +39,15 @@ ht-degree: 9%
 Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 
 * Iscriviti alla versione beta di Canvas Dashboard e
-* Creare un dashboard Canvas
+* Creare una dashboard dell’area di lavoro
 
 [Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo dopo passo come eseguire entrambe queste operazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474873/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 **Per ulteriori informazioni, vedere i seguenti articoli della Guida:**
-[Panoramica dei dashboard di Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Creare un rapporto di tabella in un dashboard Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Panoramica dei dashboard dell&#39;area di lavoro](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Creare un report tabella in un dashboard Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutorial consigliati su questo argomento
 
