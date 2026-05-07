@@ -46,8 +46,8 @@ Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 >[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **Per ulteriori informazioni, vedere i seguenti articoli della Guida:**
-[Panoramica dei dashboard dell&#39;area di lavoro](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[Creare un report tabella in un dashboard Canvas](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[Panoramica dei dashboard dell&#39;area di lavoro](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[Creare un report tabella in un dashboard Canvas](https://experienceleague.adobe.com/it/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Tutorial consigliati su questo argomento
 
