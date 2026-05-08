@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:49:39.708Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: 419
+source-wordcount: 425
 ht-degree: 7%
 
 ---
@@ -60,8 +60,8 @@ Il video evidenzia la flessibilità e il controllo disponibili sia per gli ammin
 
 ## Tutorial consigliati su questo argomento
 
-<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
 * [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
 * [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
 * [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
 * [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)
+* [Creare mansioni e schede di valutazione](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)

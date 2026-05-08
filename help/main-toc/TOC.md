@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutorial su Workfront
 user-guide-description: Raccolta di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.
-source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: '2508'
+source-wordcount: '2680'
 ht-degree: 77%
 
 ---
@@ -78,6 +78,7 @@ ht-degree: 77%
       + [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
+      + [Creare mansioni e schede di valutazione](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
       + [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)
 
 
@@ -125,7 +126,7 @@ ht-degree: 77%
       + [Esplora la vista Gantt per la gestione dei progetti](/help/manage-work/projects/understand-the-gantt-view.md)
       + [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)
 
-   + Tasks {#tasks}
+   + Attività {#tasks}
       + [Creare le attività in modo efficiente in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
       + [Comprendere le relazioni tra attività padre e figlio](/help/manage-work/tasks/understand-parent-child-tasks.md)
       + [Gestione efficiente delle attività in Workfront](/help/manage-work/tasks/work-with-tasks.md)
@@ -340,10 +341,10 @@ ht-degree: 77%
       + [Utilizzare i plug-in Adobe Workfront per l’integrazione con Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configurare l’integrazione](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it)
+      + [Configurazione dell’integrazione](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=it)
       + [Mappatura dei metadati](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=it)
-      + [Invio di documenti e collegamento delle risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=it)
-      + [Manutenzione della cronologia delle versioni](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=it)
+      + [Invio di documenti e collegamento di risorse](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=it)
+      + [Gestione della cronologia delle versioni](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=it)
 
    + G Suite {#g-suite-integrations}
       + [Migliora il flusso di lavoro con l’integrazione di G Suite](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -356,11 +357,11 @@ ht-degree: 77%
 
    + Microsoft Teams {#ms-teams}
       + [Panoramica di Adobe Workfront per Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=it)
-      + [Installare Adobe Workfront per Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=it)
-      + [Accedere ad Adobe Workfront da Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=it)
+      + [Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=it)
+      + [Accedere a Adobe Workfront da Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=it)
       + [Cercare e condividere elementi Adobe Workfront in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=it)
       + [Creare attività Adobe Workfront da Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=it)
-      + [Inviare richieste di Adobe Workfront da Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=it)
+      + [Inviare richieste Adobe Workfront da Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=it)
       + [Gestire le notifiche di Adobe Workfront in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=it)
 
    + Slack {#slack}
