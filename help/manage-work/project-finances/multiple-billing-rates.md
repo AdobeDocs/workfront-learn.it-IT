@@ -36,7 +36,7 @@ ht-degree: 4%
 Il video spiega come gestire e personalizzare le tariffe di fatturazione per i ruoli all’interno di un progetto. &#x200B;Evidenzia la flessibilità nell’impostare più tariffe di fatturazione per lo stesso ruolo e nel garantire adeguamenti accurati basati sul tempo. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489643/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

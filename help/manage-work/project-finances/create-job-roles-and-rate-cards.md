@@ -35,7 +35,7 @@ ht-degree: 13%
 Il video spiega come creare una mansione e una scheda delle tariffe, e come allegare e rimuovere una scheda delle tariffe da un progetto.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486526/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
