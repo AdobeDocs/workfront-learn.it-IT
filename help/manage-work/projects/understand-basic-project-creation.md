@@ -1,6 +1,6 @@
 ---
 title: Creare e gestire un progetto da zero
-description: Scopri come creare, gestire e completare i progetti in modo efficiente e affrontare problemi imprevisti, con suggerimenti su come iniziare a padroneggiare le funzioni essenziali per la gestione dei progetti. ​
+description: Scopri come creare, gestire e completare i progetti in modo efficiente e affrontare problemi imprevisti. Esplora suggerimenti intuitivi per padroneggiare le funzioni essenziali di gestione dei progetti.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-11-04T00:00:00.000Z'
+last-substantial-update: '2026-06-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 19%
+source-wordcount: 169
+ht-degree: 27%
 
 ---
 
