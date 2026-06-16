@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:33.224Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: 201
 ht-degree: 23%
 
 ---
@@ -53,7 +53,7 @@ Contribuiscono inoltre a tenere traccia del tempo trascorso sulle attività, a m
 ## Tutorial e articoli consigliati su questo argomento
 
 * [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
-* [Scoprire come ordinare le attività](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
+* [Sequenza efficace delle attività in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Stimare le ore di attività con Impegno di lavoro](/help/manage-work/tasks/understand-work-effort.md)
 * [Panoramica dei timesheet](https://experienceleague.adobe.com/it/docs/workfront/using/timesheets/details/timesheets-overview)
 * [Registrare le ore](https://experienceleague.adobe.com/it/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

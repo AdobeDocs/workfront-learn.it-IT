@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:27.839Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 242
-ht-degree: 5%
+source-wordcount: 196
+ht-degree: 3%
 
 ---
 
@@ -48,5 +48,5 @@ Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &
 
 ## Tutorial consigliati su questo argomento
 
-* [Effettuare una richiesta](/help/manage-work/issues-requests/make-a-request.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
+* [Creare e gestire le richieste in Workfront](/help/manage-work/issues-requests/make-a-request.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)

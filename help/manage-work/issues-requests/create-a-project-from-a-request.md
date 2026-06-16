@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 9%
+source-wordcount: 176
+ht-degree: 3%
 
 ---
 
@@ -49,7 +49,7 @@ Il video illustra come convertire un problema o una richiesta in un progetto.
 
 ## Tutorial consigliati su questo argomento
 
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
+* [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Gestione efficace del lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

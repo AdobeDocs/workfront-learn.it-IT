@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 700
-ht-degree: 10%
+source-wordcount: 643
+ht-degree: 9%
 
 ---
 
@@ -63,7 +63,7 @@ Cosa imparerai:
 
 ## Tutorial consigliati su questo argomento
 
-* [Tracciare l’avanzamento dalla timeline del progetto](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Tracciare l’avanzamento utilizzando la percentuale di completamento e lo stato di avanzamento](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [Comprendere i tipi di data e lo stato di avanzamento](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [Comprendere e gestire i tipi di durata e i vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [Tipi di durata principale e vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

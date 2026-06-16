@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 393
-ht-degree: 15%
+source-wordcount: 370
+ht-degree: 13%
 
 ---
 
@@ -66,7 +66,7 @@ Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafi
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendere la vista [!UICONTROL Bacheca]](/help/manage-work/projects/understand-the-board-view.md)
+* [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)

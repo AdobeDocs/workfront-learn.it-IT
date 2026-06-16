@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:16.394Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 373
+source-wordcount: 267
 ht-degree: 5%
 
 ---
@@ -56,5 +56,5 @@ Il video enfatizza la personalizzazione di colonne e filtri per adattare i rappo
 
 * [Creare una vista di base](/help/reporting/basic-reporting/create-a-basic-view.md)
 * [Creare un rapporto semplice](/help/reporting/basic-reporting/create-a-simple-report.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
 

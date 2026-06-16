@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:52:20.298Z'
-source-git-commit: bcf74708778567c20ea0c74e2b9173d7fe83dbcd
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 350
-ht-degree: 10%
+source-wordcount: 217
+ht-degree: 16%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 10%
 
 Questo video offre una guida dettagliata su come tracciare i tempi, le spese e creare record di fatturazione per i progetti dei clienti. &#x200B; punti chiave includono:
 
-**Registrazione di spese e tempi:**
+**Tempo e spese di tracciamento:**
 Registra il tempo impiegato per lavorare su un progetto e le spese del progetto per fatturare i clienti. &#x200B;
 Assicurati che gli utenti abbiano costi e tariffe di fatturazione impostati nei loro profili o mansioni. &#x200B;
 
@@ -72,7 +72,7 @@ Questo video sottolinea l’importanza di una corretta configurazione e tracciam
 
 ## Tutorial consigliati su questo argomento
 
-* [Trovare informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
-* [Comprendere più tariffe di fatturazione](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Accesso e gestione delle informazioni finanziarie per progetti e attività](/help/manage-work/project-finances/find-financial-information.md)
+* [Personalizzare le tariffe di fatturazione per le mansioni](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

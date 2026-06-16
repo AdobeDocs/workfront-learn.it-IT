@@ -11,10 +11,11 @@ last-substantial-update: 2026-2-12
 recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
-source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
+exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 24%
+ht-degree: 45%
 
 ---
 
@@ -34,9 +35,9 @@ Scopri come un amministratore installa una blueprint e come un utente la imposta
 
 ## Tutorial consigliati su questo argomento
 
-* [Creare un modello di progetto e informazioni sui blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [Creare un modello di progetto ed esplorare i blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
 * [Creare un progetto direttamente da un modello](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Condividere un modello di progetto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copia un progetto esistente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Condivisione efficace di un modello di progetto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copiare un progetto esistente in modo efficiente](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Disattivare un modello di progetto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modificare il team di progetto in un modello di progetto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Modificare il team di progetto in un modello](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

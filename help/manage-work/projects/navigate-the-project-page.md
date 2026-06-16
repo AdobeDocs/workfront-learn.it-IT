@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 786
-ht-degree: 55%
+source-wordcount: 711
+ht-degree: 59%
 
 ---
 
@@ -81,7 +81,7 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 
 ## Tutorial consigliati su questo argomento
 
-* [Informazioni sulla creazione di un progetto di base](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Scopri quattro modi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Compilare i dettagli del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Creare e gestire un progetto da zero](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Esplora quattro metodi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Inserisci i dettagli essenziali del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
 

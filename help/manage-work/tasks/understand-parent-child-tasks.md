@@ -23,9 +23,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
+source-wordcount: 185
 ht-degree: 7%
 
 ---
@@ -48,7 +48,7 @@ Questo video spiega la struttura delle attività in Workfront. Le attività sono
 
 ## Tutorial consigliati su questo argomento
 
-* [Creare le attività](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Utilizzare le attività](/help/manage-work/tasks/work-with-tasks.md)
+* [Creare le attività in modo efficiente in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Gestione efficiente delle attività in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 

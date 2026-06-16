@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:13.116Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 21%
+source-wordcount: 162
+ht-degree: 15%
 
 ---
 
@@ -48,7 +48,7 @@ Questo video illustra alcuni modi semplici e veloci per trovare i progetti.
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
+* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Condivisione efficace dei progetti in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendere la comunicazione del progetto](/help/manage-work/projects/understand-project-communication.md)
+* [Migliorare il successo dei progetti attraverso una comunicazione efficace](/help/manage-work/projects/understand-project-communication.md)

@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 422
-ht-degree: 5%
+source-wordcount: 245
+ht-degree: 6%
 
 ---
 
@@ -52,6 +52,6 @@ Le approvazioni delegate sono contrassegnate nel sistema, mostrando chi le ha de
 ## Tutorial consigliati su questo argomento
 
 * [Impostare le notifiche degli eventi](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [Creare un processo di approvazione globale e monouso](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Creare e gestire i processi di approvazione](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

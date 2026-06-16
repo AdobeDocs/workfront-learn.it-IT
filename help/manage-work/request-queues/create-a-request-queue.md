@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:42.290Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 241
-ht-degree: 8%
+source-wordcount: 192
+ht-degree: 3%
 
 ---
 
@@ -42,13 +42,13 @@ Il video fornisce una guida dettagliata sulla creazione di una coda di richieste
 
 * **Creazione di una coda di richieste:** Iniziare creando un nuovo progetto e assegnandogli un nome, che in seguito fungerà da coda di richieste. &#x200B; Assicurarsi di selezionare la casella &quot;Pubblica come coda di richieste di aiuto&quot; per designarla ufficialmente come coda. &#x200B;
 * **Autorizzazioni di accesso:** Definisci chi può inviare richieste alla coda scegliendo tra quattro opzioni: chiunque, visualizzatori di progetti, membri della società o membri del gruppo. &#x200B;
-* **Tipi di richiesta:** Personalizzare la coda per includere tipi specifici di richieste, ad esempio problemi, report di bug, ordini di modifica o richieste generali. &#x200B; L’opzione predefinita è &quot;issues&quot;. &#x200B;
+* **Tipi di richiesta:** Personalizzare la coda per includere tipi specifici di richieste, ad esempio problemi, report di bug, ordini di modifica o richieste generali. &#x200B; L’opzione predefinita è &quot;issues&quot; (problemi) &#x200B;.
 * **Campi personalizzabili:** Imposta ulteriori dettagli quali il tempo di risposta predefinito, le autorizzazioni e altre caratteristiche della coda per personalizzarne le funzionalità. &#x200B;
 * **Attivazione coda:** Salvare le impostazioni e impostare lo stato del progetto su &quot;corrente&quot; per attivare la coda. &#x200B; verificarne la funzionalità inviando una richiesta e verificandola nella scheda &quot;Richieste inviate&quot;.
 
 ## Tutorial consigliati su questo argomento
 
-* [Comprendere le code di richieste](/help/manage-work/request-queues/understand-request-queues.md)
-* [Comprendere le impostazioni per un flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Esplorare le code di richieste in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Organizzare le impostazioni del flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 

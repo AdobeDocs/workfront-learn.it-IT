@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 629
-ht-degree: 55%
+source-wordcount: 519
+ht-degree: 63%
 
 ---
 
@@ -78,7 +78,7 @@ Se il blueprint non è ancora stato installato, puoi richiederlo all’amministr
 ## Tutorial consigliati su questo argomento
 
 * [Creare un progetto direttamente da un modello](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Condividere un modello di progetto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Copia un progetto esistente](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Condivisione efficace di un modello di progetto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Copiare un progetto esistente in modo efficiente](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Disattivare un modello di progetto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-* [Modificare il team di progetto in un modello di progetto](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+* [Modificare il team di progetto in un modello](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

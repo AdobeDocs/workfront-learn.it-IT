@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 257
-ht-degree: 12%
+source-wordcount: 253
+ht-degree: 2%
 
 ---
 
@@ -47,8 +47,8 @@ Il video fornisce una guida dettagliata su come effettuare e gestire le richiest
 
 ## Tutorial consigliati su questo argomento
 
-* [Comprendere le code di richieste](/help/manage-work/request-queues/understand-request-queues.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Aggiornare una richiesta](/help/manage-work/issues-requests/update-a-request.md)
+* [Esplorare le code di richieste in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
+* [Aggiornare una richiesta in Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)

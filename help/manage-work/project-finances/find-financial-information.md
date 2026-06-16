@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 215
-ht-degree: 17%
+source-wordcount: 203
+ht-degree: 16%
 
 ---
 
@@ -49,6 +49,6 @@ Il video spiega come accedere e gestire le informazioni finanziarie per progetti
 ## Tutorial consigliati su questo argomento
 
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
-* [Aggiorna dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Comprendere più tariffe di fatturazione](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [Aggiorna i dati finanziari per i progetti client](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Personalizzare le tariffe di fatturazione per le mansioni](/help/manage-work/project-finances/multiple-billing-rates.md)
 

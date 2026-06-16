@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:05:30.420Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 297
-ht-degree: 20%
+source-wordcount: 267
+ht-degree: 17%
 
 ---
 
@@ -61,8 +61,8 @@ Il video illustra come creare processi di approvazione, impostare approvatori, c
 
 ## Tutorial consigliati su questo argomento
 
-* [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-* [Creare un flusso di richieste](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Delega in modo efficace attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Creare e gestire i processi di approvazione](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+* [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Applicare un processo di approvazione del problema in una coda di richieste](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 

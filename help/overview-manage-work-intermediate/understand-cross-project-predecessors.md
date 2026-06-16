@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 250
-ht-degree: 100%
+source-wordcount: 251
+ht-degree: 98%
 
 ---
 
@@ -37,7 +37,7 @@ I predecessori di progetti incrociati sono un modo semplice per stabilire le dip
 
 >[!PREREQUISITES]
 >
->* [Scopri come ordinare le attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=it)
+>* [Sequenza efficace delle attività in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=it)
 >* Oppure sei già in grado di utilizzare i predecessori nei tuoi progetti
 
 

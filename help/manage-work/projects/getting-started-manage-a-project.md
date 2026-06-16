@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:01.284Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 177
-ht-degree: 12%
+source-wordcount: 183
+ht-degree: 8%
 
 ---
 
 # Gestire un progetto con lo stato corrente
 
-Il video fornisce una panoramica sulla gestione di un progetto dopo che il suo stato è cambiato in &quot;Attuale&quot;. &#x200B;
+Il video offre una panoramica sulla gestione di un progetto dopo che il suo stato è cambiato in &quot;Attuale&quot; &#x200B;.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445175/?captions=ita&quality=12&learn=on&enablevpops=1)
 
@@ -49,7 +49,7 @@ Il video fornisce una panoramica sulla gestione di un progetto dopo che il suo s
 ## Tutorial consigliati su questo argomento
 
 * [Lancia un progetto live](/help/manage-work/projects/take-a-project-live.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
+* [Trovare i progetti in modo efficiente](/help/manage-work/projects/find-projects.md)
+* [Condivisione efficace dei progetti in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
-* [Comprendere la comunicazione del progetto](/help/manage-work/projects/understand-project-communication.md)
+* [Migliorare il successo dei progetti attraverso una comunicazione efficace](/help/manage-work/projects/understand-project-communication.md)

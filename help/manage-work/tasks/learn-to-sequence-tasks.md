@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: 179
 ht-degree: 7%
 
 ---
@@ -52,4 +52,4 @@ Il video illustra come impostare i predecessori per le nuove attività, garanten
 
 * [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
 * [Informazioni sulle ore pianificate](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
+* [Stimare le ore di attività con Impegno di lavoro](/help/manage-work/tasks/understand-work-effort.md)

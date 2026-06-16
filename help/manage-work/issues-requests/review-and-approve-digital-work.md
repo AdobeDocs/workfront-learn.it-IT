@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 372
-ht-degree: 13%
+source-wordcount: 355
+ht-degree: 11%
 
 ---
 
@@ -59,8 +59,8 @@ Il video sottolinea la flessibilità nella revisione e approvazione del lavoro, 
 
 ## Tutorial consigliati su questo argomento
 
-* [Creare un processo di approvazione per singolo utilizzo](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Delegare attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [Creare e gestire i processi di approvazione](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Delega in modo efficace attività, problemi e approvazioni](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!--

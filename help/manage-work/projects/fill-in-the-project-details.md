@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 28%
+source-wordcount: 201
+ht-degree: 22%
 
 ---
 
@@ -48,8 +48,8 @@ Questo video illustra le impostazioni di progetto più comuni necessarie per la 
 
 ## Tutorial e articoli consigliati su questo argomento
 
-* [Informazioni sulla creazione di un progetto di base](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Creare e gestire un progetto da zero](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Usare la pagina del progetto](/help/manage-work/projects/navigate-the-project-page.md)
-* [Scopri quattro modi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Introduzione alla pianificazione di un progetto](/help/manage-work/projects/getting-started-plan-a-project.md)
+* [Esplora quattro metodi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Pianificare un progetto in modo efficace in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Modificare progetti](https://experienceleague.adobe.com/it/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)

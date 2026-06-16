@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:15:03.293Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 10%
+source-wordcount: 163
+ht-degree: 5%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 10%
 
 >[!PREREQUISITES]
 >
->* [Introduzione alle dashboard dell’area di lavoro](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [Esplora i dashboard di Canvas in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 
 * Iscriviti alla versione beta di Canvas Dashboard e
 * Creare una dashboard dell’area di lavoro
 
-[Introduzione alle dashboard di Canvas](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo dopo passo come eseguire entrambe queste operazioni.
+[Esplora i dashboard di Canvas in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) mostra passo dopo passo come eseguire entrambe queste operazioni.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475822/?captions=ita&quality=12&learn=on&enablevpops=1)
 
@@ -51,8 +51,8 @@ Le prime cose da fare prima di creare un **report** del dashboard Canvas sono:
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alle dashboard dell’area di lavoro](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [Esplora i dashboard di Canvas in Workfront](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Creare un rapporto KPI su un dashboard Area di lavoro](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Creare un rapporto di tabella su un dashboard di Canvas](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Aggiungere la formattazione condizionale a un rapporto del dashboard Area di lavoro](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-* [Utilizzare un filtro OR in un rapporto del dashboard di Canvas](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+* [Applicare un filtro OR in un rapporto del dashboard di Canvas](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

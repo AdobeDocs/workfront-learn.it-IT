@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 426
-ht-degree: 28%
+source-wordcount: 373
+ht-degree: 30%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 28%
 
 >[!PREREQUISITES]
 >
->* [Creare una coda richieste](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=it)
->* [Creare un flusso di richieste](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=it)
+>* [Crea una coda di richieste in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=it)
+>* [Crea un flusso di richieste in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=it)
 >* Oppure hai già familiarità con la creazione di una coda richieste che utilizza una regola di indirizzamento e un modulo personalizzato.
 
 Il video fornisce una guida dettagliata sulla creazione di una coda di richieste di feedback per gli amministratori di sistema.

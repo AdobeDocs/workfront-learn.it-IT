@@ -23,16 +23,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:46.743Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 231
-ht-degree: 10%
+source-wordcount: 168
+ht-degree: 8%
 
 ---
 
 # Lancia un progetto live
 
-Il video spiega i passaggi finali per portare avanti un progetto cambiandone lo stato in &quot;attuale&quot;. &#x200B; Prima di procedere, si pone l&#39;accento sulla revisione degli elementi chiave del progetto, tra cui nomi delle attività, durate, ore pianificate, predecessori, date di inizio e completamento e assegnazioni, per garantire che tutto sia accurato e impostato correttamente. &#x200B; Una volta che il progetto è attivo, il project manager riceverà le notifiche in base alle impostazioni globali e personali e il progetto verrà visualizzato nei report e nei filtri per i progetti attivi. &#x200B; Questo segna l&#39;inizio ufficiale del lavoro. &#x200B;
+Nel video vengono illustrati i passaggi finali per la pubblicazione di un progetto modificandone lo stato in &quot;corrente&quot;. &#x200B; Prima di procedere, viene esaminata la natura dei principali elementi del progetto, tra cui i nomi delle attività, le durate, le ore pianificate, i predecessori, le date di inizio e di completamento e le assegnazioni, per verificare che tutto sia accurato e impostato correttamente. &#x200B; Una volta che il progetto è attivo, il project manager riceverà le notifiche in base alle impostazioni globali e personali e il progetto verrà visualizzato nei report e nei filtri per i progetti attivi. &#x200B; Questo segna l&#39;inizio ufficiale del lavoro. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438997/?captions=ita&quality=12&learn=on&enablevpops=1)
 
@@ -48,6 +48,6 @@ Il video spiega i passaggi finali per portare avanti un progetto cambiandone lo 
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
+* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Trovare i progetti in modo efficiente](/help/manage-work/projects/find-projects.md)
+* [Condivisione efficace dei progetti in Workfront](/help/manage-work/projects/share-a-project.md)

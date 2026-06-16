@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:51:58.756Z'
-source-git-commit: 36eba67de4075935d1162cab84d8dc4c984eba48
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 4%
+source-wordcount: 207
+ht-degree: 3%
 
 ---
 
@@ -49,7 +49,7 @@ Il video spiega come gestire e personalizzare le tariffe di fatturazione per i r
 
 ## Tutorial consigliati su questo argomento
 
-* [Trovare informazioni finanziarie](/help/manage-work/project-finances/find-financial-information.md)
-* [Aggiorna dati finanziari](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Accesso e gestione delle informazioni finanziarie per progetti e attività](/help/manage-work/project-finances/find-financial-information.md)
+* [Aggiorna dati finanziari per progetti client](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 
