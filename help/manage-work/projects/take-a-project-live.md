@@ -34,7 +34,7 @@ ht-degree: 8%
 
 Nel video vengono illustrati i passaggi finali per la pubblicazione di un progetto modificandone lo stato in &quot;corrente&quot;. &#x200B; Prima di procedere, viene esaminata la natura dei principali elementi del progetto, tra cui i nomi delle attività, le durate, le ore pianificate, i predecessori, le date di inizio e di completamento e le assegnazioni, per verificare che tutto sia accurato e impostato correttamente. &#x200B; Una volta che il progetto è attivo, il project manager riceverà le notifiche in base alle impostazioni globali e personali e il progetto verrà visualizzato nei report e nei filtri per i progetti attivi. &#x200B; Questo segna l&#39;inizio ufficiale del lavoro. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438997/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

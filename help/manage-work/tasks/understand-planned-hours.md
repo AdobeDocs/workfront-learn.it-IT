@@ -38,7 +38,7 @@ Le ore pianificate sono fondamentali per la gestione delle risorse in Workfront,
 Contribuiscono inoltre a tenere traccia del tempo trascorso sulle attività, a migliorare le stime future e a chiarire le aspettative con i lavoratori.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445341/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 ## Concetti chiave

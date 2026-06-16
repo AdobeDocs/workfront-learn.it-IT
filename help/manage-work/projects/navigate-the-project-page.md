@@ -44,7 +44,7 @@ Questo video fornisce una panoramica della navigazione e della gestione della pa
 * **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449734/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
