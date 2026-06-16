@@ -49,4 +49,4 @@ In questo video scoprirai come:
 
 * [Visualizzare le milestone nei progetti](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [Applicare percorsi milestone a progetti e attività](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Attività di vista Milestone in Crea una visualizzazione di base](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [Attività di vista Milestone in Crea una visualizzazione di base](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
