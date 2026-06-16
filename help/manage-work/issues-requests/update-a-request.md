@@ -13,21 +13,16 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:27.839Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 242
-ht-degree: 5%
+source-wordcount: 196
+ht-degree: 3%
 
 ---
 
@@ -35,7 +30,7 @@ ht-degree: 5%
 
 Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &#x200B; Dopo aver inviato una richiesta, è possibile aggiungere informazioni o porre domande per garantire che gli utenti che vi lavorano dispongano dei dettagli più recenti. &#x200B; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3422299/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -48,5 +43,5 @@ Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &
 
 ## Tutorial consigliati su questo argomento
 
-* [Effettuare una richiesta](/help/manage-work/issues-requests/make-a-request.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
+* [Creare e gestire le richieste in Workfront](/help/manage-work/issues-requests/make-a-request.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)

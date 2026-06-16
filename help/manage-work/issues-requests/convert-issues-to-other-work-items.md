@@ -11,21 +11,16 @@ last-substantial-update: '2024-02-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 17%
+source-wordcount: 230
+ht-degree: 12%
 
 ---
 
@@ -33,7 +28,7 @@ ht-degree: 17%
 
 Il video illustra come convertire un problema o una richiesta in un’attività.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445438/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -53,7 +48,7 @@ Il video illustra come convertire un problema o una richiesta in un’attività.
 
 ## Tutorial consigliati su questo argomento
 
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Gestione efficace del lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

@@ -12,21 +12,16 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:32.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 265
-ht-degree: 11%
+source-wordcount: 230
+ht-degree: 8%
 
 ---
 
@@ -36,7 +31,7 @@ Il video fornisce indicazioni su come pianificare efficacemente un progetto in W
 
 Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità del team e pianificazione accurata per creare solide basi per il successo del progetto. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448575/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -50,10 +45,10 @@ Il video evidenzia l&#39;importanza di tempistiche realistiche, disponibilità d
 
 ## Tutorial consigliati su questo argomento
 
-* [Creare le attività](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Utilizzare le attività](/help/manage-work/tasks/work-with-tasks.md)
+* [Creare le attività in modo efficiente in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
+* [Gestione efficiente delle attività in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
 * [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
-* [Scoprire come ordinare le attività](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Sequenza efficace delle attività in Workfront](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Informazioni sulle ore pianificate](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
+* [Stimare le ore di attività con Impegno di lavoro](/help/manage-work/tasks/understand-work-effort.md)

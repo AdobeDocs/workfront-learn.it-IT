@@ -13,21 +13,15 @@ last-substantial-update: '2024-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:59.860Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 400
+source-wordcount: 273
 ht-degree: 7%
 
 ---
@@ -36,14 +30,14 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->* [Creare una coda richieste](/help/manage-work/request-queues/create-a-request-queue.md)
->* [Comprendere le impostazioni per un flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [Crea una coda di richieste in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [Organizza le impostazioni del flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 Questo video fornisce una guida dettagliata sulla creazione di un flusso di richieste mediante la configurazione di argomenti della coda, gruppi di argomenti e regole di instradamento. &#x200B; Il processo inizia con la creazione di regole di instradamento, che definiscono il modo in cui vengono assegnate le richieste&#x200B; In seguito, i gruppi di argomenti vengono creati per organizzare le richieste.&#x200B; Questi gruppi possono essere aggiunti alle code e non esiste alcun limite al numero di gruppi di argomenti che è possibile creare.
 Il video illustra quindi come creare argomenti della coda, collegati a regole di instradamento, gruppi di argomenti, moduli personalizzati, processi di approvazione e durate predefinite.
 Infine, il video mostra come verificare la configurazione inviando una richiesta per assicurarsi che venga instradata correttamente. &#x200B; In caso di problemi, è possibile apportare modifiche alla coda. &#x200B; Il video sottolinea l’importanza di verificare la struttura e la funzionalità del flusso di richieste per garantire il corretto indirizzamento e organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433830/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 

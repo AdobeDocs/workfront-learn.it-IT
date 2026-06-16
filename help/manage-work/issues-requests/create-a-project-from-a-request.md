@@ -12,23 +12,17 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 9%
+source-wordcount: 176
+ht-degree: 3%
 
 ---
 
@@ -36,7 +30,7 @@ ht-degree: 9%
 
 Il video illustra come convertire un problema o una richiesta in un progetto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446630/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -49,7 +43,7 @@ Il video illustra come convertire un problema o una richiesta in un progetto.
 
 ## Tutorial consigliati su questo argomento
 
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
+* [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Gestione efficace del lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

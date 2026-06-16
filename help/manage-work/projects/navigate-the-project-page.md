@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 786
-ht-degree: 55%
+source-wordcount: 711
+ht-degree: 59%
 
 ---
 
@@ -44,7 +39,7 @@ Questo video fornisce una panoramica della navigazione e della gestione della pa
 * **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449734/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -70,7 +65,7 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 5. **[!UICONTROL Percentuale di completamento:]** si aggiorna automaticamente, in base alle attività completate nel progetto.
 6. **[!UICONTROL Proprietario del progetto]:** nella maggior parte delle organizzazioni, è il project manager. Si tratta della persona responsabile della gestione del progetto in [!DNL Workfront] e della conferma del completamento.
 7. **[!UICONTROL Data di completamento pianificata]:** la data di completamento pianificata del progetto viene impostata dal project manager attraverso la timeline del progetto.
-8. **[!UICONTROL Condizione]:** la[!UICONTROL &#x200B; condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
+8. **[!UICONTROL Condizione]:** la[!UICONTROL  condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
 9. **[!UICONTROL Stato]:** lo [!UICONTROL stato] indica dove si trova il progetto all’interno di un processo, ovvero se è ancora in fase di pianificazione o è in corso, oppure se tutto il lavoro inerente il progetto è stato completato.
 10. **[!UICONTROL Nuova attività]:** fai clic su questa opzione per creare una nuova attività nel progetto. L’attività viene generata alla fine dell’elenco.
 11. **[!UICONTROL Esporta]:** esporta l’elenco attività o le attività selezionate in un file PDF, foglio di calcolo o file delimitato da tabulazioni.
@@ -81,7 +76,7 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 
 ## Tutorial consigliati su questo argomento
 
-* [Informazioni sulla creazione di un progetto di base](/help/manage-work/projects/understand-basic-project-creation.md)
-* [Scopri quattro modi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [Compilare i dettagli del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
+* [Creare e gestire un progetto da zero](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Esplora quattro metodi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Inserisci i dettagli essenziali del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
 

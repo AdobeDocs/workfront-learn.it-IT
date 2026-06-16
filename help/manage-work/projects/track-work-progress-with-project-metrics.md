@@ -13,21 +13,16 @@ last-substantial-update: '2024-05-03T00:00:00.000Z'
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:54.048Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 323
-ht-degree: 13%
+source-wordcount: 177
+ht-degree: 16%
 
 ---
 
@@ -36,7 +31,7 @@ ht-degree: 13%
 Il video spiega come tenere traccia dell’avanzamento del progetto utilizzando le metriche del progetto. &#x200B; Viene illustrato come accedere alla scheda Metriche nel pannello a sinistra di un progetto, che può richiedere lo scorrimento e il clic su &quot;Mostra altro&quot;. L&#39;area KPI nella parte superiore visualizza gli indicatori di prestazioni chiave, ad esempio le attività completate, incomplete e scadute. &#x200B; Gli utenti possono fare clic su indicatori per visualizzare attività specifiche e utilizzare grafici per raggruppare attività o problemi in base allo stato o alla priorità. &#x200B; Passando il puntatore del mouse sulle colonne vengono visualizzate le quantità e il grafico mostra il rapporto tra attività o problemi completati e incompleti. &#x200B; metriche possono anche visualizzare le attività per assegnatario in base al loro stato (completo, incompleto, in arrivo o in ritardo). &#x200B; Preferenze per la visualizzazione delle metriche vengono salvate per le visite future. &#x200B; Infine, il video mostra come esportare la pagina delle metriche come file PNG utilizzando il pulsante Export (Esporta). &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439178/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -50,8 +45,8 @@ Il video spiega come tenere traccia dell’avanzamento del progetto utilizzando 
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendere la vista [!UICONTROL Gantt]](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Comprendere la vista [!UICONTROL Bacheca]](/help/manage-work/projects/understand-the-board-view.md)
+* [Esplora la vista Gantt per la gestione dei progetti](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)

@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 12%
+source-wordcount: 208
+ht-degree: 7%
 
 ---
 
@@ -35,7 +30,7 @@ ht-degree: 12%
 
 Questo video illustra cosa può essere utilizzato il team di progetto e come gestirlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444597/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -47,7 +42,7 @@ Questo video illustra cosa può essere utilizzato il team di progetto e come ges
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
-* [Comprendere la comunicazione del progetto](/help/manage-work/projects/understand-project-communication.md)
+* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Trovare i progetti in modo efficiente](/help/manage-work/projects/find-projects.md)
+* [Condivisione efficace dei progetti in Workfront](/help/manage-work/projects/share-a-project.md)
+* [Migliorare il successo dei progetti attraverso una comunicazione efficace](/help/manage-work/projects/understand-project-communication.md)

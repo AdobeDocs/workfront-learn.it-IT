@@ -12,21 +12,16 @@ last-substantial-update: '2024-11-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:49.217Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 432
-ht-degree: 13%
+source-wordcount: 378
+ht-degree: 12%
 
 ---
 
@@ -44,13 +39,13 @@ Il video sottolinea l&#39;importanza di una comunicazione efficace per il succes
 
 Il video evidenzia come Workfront semplifica la comunicazione, la gestione delle attività e il reporting, garantendo che tutte le informazioni relative al progetto siano accessibili e organizzate. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3436152/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
+>Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts).
 >
->Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=it#activity-1-create-a-dashboard).
+>Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard).
 
 ## Concetti chiave
 
@@ -63,8 +58,8 @@ Il video evidenzia come Workfront semplifica la comunicazione, la gestione delle
 
 ## Tutorial consigliati su questo argomento
 
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
+* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Trovare i progetti in modo efficiente](/help/manage-work/projects/find-projects.md)
+* [Condivisione efficace dei progetti in Workfront](/help/manage-work/projects/share-a-project.md)
 * [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
 
