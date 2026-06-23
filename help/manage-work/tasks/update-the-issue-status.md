@@ -20,7 +20,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 199
 ht-degree: 3%
@@ -46,3 +46,4 @@ Questo video illustra gli stati dei problemi e le best practice per utilizzarli.
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
 * [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
+

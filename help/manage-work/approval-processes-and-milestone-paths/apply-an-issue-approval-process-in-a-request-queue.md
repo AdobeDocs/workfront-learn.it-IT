@@ -25,7 +25,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 291
 ht-degree: 24%
@@ -60,3 +60,4 @@ Nel video viene evidenziato che il processo di approvazione viene attivato quand
 * [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Creare e gestire i processi di approvazione](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+
