@@ -13,18 +13,13 @@ last-substantial-update: '2024-11-22T00:00:00.000Z'
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:02:44.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 78
 ht-degree: 66%
@@ -38,7 +33,7 @@ In questo video scoprirai:
 * Come trovare e gestire le approvazioni di attività non risolte
 * Come trovare e gestire le approvazioni dei problemi non risolte
 
->[!VIDEO](https://video.tv.adobe.com/v/3439432/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 
@@ -46,4 +41,5 @@ In questo video scoprirai:
 * [Caricare e gestire le risorse del progetto](/help/manage-work/close-a-project/upload-assets.md)
 * [Registrare gli insegnamenti appresi per i progetti futuri](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
 * [Registra e rivedi le ore del progetto](/help/manage-work/close-a-project/log-and-review-hours.md)
+
 

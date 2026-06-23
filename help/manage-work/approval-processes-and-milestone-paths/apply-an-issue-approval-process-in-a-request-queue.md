@@ -13,19 +13,13 @@ last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aadid: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:58:59.618Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 291
 ht-degree: 24%
@@ -43,7 +37,7 @@ ht-degree: 24%
 Il video illustra il processo di applicazione di un processo di approvazione predefinito durante la creazione di una coda di richieste. &#x200B; Quando viene creata una richiesta, questa inizia con lo stato &quot;Nuovo - In attesa di approvazione&quot; e viene inviata una notifica di approvazione all&#39;approvatore designato. &#x200B; Se approvato, lo stato cambia in &quot;Nuovo&quot;, consentendo alle persone assegnate di iniziare il lavoro. &#x200B; Se viene rifiutato, lo stato potrebbe tornare erroneamente a &quot;Nuovo&quot; a causa di un errore comune nella configurazione del processo di approvazione. &#x200B;
 Nel video viene evidenziato che il processo di approvazione viene attivato quando lo stato è impostato su &quot;Nuovo&quot;, che è l’impostazione predefinita per le nuove richieste. &#x200B; Se viene rifiutato, per impostazione predefinita il sistema ripristina lo stato precedente, che non è ideale per le nuove richieste. &#x200B;, invece, deve essere scelto uno stato diverso, ad esempio &quot;Non risolverai&quot;. &#x200B; Nel video viene inoltre indicato che per impostazione predefinita non è stato fornito lo stato &quot;Rifiutato&quot;, ma che un amministratore di sistema può crearne uno in base alle esigenze. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455032/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -60,3 +54,4 @@ Nel video viene evidenziato che il processo di approvazione viene attivato quand
 * [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Creare e gestire i processi di approvazione](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+

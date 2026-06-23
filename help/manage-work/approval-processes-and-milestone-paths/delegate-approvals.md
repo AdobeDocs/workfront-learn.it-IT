@@ -13,18 +13,13 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 245
 ht-degree: 6%
@@ -38,7 +33,7 @@ Per le approvazioni, gli utenti possono delegarle tramite il widget &quot;In att
 Le approvazioni delegate sono contrassegnate nel sistema, mostrando chi le ha delegate e a chi. &#x200B; Gli aggiornamenti relativi alle approvazioni vengono visualizzati nella scheda Aggiornamento e l’attività di sistema può essere visualizzata nella scheda Attività di sistema. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446384/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
@@ -54,4 +49,5 @@ Le approvazioni delegate sono contrassegnate nel sistema, mostrando chi le ha de
 * [Impostare le notifiche degli eventi](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
 * [Creare e gestire i processi di approvazione](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [Comprendere i processi di approvazione specifici del gruppo](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+
 
