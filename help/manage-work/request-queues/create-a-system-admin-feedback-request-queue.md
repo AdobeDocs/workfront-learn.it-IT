@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -39,13 +34,10 @@ ht-degree: 30%
 >* [Crea un flusso di richieste in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=it)
 >* Oppure hai già familiarità con la creazione di una coda richieste che utilizza una regola di indirizzamento e un modulo personalizzato.
 
-Il video fornisce una guida dettagliata sulla creazione di una coda di richieste di feedback per gli amministratori di sistema.
-&#x200B;Lo scopo della coda è raccogliere il feedback degli utenti sui processi e sui flussi di lavoro creati dagli amministratori di sistema, consentendo miglioramenti e ottimizzazioni.
-Il video sottolinea l&#39;importanza della partecipazione degli utenti e della trasparenza nel miglioramento dei processi, incoraggiando gli amministratori a condividere i report di feedback con gli utenti.
-&#x200B;Per ulteriori informazioni, consulta i collegamenti alle esercitazioni per la creazione di rapporti e moduli personalizzati.
+Il video fornisce una guida dettagliata sulla creazione di una coda di richieste di feedback per gli amministratori di sistema.&#x200B;Lo scopo della coda è raccogliere il feedback degli utenti sui processi e sui flussi di lavoro creati dagli amministratori di sistema, consentendo miglioramenti e ottimizzazioni.Il video sottolinea l&#39;importanza della partecipazione degli utenti e della trasparenza nel miglioramento dei processi, incoraggiando gli amministratori a condividere i report di feedback con gli utenti.&#x200B;Per ulteriori informazioni, consulta i collegamenti alle esercitazioni per la creazione di rapporti e moduli personalizzati.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450505/?captions=ita&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 
@@ -56,10 +48,11 @@ Il video sottolinea l&#39;importanza della partecipazione degli utenti e della t
 * **Test e accessibilità:** La coda viene testata con richieste di esempio, garantendo la funzionalità. Viene pubblicato come coda di richieste di aiuto, accessibile a tutti gli utenti, con una durata predefinita di completamento di 10 giorni.
 
 
-Per informazioni su come creare il **report di feedback del team amministratore** utilizzato nel video, consulta l&#39;esercitazione **Creare un report di feedback del team amministratore** nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
+Per informazioni su come creare il **report di feedback del team amministratore** utilizzato nel video, consulta l&#39;esercitazione **Creare un report di feedback del team amministratore** nell&#39;esercitazione [Creare un report attività](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report).
 
 Per informazioni su come creare un modulo personalizzato, consulta il tutorial [Creare e condividere un modulo personalizzato](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=it).
 
 ## Tutorial consigliati su questo argomento
 
 * [Risposte alle domande più comuni sulle code di richieste](/help/manage-work/request-queues/request-queue-faq.md)
+

@@ -1,6 +1,6 @@
 ---
 title: Risposte alle domande più comuni sulle code di richieste
-description: Ottieni risposte alle domande più comuni sulle code di richieste in [!DNL &#x200B; Workfront].
+description: Ottieni risposte alle domande più comuni sulle code di richieste in [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -9,19 +9,13 @@ last-substantial-update: '2024-09-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:40:23.244Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: 714
 ht-degree: 96%
@@ -36,7 +30,7 @@ Nella scheda [!UICONTROL Dettagli coda] della tua coda di richieste o nel tuo pr
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434164/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
 
 **Ho concesso agli utenti l’accesso alla coda, ma ora possono vedere anche il progetto della coda delle richieste. Perché?**
 
@@ -74,7 +68,7 @@ Per aggiungere tali informazioni ai rapporti di progetto e attività, puoi acced
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434184/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
 
 
 **Qual è il modo migliore per filtrare le code di richieste in un rapporto?**
@@ -85,7 +79,7 @@ Se il filtro del progetto include **Coda>>È pubblico>>Non uguale a>>Nessuno** i
 
 Per ulteriori informazioni, guarda questo video:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434338/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
 
 **È una buona idea creare uno stato personalizzato della coda richieste?**
 
@@ -100,3 +94,4 @@ Se, tuttavia, stai già utilizzando lo stato Coda richieste nell’organizzazion
 * [Organizzare le impostazioni del flusso di richieste](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Creare una coda richieste di feedback dell’amministratore di sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+
