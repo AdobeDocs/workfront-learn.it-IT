@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:52.285Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 87
 ht-degree: 75%
@@ -47,3 +47,4 @@ In questo video scoprirai:
 * [Caricare e gestire le risorse del progetto](/help/manage-work/close-a-project/upload-assets.md)
 * [Registrare gli insegnamenti appresi per i progetti futuri](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
 * [Registra e rivedi le ore del progetto](/help/manage-work/close-a-project/log-and-review-hours.md)
+

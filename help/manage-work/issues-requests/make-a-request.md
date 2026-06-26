@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 253
+source-wordcount: 264
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Il video fornisce una guida dettagliata su come effettuare e gestire le richiest
 
 * **Creazione semplificata delle richieste:** Gli utenti possono creare facilmente le richieste selezionando &quot;Richieste&quot; dal menu principale, scegliendo un tipo di richiesta, compilando i campi obbligatori e allegando i documenti rilevanti. &#x200B;
 * **Flussi di lavoro personalizzabili:** Le code di richieste e i moduli sono personalizzati in base ai flussi di lavoro organizzativi, consentendo agli utenti di specificare dettagli (ad esempio in negozio, all&#39;aperto, social media) e priorità.
-* **Funzione di salvataggio automatico bozze:** le bozze vengono salvate automaticamente quando gli utenti compilano il campo dell&#39;oggetto, assicurandosi che non venga perso alcun dato in caso di pausa o spostamento. &#x200B; bozze possono essere utilizzate in un secondo momento per il completamento o eliminate, se non necessario. &#x200B;
+* **Funzione di salvataggio automatico bozze:** le bozze vengono salvate automaticamente quando gli utenti compilano il campo dell&#39;oggetto, assicurandosi che non venga perso alcun dato in caso di pausa o spostamento. &#x200B; bozze possono essere utilizzate in un secondo momento per il completamento o eliminate, se non necessario. 
 * **Tracciamento e filtraggio delle richieste:** le richieste inviate possono essere tracciate nella pagina &quot;Inviate&quot;, con filtri disponibili per visualizzare le richieste aperte, non risolte o tutte le richieste basate sulle autorizzazioni utente. &#x200B;
 * **Richieste di copia e riutilizzo:** gli utenti possono copiare le richieste esistenti per crearne di nuove, semplificando l&#39;invio di richieste simili senza iniziare da zero.
 
@@ -52,3 +52,4 @@ Il video fornisce una guida dettagliata su come effettuare e gestire le richiest
 * [Aggiornare una richiesta in Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+

@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 12%
+source-wordcount: 243
+ht-degree: 11%
 
 ---
 
@@ -37,7 +37,7 @@ Il video illustra come convertire un problema o una richiesta in un’attività.
 
 ## Concetti chiave
 
-* **Processo di conversione semplice:** Per convertire un problema o una richiesta in un&#39;attività, aprire il problema, fare clic sul menu a tre punti e selezionare &quot;Converti in attività&quot;. &#x200B; Il nome e la descrizione dell&#39;attività vengono copiati per impostazione predefinita ma possono essere modificati. &#x200B;
+* **Processo di conversione semplice:** Per convertire un problema o una richiesta in un&#39;attività, aprire il problema, fare clic sul menu a tre punti e selezionare &quot;Converti in attività&quot;. &#x200B; Il nome e la descrizione dell&#39;attività vengono copiati per impostazione predefinita ma possono essere modificati. 
 * **Selezione progetto di destinazione:** È possibile scegliere il progetto di destinazione dell&#39;attività, il progetto predefinito in cui risiede il problema o un altro progetto a cui si ha accesso. &#x200B;
 * **Allegato automatico modulo:** i moduli personalizzati collegati al problema vengono aggiunti automaticamente all&#39;attività, garantendo che tutti i valori dei campi vengano trasferiti senza problemi. &#x200B;
 * **Opzioni di conversione:** Le opzioni chiave includono:
@@ -56,4 +56,5 @@ Il video illustra come convertire un problema o una richiesta in un’attività.
 * [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Gestione efficace del lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
 

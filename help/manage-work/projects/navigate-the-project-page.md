@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 711
-ht-degree: 59%
+source-wordcount: 789
+ht-degree: 53%
 
 ---
 
@@ -35,21 +35,21 @@ ht-degree: 59%
 
 Questo video fornisce una panoramica della navigazione e della gestione della pagina del progetto in Workfront. &#x200B; funzioni principali includono:
 
-* **Intestazione progetto:** Visualizza informazioni essenziali quali la percentuale di completamento, il project manager, la data di completamento pianificata, la condizione del progetto e lo stato. &#x200B; Lo stato consente di tenere traccia della fase del progetto e di attivare le notifiche. &#x200B;
+* **Intestazione progetto:** Visualizza informazioni essenziali quali la percentuale di completamento, il project manager, la data di completamento pianificata, la condizione del progetto e lo stato. &#x200B; Lo stato consente di tenere traccia della fase del progetto e di attivare le notifiche. 
 * **Navigazione breadcrumb:** mostra la posizione del progetto all&#39;interno del programma e del portfolio dell&#39;organizzazione, con collegamenti selezionabili per facilitarne la navigazione. &#x200B;
 * **Preferiti e menu:** I Preferiti iniziano a contrassegnare il progetto per l&#39;accesso rapido, mentre il menu offre opzioni quali la modifica dei dettagli, la copia del progetto e il ricalcolo delle timeline. &#x200B;
-* **Elenco attività:** rappresenta i passaggi nel piano del progetto. &#x200B; Utilizzare i filtri rapidi per individuare le attività, apportare modifiche in linea per apportare modifiche rapide e utilizzare il pannello di riepilogo delle attività per ottenere informazioni dettagliate. &#x200B; Facendo clic sul nome di un’attività si apre la relativa pagina dedicata. &#x200B;
-* **Pannello sinistro:** consente di accedere a varie sezioni del progetto, ad esempio dettagli, aggiornamenti e documenti. &#x200B; Il pannello può essere personalizzato dall’amministratore di sistema. &#x200B;
+* **Elenco attività:** rappresenta i passaggi nel piano del progetto. &#x200B; Utilizzare i filtri rapidi per individuare le attività, apportare modifiche in linea per apportare modifiche rapide e utilizzare il pannello di riepilogo delle attività per ottenere informazioni dettagliate. &#x200B; Facendo clic sul nome di un’attività si apre la relativa pagina dedicata. 
+* **Pannello sinistro:** consente di accedere a varie sezioni del progetto, ad esempio dettagli, aggiornamenti e documenti. &#x200B; Il pannello può essere personalizzato dall’amministratore di sistema. 
 * **Sezione aggiornamenti:** centralizza le comunicazioni sul progetto, consentendo l&#39;assegnazione di tag agli utenti, la risposta ai commenti e la visualizzazione degli aggiornamenti aggregati da attività, problemi e documenti. &#x200B;
-* **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. &#x200B;
+* **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449734/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
-* **Panoramica intestazione progetto:** Accedi rapidamente ai dettagli chiave del progetto come percentuale di completamento, project manager, data di scadenza, stato e condizione. &#x200B; Lo stato controlla anche le notifiche e le fasi del flusso di lavoro. &#x200B;
-* **Gestione attività:** Utilizza l&#39;elenco delle attività per tenere traccia dei passaggi del progetto, applicare filtri rapidi per trovare le attività e apportare modifiche in linea. &#x200B; Accedere a informazioni dettagliate sulle attività tramite il pannello di riepilogo o la pagina delle attività. &#x200B;
+* **Panoramica intestazione progetto:** Accedi rapidamente ai dettagli chiave del progetto come percentuale di completamento, project manager, data di scadenza, stato e condizione. &#x200B; Lo stato controlla anche le notifiche e le fasi del flusso di lavoro. 
+* **Gestione attività:** Utilizza l&#39;elenco delle attività per tenere traccia dei passaggi del progetto, applicare filtri rapidi per trovare le attività e apportare modifiche in linea. &#x200B; Accedere a informazioni dettagliate sulle attività tramite il pannello di riepilogo o la pagina delle attività. 
 * **Navigazione breadcrumb:** Naviga nella gerarchia del progetto all&#39;interno dell&#39;organizzazione utilizzando i collegamenti selezionabili nella traccia delle breadcrumb. &#x200B;
 * **Aggiornamenti centralizzati:** tutti gli aggiornamenti da attività, problemi e documenti vengono aggregati nella sezione Aggiornamenti del progetto, semplificando la comunicazione e il tracciamento. &#x200B;
 * **Organizzazione documento:** Carica e gestisci i file e le bozze relativi al progetto nella sezione documenti, assicurandoti che i documenti pertinenti siano allegati alle attività per una collaborazione semplificata. &#x200B;
@@ -84,4 +84,5 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 * [Creare e gestire un progetto da zero](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Esplora quattro metodi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Inserisci i dettagli essenziali del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
+
 

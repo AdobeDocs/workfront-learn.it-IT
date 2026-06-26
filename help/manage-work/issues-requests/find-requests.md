@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 4%
+source-wordcount: 232
+ht-degree: 3%
 
 ---
 
@@ -49,7 +49,7 @@ Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; E
 * **Utilizzo di filtri nell&#39;area richieste:** I filtri come &quot;Le mie richieste&quot; e &quot;Le mie richieste aperte&quot; consentono agli utenti di visualizzare le richieste create. &#x200B;
 * **Gestione delle richieste nella pagina Team:** gli utenti possono visualizzare le richieste team non assegnate e assegnarle a se stessi o ad altri utenti, utilizzando il bilanciatore dei carichi di lavoro per gestire le assegnazioni dei membri del team in base al carico di lavoro corrente. &#x200B;
 * **Report e dashboard personalizzati:** gli utenti possono creare report personalizzati per tenere traccia delle richieste, consentendo nomi, filtri, visualizzazioni e raggruppamenti personalizzati, utili per gestire e assegnare priorità alle richieste in modo efficace. &#x200B;
-* **Informazioni su &quot;My&quot; nei filtri:** Il termine &quot;my&quot; nella Home fa riferimento ai problemi assegnati a me. Il termine &quot;my&quot; nell’area della richiesta si riferisce ai problemi richiesti da me. &#x200B;
+* **Informazioni su &quot;My&quot; nei filtri:** Il termine &quot;my&quot; nella Home fa riferimento ai problemi assegnati a me. Il termine &quot;my&quot; nell’area della richiesta si riferisce ai problemi richiesti da me. 
 
 
 ## Tutorial consigliati su questo argomento
@@ -59,4 +59,5 @@ Questo video spiega come trovare e gestire le richieste in Workfront. &#x200B; E
 * [Aggiornare una richiesta in Workfront](/help/manage-work/issues-requests/update-a-request.md)
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+
 

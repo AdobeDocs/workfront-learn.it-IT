@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 355
-ht-degree: 11%
+source-wordcount: 372
+ht-degree: 10%
 
 ---
 
@@ -48,7 +48,7 @@ Il video sottolinea la flessibilità nella revisione e approvazione del lavoro, 
 
 * **Gestione centralizzata delle approvazioni:** È possibile accedere a tutti gli elementi in attesa di approvazione nel widget &quot;In attesa di approvazione&quot; nell&#39;area Home. &#x200B;
 * **Opzioni di revisione flessibili:** Puoi approvare o rifiutare direttamente dall&#39;area Home oppure fare clic sul nome dell&#39;elemento per rivedere i dettagli prima di prendere una decisione. &#x200B;
-* **Opzioni di commento:** L&#39;aggiunta di commenti è facoltativa ma consigliata per maggiore chiarezza. &#x200B; le approvazioni effettuate nell’area Home richiedono commenti, mentre quelle effettuate all’interno dell’elemento no. &#x200B;
+* **Opzioni di commento:** L&#39;aggiunta di commenti è facoltativa ma consigliata per maggiore chiarezza. &#x200B; le approvazioni effettuate nell’area Home richiedono commenti, mentre quelle effettuate all’interno dell’elemento no. 
 * **Specifiche per l&#39;approvazione della bozza:** le approvazioni della bozza offrono più opzioni, tra cui &quot;Approvato con modifiche&quot;, &quot;Modifiche richieste&quot; e &quot;Non pertinente&quot;, consentendo un feedback dettagliato. &#x200B;
 * **Gestione delle modifiche:** Per i documenti o le bozze che richiedono modifiche, è possibile specificare le modifiche nei commenti, assicurando una comunicazione chiara per il reinvio o gli aggiornamenti. &#x200B;
 
@@ -71,3 +71,4 @@ Guides
 Home overview for Reviewers
 Issue page overview
 -->
+

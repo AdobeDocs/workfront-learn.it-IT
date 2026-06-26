@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:47:36.241Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 201
-ht-degree: 22%
+source-wordcount: 221
+ht-degree: 20%
 
 ---
 
@@ -39,8 +39,8 @@ Questo video illustra le impostazioni di progetto più comuni necessarie per la 
 
 ## Concetti chiave
 
-* **Utilizza nomi di progetto descrittivi:** Per evitare confusione, assegna nomi descrittivi ai progetti anziché utilizzare titoli generici. &#x200B; l’organizzazione dei progetti in portfolio e programmi migliora la generazione dei rapporti e la coerenza. &#x200B;
-* **Imposta lo stato appropriato del progetto:** Inizia con lo stato &quot;Pianificazione&quot; durante la creazione di un progetto, quindi passa a &quot;Corrente&quot; quando il progetto diventa attivo. &#x200B; stati non &quot;correnti&quot; mettono in pausa le notifiche, consentendo una ripianificazione senza interruzioni. &#x200B;
+* **Utilizza nomi di progetto descrittivi:** Per evitare confusione, assegna nomi descrittivi ai progetti anziché utilizzare titoli generici. &#x200B; l’organizzazione dei progetti in portfolio e programmi migliora la generazione dei rapporti e la coerenza. 
+* **Imposta lo stato appropriato del progetto:** Inizia con lo stato &quot;Pianificazione&quot; durante la creazione di un progetto, quindi passa a &quot;Corrente&quot; quando il progetto diventa attivo. &#x200B; stati non &quot;correnti&quot; mettono in pausa le notifiche, consentendo una ripianificazione senza interruzioni. 
 * **Utilizzo di modelli e Forms personalizzati:** Utilizzare i modelli di progetto per coerenza e moduli personalizzati per memorizzare dati di progetto univoci. &#x200B; Questi strumenti semplificano la configurazione e garantiscono l&#39;acquisizione delle informazioni essenziali.
 * **Utilizzare i gruppi di risorse e le pianificazioni:** Assegnare i gruppi di risorse ai progetti per una gestione efficace delle risorse e applicare la pianificazione corretta per riflettere giorni lavorativi, ore e festività. &#x200B; In questo modo l’esecuzione del progetto e l’allocazione delle risorse sono fluide.
 
@@ -53,3 +53,4 @@ Questo video illustra le impostazioni di progetto più comuni necessarie per la 
 * [Esplora quattro metodi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Pianificare un progetto in modo efficace in Workfront](/help/manage-work/projects/getting-started-plan-a-project.md)
 * [Modificare progetti](https://experienceleague.adobe.com/it/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+

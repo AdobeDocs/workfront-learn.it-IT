@@ -23,16 +23,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 223
-ht-degree: 3%
+source-wordcount: 266
+ht-degree: 2%
 
 ---
 
 # Gestione efficace del lavoro non pianificato
 
-Il video sottolinea l&#39;importanza della comunicazione nella gestione dei progetti ed evidenzia il ruolo delle questioni come strumento chiave per facilitare la comunicazione. &#x200B; Spiega la differenza tra aggiornamenti e problemi, notando che i problemi sono più adatti per il lavoro che deve essere assegnato, tracciato e risolto prima che un progetto possa essere completato. &#x200B; Il video fornisce una guida dettagliata su come registrare i problemi. &#x200B;
+Il video sottolinea l&#39;importanza della comunicazione nella gestione dei progetti ed evidenzia il ruolo delle questioni come strumento chiave per facilitare la comunicazione. &#x200B; Spiega la differenza tra aggiornamenti e problemi, notando che i problemi sono più adatti per il lavoro che deve essere assegnato, tracciato e risolto prima che un progetto possa essere completato. &#x200B; Il video fornisce una guida dettagliata su come registrare i problemi. 
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446574/?captions=ita&quality=12&learn=on&enablevpops=1)
@@ -52,3 +52,4 @@ Il video sottolinea l&#39;importanza della comunicazione nella gestione dei prog
 * [Migliorare il successo dei progetti attraverso una comunicazione efficace](/help/manage-work/projects/understand-project-communication.md)
 * [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Convertire un problema o una richiesta in un&#39;attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+

@@ -24,24 +24,24 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:27.839Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 196
-ht-degree: 3%
+source-wordcount: 246
+ht-degree: 2%
 
 ---
 
 # Aggiornare una richiesta in Workfront
 
-Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &#x200B; Dopo aver inviato una richiesta, è possibile aggiungere informazioni o porre domande per garantire che gli utenti che vi lavorano dispongano dei dettagli più recenti. &#x200B; &#x200B;
+Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &#x200B; Dopo aver inviato una richiesta, è possibile aggiungere informazioni o porre domande per garantire che gli utenti che vi lavorano dispongano dei dettagli più recenti. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422299/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
 * **Individua facilmente le richieste:** Utilizza filtri come &quot;Le mie richieste aperte&quot; o &quot;Le mie richieste&quot; nella sezione &quot;Richieste&quot; per trovare le richieste inviate. &#x200B; Regolare i filtri per visualizzare le richieste create da altri o completate.
-* **Verifica lo stato prima dell&#39;aggiornamento:** Controlla le colonne &quot;stato&quot; e &quot;convertito in&quot; per determinare se la richiesta è stata risolta o convertita in un&#39;attività o un progetto. &#x200B; potrebbe essere necessario aggiornare l&#39;elemento convertito. &#x200B;
-* **Aggiornare le richieste in modo efficiente:** Aprire il pannello di riepilogo selezionando la richiesta e facendo clic sull&#39;icona di riepilogo aperta. &#x200B; Aggiungi aggiornamenti nel campo &quot;avvia un nuovo aggiornamento&quot;, assegna agli utenti i tag @username e fai clic su &quot;aggiorna&quot;. &#x200B;
+* **Verifica lo stato prima dell&#39;aggiornamento:** Controlla le colonne &quot;stato&quot; e &quot;convertito in&quot; per determinare se la richiesta è stata risolta o convertita in un&#39;attività o un progetto. &#x200B; potrebbe essere necessario aggiornare l&#39;elemento convertito. 
+* **Aggiornare le richieste in modo efficiente:** Aprire il pannello di riepilogo selezionando la richiesta e facendo clic sull&#39;icona di riepilogo aperta. &#x200B; Aggiungi aggiornamenti nel campo &quot;avvia un nuovo aggiornamento&quot;, assegna agli utenti i tag @username e fai clic su &quot;aggiorna&quot;. 
 * **Accedi ai dettagli completi della richiesta:** Apri la richiesta facendo clic sul nome per visualizzare informazioni dettagliate, tra cui avanzamento, utente assegnato, data di completamento pianificata e stato. &#x200B; Utilizza il pannello a sinistra per accedere ad aggiornamenti, documenti e dettagli della richiesta.
 * **Collaboration centralizzato:** Adobe Workfront mantiene tutte le informazioni sulle richieste in un&#39;unica posizione, consentendo agli utenti di rivedere, aggiornare e collaborare in modo efficace utilizzando le informazioni più recenti. &#x200B;
 
@@ -50,3 +50,4 @@ Il video spiega come individuare e aggiornare le richieste in Adobe Workfront. &
 
 * [Creare e gestire le richieste in Workfront](/help/manage-work/issues-requests/make-a-request.md)
 * [Trovare e gestire le richieste in modo efficiente](/help/manage-work/issues-requests/find-requests.md)
+

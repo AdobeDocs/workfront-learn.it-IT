@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:44:38.813Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 226
-ht-degree: 9%
+source-wordcount: 246
+ht-degree: 8%
 
 ---
 
@@ -41,9 +41,9 @@ Il video sottolinea l’importanza di aggiornamenti regolari da parte dei membri
 ## Concetti chiave
 
 * **Calcolo percentuale di completamento:** L&#39;avanzamento complessivo del progetto viene calcolato in base ai valori di percentuale di completamento delle singole attività, ponderati in base alla durata o alle ore pianificate. &#x200B;
-* **Date pianificate e date previste:** Workfront calcola le date di inizio/completamento pianificate e previste in base alle durate e ai predecessori dell&#39;attività. &#x200B; Discrepanze tra queste date indicano potenziali ritardi. &#x200B;
+* **Date pianificate e date previste:** Workfront calcola le date di inizio/completamento pianificate e previste in base alle durate e ai predecessori dell&#39;attività. &#x200B; Discrepanze tra queste date indicano potenziali ritardi. 
 * **Stato condizione progetto:** Il campo della condizione (ad esempio In Target, A rischio, In difficoltà) riflette lo stato del progetto e può essere impostato manualmente o automaticamente utilizzando la modalità Stato di avanzamento. &#x200B;
-* **Gestione problemi aperti:** I problemi aperti segnalano potenziali rischi. &#x200B; Per mantenere le sequenze temporali dei progetti è fondamentale rivederle e convertirle in attività in modo tempestivo. &#x200B;
+* **Gestione problemi aperti:** I problemi aperti segnalano potenziali rischi. &#x200B; Per mantenere le sequenze temporali dei progetti è fondamentale rivederle e convertirle in attività in modo tempestivo. 
 * **Colonna aggiornamento condizione:** Gli aggiornamenti settimanali del project manager nella colonna Aggiornamento condizione forniscono un chiaro riepilogo dell&#39;avanzamento e consentono di tenere traccia degli ultimi sviluppi. &#x200B;
 
 
@@ -53,3 +53,4 @@ Il video sottolinea l’importanza di aggiornamenti regolari da parte dei membri
 * [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Esplora la vista Gantt per la gestione dei progetti](/help/manage-work/projects/understand-the-gantt-view.md)
 * [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)
+
