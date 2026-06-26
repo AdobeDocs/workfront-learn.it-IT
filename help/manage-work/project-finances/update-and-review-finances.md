@@ -57,7 +57,7 @@ Workfront tiene traccia degli elementi fatturabili ma non gestisce la fatturazio
 
 Questo video sottolinea l’importanza di una corretta configurazione e tracciamento per semplificare i processi di fatturazione dei clienti. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486196/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
