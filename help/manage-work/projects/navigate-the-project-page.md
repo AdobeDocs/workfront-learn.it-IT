@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:46:43.714Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
-source-wordcount: 711
-ht-degree: 59%
+source-wordcount: 789
+ht-degree: 53%
 
 ---
 
@@ -35,21 +30,21 @@ ht-degree: 59%
 
 Questo video fornisce una panoramica della navigazione e della gestione della pagina del progetto in Workfront. &#x200B; funzioni principali includono:
 
-* **Intestazione progetto:** Visualizza informazioni essenziali quali la percentuale di completamento, il project manager, la data di completamento pianificata, la condizione del progetto e lo stato. &#x200B; Lo stato consente di tenere traccia della fase del progetto e di attivare le notifiche. &#x200B;
+* **Intestazione progetto:** Visualizza informazioni essenziali quali la percentuale di completamento, il project manager, la data di completamento pianificata, la condizione del progetto e lo stato. &#x200B; Lo stato consente di tenere traccia della fase del progetto e di attivare le notifiche. 
 * **Navigazione breadcrumb:** mostra la posizione del progetto all&#39;interno del programma e del portfolio dell&#39;organizzazione, con collegamenti selezionabili per facilitarne la navigazione. &#x200B;
 * **Preferiti e menu:** I Preferiti iniziano a contrassegnare il progetto per l&#39;accesso rapido, mentre il menu offre opzioni quali la modifica dei dettagli, la copia del progetto e il ricalcolo delle timeline. &#x200B;
-* **Elenco attività:** rappresenta i passaggi nel piano del progetto. &#x200B; Utilizzare i filtri rapidi per individuare le attività, apportare modifiche in linea per apportare modifiche rapide e utilizzare il pannello di riepilogo delle attività per ottenere informazioni dettagliate. &#x200B; Facendo clic sul nome di un’attività si apre la relativa pagina dedicata. &#x200B;
-* **Pannello sinistro:** consente di accedere a varie sezioni del progetto, ad esempio dettagli, aggiornamenti e documenti. &#x200B; Il pannello può essere personalizzato dall’amministratore di sistema. &#x200B;
+* **Elenco attività:** rappresenta i passaggi nel piano del progetto. &#x200B; Utilizzare i filtri rapidi per individuare le attività, apportare modifiche in linea per apportare modifiche rapide e utilizzare il pannello di riepilogo delle attività per ottenere informazioni dettagliate. &#x200B; Facendo clic sul nome di un’attività si apre la relativa pagina dedicata. 
+* **Pannello sinistro:** consente di accedere a varie sezioni del progetto, ad esempio dettagli, aggiornamenti e documenti. &#x200B; Il pannello può essere personalizzato dall’amministratore di sistema. 
 * **Sezione aggiornamenti:** centralizza le comunicazioni sul progetto, consentendo l&#39;assegnazione di tag agli utenti, la risposta ai commenti e la visualizzazione degli aggiornamenti aggregati da attività, problemi e documenti. &#x200B;
-* **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. &#x200B;
+* **Sezione documenti:** consente di caricare e gestire file e bozze relativi al progetto. &#x200B; documenti allegati alle attività vengono aggregati a livello di progetto per un facile accesso. 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449734/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
-* **Panoramica intestazione progetto:** Accedi rapidamente ai dettagli chiave del progetto come percentuale di completamento, project manager, data di scadenza, stato e condizione. &#x200B; Lo stato controlla anche le notifiche e le fasi del flusso di lavoro. &#x200B;
-* **Gestione attività:** Utilizza l&#39;elenco delle attività per tenere traccia dei passaggi del progetto, applicare filtri rapidi per trovare le attività e apportare modifiche in linea. &#x200B; Accedere a informazioni dettagliate sulle attività tramite il pannello di riepilogo o la pagina delle attività. &#x200B;
+* **Panoramica intestazione progetto:** Accedi rapidamente ai dettagli chiave del progetto come percentuale di completamento, project manager, data di scadenza, stato e condizione. &#x200B; Lo stato controlla anche le notifiche e le fasi del flusso di lavoro. 
+* **Gestione attività:** Utilizza l&#39;elenco delle attività per tenere traccia dei passaggi del progetto, applicare filtri rapidi per trovare le attività e apportare modifiche in linea. &#x200B; Accedere a informazioni dettagliate sulle attività tramite il pannello di riepilogo o la pagina delle attività. 
 * **Navigazione breadcrumb:** Naviga nella gerarchia del progetto all&#39;interno dell&#39;organizzazione utilizzando i collegamenti selezionabili nella traccia delle breadcrumb. &#x200B;
 * **Aggiornamenti centralizzati:** tutti gli aggiornamenti da attività, problemi e documenti vengono aggregati nella sezione Aggiornamenti del progetto, semplificando la comunicazione e il tracciamento. &#x200B;
 * **Organizzazione documento:** Carica e gestisci i file e le bozze relativi al progetto nella sezione documenti, assicurandoti che i documenti pertinenti siano allegati alle attività per una collaborazione semplificata. &#x200B;
@@ -70,7 +65,7 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 5. **[!UICONTROL Percentuale di completamento:]** si aggiorna automaticamente, in base alle attività completate nel progetto.
 6. **[!UICONTROL Proprietario del progetto]:** nella maggior parte delle organizzazioni, è il project manager. Si tratta della persona responsabile della gestione del progetto in [!DNL Workfront] e della conferma del completamento.
 7. **[!UICONTROL Data di completamento pianificata]:** la data di completamento pianificata del progetto viene impostata dal project manager attraverso la timeline del progetto.
-8. **[!UICONTROL Condizione]:** la[!UICONTROL &#x200B; condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
+8. **[!UICONTROL Condizione]:** la[!UICONTROL  condizione] è una rappresentazione visiva dell&#39;avanzamento del progetto. [!DNL Workfront] può configurare automaticamente la [!UICONTROL condizione] in base allo stato di avanzamento delle attività del progetto. In alternativa, la [!UICONTROL condizione] può essere impostata manualmente attraverso i dettagli del progetto.
 9. **[!UICONTROL Stato]:** lo [!UICONTROL stato] indica dove si trova il progetto all’interno di un processo, ovvero se è ancora in fase di pianificazione o è in corso, oppure se tutto il lavoro inerente il progetto è stato completato.
 10. **[!UICONTROL Nuova attività]:** fai clic su questa opzione per creare una nuova attività nel progetto. L’attività viene generata alla fine dell’elenco.
 11. **[!UICONTROL Esporta]:** esporta l’elenco attività o le attività selezionate in un file PDF, foglio di calcolo o file delimitato da tabulazioni.
@@ -84,4 +79,5 @@ La pagina del progetto è ricca di funzioni per agevolare la gestione del lavoro
 * [Creare e gestire un progetto da zero](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Esplora quattro metodi per creare un progetto](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Inserisci i dettagli essenziali del progetto](/help/manage-work/projects/fill-in-the-project-details.md)
+
 
