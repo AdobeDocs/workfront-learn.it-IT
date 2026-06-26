@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -39,10 +39,7 @@ ht-degree: 30%
 >* [Crea un flusso di richieste in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=it)
 >* Oppure hai già familiarità con la creazione di una coda richieste che utilizza una regola di indirizzamento e un modulo personalizzato.
 
-Il video fornisce una guida dettagliata sulla creazione di una coda di richieste di feedback per gli amministratori di sistema.
-&#x200B;Lo scopo della coda è raccogliere il feedback degli utenti sui processi e sui flussi di lavoro creati dagli amministratori di sistema, consentendo miglioramenti e ottimizzazioni.
-Il video sottolinea l&#39;importanza della partecipazione degli utenti e della trasparenza nel miglioramento dei processi, incoraggiando gli amministratori a condividere i report di feedback con gli utenti.
-&#x200B;Per ulteriori informazioni, consulta i collegamenti alle esercitazioni per la creazione di rapporti e moduli personalizzati.
+Il video fornisce una guida dettagliata sulla creazione di una coda di richieste di feedback per gli amministratori di sistema.&#x200B;Lo scopo della coda è raccogliere il feedback degli utenti sui processi e sui flussi di lavoro creati dagli amministratori di sistema, consentendo miglioramenti e ottimizzazioni.Il video sottolinea l&#39;importanza della partecipazione degli utenti e della trasparenza nel miglioramento dei processi, incoraggiando gli amministratori a condividere i report di feedback con gli utenti.&#x200B;Per ulteriori informazioni, consulta i collegamenti alle esercitazioni per la creazione di rapporti e moduli personalizzati.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450505/?captions=ita&quality=12&learn=on&enablevpops=0)
@@ -63,3 +60,4 @@ Per informazioni su come creare un modulo personalizzato, consulta il tutorial [
 ## Tutorial consigliati su questo argomento
 
 * [Risposte alle domande più comuni sulle code di richieste](/help/manage-work/request-queues/request-queue-faq.md)
+

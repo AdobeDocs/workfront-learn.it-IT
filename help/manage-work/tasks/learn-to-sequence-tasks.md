@@ -24,18 +24,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 179
-ht-degree: 7%
+source-wordcount: 213
+ht-degree: 6%
 
 ---
 
 # Sequenza efficace delle attività in Workfront
 
-Il video spiega come ordinare le attività in Workfront utilizzando i predecessori e le durate per gestire in modo efficace le timeline dei progetti.
-Il video illustra come impostare i predecessori per le nuove attività, garantendo un ordine sequenziale e date di inizio precise.
-&#x200B;sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
+Il video spiega come ordinare le attività in Workfront utilizzando i predecessori e le durate per gestire in modo efficace le timeline dei progetti.Il video illustra come impostare i predecessori per le nuove attività, garantendo un ordine sequenziale e date di inizio precise.&#x200B;sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447328/?captions=ita&quality=12&learn=on&enablevpops=1)
@@ -53,3 +51,4 @@ Il video illustra come impostare i predecessori per le nuove attività, garanten
 * [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
 * [Informazioni sulle ore pianificate](/help/manage-work/tasks/understand-planned-hours.md)
 * [Stimare le ore di attività con Impegno di lavoro](/help/manage-work/tasks/understand-work-effort.md)
+

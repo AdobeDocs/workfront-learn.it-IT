@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: 204
 ht-degree: 6%
@@ -49,3 +49,4 @@ Il video offre un’esercitazione sulla creazione di attività in un progetto Wo
 * [Comprendere le relazioni tra attività padre e figlio](/help/manage-work/tasks/understand-parent-child-tasks.md)
 * [Gestione efficiente delle attività in Workfront](/help/manage-work/tasks/work-with-tasks.md)
 * [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+

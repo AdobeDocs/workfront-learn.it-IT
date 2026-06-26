@@ -25,10 +25,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:39:31.882Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 6%
+source-wordcount: 276
+ht-degree: 5%
 
 ---
 
@@ -36,9 +36,9 @@ ht-degree: 6%
 
 Il video illustra il processo di flusso delle richieste in Workfront e si concentra sulla gestione delle code, sulle regole di instradamento, sui gruppi di argomenti e sugli argomenti della coda. &#x200B; sottolinea l’importanza di organizzare la coda di richieste rispondendo a tre domande chiave:
 
-1. **Quali argomenti sono necessari?** &#x200B;: si tratta di argomenti della coda che suddividono in categorie le richieste inviate, facilitandone la gestione e la personalizzazione. &#x200B;
-1. **È possibile organizzare ulteriormente i miei argomenti?** &#x200B; - I gruppi di argomenti consentono di raggruppare gli argomenti della coda correlati per una migliore organizzazione (ad esempio, brochure, biglietti da visita e cartelloni pubblicitari in &quot;Stampa&quot;). &#x200B;
-1. **A chi deve essere assegnata la richiesta?** &#x200B; - Le regole di indirizzamento indirizzano automaticamente gli invii a team, ruoli o utenti specifici, garantendo che le richieste non passino inosservate. &#x200B;
+1. **Quali argomenti sono necessari?** &#x200B;: si tratta di argomenti della coda che organizzano in categorie le richieste inviate, facilitandone la gestione e la personalizzazione. 
+1. **Posso organizzare ulteriormente i miei argomenti?** &#x200B; - I gruppi di argomenti consentono di raggruppare gli argomenti correlati alla coda per una migliore organizzazione (ad esempio, brochure, biglietti da visita e cartelloni sotto &quot;Stampa&quot;). 
+1. **A chi deve essere assegnata la richiesta?** &#x200B;: le regole di indirizzamento indirizzano automaticamente gli invii a team, ruoli o utenti specifici, garantendo che le richieste non passino inosservate. 
 
 Rispondendo a queste domande, gli utenti possono pianificare e configurare in modo efficace la coda di richieste in Workfront. &#x200B;
 
@@ -57,3 +57,4 @@ Rispondendo a queste domande, gli utenti possono pianificare e configurare in mo
 * [Creare una coda di richieste in Workfront](/help/manage-work/request-queues/create-a-request-queue.md)
 * [Creare un flusso di richieste in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
 * [Creare una coda richieste di feedback dell’amministratore di sistema](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
+

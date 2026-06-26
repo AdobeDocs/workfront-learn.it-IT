@@ -24,16 +24,16 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 167
-ht-degree: 14%
+source-wordcount: 222
+ht-degree: 11%
 
 ---
 
 # Creare un progetto direttamente da un modello
 
-Il video spiega come creare un progetto da un modello. &#x200B; Se si dispone dei diritti per aprire un modello, è possibile utilizzarlo come collegamento per creare un progetto. &#x200B; A questo scopo, apri il modello, accedi al menu con tre punti e seleziona &quot;Crea progetto&quot;. &#x200B; Viene visualizzata una schermata in cui è possibile modificare i dettagli del progetto. &#x200B; Una volta pronto, fai clic su &quot;Crea progetto&quot; per finalizzare. &#x200B;
+Il video spiega come creare un progetto da un modello. &#x200B; Se si dispone dei diritti per aprire un modello, è possibile utilizzarlo come collegamento per creare un progetto. &#x200B; A questo scopo, apri il modello, accedi al menu con tre punti e seleziona &quot;Crea progetto&quot;. &#x200B; Viene visualizzata una schermata in cui è possibile modificare i dettagli del progetto. &#x200B; Una volta pronto, fai clic su &quot;Crea progetto&quot; per finalizzare. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3456021/?captions=ita&quality=12&learn=on&enablevpops=1)
 
@@ -53,3 +53,4 @@ Il video spiega come creare un progetto da un modello. &#x200B; Se si dispone de
 * [Copiare un progetto esistente in modo efficiente](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Disattivare un modello di progetto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Modificare il team di progetto in un modello](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

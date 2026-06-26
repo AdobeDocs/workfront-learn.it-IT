@@ -23,16 +23,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 370
-ht-degree: 13%
+source-wordcount: 397
+ht-degree: 12%
 
 ---
 
 # Esplora la visualizzazione [!UICONTROL Gantt] per la gestione dei progetti
 
-Nel video viene illustrato come utilizzare il Diagramma di Gantt del progetto e il Diagramma di Gantt delle attività per visualizzare e gestire attività e progetti in modo efficace. &#x200B; grafici di Gantt forniscono una visione d&#39;insieme di attività, modelli e progetti e sono comunemente utilizzati all&#39;interno dei portfolio per comprendere le relazioni tra i progetti, in particolare quelli che condividono le risorse. &#x200B;
+Nel video viene illustrato come utilizzare il Diagramma di Gantt del progetto e il Diagramma di Gantt delle attività per visualizzare e gestire attività e progetti in modo efficace. &#x200B; grafici di Gantt forniscono una visione d&#39;insieme di attività, modelli e progetti e sono comunemente utilizzati all&#39;interno dei portfolio per comprendere le relazioni tra i progetti, in particolare quelli che condividono le risorse. 
 
 **Le caratteristiche principali del diagramma di Gantt del progetto includono:**
 
@@ -70,3 +70,4 @@ Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafi
 * [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
 * [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)
+

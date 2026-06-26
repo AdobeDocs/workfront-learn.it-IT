@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 519
-ht-degree: 63%
+source-wordcount: 630
+ht-degree: 52%
 
 ---
 
@@ -38,9 +38,9 @@ Impara a creare un modello di progetto da zero e da un progetto esistente e capi
 
 ## Creare un modello di progetto
 
-* Il video fornisce una guida dettagliata sulla creazione e l’utilizzo di modelli per la produzione video di marketing. Comincia spiegando come creare un nuovo modello da zero, denominandolo e salvandolo. &#x200B; Il processo prevede tre passaggi principali: la creazione di attività, l&#39;impostazione della timeline utilizzando le durate e i predecessori e l&#39;assegnazione a mansioni piuttosto che a singoli utenti. &#x200B; Il video enfatizza l’organizzazione delle attività utilizzando le relazioni padre-figlio per un riepilogo e un’efficienza migliori. &#x200B;
-* Una volta creato, il modello può essere utilizzato per produrre nuovi progetti. Il video illustra come creare un nuovo progetto dal modello, apportare le modifiche necessarie e aggiungere attività o modificare le durate in base alle esigenze. &#x200B; Viene inoltre illustrato come assegnare mansioni alle attività utilizzando le funzionalità di pianificazione e pianificazione delle risorse. &#x200B;
-* Il video spiega come salvare un progetto esistente come nuovo modello, consentendo aggiornamenti e miglioramenti nel flusso di lavoro. &#x200B; Evidenzia l’importanza di gestire i modelli per evitare confusione e garantire un’esecuzione dei progetti semplificata. &#x200B;
+* Il video fornisce una guida dettagliata sulla creazione e l’utilizzo di modelli per la produzione video di marketing. Comincia spiegando come creare un nuovo modello da zero, denominandolo e salvandolo. &#x200B; Il processo prevede tre passaggi principali: la creazione di attività, l&#39;impostazione della timeline utilizzando le durate e i predecessori e l&#39;assegnazione a mansioni piuttosto che a singoli utenti. &#x200B; Il video enfatizza l’organizzazione delle attività utilizzando le relazioni padre-figlio per un riepilogo e un’efficienza migliori. 
+* Una volta creato, il modello può essere utilizzato per produrre nuovi progetti. Il video illustra come creare un nuovo progetto dal modello, apportare le modifiche necessarie e aggiungere attività o modificare le durate in base alle esigenze. &#x200B; Viene inoltre illustrato come assegnare mansioni alle attività utilizzando le funzionalità di pianificazione e pianificazione delle risorse. 
+* Il video spiega come salvare un progetto esistente come nuovo modello, consentendo aggiornamenti e miglioramenti nel flusso di lavoro. &#x200B; Evidenzia l’importanza di gestire i modelli per evitare confusione e garantire un’esecuzione dei progetti semplificata. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415445/?captions=ita&quality=12&learn=on&enablevpops=0)
 
@@ -82,3 +82,4 @@ Se il blueprint non è ancora stato installato, puoi richiederlo all’amministr
 * [Copiare un progetto esistente in modo efficiente](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [Disattivare un modello di progetto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [Modificare il team di progetto in un modello](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+
