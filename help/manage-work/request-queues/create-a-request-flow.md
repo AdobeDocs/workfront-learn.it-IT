@@ -41,7 +41,7 @@ ht-degree: 5%
 
 Questo video fornisce una guida dettagliata sulla creazione di un flusso di richieste mediante la configurazione di argomenti della coda, gruppi di argomenti e regole di instradamento. &#x200B; Il processo inizia con la creazione di regole di instradamento, che definiscono il modo in cui vengono assegnate le richieste&#x200B; In seguito, i gruppi di argomenti vengono creati per organizzare le richieste.&#x200B; Questi gruppi possono essere aggiunti alle code e non esiste alcun limite al numero di gruppi di argomenti che è possibile creare.Il video illustra quindi come creare argomenti della coda, collegati a regole di instradamento, gruppi di argomenti, moduli personalizzati, processi di approvazione e durate predefinite.Infine, il video mostra come verificare la configurazione inviando una richiesta per assicurarsi che venga instradata correttamente. &#x200B; In caso di problemi, è possibile apportare modifiche alla coda. &#x200B; Il video sottolinea l’importanza di verificare la struttura e la funzionalità del flusso di richieste per garantire il corretto indirizzamento e organizzazione.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3433830/?captions=ita&quality=12&learn=on&enablevpops=0)
 
 ## Concetti chiave
 

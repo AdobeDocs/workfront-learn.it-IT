@@ -36,7 +36,7 @@ ht-degree: 6%
 Il video spiega come ordinare le attività in Workfront utilizzando i predecessori e le durate per gestire in modo efficace le timeline dei progetti.Il video illustra come impostare i predecessori per le nuove attività, garantendo un ordine sequenziale e date di inizio precise.&#x200B;sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447328/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 

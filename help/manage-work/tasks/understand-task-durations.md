@@ -36,7 +36,7 @@ ht-degree: 6%
 Questo video illustra la durata delle attività in Workfront, il loro impatto sulle date di inizio e di completamento, sulle tempistiche dei progetti e sulle best practice per un utilizzo efficace della durata.Workfront consiglia di utilizzare le durate e i predecessori per stabilire le sequenze temporali delle attività anziché impostare manualmente i vincoli, in quanto questi possono impedire modifiche automatiche.&#x200B;Una durata precisa è fondamentale per una pianificazione efficace del progetto e per la gestione delle risorse.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449351/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
