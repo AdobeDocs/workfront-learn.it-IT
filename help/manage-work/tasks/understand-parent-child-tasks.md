@@ -9,6 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 recommendations: noDisplay,catalog
+last-substantial-update: '2026-07-28T00:00:00.000Z'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
@@ -23,16 +24,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: f4ee97efb7f49a98f8b6bcd5145558c6d6476fe4
 workflow-type: tm+mt
-source-wordcount: 270
-ht-degree: 4%
+source-wordcount: 185
+ht-degree: 7%
 
 ---
 
 # Comprendere le relazioni tra attività padre e figlio
 
-Questo video spiega la struttura delle attività in Workfront. Le attività sono componenti essenziali di un progetto e rappresentano gli elementi di lavoro necessari per il completamento. &#x200B; Nel video viene sottolineata l&#39;importanza di organizzare le attività in modo accurato come fase chiave nella pianificazione e nella gestione del progetto. Viene illustrato come iniziare a utilizzare le attività e vengono illustrate le relazioni tra attività padre e figlio.&#x200B;Le attività padre fungono da organizzatori e raggruppano il progetto in fasi, fasi o fasi cardine e non sono assegnate a singoli utenti. Le attività secondarie, o sottoattività, rappresentano il lavoro utilizzabile assegnato ai membri del team.
+Questo video spiega la struttura delle attività in Workfront. Le attività sono componenti essenziali di un progetto e rappresentano gli elementi di lavoro necessari per il completamento. &#x200B; Nel video viene sottolineata l&#39;importanza di organizzare le attività in modo accurato come fase chiave nella pianificazione e nella gestione del progetto. Viene illustrato come iniziare a utilizzare le attività e vengono illustrate le relazioni tra attività padre e figlio.
+&#x200B;Le attività padre fungono da organizzatori e raggruppano il progetto in fasi, fasi o fasi cardine e non sono assegnate a singoli utenti. Le attività secondarie, o sottoattività, rappresentano il lavoro utilizzabile assegnato ai membri del team.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
