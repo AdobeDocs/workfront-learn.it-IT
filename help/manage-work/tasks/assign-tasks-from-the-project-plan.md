@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-05-23T00:00:00.000Z'
+last-substantial-update: '2026-07-29T00:00:00.000Z'
 jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
 workflow-type: tm+mt
-source-wordcount: 221
-ht-degree: 14%
+source-wordcount: 191
+ht-degree: 16%
 
 ---
 

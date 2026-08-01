@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8776
-last-substantial-update: '2024-06-03T00:00:00.000Z'
+last-substantial-update: '2026-07-31T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
@@ -24,16 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:12.123Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 6%
+source-wordcount: 188
+ht-degree: 8%
 
 ---
 
 # Comprendere le durate delle attività
 
-Questo video illustra la durata delle attività in Workfront, il loro impatto sulle date di inizio e di completamento, sulle tempistiche dei progetti e sulle best practice per un utilizzo efficace della durata.Workfront consiglia di utilizzare le durate e i predecessori per stabilire le sequenze temporali delle attività anziché impostare manualmente i vincoli, in quanto questi possono impedire modifiche automatiche.&#x200B;Una durata precisa è fondamentale per una pianificazione efficace del progetto e per la gestione delle risorse.
+Questo video illustra la durata delle attività in Workfront, il loro impatto sulle date di inizio e di completamento, sulle tempistiche dei progetti e sulle best practice per un utilizzo efficace della durata.
+Workfront consiglia di utilizzare le durate e i predecessori per stabilire le sequenze temporali delle attività anziché impostare manualmente i vincoli, in quanto questi possono impedire modifiche automatiche.
+&#x200B;Una durata precisa è fondamentale per una pianificazione efficace del progetto e per la gestione delle risorse.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449351/?captions=ita&quality=12&learn=on&enablevpops=1)
