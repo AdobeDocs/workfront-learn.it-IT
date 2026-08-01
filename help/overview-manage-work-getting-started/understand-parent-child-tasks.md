@@ -38,7 +38,7 @@ In questo video scoprirai:
 
 * Struttura delle attività in un progetto [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445604/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Tutorial consigliati su questo argomento
 
