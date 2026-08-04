@@ -36,4 +36,4 @@ In questo video scoprirai come:
 * Filtrare l’elenco di utenti nell’area Lavoro assegnato
 * Filtrare l’area Lavoro non assegnato
 
->[!VIDEO](https://video.tv.adobe.com/v/335163/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413857/?captions=ita&quality=12&learn=on&enablevpops=1)

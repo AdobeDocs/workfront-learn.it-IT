@@ -36,4 +36,4 @@ In questo video scoprirai come:
 * Regolare le informazioni sul budget
 * Regolare le informazioni sui costi
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412643/?captions=ita&quality=12&learn=on&enablevpops=1)
