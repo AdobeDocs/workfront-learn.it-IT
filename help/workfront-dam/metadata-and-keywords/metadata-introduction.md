@@ -1,6 +1,6 @@
 ---
-title: Comprendere i metadati
-description: 'Scopri cosa verrà trattato nel corso per amministratori di [!UICONTROL Workfront DAM], parte 2: metadati e parole chiave.'
+title: Introduzione a metadati e parole chiave
+description: I metadati sono tutti i dati utilizzati per descrivere una risorsa. Le parole chiave sono un sottoinsieme di metadati e contengono termini descrittivi sul contenuto della risorsa.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 125
-ht-degree: 100%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
-# Comprendere i metadati
+# Introduzione a metadati e parole chiave
 
 I metadati sono tutti i dati utilizzati per descrivere una risorsa. I campi di metadati hanno un nome e gli utenti possono modificare o cambiare le informazioni in molti di questi campi. Alcuni campi di metadati sono compilati dall’applicazione o dal dispositivo da cui proviene la risorsa e non possono essere modificati.
 
