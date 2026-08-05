@@ -519,7 +519,7 @@ ht-degree: 77%
     + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
     + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-    + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
     + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
     + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
