@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-06-15T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 213
 ht-degree: 6%
@@ -33,7 +33,9 @@ ht-degree: 6%
 
 # Sequenza efficace delle attività in Workfront
 
-Il video spiega come ordinare le attività in Workfront utilizzando i predecessori e le durate per gestire in modo efficace le timeline dei progetti.Il video illustra come impostare i predecessori per le nuove attività, garantendo un ordine sequenziale e date di inizio precise.&#x200B;sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
+Il video spiega come ordinare le attività in Workfront utilizzando i predecessori e le durate per gestire in modo efficace le timeline dei progetti.
+Il video illustra come impostare i predecessori per le nuove attività, garantendo un ordine sequenziale e date di inizio precise.
+&#x200B;sottolinea l’importanza di esercitarsi con i predecessori per comprenderne l’impatto sulle tempistiche dei progetti e consiglia di utilizzare le durate e i predecessori per una pianificazione efficiente dei progetti.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447328/?captions=ita&quality=12&learn=on&enablevpops=1)

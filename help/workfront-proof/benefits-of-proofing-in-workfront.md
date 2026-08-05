@@ -36,7 +36,7 @@ In questo video scoprirai:
 * Che cos’è la verifica delle bozze?
 * Vantaggi della verifica delle bozze digitale in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439121/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Terminologia relativa alla verifica delle bozze
 

@@ -35,7 +35,7 @@ ht-degree: 3%
 Questo video spiega come creare e utilizzare i filtri in Workfront per personalizzare i rapporti di elenco in base a criteri specifici. I filtri &#x200B; consentono agli utenti di restringere gli elenchi, ad esempio attività, progetti o documenti, definendo le condizioni. &#x200B; Nell&#39;elenco verranno visualizzati solo gli elementi che corrispondono alle condizioni del filtro e che sono accessibili all&#39;utente connesso. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431672/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
