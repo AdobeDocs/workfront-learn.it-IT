@@ -1,9 +1,9 @@
 ---
 user-guide-title: Tutorial su Workfront
 user-guide-description: Raccolta di video e articoli di formazione progettati per aiutarti a comprendere meglio le funzionalità e le impostazioni di Workfront.
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
 workflow-type: tm+mt
-source-wordcount: '2659'
+source-wordcount: '2658'
 ht-degree: 77%
 
 ---
@@ -191,7 +191,7 @@ ht-degree: 77%
     + [Registra e rivedi le ore del progetto](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + Finanze del progetto per gli utenti {#project-finances-users}
-    + [Accesso e gestione delle informazioni finanziarie per progetti e attività](/help/manage-work/project-finances/find-financial-information.md)
+    + [Accesso e gestione delle informazioni finanziarie per i dati finanziari del progetto](/help/manage-work/project-finances/find-financial-information.md)
     + [Aggiorna i dati finanziari per i progetti client](/help/manage-work/project-finances/update-and-review-finances.md)
     + [Personalizzare le tariffe di fatturazione per le mansioni](/help/manage-work/project-finances/multiple-billing-rates.md)
 
@@ -519,7 +519,7 @@ ht-degree: 77%
     + [Comprendere [!DNL Workfront DAM]](/help/workfront-dam/system-setup/introduction-to-workfront-dam.md)
     + [Comprendere le impostazioni di sistema](/help/workfront-dam/system-setup/system-setup-system-settings.md)
     + [Comprendere [!UICONTROL Brand Portal]](/help/workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-    + [Analizzare e pianificare una strategia [!DNL Workfront DAM] &#x200B;](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+    + [Analizzare e pianificare una strategia [!DNL Workfront DAM] ](/help/workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
     + [Configurare gruppi e utenti](/help/workfront-dam/system-setup/system-setup-groups-and-users.md)
     + [Configurare l’integrazione in Workfront](/help/workfront-dam/system-setup/configure-the-integration-in-workfront.md)
     + [Personalizza [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)

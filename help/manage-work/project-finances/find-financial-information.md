@@ -1,41 +1,36 @@
 ---
-title: Accesso e gestione delle informazioni finanziarie per progetti e attività
-description: Scopri come accedere, analizzare e gestire in modo efficiente i dati finanziari per progetti e attività, includendo budget, ricavi, costi e metriche delle prestazioni sia a livello di progetto che di attività.
+title: Accesso e gestione delle informazioni finanziarie per i dati finanziari del progetto
+description: Scopri come accedere, analizzare e gestire i dati finanziari per progetti e attività, inclusi budget, ricavi, costi e metriche delle prestazioni.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
-last-substantial-update: '2025-04-16T00:00:00.000Z'
+last-substantial-update: '2025-04-16'
 recommendations: noDisplay,catalog
-doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+doc-type: Feature Video
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: ecdbfe97f711f985c41a40ff6d37cd748c765f8e
 workflow-type: tm+mt
-source-wordcount: 220
-ht-degree: 15%
+source-wordcount: 211
+ht-degree: 3%
 
 ---
 
-# Accesso e gestione delle informazioni finanziarie per progetti e attività
+# Accesso e gestione delle informazioni finanziarie per i dati finanziari del progetto
 
-Il video spiega come accedere e gestire le informazioni finanziarie per progetti e attività. &#x200B;offre una panoramica completa della navigazione e della comprensione dei dati finanziari a livello di progetto e di task. 
+Il video spiega come accedere e gestire le informazioni finanziarie per progetti e attività. &#x200B;offre una panoramica completa della navigazione e della comprensione dei dati finanziari a livello di progetto e di task. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3415896/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
