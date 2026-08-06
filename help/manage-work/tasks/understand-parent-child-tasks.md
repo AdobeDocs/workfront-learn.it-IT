@@ -1,42 +1,37 @@
 ---
 title: Comprendere le relazioni tra attività padre e figlio
-description: Ottimizza la gestione dei progetti con le attività come base, utilizzando le strutture padre-figlio, il completamento automatico delle attività padre, strumenti di organizzazione flessibili e la strutturazione personalizzata delle attività per una maggiore efficienza.
-activity: use
+description: Scopri come le strutture di attività padre-figlio organizzano i progetti in Workfront, incluso il completamento automatico del padre e un’organizzazione flessibile e personalizzata delle attività.
 feature: Work Management
 thumbnail: 335087.jpeg
 type: Tutorial
 role: User
 level: Beginner
+duration: 459
 team: Technical Marketing
 recommendations: noDisplay,catalog
-last-substantial-update: '2026-07-28T00:00:00.000Z'
+last-substantial-update: '2026-07-28'
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
-doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+doc-type: Feature Video
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:15.124Z'
-source-git-commit: f4ee97efb7f49a98f8b6bcd5145558c6d6476fe4
+source-git-commit: 974178416cf6b743c3c5f3d7297bc221707daa54
 workflow-type: tm+mt
-source-wordcount: 185
-ht-degree: 7%
+source-wordcount: 264
+ht-degree: 4%
 
 ---
 
 # Comprendere le relazioni tra attività padre e figlio
 
 Questo video spiega la struttura delle attività in Workfront. Le attività sono componenti essenziali di un progetto e rappresentano gli elementi di lavoro necessari per il completamento. &#x200B; Nel video viene sottolineata l&#39;importanza di organizzare le attività in modo accurato come fase chiave nella pianificazione e nella gestione del progetto. Viene illustrato come iniziare a utilizzare le attività e vengono illustrate le relazioni tra attività padre e figlio.
-&#x200B;Le attività padre fungono da organizzatori e raggruppano il progetto in fasi, fasi o fasi cardine e non sono assegnate a singoli utenti. Le attività secondarie, o sottoattività, rappresentano il lavoro utilizzabile assegnato ai membri del team.
+Le attività padre fungono da organizzatori e raggruppano il progetto in fasi, fasi o fasi cardine e non sono assegnate a singoli utenti. Le attività secondarie, o sottoattività, rappresentano il lavoro utilizzabile assegnato ai membri del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445604/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?learn=on)
 
 ## Concetti chiave
 
