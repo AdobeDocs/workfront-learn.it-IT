@@ -36,7 +36,7 @@ ht-degree: 4%
 Questo video spiega la struttura delle attività in Workfront. Le attività sono componenti essenziali di un progetto e rappresentano gli elementi di lavoro necessari per il completamento. &#x200B; Nel video viene sottolineata l&#39;importanza di organizzare le attività in modo accurato come fase chiave nella pianificazione e nella gestione del progetto. Viene illustrato come iniziare a utilizzare le attività e vengono illustrate le relazioni tra attività padre e figlio.
 Le attività padre fungono da organizzatori e raggruppano il progetto in fasi, fasi o fasi cardine e non sono assegnate a singoli utenti. Le attività secondarie, o sottoattività, rappresentano il lavoro utilizzabile assegnato ai membri del team.
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445604/?captions=ita&learn=on)
 
 ## Concetti chiave
 
