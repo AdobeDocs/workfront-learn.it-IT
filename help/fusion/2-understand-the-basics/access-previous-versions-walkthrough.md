@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -22,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -43,7 +44,8 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 
 >[!NOTE]
 >
->Dopo aver salvato lo scenario, una nuova versione sarà disponibile nel menu a tre punti nel caso in cui dovessi accedervi in futuro. Le versioni degli scenari salvati in precedenza sono disponibili solo per 60 giorni. Se hai bisogno di accedere alle versioni precedenti oltre i 60 giorni per scopi di audit, Workfront consiglia di salvare una blueprint dello scenario e archiviarla in una posizione concordata.
+>Dopo aver salvato lo scenario, Workfront Fusion conserva la versione precedente dello scenario per 60 giorni. Il periodo di conservazione di una versione inizia quando tale versione viene sostituita da una versione più recente, non quando la versione è stata originariamente creata.
+>Per conservare la cronologia delle versioni dello scenario oltre i 60 giorni a scopo di audit, salva e archivia una blueprint dello scenario in una posizione concordata.
 
 
 ## Aggiungere alla terminologia
