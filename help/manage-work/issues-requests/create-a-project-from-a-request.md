@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
@@ -25,7 +26,7 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 230
 ht-degree: 3%
@@ -41,10 +42,10 @@ Il video illustra come convertire un problema o una richiesta in un progetto.
 ## Concetti chiave
 
 * **Processo di conversione:** Per convertire un problema o una richiesta in un progetto, selezionare il problema, utilizzare il menu a tre punti e scegliere un&#39;opzione di conversione, preferibilmente utilizzando un modello. &#x200B;
-* **Selezione modello:** L&#39;utilizzo di un modello è consigliato per coerenza e semplicità. &#x200B; È possibile rivedere e selezionare il modello appropriato in base ai requisiti del progetto. 
-* **Dettagli progetto:** Il nome e la descrizione del progetto sono copiati dal problema per impostazione predefinita, ma possono essere modificati. &#x200B; anche i moduli personalizzati del problema vengono riportati al progetto. 
-* **Risoluzione problema:** Puoi scegliere di mantenere il problema originale associato al progetto, impedendo che venga contrassegnato come risolto fino al completamento del progetto. &#x200B; In alternativa, il problema può essere eliminato al momento della conversione. 
-* **Accesso e visibilità:** Puoi concedere l&#39;accesso al progetto al richiedente. &#x200B; Il progetto convertito sarà visibile nella colonna &quot;convertito in&quot;, che indica se è stato convertito in un&#39;attività o in un progetto. 
+* **Selezione modello:** L&#39;utilizzo di un modello è consigliato per coerenza e semplicità. &#x200B; È possibile rivedere e selezionare il modello appropriato in base ai requisiti del progetto. &#x200B;
+* **Dettagli progetto:** Il nome e la descrizione del progetto sono copiati dal problema per impostazione predefinita, ma possono essere modificati. &#x200B; anche i moduli personalizzati del problema vengono riportati al progetto. &#x200B;
+* **Risoluzione problema:** Puoi scegliere di mantenere il problema originale associato al progetto, impedendo che venga contrassegnato come risolto fino al completamento del progetto. &#x200B; In alternativa, il problema può essere eliminato al momento della conversione. &#x200B;
+* **Accesso e visibilità:** Puoi concedere l&#39;accesso al progetto al richiedente. &#x200B; Il progetto convertito sarà visibile nella colonna &quot;convertito in&quot;, che indica se è stato convertito in un&#39;attività o in un progetto. &#x200B;
 
 
 ## Tutorial consigliati su questo argomento
