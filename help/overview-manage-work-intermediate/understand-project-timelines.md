@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # Comprendere le timeline dei progetti
 
-In questo video scoprirai:
-
-* Gestione di base della timeline del progetto
-* Pianificazione dei progetti dalla data di inizio o di completamento
-* Vincoli delle attività
-
->[!VIDEO](https://video.tv.adobe.com/v/3435843/?captions=ita&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->Per una spiegazione più completa dei tipi di durata e dei vincoli delle attività, consulta [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=it).
+{{$include /help/_includes/understand-project-timelines.md}}

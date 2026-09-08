@@ -12,62 +12,19 @@ last-substantial-update: '2023-05-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:04.428Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 397
-ht-degree: 12%
+source-wordcount: 39
+ht-degree: 0%
 
 ---
 
 # Esplora la visualizzazione [!UICONTROL Gantt] per la gestione dei progetti
 
-Nel video viene illustrato come utilizzare il Diagramma di Gantt del progetto e il Diagramma di Gantt delle attività per visualizzare e gestire attività e progetti in modo efficace. &#x200B; grafici di Gantt forniscono una visione d&#39;insieme di attività, modelli e progetti e sono comunemente utilizzati all&#39;interno dei portfolio per comprendere le relazioni tra i progetti, in particolare quelli che condividono le risorse. 
-
-**Le caratteristiche principali del diagramma di Gantt del progetto includono:**
-
-* Visualizzazione delle date effettive (triangoli verdi), della percentuale di completamento, dei rombi delle milestone, delle linee delle milestone e dei predecessori dei progetti incrociati&#x200B;
-* Indicatori di stato di avanzamento: verde (puntuale), giallo (a rischio) e rosso (nei guai).
-* Visualizzazione delle date di inizio e di completamento previste insieme alle date pianificate.
-* Visualizzazione delle attività all&#39;interno dei progetti per una rapida panoramica.
-
-**Le caratteristiche principali del diagramma di Gantt attività includono:**
-
-* Visualizzazione di date effettive, assegnazioni (proprietario task e percentuale di allocazione), previsioni, date di conferma e percentuale di completamento.
-* Evidenziare il percorso critico (rosso) e contrassegnare le attività cardine con rombi o linee.
-* Verifica dei predecessori all’interno e tra progetti.&#x200B;
-* Indicatori di stato di avanzamento: verde (puntuale), giallo (dietro), azzurro (a rischio) e rosso (in ritardo).
-* Visualizzazione delle date previste per le attività.
-
-Il video sottolinea la flessibilità dei grafici di Gantt, consentendo agli utenti di personalizzare le viste e visualizzare più elementi contemporaneamente per una migliore gestione del progetto.
-
->[!VIDEO](https://video.tv.adobe.com/v/3448014/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafico di Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=it).
-
-## Concetti chiave
-
-* **Panoramica generale:** i diagrammi di Gantt forniscono una panoramica completa di attività, progetti e portfolio, semplificando la comprensione delle relazioni e della condivisione delle risorse tra i progetti. &#x200B;
-* **Tracciamento avanzamento:** gli indicatori di stato avanzamento (verde, giallo, rosso e azzurro) consentono di monitorare le timeline dei progetti e delle attività, evidenziando gli stati puntuale, a rischio, in ritardo o in ritardo. &#x200B;
-* **Gestione milestone:** i rombi e le linee delle milestone contrassegnano visivamente le date di completamento chiave, facilitando il tracciamento dell&#39;avanzamento delle milestone all&#39;interno dei progetti. &#x200B;
-* **Informazioni sul predecessore:** Puoi controllare facilmente i predecessori di più progetti e attività specifiche, garantendo che le dipendenze siano chiare e gestibili. &#x200B;
-* **Opzioni di personalizzazione:** gli utenti possono visualizzare date effettive, date previste, previsioni, assegnazioni e altro ancora, adattando la visualizzazione del diagramma di Gantt alle loro esigenze specifiche.
-
-
-## Tutorial consigliati su questo argomento
-
-* [Gestire un progetto con lo stato corrente](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Esplora la vista Bacheca per la gestione delle attività](/help/manage-work/projects/understand-the-board-view.md)
-
+{{$include /help/_includes/understand-the-gantt-view.md}}
