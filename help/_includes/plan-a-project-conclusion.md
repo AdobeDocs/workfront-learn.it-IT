@@ -7,7 +7,7 @@ ht-degree: 94%
 ---
 # Pianificare un progetto - Revisione - CONDIVISO
 
-Rendi i tuoi progetti [!DNL  Workfront] rapidamente operativi utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
+Rendi i tuoi progetti [!DNL &#x200B; Workfront] rapidamente operativi utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
 
 1. Attività
 1. Durata
