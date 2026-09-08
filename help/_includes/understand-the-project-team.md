@@ -9,7 +9,7 @@ ht-degree: 3%
 
 Questo video illustra cosa può essere utilizzato il team di progetto e come gestirlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444597/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 ## Concetti chiave
 
