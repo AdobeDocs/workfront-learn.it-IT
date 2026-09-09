@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:23.948Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 68%
+source-wordcount: 34
+ht-degree: 58%
 
 ---
 
 # Modificare il team di progetto in un modello
 
-In questo video scoprirai:
-
-* Come evitare di includere involontariamente **non** membri del team di progetto in un modello di progetto.
-* Come modificare il team del modello di progetto.
-
->[!VIDEO](https://video.tv.adobe.com/v/3441558/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Creare un modello di progetto ed esplorare i blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [Condivisione efficace di un modello di progetto](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [Disattivare un modello di progetto](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-
+{{$include /help/_includes/edit-the-project-team-in-a-project-template.md}}

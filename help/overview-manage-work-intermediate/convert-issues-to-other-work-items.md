@@ -23,25 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # Convertire un problema/richiesta in un’attività
 
-Questo video illustra come convertire un problema o una richiesta in un’attività.
-
->[!VIDEO](https://video.tv.adobe.com/v/3445438/?captions=ita&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->Non è possibile aggiungere problemi alla timeline del progetto, poiché rappresentano “lavoro non pianificato”. La timeline del progetto è per “lavoro pianificato”, ovvero attività.
-
-## Tutorial consigliati su questo argomento
-
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

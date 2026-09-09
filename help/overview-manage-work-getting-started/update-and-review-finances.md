@@ -1,6 +1,6 @@
 ---
 title: Aggiornare e rivedere i dati finanziari
-description: Scopri come esaminare le informazioni finanziarie associate a un progetto in [!DNL &#x200B; Workfront].
+description: Scopri come esaminare le informazioni finanziarie associate a un progetto in [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -22,45 +22,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:25:38.036Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 258
-ht-degree: 92%
+source-wordcount: 20
+ht-degree: 100%
 
 ---
 
 # Aggiornare e rivedere i dati finanziari
 
-Se l’organizzazione utilizza [!DNL Workfront] per tenere traccia delle informazioni finanziarie relative al progetto, la revisione delle spese e la creazione di record di fatturazione potrebbero far parte del processo di chiusura di un progetto.
-
->[!NOTE]
->
->Molti clienti [!DNL Workfront] gestiscono le proprie spese e i dati finanziari del progetto in un sistema di terze parti, anziché in [!DNL Workfront]. Pertanto, prima di chiudere un progetto, potrebbe essere necessario di seguire diversi processi o linee guida per l’aggiornamento e la revisione delle informazioni finanziarie.
-
-
-## Spese
-
-Le spese possono essere registrate su singole attività o sul progetto stesso. Indipendentemente dall’elemento per il quale vengono registrate, è possibile visualizzare tutte le spese nella sezione [!UICONTROL Spese] del progetto stesso.
-
-![[!UICONTROL Sezione Spese] di un progetto](assets/expense-section.png)
-
-## Record di fatturazione
-
-I record di fatturazione vengono utilizzati in [!DNL Workfront] per raccogliere ore fatturabili, spese fatturabili, ricavi fatturabili e importi fatturabili aggiuntivi in un unico record e importo. Spesso questi vengono esportati da [!DNL Workfront] in un sistema di fatturazione o contabilità di terze parti.
-
-Per creare e visualizzare i record di fatturazione, devi avere accesso ai dati finanziari in [!DNL Workfront].
-
-## Dettagli finanziari
-
-Uno sguardo alle informazioni sulla [!UICONTROL Finanza] nei [!UICONTROL Dettagli progetto] consente di visualizzare i numeri effettivi per benefici, entrate e costi.
-
-![Sezione Finanze della finestra [!UICONTROL Dettagli progetto] su un progetto](assets/finance-section-project-details.png)
-
-La maggior parte delle informazioni finanziarie contenute nei [!UICONTROL Dettagli progetto] viene impostata durante la creazione del progetto e i numeri che vedi qui si basano su tali informazioni. Quando si chiude un progetto, non è necessario aggiornare o aggiungere dati finanziari.
-
-<!--
-learn more urls
-Create billing records
-Manage project expenses
-Project finances
--->
+{{$include /help/_includes/update-and-review-finances.md}}

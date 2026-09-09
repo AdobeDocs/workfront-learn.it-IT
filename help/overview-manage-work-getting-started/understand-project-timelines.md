@@ -23,23 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:48.210Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Comprendere le timeline dei progetti
 
-In questo video scoprirai:
-
-* Gestione di base della timeline del progetto
-* Pianificazione dei progetti dalla data di inizio o di completamento
-* Vincoli delle attività
-
->[!VIDEO](https://video.tv.adobe.com/v/3435843/?captions=ita&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->Per una spiegazione più completa dei tipi di durata e dei vincoli delle attività, consulta [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=it).
+{{$include /help/_includes/understand-project-timelines.md}}

@@ -1,6 +1,6 @@
 ---
 title: Registrare e rivedere gli orari
-description: Registra le ore in sospeso e controlla quelle registrate prima di chiudere un progetto in  [!DNL &#x200B; Workfront].
+description: Registra le ore in sospeso e controlla quelle registrate prima di chiudere un progetto in  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 57
-ht-degree: 80%
+source-wordcount: 20
+ht-degree: 100%
 
 ---
 
 # Registrare e rivedere gli orari
 
-In questo video scoprirai come:
-
-* Rivedi le ore registrate in un progetto
-* Approva ore progetto se necessario
-
->[!VIDEO](https://video.tv.adobe.com/v/3441077/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
-* [Completare le approvazioni](/help/manage-work/close-a-project/complete-approvals.md)
-* [Caricare le risorse](/help/manage-work/close-a-project/upload-assets.md)
-* [Registrare le lezioni apprese](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+{{$include /help/_includes/log-and-review-hours.md}}

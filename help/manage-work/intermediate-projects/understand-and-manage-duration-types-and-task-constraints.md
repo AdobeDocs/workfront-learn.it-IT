@@ -23,30 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:58:15.610Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 184
-ht-degree: 93%
+source-wordcount: 33
+ht-degree: 63%
 
 ---
 
 # Tipi di durata principale e vincoli delle attività
 
-Questo video illustra le seguenti informazioni sui tipi di durata e i vincoli delle attività:
-
-* Cosa sono e come funzionano
-* Errori comuni commessi dai project manager
-* Come visualizzarli tutti nel progetto
-* Come sapere quando devono essere corretti
-* Come correggerli
-* Best practice per il loro utilizzo
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3422826/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-
-Per informazioni su come creare una vista con tipi di durata e vincoli delle attività, consulta l’attività **Vista tipi di durata e vincoli delle attività** in [Crea una vista di base](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=it).
-
-Per informazioni dettagliate sui tipi di durata, consulta [Durata e tipi di attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=it).
-
-Per informazioni dettagliate sui vincoli delle attività, consulta [Vincoli delle attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=it).
+{{$include /help/_includes/understand-and-manage-duration-types-and-task-constraints.md}}

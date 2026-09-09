@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:13:29.079Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # Gestire le assegnazioni dei problemi
 
-La gestione dei problemi è una responsabilità importante del project manager e di coloro a cui è assegnato il lavoro su tali problemi.
-
-In questo video scoprirai come:
-
-* Assegnare un problema
-* Trovare un’assegnazione di problema
-* Aggiornare lo stato di avanzamento sui problemi
-* Aggiornare lo stato del problema
-
->[!VIDEO](https://video.tv.adobe.com/v/3446963/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Gestire il lavoro non pianificato](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
-* [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/manage-issue-assignments.md}}

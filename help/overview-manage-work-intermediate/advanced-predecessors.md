@@ -24,35 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 159
-ht-degree: 96%
+source-wordcount: 23
+ht-degree: 100%
 
 ---
 
 # Predecessori avanzati
 
-
->[!PREREQUISITES]
->
->* [Sequenza efficace delle attività in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=it)
->* Oppure sei già in grado di utilizzare i predecessori nei tuoi progetti
-
-
-In questo video scoprirai:
-
-* Dipendenze delle attività
-* Tipi di attesa
-* Predecessori imposti
-* Errori del ciclo di dipendenza
-* Scelte rapide e best practice
-
->[!VIDEO](https://video.tv.adobe.com/v/3454537/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-Per ulteriori informazioni sull’utilizzo dei predecessori, consulta [Utilizza i predecessori delle attività](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=it).
-
-Per ulteriori informazioni sui vincoli delle attività, consulta [Comprendere e gestire i tipi di durata e i vincoli delle attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=it).
-
-Per ulteriori informazioni sui predecessori tra progetti, consulta [Comprendere i predecessori tra progetti](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=it).
-
+{{$include /help/_includes/advanced-predecessors.md}}

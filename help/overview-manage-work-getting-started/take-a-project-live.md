@@ -24,23 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:31:02.064Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 52
+source-wordcount: 21
 ht-degree: 100%
 
 ---
 
 # Lancia un progetto live
 
-In questo video scoprirai come:
-
-* Rendere attivo un progetto utilizzando lo stato del progetto
-
->[!VIDEO](https://video.tv.adobe.com/v/3438997/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
+{{$include /help/_includes/take-a-project-live.md}}

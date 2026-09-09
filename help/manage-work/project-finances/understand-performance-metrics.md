@@ -24,44 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:49:39.708Z'
-source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 425
-ht-degree: 7%
+source-wordcount: 34
+ht-degree: 17%
 
 ---
 
 # Comprendere le metriche delle prestazioni
 
-Il video illustra le metriche e le impostazioni delle prestazioni finanziarie per la gestione dei progetti. &#x200B; punti chiave includono:
-
-**Panoramica delle metriche delle prestazioni:** Le metriche quali l&#39;indice delle prestazioni dei costi, l&#39;indice delle prestazioni della pianificazione, l&#39;indice delle prestazioni della pianificazione dei costi e il completamento stimato sono disponibili nella scheda Dettagli progetto e nella sezione Finanza. &#x200B; Documentazione per i calcoli è accessibile tramite i collegamenti a bolle di informazioni.
-
-**Metodo indice prestazioni (PIM):** Il project manager può selezionare il metodo per calcolare l&#39;indice prestazioni costi (CPI) e la stima al completamento (EAC), in base alle ore (completamento in ore) o in base ai costi (completamento in denaro). &#x200B; gli amministratori di sistema possono impostare il metodo predefinito a livello globale, ma i project manager possono modificarlo per singoli progetti. &#x200B;
-
-**Calcolo stima al completamento (EAC):** Gli amministratori di sistema possono impostare il metodo di calcolo predefinito a livello globale, con due opzioni:
-* **Rollup da attività/sottoattività:** Aggiunge valori di stima al completamento dalle attività figlio, ma esclude le ore aggiunte direttamente alle attività padre o a livello di progetto. &#x200B;
-* **Calcolato a livello di progetto:** Include i valori stimati al completamento delle attività figlio e le ore aggiunte direttamente alle attività padre o al livello di progetto. Si tratta dell’impostazione predefinita consigliata. &#x200B;
-
-Il video evidenzia la flessibilità e il controllo disponibili sia per gli amministratori di sistema che per i project manager nella gestione delle metriche e dei calcoli delle prestazioni. &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops=1)
-
-## Concetti chiave
-
-
-* **Accesso alle metriche delle prestazioni:** Le metriche chiave come l&#39;indice delle prestazioni dei costi (CPI), l&#39;indice delle prestazioni della pianificazione (SPI) e la stima al completamento (EAC) sono disponibili nella scheda Dettagli progetto della sezione Finanza, con la documentazione disponibile tramite i collegamenti a bolle di informazioni. &#x200B;
-* **Metodo indice prestazioni:** I project manager possono scegliere tra metodi basati su ore o su costi per il calcolo delle metriche, mentre gli amministratori di sistema possono impostare un valore predefinito globale.
-* **Stima alle opzioni di calcolo del completamento:** Sono disponibili due metodi:
-   * Rollup da attività/sottoattività (esclude le ore aggiunte direttamente alle attività padre o a livello di progetto). &#x200B;
-   * Calcolato a livello di progetto (include le ore aggiunte direttamente alle attività padre o a livello di progetto). Quest&#39;ultimo è raccomandato. &#x200B;
-* **Impostazioni globali e a livello di progetto:** Gli amministratori di sistema possono impostare valori predefiniti globali per il metodo di indicizzazione delle prestazioni e la stima al completamento dei calcoli, ma i project manager possono ignorare l&#39;impostazione del metodo di indicizzazione delle prestazioni per i singoli progetti. &#x200B;
-* **Flessibilità nella gestione delle metriche:** Il sistema fornisce strumenti che consentono agli amministratori e ai project manager di personalizzare e gestire in modo efficace le metriche delle prestazioni, garantendo l&#39;adattabilità alle esigenze specifiche del progetto.
-
-## Tutorial consigliati su questo argomento
-
-* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [Impostare i tassi di cambio](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
-* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)
-* [Creare mansioni e schede di valutazione](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
+{{$include /help/_includes/understand-performance-metrics.md}}

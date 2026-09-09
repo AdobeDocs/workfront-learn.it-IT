@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:22:30.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Applicare le milestone
 
-In questo video scoprirai come:
-
-* Applicare un percorso milestone a un progetto
-* Aggiungere un’attività cardine a un’attività
-* Best practice per l’applicazione delle milestone
-
->[!VIDEO](https://video.tv.adobe.com/v/3430285/?captions=ita&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Per informazioni su come creare una vista Milestone, consulta l’attività di vista Milestone in [Creare una visualizzazione di base](/help/reporting/basic-reporting/create-a-basic-view.md).
-
-## Tutorial consigliati su questo argomento
-
-* [Visualizzare le milestone](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [Creare le milestone](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [Attività di vista Milestone in Crea una visualizzazione di base](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/apply-milestones.md}}

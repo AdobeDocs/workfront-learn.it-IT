@@ -23,29 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:21:23.208Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: 18
 ht-degree: 100%
 
 ---
 
 # Copia un progetto esistente
 
-A volte, invece di utilizzare un modello per creare un progetto, è sufficiente copiare un progetto per un altro utilizzo occasionale. A questo scopo, è necessario disporre di una licenza standard, con accesso Modifica e Crea ai progetti.
-
-Passa al progetto che desideri copiare e fai clic sul menu a 3 punti accanto al nome del progetto. Quindi seleziona Copia.
-
-![Opzione di menu Copia progetto](assets/copy-existing-01.png)
-
-La finestra Copia progetto consente di modificare il titolo e lo stato, nonché di cancellare una serie di dati associati al progetto, ad esempio assegnazioni, documenti e dati personalizzati.
-
-![Opzioni Copia progetto](assets/copy-existing-02.png)
-
-Se si seleziona Cancella assegnazioni o si imposta lo stato su Pianificazione, il progetto copiato non invierà le notifiche di assegnazione delle attività subito dopo la copia.
-
-## Tutorial consigliati su questo argomento
-
-* [Creare un progetto direttamente da un modello](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-* [Utilizzare le attività](/help/manage-work/tasks/work-with-tasks.md)
-* [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/copy-an-existing-project.md}}

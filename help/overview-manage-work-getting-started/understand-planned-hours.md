@@ -26,29 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:28:28.496Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 27
 ht-degree: 100%
 
 ---
 
 # Informazioni sulle ore pianificate
 
-In questo video scoprirai:
-
-* Cosa sono le “ore pianificate” in Workfront
-* Perché le ore pianificate sono importanti per un progetto
-* Come stimare le ore pianificate
-* Come aggiungere ore pianificate alle attività
-
->[!VIDEO](https://video.tv.adobe.com/v/3445341/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-
-## Tutorial e articoli consigliati su questo argomento
-
-* [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
-* [Scoprire come ordinare le attività](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
-* [Panoramica dei timesheet](https://experienceleague.adobe.com/it/docs/workfront/using/timesheets/details/timesheets-overview)
-* [Registrare le ore](https://experienceleague.adobe.com/it/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+{{$include /help/_includes/understand-planned-hours.md}}

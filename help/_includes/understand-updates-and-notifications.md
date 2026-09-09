@@ -1,0 +1,21 @@
+---
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+workflow-type: tm+mt
+source-wordcount: '23'
+ht-degree: 78%
+
+---
+# Comprendere aggiornamenti e notifiche - CONDIVISO
+
+In questo video scoprirai come:
+
+* Effettuare aggiornamenti personalizzati sulle richieste di approvazione
+* Trovare le notifiche in Workfront
+
+>[!VIDEO](https://video.tv.adobe.com/v/3440155/?captions=ita&quality=12&learn=on&enablevpops=1)
+
+<!--
+learn more URLS
+Tag others on updates
+Update work
+-->

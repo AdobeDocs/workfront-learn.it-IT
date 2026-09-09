@@ -11,22 +11,13 @@ team: Technical Marketing
 jira: KT-8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '27'
 ht-degree: 100%
 
 ---
 
 # Allegare e modificare i processi di approvazione esistenti
 
-In questo video scoprirai come:
-
-* Usa un processo di approvazione esistente
-* Modificare un processo di approvazione esistente per un progetto, attività o problema specifico
-
->[!VIDEO](https://video.tv.adobe.com/v/3414474/?quality=12&learn=on&enablevpops=1&captions=ita)
-
-<!--
-learn more URLS
--->
+{{$include /help/_includes/attach-and-edit-existing-approval-processes.md}}

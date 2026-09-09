@@ -9,34 +9,13 @@ role: User
 level: Beginner
 jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # Pianificare un progetto - Revisione
 
-Rendi i tuoi progetti [!DNL  Workfront] rapidamente operativi utilizzando un modello di progetto. Quindi, pianifica il progetto concentrandoti prima su questi cinque campi:
-
-1. Attività
-1. Durata
-1. Lavoro Necessario
-1. Predecessori
-1. Assegnazioni
-
-Una volta impostato tutto, modifica lo stato del progetto in Corrente per renderlo attivo. Con l’avanzare del progetto, desidererai tenere traccia del lavoro svolto, dei problemi che sorgono, delle domande a cui è necessario dare risposta e molto altro. Ricorda... puoi trovare e gestire tutte queste informazioni in [!DNL Workfront]!
-
-<!--
-footer urls for the LP
-Plan a project 
-Edit projects
-Overview of the project planned start date
-Overview of the project planned completion date
-Tasks overview
-Task duration and duration types 
-Use task predecessors 
-Modify multiple user assignments in a task list
-Notifications: Information about work assigned to me 
--->
+{{$include /help/_includes/plan-a-project-conclusion.md}}

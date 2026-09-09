@@ -24,34 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:31.448Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # Comprendere la comunicazione del progetto
 
-Questo video illustra come comunicare con tutti gli stakeholder del progetto utilizzando:
-
-* Una buona pianificazione del progetto
-* Aggiornamenti
-* Lo stato attività e percentuale di completamento
-* Problemi
-* Rapporti
-
->[!VIDEO](https://video.tv.adobe.com/v/3436152/?captions=ita&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->Per creare il rapporto Ricerca nota mostrato nel video, guarda l’attività nel tutorial [Creare un rapporto di attività](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=it).
->
->Per aggiungere il rapporto Ricerca nota al pannello del progetto, guarda l’attività nel tutorial [Creare dashboard](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=it).
-
-## Tutorial consigliati su questo argomento
-
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Trovare i progetti](/help/manage-work/projects/find-projects.md)
-* [Condividere un progetto](/help/manage-work/projects/share-a-project.md)
-* [Comprendere il team di progetto](/help/manage-work/projects/understand-the-project-team.md)
+{{$include /help/_includes/understand-project-communication.md}}

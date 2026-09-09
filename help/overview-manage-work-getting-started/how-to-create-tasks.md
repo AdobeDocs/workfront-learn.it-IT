@@ -23,24 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:33:22.173Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # Creare le attività
 
-In questo video scoprirai:
-
-* La lunga strada per la creazione di un’attività in un progetto Workfront
-* Alcune scelte rapide utili per la creazione di attività
-
->[!VIDEO](https://video.tv.adobe.com/v/3423158/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Comprendere le attività principali e secondarie](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [Utilizzare le attività](/help/manage-work/tasks/work-with-tasks.md)
-* [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/how-to-create-tasks.md}}

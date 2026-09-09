@@ -24,18 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:04:49.686Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 42
+source-wordcount: 20
 ht-degree: 100%
 
 ---
 
 # Visualizzare le milestone
 
-In questo video scoprirai come:
-
-* Visualizzare le milestone in un progetto specifico
-* Leggere la vista Milestone nell’area [!UICONTROL Progetto]
-
->[!VIDEO](https://video.tv.adobe.com/v/3415902/?captions=ita&quality=12&learn=on&enablevpops=1)
+{{$include /help/_includes/view-milestones.md}}

@@ -25,25 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:05:40.406Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 64
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # Aggiornare una richiesta
 
-In questo video scoprirai come:
-
-* Trovare le richieste inviate
-* Effettuare un aggiornamento nel pannello Riepilogo
-* Aprire la pagina della richiesta
-* Aggiornare una richiesta nel pannello [!UICONTROL Aggiornamenti]
-
->[!VIDEO](https://video.tv.adobe.com/v/3422299/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Effettuare una richiesta](/help/manage-work/issues-requests/make-a-request.md)
-* [Trovare e gestire le richieste](/help/manage-work/issues-requests/find-requests.md)
+{{$include /help/_includes/update-a-request.md}}

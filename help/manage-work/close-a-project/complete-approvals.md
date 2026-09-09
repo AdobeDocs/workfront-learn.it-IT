@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:02:44.128Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 78
-ht-degree: 66%
+source-wordcount: 31
+ht-degree: 48%
 
 ---
 
 # Risolvere le approvazioni di attività e problemi
 
-In questo video scoprirai:
-
-* Come trovare e gestire le approvazioni di attività non risolte
-* Come trovare e gestire le approvazioni dei problemi non risolte
-
->[!VIDEO](https://video.tv.adobe.com/v/3439432/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
-* [Caricare e gestire le risorse del progetto](/help/manage-work/close-a-project/upload-assets.md)
-* [Registrare gli insegnamenti appresi per i progetti futuri](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Registra e rivedi le ore del progetto](/help/manage-work/close-a-project/log-and-review-hours.md)
-
-
+{{$include /help/_includes/complete-approvals.md}}

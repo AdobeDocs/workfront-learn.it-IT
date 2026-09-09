@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:29.285Z'
-source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 13%
+source-wordcount: 23
+ht-degree: 0%
 
 ---
 
 # Registrare gli insegnamenti appresi per i progetti futuri
 
-Questo video illustra i vantaggi di:
-
-* Creazione di un&#39;attività &quot;lezioni apprese&quot;
-* Allegare un modulo personalizzato &quot;Lezioni apprese&quot; al progetto
-* Creazione di rapporti personalizzati sulle lezioni apprese
-* Creazione di un progetto basato sulle esperienze acquisite
-
->[!VIDEO](https://video.tv.adobe.com/v/3441020/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Modificare lo stato del progetto in Completato](/help/manage-work/projects/change-the-project-status.md)
-* [Risolvere le approvazioni di attività e problemi](/help/manage-work/close-a-project/complete-approvals.md)
-* [Caricare e gestire le risorse del progetto](/help/manage-work/close-a-project/upload-assets.md)
-* [Registra e rivedi le ore del progetto](/help/manage-work/close-a-project/log-and-review-hours.md)
-
+{{$include /help/_includes/lessons-learned-from-closing-a-project.md}}

@@ -25,32 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:17:10.423Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 31
 ht-degree: 100%
 
 ---
 
 # Trovare e gestire le richieste
 
-Questo video illustra come trovare le richieste a cui sei assegnato, le richieste che hai creato e le richieste che gestisci.
-
-Scopri come trovare queste richieste nelle seguenti aree:
-
-* [!UICONTROL Home] di Workfront
-* L’area [!UICONTROL Richieste]
-* La pagina [!UICONTROL Team]
-* In un dashboard personalizzato
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3441662/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-
-## Tutorial consigliati su questo argomento
-
-* [Comprendere le code di richieste](/help/manage-work/request-queues/understand-request-queues.md)
-* [Effettuare una richiesta](/help/manage-work/issues-requests/make-a-request.md)
-* [Aggiornare una richiesta](/help/manage-work/issues-requests/update-a-request.md)
-* [Convertire un problema o una richiesta in un progetto](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [Convertire un problema/richiesta in un’attività](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/find-requests.md}}

@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:31.389Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 40
 ht-degree: 100%
 
 ---
 
 # Introduzione alla pianificazione di un progetto
 
-In questo video scoprirai:
-
-* I cinque componenti principali di un progetto
-* Cosa significa lo stato della pianificazione
-* In che modo una [!UICONTROL Vista] può aiutarti a visualizzare le informazioni di cui hai bisogno
-* Come impostare la data di inizio o di completamento
-
->[!VIDEO](https://video.tv.adobe.com/v/3448575/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-## Tutorial consigliati su questo argomento
-
-* [Creare le attività](/help/manage-work/tasks/how-to-create-tasks.md)
-* [Utilizzare le attività](/help/manage-work/tasks/work-with-tasks.md)
-* [Assegnare attività dal piano di progetto](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [Comprendere le durate delle attività](/help/manage-work/tasks/understand-task-durations.md)
-* [Scoprire come ordinare le attività](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [Informazioni sulle ore pianificate](/help/manage-work/tasks/understand-planned-hours.md)
-* [Comprendere l’[!UICONTROL Impegno di lavoro]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/getting-started-plan-a-project.md}}

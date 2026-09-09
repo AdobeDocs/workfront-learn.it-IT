@@ -27,32 +27,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T18:54:38.081Z'
-source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 277
-ht-degree: 18%
+source-wordcount: 29
+ht-degree: 100%
 
 ---
 
 # Impostare i tassi di cambio
 
-Il video fornisce una guida sulla gestione delle valute nel sistema di tracciamento finanziario di Workfront. &#x200B; Spiega che la valuta predefinita è il dollaro statunitense, ma è possibile impostare valute aggiuntive a livello globale o per singoli progetti e mansioni.
-Il video sottolinea che il sistema non fornisce i tassi di cambio correnti, quindi gli utenti devono rifornirli esternamente. &#x200B; Una volta impostati, i tassi di cambio diventano il valore predefinito per i progetti o le mansioni, ma non vengono aggiornati automaticamente; gli utenti con le autorizzazioni appropriate devono aggiornarli manualmente. &#x200B; Dopo aver impostato le valute, gli utenti possono creare nuovi progetti e selezionare tra le opzioni di valuta disponibili, con la possibilità di personalizzare i tassi di cambio per i singoli progetti. &#x200B;
-
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
-
-## Concetti chiave
-
-* **Valuta predefinita:** La valuta predefinita del sistema è il dollaro statunitense, ma può essere modificata a livello globale o per singoli progetti e mansioni. &#x200B;
-* **Aggiunta di valute:** È possibile impostare valute aggiuntive insieme ai relativi tassi di cambio nell&#39;area di impostazione. &#x200B;
-* **Aggiornamenti manuali dei tassi di cambio:** Il sistema non fornisce i tassi di cambio correnti. Gli utenti devono inserirli manualmente e esternamente. &#x200B;
-* **Personalizzazione specifica del progetto:** I tassi di cambio impostati nell&#39;area di configurazione vengono utilizzati come valori predefiniti, ma gli utenti possono personalizzare i tassi di cambio per i singoli progetti. &#x200B;
-* **Aggiornamenti e autorizzazioni:** Le modifiche nell&#39;area di installazione non aggiornano automaticamente i progetti esistenti. L’aggiornamento dei tassi di cambio per i progetti o le mansioni richiede le autorizzazioni utente appropriate.
-
-## Tutorial consigliati su questo argomento
-
-* [Comprendere le metriche delle prestazioni](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [Impostare i valori predefiniti dei ricavi e dei costi delle attività](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [Impostare i tipi di spesa](/help/manage-work/project-finances/set-up-expense-types.md)
-* [Informazioni sull’accesso finanziario](/help/manage-work/project-finances/understand-financial-access.md)
-* [Creare mansioni e schede di valutazione](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
+{{$include /help/_includes/set-up-exchange-rates.md}}

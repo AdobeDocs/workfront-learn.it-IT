@@ -24,28 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 72%
+source-wordcount: 35
+ht-degree: 54%
 
 ---
 
 # Tracciare l’avanzamento utilizzando la percentuale di completamento e lo stato di avanzamento
 
-Assicurati che le attività procedano come dovrebbero per rispettare le scadenze del progetto.
-
-In questo video scoprirai:
-
-* Percentuale completata
-* Stato di avanzamento
-
->[!VIDEO](https://video.tv.adobe.com/v/3438216/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-
-## Tutorial consigliati su questo argomento
-
-* [Esplorare le timeline dei progetti in Workfront](/help/manage-work/project-timelines/understand-project-timelines.md)
-* [Comprendere i tipi di data e lo stato di avanzamento](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-
-
+{{$include /help/_includes/track-work-progress-from-the-project-timeline.md}}

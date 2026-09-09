@@ -23,37 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:05:15.685Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: 29
 ht-degree: 100%
 
 ---
 
 # Impostare i tassi di cambio
 
-[!DNL Workfront] supporta valute diverse per le organizzazioni clienti che sono multinazionali. I tassi di cambio nei progetti e nei rapporti possono essere utilizzati per riflettere le informazioni finanziarie nelle diverse valute di tutto il mondo.
-
-I tassi di cambio vengono gestiti dagli amministratori di sistema. Se necessario, è possibile impostare ulteriori valute per l’organizzazione.
-
-La valuta di base predefinita di Workfront è il dollaro statunitense. Questa è la valuta in cui verranno calcolate le informazioni finanziarie per impostazione predefinita. Questa impostazione predefinita può essere modificata a livello globale e su singoli progetti.
-
-## Impostare valute e tassi di cambio
-
-![Immagine della selezione dei tassi di cambio](assets/setting-up-finances-4.png)
-
-**Seleziona [!UICONTROL Configurazione] dal menu principale.**
-
-1. Espandi **[!UICONTROL Preferenze progetto]** nel pannello del menu a sinistra.
-1. Fai clic su **[!UICONTROL Tassi di cambio]**.
-1. Fai clic sul pulsante **[!UICONTROL Aggiungi valuta]**.
-1. Seleziona la valuta del paese dal menu a discesa.
-1. Immetti il tasso di cambio desiderato per la valuta.
-1. Se la valuta di base (predefinita) del sistema di [!DNL Workfront] deve essere una valuta diversa dal dollaro statunitense, fai clic sul pulsante accanto al nome della valuta.
-1. Quando tutte le valute sono state aggiunte, fai clic su **[!UICONTROL Salva]**.
-
-![Immagine dell’aggiunta di una valuta all’elenco dei tassi di cambio](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront non aggiorna né tiene traccia dei valori di mercato correnti per i tassi di cambio. Se necessario, gli aggiornamenti devono essere eseguiti manualmente.
+{{$include /help/_includes/set-up-exchange-rates.md}}

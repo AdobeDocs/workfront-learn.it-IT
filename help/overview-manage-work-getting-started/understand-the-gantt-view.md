@@ -24,27 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 106
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
 # Comprendere la vista [!UICONTROL Gantt]
 
-In questo video scoprirai come utilizzare:
-
-* il grafico di Gantt del progetto
-* Il grafico di Gantt dell’attività
-
->[!VIDEO](https://video.tv.adobe.com/v/3448014/?captions=ita&quality=12&learn=on&enablevpops=1)
-
-Per ulteriori informazioni, consulta l’articolo online, [Introduzione al grafico di Gantt](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=it).
-
-## Tutorial consigliati su questo argomento
-
-* [Introduzione alla gestione di un progetto](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Tracciare l’avanzamento complessivo del progetto](/help/manage-work/projects/track-overall-project-progress.md)
-* [Tenere traccia dell’avanzamento del lavoro con le metriche del progetto](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Comprendere la vista [!UICONTROL Bacheca]](/help/manage-work/projects/understand-the-board-view.md)
+{{$include /help/_includes/understand-the-gantt-view.md}}
