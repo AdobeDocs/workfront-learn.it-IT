@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 146
-ht-degree: 26%
+source-wordcount: 154
+ht-degree: 24%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Workfront non è concepito per sostituire il software di tracciamento fina
 >* Tipo di licenza standard con diritti per la modifica dei dati finanziari
 
 
-* [Aggiorna e rivedi dati finanziari](update-and-review-finances.md) - Scopri come esaminare le informazioni finanziarie associate a un progetto.
-* [Trova informazioni finanziarie](find-financial-information.md) - Scopri come trovare informazioni finanziarie su un progetto e da dove proviene.
-* [Comprendere più tariffe di fatturazione](multiple-billing-rates.md) - Scopri come sostituire le tariffe di fatturazione di sistema all&#39;interno di un progetto specifico.
+* [Accedere e gestire le informazioni finanziarie per i dati finanziari del progetto](find-financial-information.md) - Scopri come trovare informazioni finanziarie su un progetto e da dove proviene.
+* [Aggiorna i dati finanziari per i progetti client](update-and-review-finances.md) - Scopri come esaminare le informazioni finanziarie associate a un progetto.
+* [Personalizzare le tariffe di fatturazione per le mansioni](multiple-billing-rates.md) - Scopri come sostituire le tariffe di fatturazione di sistema all&#39;interno di un progetto specifico.

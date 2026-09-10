@@ -7,7 +7,7 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2024-09-03T00:00:00.000Z'
+last-substantial-update: '2026-09-09T00:00:00.000Z'
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:33:15.445Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: 199
 ht-degree: 4%
 
 ---
@@ -45,4 +45,5 @@ Scopri come stabilire impostazioni finanziarie a livello di sistema per garantir
 * [Impostare i valori predefiniti per i ricavi e i costi delle attività](set-up-task-revenue-and-cost-defaults.md) - Scopri come il tipo di ricavi e di costo vengono utilizzati per calcolare le informazioni finanziarie pianificate ed effettive per un&#39;attività.
 * [Imposta tassi di cambio](set-up-exchange-rates.md) - Scopri come utilizzare i tassi di cambio nei progetti e nei report per riflettere le informazioni finanziarie in valute diverse da tutto il mondo.
 * [Imposta tipi di spesa](set-up-expense-types.md) - Scopri come utilizzare tipi di spesa predefiniti e crearne di nuovi.
+* [Creare mansioni e schede di valutazione](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md) - Scopri come creare una mansione e una scheda di valutazione e come allegare e rimuovere una scheda di valutazione da un progetto.
 * [Informazioni sull&#39;accesso finanziario](understand-financial-access.md) - Scopri come i diritti di accesso finanziario consentono agli amministratori di controllare chi può visualizzare e modificare le informazioni finanziarie tracciate in Workfront.
