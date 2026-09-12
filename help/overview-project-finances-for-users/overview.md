@@ -24,14 +24,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 22fda31ea84297a2d407fad691b863aa22130dbb
 workflow-type: tm+mt
-source-wordcount: 154
-ht-degree: 24%
+source-wordcount: 153
+ht-degree: 27%
 
 ---
 
-# Panoramica sui dati finanziari del progetto per gli utenti
+# Finanze del progetto per gli utenti
 
 Scopri come tenere traccia delle informazioni finanziarie per i progetti, impostare tipi di costi e ricavi e sovrascrivere le tariffe di fatturazione. Questo tutorial è progettato per gli utenti che terranno traccia dei dati finanziari relativi a un progetto.
 
