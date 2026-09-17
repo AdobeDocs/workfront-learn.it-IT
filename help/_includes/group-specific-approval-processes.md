@@ -1,9 +1,8 @@
 ---
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 96%
-
 ---
 # Comprendere i processi di approvazione specifici del gruppo - CONDIVISO
 
@@ -11,17 +10,17 @@ Sia gli amministratori di sistema che quelli di gruppo possono creare processi d
 
 Per un processo di approvazione che può essere utilizzato da tutti gli utenti in [!DNL Workfront], assicurati che il campo [!UICONTROL “Questa approvazione è utilizzabile da”] sia impostato su [!UICONTROL Tutti i gruppi].
 
-Finestra ![[!UICONTROL Modifica processo di approvazione] con campo gruppo evidenziato](assets/admin-fund-approval-processes-1.png)
+Finestra ![[!UICONTROL Modifica processo di approvazione] con campo gruppo evidenziato](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-1.png)
 
 Gli stati disponibili nel menu [!UICONTROL “Avvia il processo di approvazione quando lo stato è impostato su”] dipendono dalla selezione nel campo “utilizzato da”. Se il campo [!UICONTROL Tutti i gruppi] è selezionato, sono disponibili solo gli stati di blocco a livello di sistema.
 
 Per limitare un processo di approvazione per un gruppo specifico, seleziona il nome del gruppo dall’elenco per il campo [!UICONTROL “Questa approvazione è utilizzabile da”].
 
-Finestra ![[!UICONTROL Modifica processo di approvazione] con campo gruppo espanso](assets/admin-fund-approval-processes-2.png)
+Finestra ![[!UICONTROL Modifica processo di approvazione] con campo gruppo espanso](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-2.png)
 
 L’opzione [!UICONTROL Tutti i gruppi] non è disponibile per gli amministratori di gruppo.
 
 Quando viene selezionato un gruppo specifico, nel menu [!UICONTROL “Avvia il processo di approvazione quando lo stato è impostato su”] vengono visualizzati solo gli stati disponibili per tale gruppo.
 
-Finestra ![[!UICONTROL Modifica processo di approvazione] con campo di stato evidenziato](assets/admin-fund-approval-processes-3.png)
+Finestra ![[!UICONTROL Modifica processo di approvazione] con campo di stato evidenziato](/help/administration-and-setup/approval-processes-and-milestone-paths/assets/admin-fund-approval-processes-3.png)
 
