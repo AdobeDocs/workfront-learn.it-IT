@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # Esercitazione sui router
 
 Comprendere l’importanza dei router e come utilizzarli per elaborare in modo condizionale i diversi moduli.
@@ -64,14 +68,14 @@ Utilizza un router per passare i bundle Pokemon e supereroi lungo il percorso co
 
    **Successivamente, modificherai i valori mappati nei nuovi moduli clonati.**
 
-1. Vai a <https://www.superheroapi.com/> e utilizza il tuo account Facebook per ottenere un token di accesso.
+1. Vai a <https://superheroapi.com/> e fai clic su **Accedi con GitHub** per ottenere un token di accesso.
 
    >[!NOTE]
    >
    >Se hai problemi ad accedere al tuo token di supereroe, puoi utilizzare questo token condiviso: 10110256647253588. Tieni in considerazione quante volte richiami l’API supereroe in modo che questo token condiviso continui a funzionare per tutti.
 
-1. Apri le impostazioni relative all’aspetto Ottieni supereroe e modifica l’URL in `https://www.superheroapi.com/api/[access- token]/332/appearance`. Assicurati di includere il token di accesso nell’URL. Fai clic su OK.
-1. Apri le impostazioni per le abilità Ottieni supereroe e modifica l’URL in `https://www.superheroapi.com/api/[access- token]/332/powerstats`. Assicurati di includere il token di accesso nell’URL. Fai clic su OK.
+1. Apri le impostazioni relative all’aspetto Ottieni supereroe e modifica l’URL in `https://superheroapi.com/api/[access- token]/332/appearance`. Assicurati di includere il token di accesso nell’URL. Fai clic su OK.
+1. Apri le impostazioni per le abilità Ottieni supereroe e modifica l’URL in `https://superheroapi.com/api/[access- token]/332/powerstats`. Assicurati di includere il token di accesso nell’URL. Fai clic su OK.
 1. Fai clic con il pulsante destro del mouse su ciascun modulo di supereroe e seleziona Esegui solo questo modulo. Verrà generata la struttura dati necessaria per la mappatura.
 1. Dopo aver eseguito entrambi, modifica il numero “332” in ciascun campo URL in Colonna 4 mappata dal modulo Analizza CSV.
 
@@ -79,7 +83,7 @@ Utilizza un router per passare i bundle Pokemon e supereroi lungo il percorso co
 
    **Ora puoi fare clic sul modulo Imposta più variabili nel percorso di supereroe e aggiornare il nome, l’altezza, il peso e le abilità.**
 
-1. Aggiorna i campi Nome e Abilità dal modulo Ottieni abilità da supereroe (modulo 8).
+1. Aggiornare il campo Nome e i campi delle abilità dal modulo Ottieni abilità supereroistiche (Modulo 8).
 
    ![Router immagine 5](../12-exercises/assets/routers-walkthrough-5.png)
 

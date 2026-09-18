@@ -1,6 +1,6 @@
 ---
 title: Procedura dettagliata sui router
-description: Scopri come utilizzare un router per trasferire i bundle Pokemon e supereroi lungo il percorso corretto in  [!DNL Adobe Workfront Fusion].
+description: Scopri come utilizzare un router per passare i bundle Pokemon e supereroi nel percorso corretto in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 100%
-
+source-wordcount: '873'
+ht-degree: 98%
 ---
-
 # Procedura dettagliata sui router
 
 Utilizza un router per passare i bundle Pokemon e supereroi lungo il percorso corretto, quindi crea un’attività per ogni carattere.
@@ -43,9 +47,9 @@ Workfront consiglia di guardare il video della procedura dettagliata relativa al
 
 ## URL di esercizio
 
-* Sito Web API di Superhero: `https://www.superheroapi.com/`
-* Primo URL per l’esercizio: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* Secondo URL per l’esercizio: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* Sito Web API di Superhero: `https://superheroapi.com/`
+* Primo URL per l’esercizio: `https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Secondo URL per l’esercizio: `https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Se hai problemi ad accedere al tuo token di supereroe, puoi utilizzare questo token condiviso: 10110256647253588. Tieni in considerazione quante volte richiami l’API supereroe in modo che questo token condiviso continui a funzionare per tutti.
 
