@@ -32,4 +32,4 @@ ht-degree: 70%
 
 Questo video spiega come le code richieste di [!DNL &#x200B; Workfront] possono centralizzare la gestione della domanda.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437598/?captions=ita&quality=12&learn=on&enablevpops=1)
