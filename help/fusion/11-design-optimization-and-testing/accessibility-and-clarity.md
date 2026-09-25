@@ -10,24 +10,26 @@ level: Beginner
 jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
+autotag-review: '2026-05-06T16:47:51.925Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:51.925Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 718
+source-wordcount: '718'
 ht-degree: 100%
-
 ---
-
 # Accessibilità e chiarezza
 
 Nelle prime fasi del corso di formazione su Workfront Fusion, hai imparato alcune best practice di base per semplificare la lettura, la condivisione e la comprensione degli scenari. Queste procedure semplificano la risoluzione dei problemi o il supporto dell’istanza di Workfront Fusion per gli utenti futuri di Workfront Fusion. Esegui il pagamento seguendo le linee guida riportate di seguito durante la progettazione degli scenari.
@@ -38,13 +40,13 @@ Come regola generale, un obiettivo principale in Workfront Fusion è sempre quel
 
 * Assicurati di nominare tutti i moduli. Fai clic con il pulsante destro del mouse su un modulo e seleziona Rinomina. Le etichette dei moduli devono essere brevi ma comprensibili per le prestazioni del modulo. Ad esempio, “Crea Mktg Proj (progetto di marketing) con Modello Ch (Canale)”.
   ![Immagine di uno scenario con gestione dell’errore](assets/design-optimization-and-testing-1.png)
-* Etichetta anche i percorsi di indirizzamento. Anche se un percorso non utilizza un filtro direttamente dopo un router, puoi applicare un’etichetta senza compilare la logica del filtro. In questo modo altri utenti possono capire quali pacchetti passano lungo quali percorsi e perché. Per creare un’etichetta per un percorso di router senza filtro, fai clic con il pulsante destro del mouse sul percorso, aggiungi un’etichetta e salva.
+* Etichetta anche i percorsi di indirizzamento. Anche se un percorso non utilizza un filtro direttamente dopo un router, puoi applicare un’etichetta senza compilare la logica del filtro. In questo modo altri utenti possono capire quali bundle passano lungo quali percorsi e perché. Per creare un’etichetta per un percorso di router senza filtro, fai clic con il pulsante destro del mouse sul percorso, aggiungi un’etichetta e salva.
   ![Immagine di uno scenario con gestione dell’errore](assets/design-optimization-and-testing-2.png)
 * Se applicabile, aggiungi note in uno scenario quando l’etichetta di un modulo o di un percorso di indirizzamento sarà troppo breve per chiarire cosa sta effettivamente accadendo. È possibile aggiungere note ogni volta che si desidera durante il processo di progettazione e iterazione.
 
 Tuttavia, potrebbe essere più semplice da leggere e comprendere se aggiungi note alla fine del progetto dello scenario, quando sei pronto per il lancio. Lavora dalla fine della progettazione dello scenario (l’angolo in basso a destra) a ritroso. In questo modo, le note applicabili all’inizio dello scenario si trovano in cima all’elenco quando si apre il pannello note.
 
-Dopo aver salvato o chiuso il pannello note, le note vengono ordinate in base all’ultima creazione. Nell’immagine seguente, la prima nota creata viene visualizzata nella parte inferiore dell’elenco. Le note venivano create intenzionalmente dall’angolo in basso a destra fino al percorso indicato sopra e fino al trigger, essenzialmente nell’ordine inverso in cui un pacchetto di dati passava attraverso lo scenario. In questo modo le note vengono visualizzate nell’ordine in cui lo scenario viene effettivamente eseguito sul pacchetto di dati.
+Dopo aver salvato o chiuso il pannello note, le note vengono ordinate in base all’ultima creazione. Nell’immagine seguente, la prima nota creata viene visualizzata nella parte inferiore dell’elenco. Le note sono state create intenzionalmente dall’angolo in basso a destra fino al percorso indicato sopra e fino al trigger, in pratica nell’ordine inverso in cui un bundle di dati sarebbe passato attraverso lo scenario. In questo modo le note vengono visualizzate nell’ordine in cui lo scenario viene effettivamente eseguito sul bundle di dati.
 
 ![Immagine di uno scenario con gestione dell’errore](assets/design-optimization-and-testing-3.png)
 

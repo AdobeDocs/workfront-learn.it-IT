@@ -1,6 +1,6 @@
 ---
 title: Tracciare e aggiornare gli obiettivi tramite i Check-in
-description: Scopri come tracciare, aggiornare e calcolare l’avanzamento degli obiettivi in  [!DNL Workfront Goals].
+description: Scopri come tenere traccia, aggiornare e calcolare l'avanzamento degli obiettivi in [!DNL Workfront Goals].
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -9,13 +9,26 @@ role: User
 level: Beginner
 jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: '736'
-ht-degree: 100%
-
+source-wordcount: '756'
+ht-degree: 98%
 ---
-
 # Tracciare e aggiornare gli obiettivi tramite i [!UICONTROL Check-in]
 
 Una volta attivati i tuoi obiettivi, puoi metterti al lavoro per realizzarli. Ma come tracciare, aggiornare e calcolare l’avanzamento degli obiettivi? Come fai a sapere a che punto ti trovi e in che modo il tuo lavoro sta contribuendo all’avanzamento dell’obiettivo? Per aggiornare l’avanzamento dell’obiettivo, inizia con i [!UICONTROL Check-in], quindi esamina come visualizzare e comprendere lo stato dei tuoi obiettivi.
@@ -39,9 +52,9 @@ Quando esegui un [!UICONTROL Check-in] a livello di obiettivo, puoi aggiornare l
 * Fai clic sull’icona del [!UICONTROL **Menu principale**] in [!DNL Workfront], quindi fai clic su [!UICONTROL **Obiettivi**]. Si aprirà l’area [!DNL Workfront Goals]. La sezione [!UICONTROL Elenco degli obiettivi] viene visualizzata per impostazione predefinita e mostra tutti gli obiettivi che appartengono a te, ai tuoi team, ai gruppi o all’organizzazione.
 * Per accedere a un elenco di obiettivi, fai clic su una delle seguenti sezioni nel pannello a sinistra:
 
-   * [!UICONTROL Allineamento obiettivo]
-   * [!UICONTROL Pulse]
-   * [!UICONTROL Consegna]
+  * [!UICONTROL Allineamento obiettivo]
+  * [!UICONTROL Pulse]
+  * [!UICONTROL Consegna]
 
 Quando hai raggiunto una sezione con l’elenco degli obiettivi, fai clic sul nome di un obiettivo per aprire il pannello [!UICONTROL Dettagli obiettivo]. Aggiorna l’obiettivo:
 

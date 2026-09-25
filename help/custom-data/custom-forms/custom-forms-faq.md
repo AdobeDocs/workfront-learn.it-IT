@@ -8,18 +8,37 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 jira: KT-10058
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: d87de1f9-8e24-4c4d-aa4c-a403075091a1
+    internal-label: Custom forms
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
-
+source-wordcount: '326'
+ht-degree: 88%
 ---
-
 # Domande frquenti sui moduli personalizzati
 
 **Posso cambiare il tipo di visualizzazione di un campo dopo averlo creato? È possibile, ad esempio, passare da un menu a discesa a caselle di controllo?**
 
-Sì. Il tipo di visualizzazione può essere cambiato e può essere simile a quello del paragrafo, a discesa o come caselle di controllo, oppure con pulsanti di scelta, ecc. Per ulteriori informazioni sulla modifica del tipo di visualizzazione, consulta l’articolo Creare un modulo personalizzato.
+Sì. Il tipo di visualizzazione può essere cambiato e può essere simile a quello del paragrafo, a discesa o a caselle di controllo o pulsanti di scelta, ecc. Per ulteriori informazioni sulla modifica del tipo di visualizzazione, consulta l’articolo Creare un modulo personalizzato.
 
 
 **Posso utilizzare lo stesso modulo personalizzato per più oggetti? Ad esempio, un modulo che ho creato per un’attività in un progetto?**

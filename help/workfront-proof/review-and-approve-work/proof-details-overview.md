@@ -1,6 +1,6 @@
 ---
 title: Comprendere i dettagli della bozza
-description: Approfondisci i dettagli di una bozza in  [!DNL &#x200B; Workfront]  tramite il pannello di riepilogo e la pagina [!UICONTROL Dettagli documento].
+description: Approfondisci i dettagli di una bozza in [!DNL  Workfront] tramite il pannello di riepilogo e la pagina [!UICONTROL Dettagli documento].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
+autotag-review: '2026-05-05T19:56:45.995Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:56:45.995Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1038
-ht-degree: 57%
-
+source-wordcount: '1039'
+ht-degree: 55%
 ---
-
 # Comprendere i dettagli della bozza
 
 ## Visualizzare i dettagli della bozza
@@ -58,7 +63,7 @@ Per ulteriori informazioni sulla bozza, fare clic su [!UICONTROL Dettagli docume
 
 Viene visualizzata la pagina [!UICONTROL Dettagli documento] e diverse opzioni aggiuntive nel pannello a sinistra.
 
-![Immagine della pagina della bozza in [!DNL &#x200B; Workfront].](assets/document-details.png)
+![Immagine della pagina della bozza in [!DNL  Workfront].](assets/document-details.png)
 
 È importante notare che la possibilità di visualizzare informazioni relative al processo di verifica dipende dalle autorizzazioni di verifica in [!DNL Workfront].
 

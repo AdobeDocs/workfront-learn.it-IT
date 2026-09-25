@@ -12,24 +12,26 @@ thumbnail: KT11038.png
 last-substantial-update: '2026-02-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
+autotag-review: '2026-05-06T16:42:35.324Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:42:35.324Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1207
+source-wordcount: '1207'
 ht-degree: 77%
-
 ---
-
 # Esercizio sulla progettazione dello scenario iniziale
 
 Scopri alcuni suggerimenti di base per la navigazione quando accedi a Workfront Fusion per la prima volta, nonché per la creazione del primo scenario.
@@ -119,7 +121,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 
    ![Immagine 10 Progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-10.png)
 
-1. Apri il controllo di esecuzione sul modulo Analizza CSV per visualizzare gli input e gli output del modulo. Ci sono un pacchetto (un file CSV) come input e diversi pacchetti come output (un pacchetto per ogni riga nel file CSV). La schermata sarà simile all’immagine seguente:
+1. Apri il controllo di esecuzione sul modulo Analizza CSV per visualizzare gli input e gli output del modulo. Ci sono un bundle (un file CSV) come input e diversi bundle come output (un bundle per ogni riga nel file CSV). La schermata sarà simile all’immagine seguente:
 
    ![Immagine 11 Progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-11.png)
 
@@ -152,7 +154,7 @@ Crea un nuovo progetto in Workfront per ogni riga nel file CSV dell’elenco dei
 1. Salva lo scenario e fai clic sul pulsante Run once (Esegui una volta).
 1. Fai clic sul controllo di ispezione dell’esecuzione in alto a destra dell’ultimo modulo.
 
-   + Vedrai che sono state eseguite 20 operazioni. Ogni operazione ha utilizzato un pacchetto, ovvero una riga, dal file CSV come input e ha generato come output un pacchetto, ovvero un progetto creato in Workfront. L’ID del progetto creato viene visualizzato con il pacchetto di output.
+   + Vedrai che sono state eseguite 20 operazioni. Ogni operazione ha utilizzato un bundle, ovvero una riga, dal file CSV come input e ha generato come output un bundle, ovvero un progetto creato in Workfront. L’ID del progetto creato viene visualizzato con il bundle di output.
 
    ![Immagine 13 Progettazione scenario iniziale](../12-exercises/assets/initial-scenario-design-13.png)
 
