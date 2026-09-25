@@ -1,6 +1,6 @@
 ---
 title: Introduzione al corso sulle milestone
-description: Scopri come le milestone possono aiutarti a far avanzare [!DNL  Workfront] progetti.
+description: Scopri come le milestone possono aiutarti a far avanzare [!DNL &#x200B; Workfront] progetti.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 84%
 
 Questo corso è progettato per project manager, responsabili di pianificazione e altri utenti che gestiscono progetti in [!DNL Workfront]. È consigliabile completare il programma Planner Fundamentals o avere una solida base nella creazione di progetti in [!DNL Workfront] prima di iniziare questo corso.
 
-Questo video illustra come le milestone possono essere utili per il progresso dei progetti in [!DNL  Workfront].
+Questo video illustra come le milestone possono essere utili per il progresso dei progetti in [!DNL &#x200B; Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)

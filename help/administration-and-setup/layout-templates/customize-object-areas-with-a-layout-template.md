@@ -1,6 +1,6 @@
 ---
 title: Personalizzare le aree degli oggetti con un modello layout
-description: Scopri come utilizzare un modello di layout per aggiungere, rimuovere e ridisporre gli elementi nel menu del pannello sinistro in [!DNL  Workfront].
+description: Scopri come utilizzare un modello di layout per aggiungere, rimuovere e ridisporre gli elementi nel menu del pannello sinistro in [!DNL &#x200B; Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

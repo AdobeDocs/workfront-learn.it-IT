@@ -1,6 +1,6 @@
 ---
 title: Flussi di lavoro di bozza nelle timeline dei progetti
-description: Scopri i consigli per combinare un processo di revisione e approvazione con una sequenza temporale del progetto in [!DNL  Workfront].
+description: Scopri i consigli per combinare un processo di revisione e approvazione con una sequenza temporale del progetto in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

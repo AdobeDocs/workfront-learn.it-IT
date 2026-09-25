@@ -1,6 +1,6 @@
 ---
 title: Effettua un aggiornamento qualitativo in [!DNL Workfront Goals]
-description: Scopri come eseguire un aggiornamento qualitativo o scritto in [!DNL   Goals].
+description: Scopri come eseguire un aggiornamento qualitativo o scritto in [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

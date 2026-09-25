@@ -1,6 +1,6 @@
 ---
 title: Comprendere la pagina del progetto
-description: Scopri le funzioni chiave della pagina del progetto in [!DNL  Workfront] per aiutarti a pianificare e gestire i tuoi progetti.
+description: Scopri le funzioni chiave della pagina del progetto in [!DNL &#x200B; Workfront] per aiutarti a pianificare e gestire i tuoi progetti.
 activity: use
 team: Technical Marketing
 feature: Work Management

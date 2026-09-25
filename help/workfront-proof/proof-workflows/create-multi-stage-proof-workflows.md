@@ -1,6 +1,6 @@
 ---
 title: Introduzione ai flussi di lavoro automatizzati
-description: Scopri cos'è un flusso di lavoro di bozza automatizzato in [!DNL  Workfront] e come è diverso da un flusso di lavoro di base.
+description: Scopri cos'è un flusso di lavoro di bozza automatizzato in [!DNL &#x200B; Workfront] e come è diverso da un flusso di lavoro di base.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

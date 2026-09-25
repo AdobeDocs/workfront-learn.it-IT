@@ -55,7 +55,7 @@ L’**unico** caso in cui [!DNL Workfront] consiglia di eliminare un utente è q
 
 [!DNL Workfront] consiglia **vivamente** di disattivare un utente invece di eliminarlo. La disattivazione mantiene le informazioni utente in [!DNL Workfront], che potrebbero essere necessarie per reportistica accurata, gestione dei progetti, ecc. Se hai domande sulla necessità di disattivare o eliminare un utente, contatta il tuo consulente [!DNL Workfront] o l&#39;assistenza clienti [!DNL Workfront].
 
-![Menu Altro che mostra opzioni sulla pagina [!DNL Users] ](assets/admin-fund-adding-users-11.png)
+![Menu Altro che mostra opzioni sulla pagina [!DNL Users] &#x200B;](assets/admin-fund-adding-users-11.png)
 
 ### Disattivare o eliminare un utente
 

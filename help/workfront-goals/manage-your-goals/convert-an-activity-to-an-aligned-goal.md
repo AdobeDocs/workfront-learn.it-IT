@@ -1,6 +1,6 @@
 ---
 title: Convertire un’attività in un obiettivo allineato
-description: Scopri come convertire un'attività o un risultato in un obiettivo allineato in [!DNL   Goals].
+description: Scopri come convertire un'attività o un risultato in un obiettivo allineato in [!DNL &#x200B;  Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

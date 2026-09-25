@@ -1,6 +1,6 @@
 ---
 title: Introduzione alle timeline del progetto
-description: Scopri quali elementi, come i tipi di date e i vincoli delle attività, vengono utilizzati per creare e gestire le sequenze temporali del progetto in [!DNL  Workfront].
+description: Scopri quali elementi, come i tipi di date e i vincoli delle attività, vengono utilizzati per creare e gestire le sequenze temporali del progetto in [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -28,6 +28,6 @@ ht-degree: 62%
 ---
 # Timeline del progetto: introduzione al corso
 
-Questo video illustra quali elementi, come i tipi di date e i vincoli delle attività, vengono utilizzati per creare e gestire le timeline del progetto in [!DNL  Workfront].
+Questo video illustra quali elementi, come i tipi di date e i vincoli delle attività, vengono utilizzati per creare e gestire le timeline del progetto in [!DNL &#x200B; Workfront].
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

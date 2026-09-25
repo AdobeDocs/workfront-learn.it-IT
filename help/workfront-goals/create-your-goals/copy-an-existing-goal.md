@@ -61,7 +61,7 @@ Di seguito sono riportati alcuni aspetti da considerare prima di copiare gli obi
 
 1. Fai clic su **[!UICONTROL Salva]**. L’obiettivo copiato viene salvato con lo stato Bozza.
 
-   ![Immagine del pannello [!UICONTROL Dettagli obiettivo] in [!DNL Workfront Goals] con l’opzione [!UICONTROL Copia] ](assets/03-workfront-goals-copy-a-goal.png)
+   ![Immagine del pannello [!UICONTROL Dettagli obiettivo] in [!DNL Workfront Goals] con l’opzione [!UICONTROL Copia] &#x200B;](assets/03-workfront-goals-copy-a-goal.png)
 
 1. Fai clic su **[!UICONTROL Attiva]**, in modo da aggiornare lo stato dell’obiettivo in Attivo. L’obiettivo deve avere un’attività o un risultato associato per poter essere “da attivare”.
 

@@ -1,6 +1,6 @@
 ---
 title: Gestire i commenti della bozza
-description: Scopri come gestire i commenti della bozza in [!DNL  Workfront] applicando azioni di commento, risolvendo i commenti e filtrando la colonna dei commenti.
+description: Scopri come gestire i commenti della bozza in [!DNL &#x200B; Workfront] applicando azioni di commento, risolvendo i commenti e filtrando la colonna dei commenti.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

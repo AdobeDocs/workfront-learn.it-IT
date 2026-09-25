@@ -1,6 +1,6 @@
 ---
 title: Rivedere un video con la bozza
-description: Scopri come modificare le impostazioni del visualizzatore e aggiungere commenti con marca temporale a un video utilizzando la verifica in [!DNL  Workfront].
+description: Scopri come modificare le impostazioni del visualizzatore e aggiungere commenti con marca temporale a un video utilizzando la verifica in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

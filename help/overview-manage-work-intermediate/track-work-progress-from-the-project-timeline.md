@@ -1,6 +1,6 @@
 ---
 title: Tracciare l’avanzamento dalla timeline del progetto
-description: Scopri come tenere traccia dell’avanzamento del lavoro dalla timeline del progetto in [!DNL  Workfront] utilizzando la percentuale di completamento, lo stato, le assegnazioni o i vincoli.
+description: Scopri come tenere traccia dell’avanzamento del lavoro dalla timeline del progetto in [!DNL &#x200B; Workfront] utilizzando la percentuale di completamento, lo stato, le assegnazioni o i vincoli.
 activity: use
 team: Technical Marketing
 feature: Work Management

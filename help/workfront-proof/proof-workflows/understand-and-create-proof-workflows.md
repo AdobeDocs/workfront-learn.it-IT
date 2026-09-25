@@ -1,6 +1,6 @@
 ---
 title: Comprendere i flussi di lavoro di bozza come parte di timeline del progetto
-description: Scopri quali informazioni raccogliere per creare un flusso di lavoro per le bozze e la differenza tra flussi di lavoro di base e flussi di lavoro per le bozze avanzati in [!DNL  Workfront].
+description: Scopri quali informazioni raccogliere per creare un flusso di lavoro per le bozze e la differenza tra flussi di lavoro di base e flussi di lavoro per le bozze avanzati in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

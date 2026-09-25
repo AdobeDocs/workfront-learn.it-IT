@@ -1,6 +1,6 @@
 ---
 title: Passa al visualizzatore di bozze
-description: Scopri come spostare una bozza, ingrandire o ridurre il contenuto, utilizzare la colonna delle miniature, filtrare i commenti della bozza e altro nel visualizzatore di bozze [!DNL  Workfront].
+description: Scopri come spostare una bozza, ingrandire o ridurre il contenuto, utilizzare la colonna delle miniature, filtrare i commenti della bozza e altro nel visualizzatore di bozze [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

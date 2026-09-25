@@ -1,6 +1,6 @@
 ---
 title: Introduzione al corso
-description: Scopri come utilizzare il budget di un progetto, tenere traccia di costi e ricavi e gestire le spese in [!DNL  Workfront].
+description: Scopri come utilizzare il budget di un progetto, tenere traccia di costi e ricavi e gestire le spese in [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management
 type: Tutorial

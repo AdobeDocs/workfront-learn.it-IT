@@ -1,6 +1,6 @@
 ---
 title: Introduzione al corso sulla gestione delle code
-description: Scopri come [!DNL  Workfront] code di richieste possono centralizzare la gestione della domanda.
+description: Scopri come [!DNL &#x200B; Workfront] code di richieste possono centralizzare la gestione della domanda.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 70%
 ---
 # Introduzione al corso sulla gestione delle code
 
-Questo video spiega come le code richieste di [!DNL  Workfront] possono centralizzare la gestione della domanda.
+Questo video spiega come le code richieste di [!DNL &#x200B; Workfront] possono centralizzare la gestione della domanda.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

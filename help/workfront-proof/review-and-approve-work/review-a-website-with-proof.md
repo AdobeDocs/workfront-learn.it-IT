@@ -1,6 +1,6 @@
 ---
 title: Rivedere un sito web con bozza
-description: Scopri come aprire una bozza di sito web statica o interattiva in [!DNL  Workfront] e aggiungere commenti.
+description: Scopri come aprire una bozza di sito web statica o interattiva in [!DNL &#x200B; Workfront] e aggiungere commenti.
 activity: use
 feature: Workfront Proof
 type: Tutorial

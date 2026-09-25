@@ -1,6 +1,6 @@
 ---
 title: Accedere a un piano in [!UICONTROL Pianificazione scenario]
-description: Scopri quali autorizzazioni [!DNL  Workfront] sono necessarie per gli utenti per accedere ai piani in [!UICONTROL Pianificazione scenario].
+description: Scopri quali autorizzazioni [!DNL &#x200B; Workfront] sono necessarie per gli utenti per accedere ai piani in [!UICONTROL Pianificazione scenario].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
