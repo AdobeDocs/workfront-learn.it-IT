@@ -11,24 +11,26 @@ jira: KT-11054
 thumbnail: KT11054.png
 recommendations: noDisplay,catalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+autotag-review: '2026-05-06T16:44:39.897Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:44:39.897Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1080
+source-wordcount: '1080'
 ht-degree: 99%
-
 ---
-
 # Esercizio sulle strutture di dati
 
 Trasformare i dati da un file di origine ad un file di destinazione.
@@ -42,7 +44,7 @@ Apri un file CSV che contiene un elenco di voci di tempo. Queste voci di tempo r
 ![Immagine 2 strutture dati](../12-exercises/assets/data-structures-walkthrough-2.png)
 
 
-In questo scenario, aprirai un file che contiene un elenco di voci sul tempo per i minuti lavorati, incluse la data e l’ora, il numero di minuti immessi e l’indirizzo e-mail di chi ha effettuato l’inserimento. Sono presenti 100 inserimenti sul tempo, alcuni effettuati dalle stesse persone e alcuni lo stesso giorno di altri.
+In questo scenario, aprirai un file che contiene un elenco di voci sul tempo per i minuti lavorati, incluse la data e l’ora, il numero di minuti immessi e l’indirizzo e-mail di chi ha effettuato l’inserimento. Sono presenti 100 voci di data e tempo, alcune relative alle stesse persone e alcune per lo stesso giorno.
 
 Per creare un file che mostri il tempo totale, in ore, lavorato ogni giorno da ciascun individuo, seguirai questi passaggi:
 
@@ -73,7 +75,7 @@ Per creare un file che mostri il tempo totale, in ore, lavorato ogni giorno da c
    ![Immagine 4 strutture dati](../12-exercises/assets/data-structures-walkthrough-4.png)
 
 1. Fai clic su Esegui una volta per visualizzare l’output.
-1. Apri l’execution inspector (controllo di ispezione) per vedere gli input e gli output del modulo CSV di analisi. Ci sono un pacchetto (un file CSV) come input e diversi pacchetti come output (un pacchetto per ogni riga nel file CSV). La schermata sarà simile all’immagine seguente:
+1. Apri l’execution inspector (controllo di ispezione) per vedere gli input e gli output del modulo CSV di analisi. Ci sono un bundle (un file CSV) come input e diversi bundle come output (un bundle per ogni riga nel file CSV). La schermata sarà simile all’immagine seguente:
 
    ![Immagine 5 strutture dati](../12-exercises/assets/data-structures-walkthrough-5.png)
 
