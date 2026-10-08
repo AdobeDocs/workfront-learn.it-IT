@@ -1,6 +1,6 @@
 ---
 title: Caricare mediante trascinamento
-description: Scopri i vantaggi e i limiti del caricamento di file in [!DNL  Workfront] tramite trascinamento della selezione.
+description: Scopri i vantaggi e i limiti del caricamento di file in [!DNL &#x200B; Workfront] tramite trascinamento della selezione.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -35,10 +35,10 @@ ht-degree: 92%
 
 Puoi caricare un file in [!DNL Workfront] mediante trascinamento direttamente nella sezione [!UICONTROL Documenti]. Questo è un modo rapido per caricare una bozza, ma non consente di assegnare un flusso di lavoro di bozza contemporaneamente.
 
-![Immagine dell’area [!UICONTROL Documenti] in un progetto di [!DNL  Workfront] quando si passa il puntatore sull’elenco dei documenti, con il messaggio [!UICONTROL Trascina e rilascia i documenti qui].](assets/drag-and-drop-1.png)
+![Immagine dell’area [!UICONTROL Documenti] in un progetto di [!DNL &#x200B; Workfront] quando si passa il puntatore sull’elenco dei documenti, con il messaggio [!UICONTROL Trascina e rilascia i documenti qui].](assets/drag-and-drop-1.png)
 
 Per alcuni clienti di [!DNL Workfront], questo è il normale flusso di lavoro di bozza. Un designer creativo o un membro del team carica il file, ma spetta al responsabile di bozza o al project manager assegnare il flusso di lavoro di bozza in modo che i destinatari appropriati possano rivedere il lavoro.
 
 È possibile, a seconda delle impostazioni di sistema di [!DNL Workfront], che una bozza non venga generata durante il caricamento tramite trascinamento. In tal caso, è necessario generare la bozza e assegnare un flusso di lavoro utilizzando l’opzione [!UICONTROL Genera bozza] e selezionando [!UICONTROL Avanzate]. Da lì, puoi impostare il flusso di lavoro di bozza.
 
-![Immagine dell’area [!UICONTROL Documenti] in un progetto [!DNL  Workfront] con [!UICONTROL Genera bozza] evidenziato.](assets/drag-and-drop-2.png)
+![Immagine dell’area [!UICONTROL Documenti] in un progetto [!DNL &#x200B; Workfront] con [!UICONTROL Genera bozza] evidenziato.](assets/drag-and-drop-2.png)

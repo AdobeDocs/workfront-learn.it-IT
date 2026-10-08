@@ -1,6 +1,6 @@
 ---
 title: Ruoli bozza e avvisi e-mail
-description: Scopri come abilitare i ruoli di bozza e gli avvisi e-mail appropriati in modo che i destinatari delle bozze abbiano accesso alle bozze e alla visibilità del lavoro in corso in [!DNL  Workfront].
+description: Scopri come abilitare i ruoli di bozza e gli avvisi e-mail appropriati in modo che i destinatari delle bozze abbiano accesso alle bozze e alla visibilità del lavoro in corso in [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

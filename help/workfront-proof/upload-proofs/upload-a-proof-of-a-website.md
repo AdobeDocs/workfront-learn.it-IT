@@ -1,6 +1,6 @@
 ---
 title: Caricare una bozza di un sito web
-description: Scopri come caricare un sito web come bozza statica e bozza interattiva in [!DNL  Workfront].
+description: Scopri come caricare un sito web come bozza statica e bozza interattiva in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Chi carica le versioni di bozza?
-description: La persona responsabile del caricamento delle versioni delle bozze in [!DNL  Workfront] può variare. Impara dai casi d’uso comuni per identificare la configurazione ideale per la tua organizzazione.
+description: La persona responsabile del caricamento delle versioni delle bozze in [!DNL &#x200B; Workfront] può variare. Impara dai casi d’uso comuni per identificare la configurazione ideale per la tua organizzazione.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

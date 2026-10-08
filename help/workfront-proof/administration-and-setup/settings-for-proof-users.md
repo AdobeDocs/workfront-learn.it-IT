@@ -1,6 +1,6 @@
 ---
 title: Impostazioni per utenti della bozza
-description: Scopri come determinare quali utenti [!DNL  Workfront] ottengono una licenza di verifica, quindi regolare le impostazioni utente sia in [!DNL Workfront] che nelle impostazioni back-end.
+description: Scopri come determinare quali utenti [!DNL &#x200B; Workfront] ottengono una licenza di verifica, quindi regolare le impostazioni utente sia in [!DNL Workfront] che nelle impostazioni back-end.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -36,13 +36,13 @@ ht-degree: 81%
 ---
 # Impostazioni per utenti della bozza
 
-Prima di iniziare a creare utenti in [!DNL  Workfront], è consigliabile aver completato le impostazioni globali del sistema di bozze e di [!DNL Workfront]. Alcune di queste impostazioni si applicano ai profili utente durante la creazione. Ma non preoccuparti se non le hai impostate prima della creazione di alcuni utenti... puoi modificarle in ciascun profilo utente singolarmente.
+Prima di iniziare a creare utenti in [!DNL &#x200B; Workfront], è consigliabile aver completato le impostazioni globali del sistema di bozze e di [!DNL Workfront]. Alcune di queste impostazioni si applicano ai profili utente durante la creazione. Ma non preoccuparti se non le hai impostate prima della creazione di alcuni utenti... puoi modificarle in ciascun profilo utente singolarmente.
 
 
 In questo video scoprirai come:
 
 * Determinare gli utenti a cui assegnare una licenza per le bozze
-* Regolare le impostazioni utente bozza in [!DNL  Workfront]
+* Regolare le impostazioni utente bozza in [!DNL &#x200B; Workfront]
 * Regolare le impostazioni utente bozza nelle impostazioni back-end per le bozze
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

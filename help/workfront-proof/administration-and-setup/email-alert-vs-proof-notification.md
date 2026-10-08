@@ -1,6 +1,6 @@
 ---
 title: Comprendere gli avvisi e-mail e le notifiche delle bozze
-description: Comprendere la differenza tra gli avvisi e-mail e le notifiche delle bozze in [!DNL  Workfront].
+description: Comprendere la differenza tra gli avvisi e-mail e le notifiche delle bozze in [!DNL &#x200B; Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User

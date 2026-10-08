@@ -1,6 +1,6 @@
 ---
 title: Comprendere la differenza tra un documento e una bozza
-description: Scopri la differenza tra un documento e una bozza in [!DNL  Workfront].
+description: Scopri la differenza tra un documento e una bozza in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

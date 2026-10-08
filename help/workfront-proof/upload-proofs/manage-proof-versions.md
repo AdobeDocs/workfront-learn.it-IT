@@ -1,6 +1,6 @@
 ---
 title: Gestire le versioni delle bozze
-description: Scopri come trovare i dettagli di quando una bozza è stata caricata, scaricare tutte le versioni di una bozza ed eliminare una versione di bozza in [!DNL  Workfront].
+description: Scopri come trovare i dettagli di quando una bozza è stata caricata, scaricare tutte le versioni di una bozza ed eliminare una versione di bozza in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

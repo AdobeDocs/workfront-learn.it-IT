@@ -1,6 +1,6 @@
 ---
 title: Convertire un documento in una bozza
-description: Scopri come generare una bozza di un documento già esistente in [!DNL  Workfront], aggiungere un flusso di lavoro a una bozza e aggiungere o modificare un flusso di lavoro dopo la creazione della bozza.
+description: Scopri come generare una bozza di un documento già esistente in [!DNL &#x200B; Workfront], aggiungere un flusso di lavoro a una bozza e aggiungere o modificare un flusso di lavoro dopo la creazione della bozza.
 activity: use
 feature: Workfront Proof
 type: Tutorial

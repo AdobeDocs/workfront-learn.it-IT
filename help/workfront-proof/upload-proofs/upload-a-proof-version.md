@@ -1,6 +1,6 @@
 ---
 title: Caricare una versione di bozza
-description: Scopri come caricare una nuova versione di una bozza e applicare un flusso di lavoro di verifica alla versione in [!DNL  Workfront].
+description: Scopri come caricare una nuova versione di una bozza e applicare un flusso di lavoro di verifica alla versione in [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

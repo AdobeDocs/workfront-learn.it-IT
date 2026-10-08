@@ -1,6 +1,6 @@
 ---
 title: Caricare una bozza di un video
-description: Scopri come caricare un video per la verifica in [!DNL  Workfront].
+description: Scopri come caricare un video per la verifica in [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

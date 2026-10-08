@@ -39,7 +39,7 @@ ht-degree: 91%
 
 In questo video scoprirai come:
 
-* creare un modello di flusso di lavoro automatizzato per la bozza [!DNL  Workfront]
+* creare un modello di flusso di lavoro automatizzato per la bozza [!DNL &#x200B; Workfront]
 * Assegnare destinatari di bozza
 * Impostare una scadenza per il processo di revisione e approvazione
 * Condividere il modello di flusso di lavoro automatizzato con altri utenti
