@@ -1,6 +1,6 @@
 ---
 title: Modificare un modello di flusso di lavoro automatizzato
-description: Scopri come apportare modifiche a un modello di flusso di lavoro di bozza automatico esistente in  [!DNL  Workfront].
+description: Scopri come apportare modifiche a un modello di flusso di lavoro per la verifica automatica esistente in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 578
-ht-degree: 100%
-
+source-wordcount: '578'
+ht-degree: 97%
 ---
-
 # Modificare un modello di flusso di lavoro automatizzato
 
 Man mano che i processi di revisione e approvazione delle bozze vengono perfezionati o che vengono apportate modifiche organizzative, i modelli di flusso di lavoro automatizzati devono essere aggiornati per riflettere le operazioni correnti dei team che utilizzano Workfront.
@@ -56,7 +60,7 @@ Ogni fase di un flusso di lavoro automatizzato ha una propria sezione, che conse
 
 Questo video mostra brevemente alcune delle modifiche che puoi apportare all’area [!UICONTROL Flusso di lavoro]. Consulta l’elenco puntato sotto questo video, che esamina queste impostazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432613/?captions=ita&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 In qualità di revisore, ecco le modifiche che puoi apportare al modello di bozza nella sezione [!UICONTROL Flusso di lavoro]:
 
@@ -65,8 +69,8 @@ In qualità di revisore, ecco le modifiche che puoi apportare al modello di bozz
 * Nell’elenco dei destinatari, fai clic sui campi [!UICONTROL Ruolo] o [!UICONTROL Avvisi e-mail] per selezionare un’altra opzione.
 * Passa al menu a 3 punti all’estrema destra del nome di un destinatario per eliminarlo dall’elenco, renderlo il responsabile principale delle decisioni per quella fase del flusso di lavoro, o per modificare il ruolo della bozza e le informazioni dell’avviso e-mail.
 * Per aggiungere destinatari all’elenco, sono disponibili due opzioni.
-   1. Nell’angolo in alto a destra di ogni sezione di fase, passa al menu [!UICONTROL Altro] e seleziona [!UICONTROL Aggiungi persone alla fase]. Una volta aperta la finestra [!UICONTROL Aggiungi persone alla fase], fai clic sulla fase alla quale aggiungerle. Quindi inserisci il nome o l’indirizzo e-mail nell’elenco dei destinatari e assegna un ruolo di bozza e un avviso e-mail. Al termine dell’operazione, fai clic sul pulsante [!UICONTROL Aggiungi persone].
-   1. Nella parte superiore dell’area [!UICONTROL Flusso di lavoro], seleziona [!UICONTROL Aggiungi persone alla fase].
+  1. Nell’angolo in alto a destra di ogni sezione di fase, passa al menu [!UICONTROL Altro] e seleziona [!UICONTROL Aggiungi persone alla fase]. Una volta aperta la finestra [!UICONTROL Aggiungi persone alla fase], fai clic sulla fase alla quale aggiungerle. Quindi inserisci il nome o l’indirizzo e-mail nell’elenco dei destinatari e assegna un ruolo di bozza e un avviso e-mail. Al termine dell’operazione, fai clic sul pulsante [!UICONTROL Aggiungi persone].
+  1. Nella parte superiore dell’area [!UICONTROL Flusso di lavoro], seleziona [!UICONTROL Aggiungi persone alla fase].
 
 ## Condivisione dei modelli
 
