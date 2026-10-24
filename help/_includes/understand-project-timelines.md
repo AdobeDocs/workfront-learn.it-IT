@@ -1,9 +1,8 @@
 ---
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 3977adb637ac16af359b37925efe8db10b3e6d35
 workflow-type: tm+mt
-source-wordcount: '670'
-ht-degree: 5%
-
+source-wordcount: '668'
+ht-degree: 2%
 ---
 # Esplora le timeline del progetto in Workfront - CONDIVISO
 
@@ -17,7 +16,7 @@ Cosa imparerai:
 
 >[!IMPORTANT]
 >
->Per una spiegazione più completa dei tipi di durata e dei vincoli delle attività, consulta [Comprendere e gestire i tipi di durata e i vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
+>Per una spiegazione più completa dei tipi di durata e dei vincoli delle attività, vedere [Tipi di durata principale e vincoli delle attività](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md).
 
 ## Concetti chiave
 
@@ -32,7 +31,7 @@ Cosa imparerai:
 
 | PRO (modifica delle date) | CONTRO (modifica delle date) | PRO (date non modificate) | CONTRO (Date non modificate) |
 |---------------------------|---------------------------|---------------------------|---------------------------|
-| <ul><li>Riduci lo stress/fornisci aspettative aggiornate per gli utenti - &quot;_I creativi non saprebbero cosa è reale_&quot;</li><li>Accurata allocazione delle risorse, in particolare nel Bilanciatore dei carichi di lavoro</li><li>Utilizza i rapporti sulle scritture contabili (o la durata del progetto) per richiamare le modifiche alla data</li><li>Utilizzo della condizione per mostrare se il progetto non rientra nell’ambito</li><li>È possibile aggiungere un modulo personalizzato (o utilizzare problemi) per tenere traccia delle modifiche: motivo del push, autore, durata del push</li></ul> | <ul></li><li>Dati fuorvianti perché i rapporti non riflettono lo stato reale</li><li>Falsa percezione del progresso - illusione che tutto sia sulla buona strada&#x200B;</li><li>Promuovi una cultura che preveda di ridurre sempre le tempistiche invece di affrontare le cause profonde&#x200B;</li><li>Perdita di fiducia delle parti interessate/percezione del team per rispettare le scadenze </li></ul> | <ul></li><li>Rappresentazione accurata della sequenza temporale del progetto: i dati possono essere utilizzati per l&#39;analisi e per presentare in modo chiaro l&#39;accaduto.</li><li>Opzione per modificare la durata o aggiungere ritardo al predecessore</li><li>Identificare facilmente i miglioramenti dei processi per la pianificazione futura del progetto e la gestione dei rischi&#x200B;</li><li>Opzione per sfruttare le linee di base per acquisire il piano di progetto originale e utilizzarlo come confronto</li><li>Se non avete le persone per farlo, e per farlo per tutto, non fatelo&#x200B;</li></ul> | <ul></li><li>Confusione e/o frustrazione degli utenti: l’abbondanza di attività &quot;in ritardo&quot; nonostante il fatto che siano state appena notificate</li><li>Le risorse sono state effettivamente allocate per essere mappate al piano originale, ma ora sono sovraccariche di lavoro ritardato</li><li>La tempistica del progetto non può essere utilizzata per comunicare chiaramente gli aggiornamenti alle parti interessate</li></ul> |
+| <ul><li>Riduci lo stress/fornisci aspettative aggiornate per gli utenti - _&quot;I creativi non saprebbero cosa è reale&quot;_</li><li>Accurata allocazione delle risorse, in particolare nel Bilanciatore dei carichi di lavoro</li><li>Utilizza i rapporti sulle scritture contabili (o la durata del progetto) per richiamare le modifiche alla data</li><li>Utilizzo della condizione per mostrare se il progetto non rientra nell’ambito</li><li>È possibile aggiungere un modulo personalizzato (o utilizzare problemi) per tenere traccia delle modifiche: motivo del push, autore, durata del push</li></ul> | <ul></li><li>Dati fuorvianti perché i rapporti non riflettono lo stato reale</li><li>Falsa percezione del progresso - illusione che tutto sia sulla buona strada&#x200B;</li><li>Promuovi una cultura che preveda di ridurre sempre le tempistiche invece di affrontare le cause profonde&#x200B;</li><li>Perdita di fiducia delle parti interessate/percezione del team per rispettare le scadenze </li></ul> | <ul></li><li>Rappresentazione accurata della sequenza temporale del progetto: i dati possono essere utilizzati per l&#39;analisi e per presentare in modo chiaro l&#39;accaduto.</li><li>Opzione per modificare la durata o aggiungere ritardo al predecessore</li><li>Identificare facilmente i miglioramenti dei processi per la pianificazione futura del progetto e la gestione dei rischi&#x200B;</li><li>Opzione per sfruttare le linee di base per acquisire il piano di progetto originale e utilizzarlo come confronto</li><li>Se non avete le persone per farlo, e per farlo per tutto, non fatelo&#x200B;</li></ul> | <ul></li><li>Confusione e/o frustrazione degli utenti: l’abbondanza di attività &quot;in ritardo&quot; nonostante il fatto che siano state appena notificate</li><li>Le risorse sono state effettivamente allocate per essere mappate al piano originale, ma ora sono sovraccariche di lavoro ritardato</li><li>La tempistica del progetto non può essere utilizzata per comunicare chiaramente gli aggiornamenti alle parti interessate</li></ul> |
 
 
 ## Tutorial consigliati su questo argomento
