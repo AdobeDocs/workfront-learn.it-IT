@@ -1,6 +1,6 @@
 ---
-title: Aggiornare e rivedere i dati finanziari
-description: Scopri come esaminare le informazioni finanziarie associate a un progetto in [!DNL  Workfront].
+title: Aggiorna i dati finanziari per i progetti client
+description: Semplifica il tracciamento dei costi e la fatturazione definendo tariffe, assegnando tipi di costi e ricavi alle attività, gestendo le spese e creando record di fatturazione. Workfront non esegue la fatturazione effettiva.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -27,13 +27,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:25:38.036Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '38'
+ht-degree: 73%
 ---
-
-# Aggiornare e rivedere i dati finanziari
+# Aggiorna i dati finanziari per i progetti client
 
 {{$include /help/_includes/update-and-review-finances.md}}
