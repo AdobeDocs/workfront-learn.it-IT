@@ -1,6 +1,6 @@
 ---
-title: Comprendere la vista [!UICONTROL Gantt]
-description: Scopri come utilizzare il grafico di Gantt per visualizzare rapidamente le attività e i progetti ad alto livello con una sorprendente quantità di dettagli.
+title: Esplora la visualizzazione [!UICONTROL Gantt] per la gestione dei progetti
+description: Massimizza l’efficienza del progetto con i grafici di Gantt, che offrono viste d’insieme, monitoraggio dell’avanzamento, gestione delle milestone, approfondimenti sui predecessori e opzioni personalizzabili per semplificare la gestione delle attività e delle risorse.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 32
-ht-degree: 100%
-
+source-wordcount: '39'
+ht-degree: 0%
 ---
-
-# Comprendere la vista [!UICONTROL Gantt]
+# Esplora la visualizzazione [!UICONTROL Gantt] per la gestione dei progetti
 
 {{$include /help/_includes/understand-the-gantt-view.md}}
