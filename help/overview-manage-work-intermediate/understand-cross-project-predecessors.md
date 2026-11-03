@@ -1,5 +1,5 @@
 ---
-title: Comprendere i predecessori tra progetti
+title: Stabilire le dipendenze con i predecessori tra progetti
 description: Scopri come utilizzare e tenere traccia delle attività dei predecessori tra 2 o più progetti.
 feature: Work Management
 thumbnail: 3422123.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 55%
 ---
-
-# Comprendere i predecessori tra progetti
+# Stabilire le dipendenze con i predecessori tra progetti
 
 {{$include /help/_includes/understand-cross-project-predecessors.md}}

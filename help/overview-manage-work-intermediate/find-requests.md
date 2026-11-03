@@ -1,6 +1,6 @@
 ---
-title: Trovare e gestire le richieste
-description: Scopri come utilizzare le dashboard, [!UICONTROL Home], l’area [!UICONTROL Richieste] e la pagina [!UICONTROL Team] per trovare le richieste in entrata effettuate tramite una coda di richieste.
+title: Trovare e gestire le richieste in modo efficiente
+description: Scopri come utilizzare i filtri, gestire le assegnazioni dei team, creare rapporti e dashboard personalizzati e chiarire il significato di "personale" in contesti diversi per una gestione efficace delle richieste.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# Trovare e gestire le richieste
+# Trovare e gestire le richieste in modo efficiente
 
 {{$include /help/_includes/find-requests.md}}
