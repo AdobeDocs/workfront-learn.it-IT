@@ -1,5 +1,5 @@
 ---
-title: Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
+title: Creare un modello di progetto ed esplorare i blueprint
 description: Impara a creare un modello di progetto da zero e da un progetto esistente e capisci come [!UICONTROL Blueprint] possono darti accesso a un mondo di modelli di progetto utili creati dagli esperti di Workfront.
 activity: use
 feature: Work Management
@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2023-08-31T00:00:00.000Z'
-jira: KT-8950
+last-substantial-update: '2026-09-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
+jira: KT-8950
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:21:02.093Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 48
-ht-degree: 100%
-
+source-wordcount: '46'
+ht-degree: 69%
 ---
-
-# Creare un modello di progetto e informazioni su [!UICONTROL Blueprint]
+# Creare un modello di progetto ed esplorare i blueprint
 
 {{$include /help/_includes/create-a-project-template.md}}

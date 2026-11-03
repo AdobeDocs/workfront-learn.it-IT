@@ -1,5 +1,5 @@
 ---
-title: Predecessori avanzati
+title: Dipendenze attività avanzate principali
 description: Informazioni su tipi di dipendenza dei predecessori, tipi di attesa, predecessori applicati, errori del ciclo di dipendenza e alcune scelte rapide e best practice.
 feature: Work Management
 thumbnail: 3424287.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:55.145Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 70%
 ---
-
-# Predecessori avanzati
+# Dipendenze attività avanzate principali
 
 {{$include /help/_includes/advanced-predecessors.md}}

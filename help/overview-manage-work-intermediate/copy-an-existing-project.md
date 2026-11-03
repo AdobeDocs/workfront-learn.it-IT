@@ -1,6 +1,6 @@
 ---
-title: Copia un progetto esistente
-description: Scopri come creare una copia di un progetto esistente.
+title: Copiare un progetto esistente in modo efficiente
+description: È possibile duplicare facilmente i progetti utilizzando l’opzione "Copia" nel menu a tre punti, rinominando e impostando lo stato su "Pianificazione", copiando dati e moduli personalizzati e trasferendo i problemi separatamente tramite la scheda Problemi per impostazioni di progetto personalizzate.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,8 +8,9 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-jira: KT-10155
+last-substantial-update: '2025-03-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
+jira: KT-10155
 hide: true
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
 product_v2:
@@ -28,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:21:23.208Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 18
-ht-degree: 100%
-
+source-wordcount: '47'
+ht-degree: 0%
 ---
-
-# Copia un progetto esistente
+# Copiare un progetto esistente in modo efficiente
 
 {{$include /help/_includes/copy-an-existing-project.md}}

@@ -1,6 +1,6 @@
 ---
-title: Applicare le milestone
-description: Scopri come applicare percorsi milestone a un progetto di  [!DNL  Workfront]  e associare le attività chiave come fasi cardine all’interno del progetto.
+title: Applicare percorsi milestone a progetti e attività
+description: Scopri come applicare percorsi milestone a un progetto e associare le attività chiave come passaggi milestone all’interno del progetto.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,11 +9,11 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: '2023-06-20T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8933
 hide: true
 doc-type: video
 exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
-recommendations: noDisplay,catalog
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
     internal-label: Workfront
@@ -30,13 +30,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:22:30.706Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 22
-ht-degree: 100%
-
+source-wordcount: '33'
+ht-degree: 57%
 ---
-
-# Applicare le milestone
+# Applicare percorsi milestone a progetti e attività
 
 {{$include /help/_includes/apply-milestones.md}}
