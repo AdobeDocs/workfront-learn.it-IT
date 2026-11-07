@@ -56,4 +56,4 @@ ht-degree: 71%
 
 Scopri come gestire e personalizzare le viste della timeline in Pianificazione Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506105/?captions=ita&learn=on&enablevpops=1)
