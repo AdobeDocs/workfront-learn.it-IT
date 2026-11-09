@@ -32,4 +32,4 @@ Questo corso è progettato per project manager, responsabili di pianificazione e
 
 Questo video illustra come le milestone possono essere utili per il progresso dei progetti in [!DNL &#x200B; Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508021/?captions=ita&quality=12&learn=on&enablevpops=1)
