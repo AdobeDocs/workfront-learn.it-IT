@@ -37,4 +37,4 @@ ht-degree: 100%
 
 Scopri come creare e gestire le regole di business.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508030/?captions=ita&quality=12&learn=on&enablevpops=1)
