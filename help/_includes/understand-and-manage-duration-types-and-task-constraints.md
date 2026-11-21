@@ -16,7 +16,7 @@ Questo video illustra le seguenti informazioni sui tipi di durata e i vincoli de
 * Best practice per il loro utilizzo
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508296/?captions=ita&quality=12&learn=on&enablevpops=1)
 
 
 Per informazioni su come creare una vista con tipi di durata e vincoli delle attività, consulta l’attività **Vista tipi di durata e vincoli delle attività** in [Crea una vista di base](https://experienceleague.adobe.com/it/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view).
